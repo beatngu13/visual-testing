@@ -21,6 +21,7 @@ class ApplitoolsTest {
 		driver = DriverFactory.driver(Driver.CHROME);
 		eyes = new Eyes();
 		eyes.setApiKey(System.getenv("APPLITOOLS_API_KEY"));
+		eyes.setForceFullPageScreenshot(true);
 	}
 
 	@Test
