@@ -11,16 +11,16 @@ public class PageFactory {
 
 	private static final String BASE_PATH = "src/test/resources/";
 
-	public static String get(Page sut) {
-		switch (sut) {
+	public static String get(Page page) {
+		switch (page) {
 		case WIKIPEDIA:
 			return getUrlString("wikipedia/characterization-test.html");
 		default:
-			throw new IllegalArgumentException("No SUT '" + sut + "' available.");
+			throw new IllegalArgumentException("No page '" + page + "' available.");
 		}
 	}
 
-	private static final String getUrlString(final String relativePath) {
+	private static String getUrlString(final String relativePath) {
 		try {
 			return Paths.get(BASE_PATH, relativePath).toUri().toURL().toString();
 		} catch (final MalformedURLException e) {
