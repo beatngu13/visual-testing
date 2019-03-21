@@ -6,7 +6,8 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com.github.beatngu13.visualtesting.PageUtil.Page;
+import com.github.beatngu13.visualtesting.util.PageFactory;
+import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
 import de.retest.recheck.Recheck;
 import de.retest.recheck.RecheckImpl;
@@ -25,7 +26,7 @@ class RecheckWebTest {
 	@Test
 	void test() throws Exception {
 		re.startTest();
-		driver.get(PageUtil.get(Page.WIKIPEDIA));
+		driver.get(PageFactory.get(Page.WIKIPEDIA));
 		re.check(driver, "characterization-testing");
 		re.capTest();
 	}

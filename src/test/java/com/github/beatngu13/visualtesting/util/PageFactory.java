@@ -1,11 +1,11 @@
-package com.github.beatngu13.visualtesting;
+package com.github.beatngu13.visualtesting.util;
 
 import java.net.MalformedURLException;
 import java.nio.file.Paths;
 
-class PageUtil {
+public class PageFactory {
 
-	enum Page {
+	public enum Page {
 		WIKIPEDIA
 	}
 
