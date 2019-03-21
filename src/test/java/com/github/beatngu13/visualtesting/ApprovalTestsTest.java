@@ -5,8 +5,9 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
+import com.github.beatngu13.visualtesting.util.DriverFactory;
+import com.github.beatngu13.visualtesting.util.DriverFactory.Driver;
 import com.github.beatngu13.visualtesting.util.PageFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
@@ -16,7 +17,7 @@ class ApprovalTestsTest {
 
 	@BeforeEach
 	void setUp() {
-		driver = new ChromeDriver();
+		driver = DriverFactory.driver(Driver.CHROME);
 	}
 
 	@Test
