@@ -48,13 +48,6 @@
 			<version>3.151.2</version>
 			<scope>test</scope>
 		</dependency>
-
-		<dependency>
-			<groupId>com.galenframework</groupId>
-			<artifactId>galen-java-support</artifactId>
-			<version>2.4.4</version>
-			<scope>test</scope>
-		</dependency>
 	</dependencies>
 
 	<build>
