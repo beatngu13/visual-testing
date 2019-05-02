@@ -29,6 +29,7 @@ class ApplitoolsTest {
 		eyes.open(driver, "acme", "login");
 		driver.get(PageFactory.get(Page.LOGIN_V1));
 		eyes.checkWindow();
+		eyes.close();
 	}
 
 	@Test
@@ -36,11 +37,11 @@ class ApplitoolsTest {
 		eyes.open(driver, "acme", "app");
 		driver.get(PageFactory.get(Page.APP_V1));
 		eyes.checkWindow();
+		eyes.close();
 	}
 
 	@AfterEach
 	void tearDown() {
-		eyes.close();
 		driver.quit();
 		eyes.abortIfNotClosed();
 	}
