@@ -20,15 +20,23 @@ class RecheckWebTest {
 
 	@BeforeEach
 	void setUp() {
-		driver = DriverFactory.driver(Driver.CHROME);
+		driver = DriverFactory.get(Driver.CHROME);
 		re = new RecheckImpl();
 	}
 
 	@Test
-	void test() throws Exception {
+	void testLogin() throws Exception {
 		re.startTest();
-		driver.get(PageFactory.get(Page.WIKIPEDIA));
-		re.check(driver, "characterization-testing");
+		driver.get(PageFactory.get(Page.LOGIN_V1));
+		re.check(driver, "login");
+		re.capTest();
+	}
+
+	@Test
+	void testApp() throws Exception {
+		re.startTest();
+		driver.get(PageFactory.get(Page.APP_V1));
+		re.check(driver, "app");
 		re.capTest();
 	}
 

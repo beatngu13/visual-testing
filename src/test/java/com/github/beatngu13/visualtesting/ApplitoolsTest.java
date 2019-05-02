@@ -18,16 +18,23 @@ class ApplitoolsTest {
 
 	@BeforeEach
 	void setUp() {
-		driver = DriverFactory.driver(Driver.CHROME);
+		driver = DriverFactory.get(Driver.CHROME);
 		eyes = new Eyes();
 		eyes.setApiKey(System.getenv("APPLITOOLS_API_KEY"));
 		eyes.setForceFullPageScreenshot(true);
 	}
 
 	@Test
-	void test() throws Exception {
-		eyes.open(driver, "wikipedia", "characterization-testing");
-		driver.get(PageFactory.get(Page.WIKIPEDIA));
+	void testLogin() throws Exception {
+		eyes.open(driver, "acme", "login");
+		driver.get(PageFactory.get(Page.LOGIN_V1));
+		eyes.checkWindow();
+	}
+
+	@Test
+	void testApp() throws Exception {
+		eyes.open(driver, "acme", "app");
+		driver.get(PageFactory.get(Page.APP_V1));
 		eyes.checkWindow();
 	}
 
