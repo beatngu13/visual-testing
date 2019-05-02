@@ -6,15 +6,12 @@ import java.nio.file.Paths;
 public class PageFactory {
 
 	public enum Page {
-		WIKIPEDIA
 	}
 
 	private static final String BASE_PATH = "src/test/resources/";
 
 	public static String get(Page page) {
 		switch (page) {
-		case WIKIPEDIA:
-			return getUrlString("wikipedia/characterization-test.html");
 		default:
 			throw new IllegalArgumentException("No page '" + page + "' available.");
 		}
