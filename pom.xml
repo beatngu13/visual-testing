@@ -31,7 +31,8 @@
 		<dependency>
 			<groupId>de.retest</groupId>
 			<artifactId>recheck-web</artifactId>
-			<version>1.0.1</version>
+			<!-- see https://github.com/beatngu13/recheck-web/ on branch visual-testing -->
+			<version>1.0.1-VT</version>
 			<scope>test</scope>
 		</dependency>
 
