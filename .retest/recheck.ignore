@@ -1,10 +1,5 @@
+attribute=align-items
 attribute=class
-attribute=data-.*
-attribute=jsaction
-attribute=jsdata
-attribute=ping
+attribute=path
+attribute=src
 
-matcher: xpath=HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[1]/A[1]/IMG[1], attribute: src
-matcher: xpath=HTML[1]/BODY[1]/DIV[1]/DIV[1]/FORM[1]/DIV[3]/DIV[2]/A[3]/IMG[1], attribute: src
-matcher: xpath=HTML[1]/BODY[1]/DIV[1]/DIV[1]/FORM[1]/DIV[3]/DIV[2]/A[2]/IMG[1], attribute: src
-matcher: xpath=HTML[1]/BODY[1]/DIV[1]/DIV[1]/FORM[1]/DIV[3]/DIV[2]/A[1]/IMG[1], attribute: src
