@@ -25,16 +25,6 @@ class RecheckWebTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
-	void testLogin(WebDriver driver) throws Exception {
-		this.driver = driver;
-		re.startTest("login-" + DriverUtil.getName(driver));
-		driver.get(PageFactory.get(Page.LOGIN_V1));
-		re.check(driver, "initial");
-		re.capTest();
-	}
-
-	@ParameterizedTest
-	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
 	void testApp(WebDriver driver) throws Exception {
 		this.driver = driver;
 		re.startTest("app-" + DriverUtil.getName(driver));

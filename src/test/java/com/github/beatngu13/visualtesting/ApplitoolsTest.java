@@ -24,16 +24,6 @@ class ApplitoolsTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
-	void testLogin(WebDriver driver) throws Exception {
-		this.driver = driver;
-		eyes.open(driver, "acme", "login");
-		driver.get(PageFactory.get(Page.LOGIN_V1));
-		eyes.checkWindow();
-		eyes.close();
-	}
-
-	@ParameterizedTest
-	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
 	void testApp(WebDriver driver) throws Exception {
 		this.driver = driver;
 		eyes.open(driver, "acme", "app");
