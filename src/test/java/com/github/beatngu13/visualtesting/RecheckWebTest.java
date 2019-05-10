@@ -2,11 +2,11 @@ package com.github.beatngu13.visualtesting;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
 
-import com.github.beatngu13.visualtesting.util.DriverFactory;
-import com.github.beatngu13.visualtesting.util.DriverFactory.Driver;
+import com.github.beatngu13.visualtesting.util.DriverUtil;
 import com.github.beatngu13.visualtesting.util.PageFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
@@ -20,23 +20,26 @@ class RecheckWebTest {
 
 	@BeforeEach
 	void setUp() {
-		driver = DriverFactory.get(Driver.CHROME);
 		re = new RecheckImpl();
 	}
 
-	@Test
-	void testLogin() throws Exception {
-		re.startTest();
+	@ParameterizedTest
+	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
+	void testLogin(WebDriver driver) throws Exception {
+		this.driver = driver;
+		re.startTest("login-" + DriverUtil.getName(driver));
 		driver.get(PageFactory.get(Page.LOGIN_V1));
-		re.check(driver, "login");
+		re.check(driver, "initial");
 		re.capTest();
 	}
 
-	@Test
-	void testApp() throws Exception {
-		re.startTest();
+	@ParameterizedTest
+	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
+	void testApp(WebDriver driver) throws Exception {
+		this.driver = driver;
+		re.startTest("app-" + DriverUtil.getName(driver));
 		driver.get(PageFactory.get(Page.APP_V1));
-		re.check(driver, "app");
+		re.check(driver, "initial");
 		re.capTest();
 	}
 
