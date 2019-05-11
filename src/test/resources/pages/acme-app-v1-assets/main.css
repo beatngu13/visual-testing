@@ -2347,7 +2347,7 @@ pre code {
 
 .table {
   width: 100%;
-  max-width: 100%;
+  max-width: 99%;
   margin-bottom: 1rem;
   background-color: transparent;
 }
