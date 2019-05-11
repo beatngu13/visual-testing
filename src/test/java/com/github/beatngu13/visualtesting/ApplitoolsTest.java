@@ -6,12 +6,15 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
 
+import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.selenium.Eyes;
 import com.github.beatngu13.visualtesting.util.PageFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
 class ApplitoolsTest {
 
+	static BatchInfo batchInfo = new BatchInfo("app-xbt");
+	
 	WebDriver driver;
 	Eyes eyes;
 
@@ -19,6 +22,7 @@ class ApplitoolsTest {
 	void setUp() {
 		eyes = new Eyes();
 		eyes.setApiKey(System.getenv("APPLITOOLS_API_KEY"));
+		eyes.setBatch(batchInfo);
 		eyes.setForceFullPageScreenshot(true);
 	}
 
