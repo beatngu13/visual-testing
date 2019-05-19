@@ -1,6 +1,6 @@
 # visual-testing
 
-Evaluation for our AGS framework implementation [recheck](https://github.com/retest/recheck/) and [recheck-web](https://github.com/retest/recheck-web).
+Evaluation of our AGS framework implementation [recheck](https://github.com/retest/recheck/) and [recheck-web](https://github.com/retest/recheck-web).
 
 Resulting screenshots can be found in the `eval` directory.
 
@@ -28,16 +28,16 @@ Library versions etc. are declared within the `pom.xml`. In the case of Applitoo
 
 First, follow the [Applitools Selenium/Java tutorial](https://applitools.com/tutorials/selenium-java.html) to set up your environment. In addition, make sure to install Firefox and GeckoDriver.
 
-Afterwards, clone the forked repositories for [recheck](https://github.com/beatngu13/recheck/) and [recheck-web](https://github.com/beatngu13/recheck-web/). In both projects, switch to the branch `visual-testing` and build from source via:
+Afterwards, clone the forked repositories of [recheck](https://github.com/beatngu13/recheck/) and [recheck-web](https://github.com/beatngu13/recheck-web/). In both projects, switch to the branch `visual-testing` and build from source:
 
 ```
 mvn install
 ```
 
-Then clone this repo, where you can run tests with the command:
+Then, clone this repo and run the tests:
 
 ```
 mvn test
 ```
 
-To review your local test results for recheck/recheck-web, you need either the [recheck.CLI](https://github.com/retest/recheck.cli/) or [review GUI](https://retest.de/review/). For Applitools you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
+To review your local test results for recheck/recheck-web, you need either the [recheck.cli](https://github.com/retest/recheck.cli/) or [review GUI](https://retest.de/review/). For Applitools, you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
