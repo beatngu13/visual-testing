@@ -56,7 +56,7 @@ Abbreviations: true positive (TP), false positive (FP), true negative (TN), fals
 
 `609fc53`: actual change that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
-#### SRQ<sub>1.2</sub>: Resource Change
+#### SRQ<sub>1.3</sub>: Resource Change
 
 `a84193a`: actual change that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
@@ -70,7 +70,7 @@ Abbreviations: true positive (TP), false positive (FP), true negative (TN), fals
 
 `c2fb6de`: actual error that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
-#### SRQ<sub>2.2</sub>: Lost Alignment
+#### SRQ<sub>2.3</sub>: Lost Alignment
 
 `09b82a0`: actual error that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
