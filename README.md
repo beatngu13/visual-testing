@@ -76,14 +76,14 @@ Abbreviations: true positive (TP), false positive (FP), true negative (TN), fals
 
 ### RQ<sub>3</sub>: Scalability
 
-#### SRQ<sub>3.1</sub>: Overflow
+#### SRQ<sub>3.1</sub>: Same Change
 
 `426eb3d`: semantically single change that is supposed to be grouped, therefore, TP. Reporting the same change multiple times means FP.
 
-#### SRQ<sub>3.2</sub>: Overlap
+#### SRQ<sub>3.2</sub>: Dynamic Data
 
 `3ccc50a`: ignored dynamic data that is supposed to yield no test failure, therefore, TN. Failing test means FP.
 
-#### SRQ<sub>3.3</sub>: Lost Alignment
+#### SRQ<sub>3.3</sub>: Minor Change
 
 `656d53c`: minor, unimportant changes that is supposed to yield no test failure, therefore, TN. Failing test means FP.
