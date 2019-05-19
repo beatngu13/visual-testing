@@ -44,44 +44,46 @@ mvn test
 
 For details, please refer to our paper. Resulting screenshots can be found in the `eval` directory.
 
+Abbreviations: true positive (TP), false positive (FP), true negative (TN), false negative (FN).
+
 ### RQ<sub>1</sub>: Change Detection
 
 #### SRQ<sub>1.1</sub>: Text Change
 
-`7e46d5d`
+`7e46d5d`: actual change that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
 #### SRQ<sub>1.2</sub>: Layout Change
 
-`609fc53`
+`609fc53`: actual change that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
 #### SRQ<sub>1.2</sub>: Resource Change
 
-`a84193a`
+`a84193a`: actual change that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
 ### RQ<sub>2</sub>: Error Detection
 
-#### SRQ<sub>1.1</sub>: Overflow
+#### SRQ<sub>2.1</sub>: Overflow
 
-`9f96c75`
+`9f96c75`: actual error that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
-#### SRQ<sub>1.2</sub>: Overlap
+#### SRQ<sub>2.2</sub>: Overlap
 
-`c2fb6de`
+`c2fb6de`: actual error that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
-#### SRQ<sub>1.2</sub>: Lost Alignment
+#### SRQ<sub>2.2</sub>: Lost Alignment
 
-`09b82a0`
+`09b82a0`: actual error that is supposed to yield a test failure, therefore, TP. Passing test means FN, other changes means FP.
 
 ### RQ<sub>3</sub>: Scalability
 
-#### SRQ<sub>1.1</sub>: Overflow
+#### SRQ<sub>3.1</sub>: Overflow
 
-`426eb3d`
+`426eb3d`: semantically single change that is supposed to be grouped, therefore, TP. Reporting the same change multiple times means FP.
 
-#### SRQ<sub>1.2</sub>: Overlap
+#### SRQ<sub>3.2</sub>: Overlap
 
-`3ccc50a`
+`3ccc50a`: ignored dynamic data that is supposed to yield no test failure, therefore, TN. Failing test means FP.
 
-#### SRQ<sub>1.2</sub>: Lost Alignment
+#### SRQ<sub>3.3</sub>: Lost Alignment
 
-`656d53c`
+`656d53c`: minor, unimportant changes that is supposed to yield no test failure, therefore, TN. Failing test means FP.
