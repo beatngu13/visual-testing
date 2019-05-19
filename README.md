@@ -2,9 +2,7 @@
 
 Evaluation of our AGS framework implementation [recheck](https://github.com/retest/recheck/) and [recheck-web](https://github.com/retest/recheck-web).
 
-Resulting screenshots can be found in the `eval` directory.
-
-## Experimental Setup
+## Evaluation Setup
 
 We have executed the experiments on an Apple MacBook Pro (Retina 15", 2018) with the following specifications:
 
@@ -24,7 +22,7 @@ The software we have used is:
 
 Library versions etc. are declared within the `pom.xml`. In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
-## Reproduce Results
+## Reproduce Experiments
 
 First, follow the [Applitools Selenium/Java tutorial](https://applitools.com/tutorials/selenium-java.html) to set up your environment. In addition, make sure to install [Firefox](https://mozilla.org/en/firefox/) and [GeckoDriver](https://firefox-source-docs.mozilla.org/testing/geckodriver/).
 
@@ -34,10 +32,56 @@ Afterwards, clone the forked repositories of [recheck](https://github.com/beatng
 mvn install
 ```
 
+To review local test results from recheck/recheck-web, you need either the [recheck.cli](https://github.com/retest/recheck.cli/) or [review GUI](https://retest.de/review/). For Applitools, you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
+
 Then, clone this repo and run the tests:
 
 ```
 mvn test
 ```
 
-To review your local test results for recheck/recheck-web, you need either the [recheck.cli](https://github.com/retest/recheck.cli/) or [review GUI](https://retest.de/review/). For Applitools, you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
+## Empirical Results & Interpretation
+
+For details, please refer to our paper. Resulting screenshots can be found in the `eval` directory.
+
+### RQ<sub>1</sub>: Change Detection
+
+#### SRQ<sub>1.1</sub>: Text Change
+
+`7e46d5d`
+
+#### SRQ<sub>1.2</sub>: Layout Change
+
+`609fc53`
+
+#### SRQ<sub>1.2</sub>: Resource Change
+
+`a84193a`
+
+### RQ<sub>2</sub>: Error Detection
+
+#### SRQ<sub>1.1</sub>: Overflow
+
+`9f96c75`
+
+#### SRQ<sub>1.2</sub>: Overlap
+
+`c2fb6de`
+
+#### SRQ<sub>1.2</sub>: Lost Alignment
+
+`09b82a0`
+
+### RQ<sub>3</sub>: Scalability
+
+#### SRQ<sub>1.1</sub>: Overflow
+
+`426eb3d`
+
+#### SRQ<sub>1.2</sub>: Overlap
+
+`3ccc50a`
+
+#### SRQ<sub>1.2</sub>: Lost Alignment
+
+`656d53c`
