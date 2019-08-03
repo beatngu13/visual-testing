@@ -86,4 +86,4 @@ Abbreviations: true positive (TP), false positive (FP), true negative (TN), fals
 
 #### SRQ<sub>3.3</sub>: Minor Change
 
-`656d53c`: minor, unimportant changes that is supposed to yield no test failure, therefore, TN. Failing test means FP.
+`656d53c`: minor, unimportant change that is supposed to yield no test failure, therefore, TN. Failing test means FP.
