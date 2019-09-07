@@ -50,6 +50,8 @@ WEB_PAGES=(
 	'ampproject.org'
 	'bitly.com'
 	'sm.cn'
+	'xinhuanet.com'
+	'tribunnews.com'
 )
 
 function download_web_page() {
