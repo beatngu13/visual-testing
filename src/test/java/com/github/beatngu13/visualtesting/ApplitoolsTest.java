@@ -14,7 +14,7 @@ import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 class ApplitoolsTest {
 
 	static BatchInfo batchInfo = new BatchInfo("app-xbt");
-	
+
 	WebDriver driver;
 	Eyes eyes;
 

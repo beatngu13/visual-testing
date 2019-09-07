@@ -9,7 +9,7 @@ public class DriverUtil {
 	private DriverUtil() {
 	}
 
-	public static String getName( WebDriver driver ) {
+	public static String getName(WebDriver driver) {
 		Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
 		return cap.getBrowserName().toLowerCase();
 	}
