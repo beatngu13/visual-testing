@@ -8,8 +8,6 @@ import org.openqa.selenium.WebDriver;
 
 import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.selenium.Eyes;
-import com.github.beatngu13.visualtesting.util.PageFactory;
-import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
 class ApplitoolsTest {
 
@@ -31,7 +29,7 @@ class ApplitoolsTest {
 	void testApp(WebDriver driver) throws Exception {
 		this.driver = driver;
 		eyes.open(driver, "acme", "app");
-		driver.get(PageFactory.get(Page.APP_V1));
+//		driver.get(PageFactory.get(Page.APP_V1));
 		eyes.checkWindow();
 		eyes.close();
 	}

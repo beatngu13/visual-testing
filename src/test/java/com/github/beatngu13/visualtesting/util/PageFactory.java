@@ -1,43 +1,34 @@
 package com.github.beatngu13.visualtesting.util;
 
+import java.io.IOException;
+import java.io.UncheckedIOException;
 import java.net.MalformedURLException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
 import java.util.stream.Stream;
 
 public class PageFactory {
 
-	public enum Page {
-		LOGIN_V1, LOGIN_V2, APP_V1, APP_V2
-	}
+	private static final String BASE_PATH = "src/test/resources/pages/";
+	private static final String PAGES_FILENAME = "pages.txt";
+	private static final String INDEX_FILENAME = "index.html";
 
-	private static final String BASE_PATH = "src/test/resources/";
-
-	public static String get(Page page) {
-		switch (page) {
-		case LOGIN_V1:
-			return getUrlString("pages/acme-login-v1.html");
-		case LOGIN_V2:
-			return getUrlString("pages/acme-login-v2.html");
-		case APP_V1:
-			return getUrlString("pages/acme-app-v1.html");
-		case APP_V2:
-			return getUrlString("pages/acme-app-v2.html");
-		default:
-			throw new IllegalArgumentException("No page '" + page + "' available.");
+	public static Stream<String> getAll() {
+		try {
+			final Path pages = Paths.get(BASE_PATH, PAGES_FILENAME);
+			return Files.lines(pages).map(PageFactory::getUrlString);
+		} catch (final IOException e) {
+			throw new UncheckedIOException(e);
 		}
 	}
 
 	private static String getUrlString(final String relativePath) {
 		try {
-			return Paths.get(BASE_PATH, relativePath).toUri().toURL().toString();
+			return Paths.get(BASE_PATH, relativePath, INDEX_FILENAME).toUri().toURL().toString();
 		} catch (final MalformedURLException e) {
 			throw new RuntimeException(e);
 		}
-	}
-
-	public static Stream<String> getAll() {
-		return Arrays.stream(Page.values()).map(PageFactory::get);
 	}
 
 }

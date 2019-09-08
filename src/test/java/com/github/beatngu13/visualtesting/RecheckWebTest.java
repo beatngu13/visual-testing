@@ -7,8 +7,6 @@ import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
 
 import com.github.beatngu13.visualtesting.util.DriverUtil;
-import com.github.beatngu13.visualtesting.util.PageFactory;
-import com.github.beatngu13.visualtesting.util.PageFactory.Page;
 
 import de.retest.recheck.Recheck;
 import de.retest.recheck.RecheckImpl;
@@ -28,7 +26,7 @@ class RecheckWebTest {
 	void testApp(WebDriver driver) throws Exception {
 		this.driver = driver;
 		re.startTest("app-" + DriverUtil.getName(driver));
-		driver.get(PageFactory.get(Page.APP_V1));
+//		driver.get(PageFactory.get(Page.APP_V1));
 		re.check(driver, "initial");
 		re.capTest();
 	}
