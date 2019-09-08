@@ -28,7 +28,7 @@ public class DriverFactory {
 			return new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE));
 		}
 		default:
-			throw new IllegalArgumentException("No driver '" + driver + "\" driver available.");
+			throw new IllegalArgumentException("No driver '" + driver + "' driver available.");
 		}
 	}
 
