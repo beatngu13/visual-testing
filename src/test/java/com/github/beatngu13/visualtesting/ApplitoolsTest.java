@@ -13,7 +13,7 @@ import com.github.beatngu13.visualtesting.util.PageFactory;
 
 class ApplitoolsTest {
 
-	static BatchInfo batchInfo = new BatchInfo("app-xbt");
+	static BatchInfo batchInfo = new BatchInfo("top50");
 
 	WebDriver driver;
 	Eyes eyes;
@@ -28,7 +28,7 @@ class ApplitoolsTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
-	void testApp(final WebDriver driver, final String url) throws Exception {
+	void testTop50(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
 		eyes.open(driver, PageFactory.getName(url), DriverFactory.getName(driver));
 		driver.get(url);
