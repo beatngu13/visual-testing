@@ -31,4 +31,9 @@ public class PageFactory {
 		}
 	}
 
+	public static String getName(final String url) {
+		final var withoutIndexSuffix = url.replace("/" + INDEX_FILENAME, ""); //
+		return withoutIndexSuffix.substring(withoutIndexSuffix.lastIndexOf("/") + 1);
+	}
+
 }

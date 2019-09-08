@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class DriverFactory {
 
@@ -18,6 +19,11 @@ public class DriverFactory {
 		final var chrome = new ChromeDriver(new ChromeOptions().addArguments(DESKTOP_WINDOW_SIZE));
 		final var firefox = new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE));
 		return Stream.of(chrome, firefox);
+	}
+
+	public static String getName(final WebDriver driver) {
+		final var capabilities = ((RemoteWebDriver) driver).getCapabilities();
+		return capabilities.getBrowserName().toLowerCase();
 	}
 
 }
