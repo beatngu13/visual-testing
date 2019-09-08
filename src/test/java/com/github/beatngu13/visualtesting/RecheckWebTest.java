@@ -25,7 +25,7 @@ class RecheckWebTest {
 	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
 	void testApp(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
-		re.startTest("app-" + TestUtil.getName(driver));
+		re.startTest(TestUtil.getName(driver, url));
 		driver.get(url);
 		re.check(driver, "initial");
 		re.capTest();

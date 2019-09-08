@@ -4,7 +4,6 @@ import java.util.stream.Stream;
 
 import org.junit.jupiter.params.provider.Arguments;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class TestUtil {
 
@@ -15,9 +14,8 @@ public class TestUtil {
 		return DriverFactory.getAll().flatMap(driver -> PageFactory.getAll().map(url -> Arguments.of(driver, url)));
 	}
 
-	public static String getName(final WebDriver driver) {
-		final var capabilities = ((RemoteWebDriver) driver).getCapabilities();
-		return capabilities.getBrowserName().toLowerCase();
+	public static String getName(final WebDriver driver, final String url) {
+		return DriverFactory.getName(driver) + "-" + PageFactory.getName(url);
 	}
 
 }
