@@ -22,11 +22,11 @@ class RecheckWebTest {
 	}
 
 	@ParameterizedTest
-	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
-	void testApp(final WebDriver driver) throws Exception {
+	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
+	void testApp(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
 		re.startTest("app-" + TestUtil.getName(driver));
-//		driver.get(PageFactory.get(Page.APP_V1));
+		driver.get(url);
 		re.check(driver, "initial");
 		re.capTest();
 	}
