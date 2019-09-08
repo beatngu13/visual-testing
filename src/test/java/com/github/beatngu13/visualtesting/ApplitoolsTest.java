@@ -26,7 +26,7 @@ class ApplitoolsTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
-	void testApp(WebDriver driver) throws Exception {
+	void testApp(final WebDriver driver) throws Exception {
 		this.driver = driver;
 		eyes.open(driver, "acme", "app");
 //		driver.get(PageFactory.get(Page.APP_V1));
