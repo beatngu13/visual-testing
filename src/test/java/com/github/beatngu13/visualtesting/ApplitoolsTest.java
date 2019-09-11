@@ -2,6 +2,7 @@ package com.github.beatngu13.visualtesting;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
@@ -10,7 +11,9 @@ import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.selenium.Eyes;
 import com.github.beatngu13.visualtesting.util.DriverFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory;
+import com.github.beatngu13.visualtesting.util.TimingExtension;
 
+@ExtendWith(TimingExtension.class)
 class ApplitoolsTest {
 
 	static BatchInfo batchInfo = new BatchInfo("top50");
