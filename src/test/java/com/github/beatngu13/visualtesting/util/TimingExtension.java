@@ -24,9 +24,11 @@ public class TimingExtension implements BeforeTestExecutionCallback, AfterTestEx
 	public void afterTestExecution(final ExtensionContext context) throws Exception {
 		final Class<?> testClass = context.getRequiredTestClass();
 		final Method testMethod = context.getRequiredTestMethod();
+		final String displayName = context.getDisplayName();
 		final long startTime = getStore(context).remove(START_TIME, long.class);
 		final long duration = System.currentTimeMillis() - startTime;
-		log.info("Method {}#{} took {} ms.", testClass.getSimpleName(), testMethod.getName(), duration);
+		log.info("{}#{} with parameters {} took {} ms.", testClass.getSimpleName(), testMethod.getName(), displayName,
+				duration);
 	}
 
 	private Store getStore(final ExtensionContext context) {
