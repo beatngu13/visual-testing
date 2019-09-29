@@ -13,9 +13,9 @@ We have executed the experiments on an Apple MacBook Pro (Retina 15", 2018) with
 
 The software we have used is:
 
-* Google Chrome: 76.0.3809.132 (resolution for desktop: 1080p, 1920 x 1080 px)
-* ChromeDriver: 76.0.3809.126
-* Mozilla Firefox: 69.0 (resolution for notebook: 720p, 1366 x 768 px)
+* Google Chrome: 77.0.3865.90 (resolution for desktop: 1080p, 1920 x 1080 px)
+* ChromeDriver: 77.0.3865.40
+* Mozilla Firefox: 69.0.1 (resolution for notebook: 720p, 1366 x 768 px)
 * GeckoDriver: 0.24.0
 * Java: OpenJDK HotSpot 11.0.4+11
 * Maven: 3.6.2
