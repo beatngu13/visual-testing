@@ -29,18 +29,25 @@
 		</dependency>
 
 		<dependency>
+			<groupId>com.applitools</groupId>
+			<artifactId>eyes-selenium-java4</artifactId>
+			<version>4.0.12</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
 			<groupId>de.retest</groupId>
 			<artifactId>recheck-web</artifactId>
 			<!-- see https://github.com/beatngu13/recheck-web/ on branch visual-testing -->
 			<version>1.5.1-VT</version>
 			<scope>test</scope>
-		</dependency>
-
-		<dependency>
-			<groupId>com.applitools</groupId>
-			<artifactId>eyes-selenium-java4</artifactId>
-			<version>4.0.12</version>
-			<scope>test</scope>
+			<exclusions>
+				<!-- causes exception in Applitools -->
+				<exclusion>
+					<groupId>org.jboss.resteasy</groupId>
+					<artifactId>resteasy-client</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 	</dependencies>
 
