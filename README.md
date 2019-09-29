@@ -24,8 +24,6 @@ Library versions etc. are declared within the `pom.xml`.
 
 In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
-**TODO: Add Percy.** 
-
 ## Reproduce Experiments
 
 First, follow the [Applitools Selenium/Java tutorial](https://applitools.com/tutorials/selenium-java.html) to set up your environment. In addition, make sure to install [Firefox](https://mozilla.org/en/firefox/) and [GeckoDriver](https://firefox-source-docs.mozilla.org/testing/geckodriver/).
@@ -39,8 +37,6 @@ mvn install
 To review local test results from recheck/recheck-web, you need either the [recheck.cli](https://github.com/retest/recheck.cli/) or [review GUI](https://retest.de/review/).
 
 For Applitools, you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
-
-**TODO: Add Percy.** 
 
 Then, clone this repo and run the tests:
 
