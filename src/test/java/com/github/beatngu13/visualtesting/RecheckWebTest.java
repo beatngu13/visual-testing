@@ -7,6 +7,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
 
+import com.github.beatngu13.visualtesting.util.Statistics;
 import com.github.beatngu13.visualtesting.util.TestUtil;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
@@ -18,10 +19,12 @@ class RecheckWebTest {
 
 	WebDriver driver;
 	Recheck re;
+	Statistics stats;
 
 	@BeforeEach
 	void setUp() {
 		re = new RecheckImpl();
+		stats = new Statistics();
 	}
 
 	@ParameterizedTest
@@ -31,6 +34,7 @@ class RecheckWebTest {
 		re.startTest(TestUtil.getName(driver, url));
 		driver.get(url);
 		re.check(driver, "initial");
+		stats.extract( driver );
 		re.capTest();
 	}
 
