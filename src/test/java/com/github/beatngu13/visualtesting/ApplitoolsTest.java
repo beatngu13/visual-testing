@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.selenium.Eyes;
 import com.github.beatngu13.visualtesting.util.DriverFactory;
-import com.github.beatngu13.visualtesting.util.ElementCount;
+import com.github.beatngu13.visualtesting.util.Statistics;
 import com.github.beatngu13.visualtesting.util.PageFactory;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
@@ -21,7 +21,7 @@ class ApplitoolsTest {
 
 	WebDriver driver;
 	Eyes eyes;
-	ElementCount stats;
+	Statistics stats;
 
 	@BeforeEach
 	void setUp() {
@@ -29,7 +29,7 @@ class ApplitoolsTest {
 		eyes.setApiKey(System.getenv("APPLITOOLS_API_KEY"));
 		eyes.setBatch(batchInfo);
 		eyes.setForceFullPageScreenshot(true);
-		stats = new ElementCount();
+		stats = new Statistics();
 	}
 
 	@ParameterizedTest

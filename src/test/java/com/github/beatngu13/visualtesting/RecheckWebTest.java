@@ -7,7 +7,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.openqa.selenium.WebDriver;
 
-import com.github.beatngu13.visualtesting.util.ElementCount;
+import com.github.beatngu13.visualtesting.util.Statistics;
 import com.github.beatngu13.visualtesting.util.TestUtil;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
@@ -19,12 +19,12 @@ class RecheckWebTest {
 
 	WebDriver driver;
 	Recheck re;
-	ElementCount stats;
+	Statistics stats;
 
 	@BeforeEach
 	void setUp() {
 		re = new RecheckImpl();
-		stats = new ElementCount();
+		stats = new Statistics();
 	}
 
 	@ParameterizedTest
