@@ -6,6 +6,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 
+/**
+ * Logs statistics on various {@code WebDriver} events via {@link Statistics}.
+ */
 class StatisticsListener implements WebDriverEventListener {
 
 	@Override

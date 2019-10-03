@@ -8,12 +8,18 @@ import org.openqa.selenium.WebElement;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * Logs various statistics.
+ */
 @RequiredArgsConstructor
 @Slf4j
 class Statistics {
 
 	private final WebDriver driver;
 
+	/**
+	 * Logs statistics for the current page URL.
+	 */
 	public void logPageStatistics() {
 		final var pageUrl = driver.getCurrentUrl();
 		final var driverName = DriverFactory.getName(driver);

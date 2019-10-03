@@ -8,12 +8,18 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.stream.Stream;
 
+/**
+ * Provides ready-to-use page URLs and various related utilities.
+ */
 public class PageFactory {
 
 	private static final String BASE_PATH = "src/test/resources/pages/";
 	private static final String PAGES_FILENAME = "pages.txt";
 	private static final String INDEX_FILENAME = "index.html";
 
+	/**
+	 * @return All URLs to test with.
+	 */
 	public static Stream<String> getAll() {
 		try {
 			final Path pages = Paths.get(BASE_PATH, PAGES_FILENAME);
@@ -31,6 +37,10 @@ public class PageFactory {
 		}
 	}
 
+	/**
+	 * @param url The used URL.
+	 * @return (Pretty) name for the given URL.
+	 */
 	public static String getName(final String url) {
 		final var withoutIndexSuffix = url.replace("/" + INDEX_FILENAME, ""); //
 		return withoutIndexSuffix.substring(withoutIndexSuffix.lastIndexOf("/") + 1);

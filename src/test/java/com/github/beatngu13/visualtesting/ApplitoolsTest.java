@@ -13,6 +13,9 @@ import com.github.beatngu13.visualtesting.util.DriverFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
+/**
+ * Tests with Applitools.
+ */
 @ExtendWith(TimingExtension.class)
 class ApplitoolsTest {
 

@@ -10,6 +10,9 @@ import org.junit.jupiter.api.extension.ExtensionContext.Store;
 
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * Measures and logs the execution time of a test case.
+ */
 @Slf4j
 public class TimingExtension implements BeforeTestExecutionCallback, AfterTestExecutionCallback {
 

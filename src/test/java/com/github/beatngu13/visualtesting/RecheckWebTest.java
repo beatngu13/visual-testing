@@ -13,6 +13,9 @@ import com.github.beatngu13.visualtesting.util.TimingExtension;
 import de.retest.recheck.Recheck;
 import de.retest.recheck.RecheckImpl;
 
+/**
+ * Tests with recheck-web.
+ */
 @ExtendWith(TimingExtension.class)
 class RecheckWebTest {
 

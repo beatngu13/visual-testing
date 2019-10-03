@@ -11,12 +11,18 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
+/**
+ * Provides ready-to-use {@code WebDriver}s and various related utilities.
+ */
 public class DriverFactory {
 
 	// Taken from https://rapidtables.com/web/dev/screen-resolution-statistics.html.
 	private static final String DESKTOP_WINDOW_SIZE = "--window-size=1920,1080";
 	private static final String NOTEBOOK_WINDOW_SIZE = "--window-size=1366,768";
 
+	/**
+	 * @return All {@code WebDriver}s to test with.
+	 */
 	public static Stream<WebDriver> getAll() {
 		final var chrome = new ChromeDriver(new ChromeOptions().addArguments(DESKTOP_WINDOW_SIZE));
 		final var firefox = new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE));
@@ -29,6 +35,10 @@ public class DriverFactory {
 		return wrapper;
 	}
 
+	/**
+	 * @param driver The used {@code WebDriver}.
+	 * @return (Pretty) name for the given {@code WebDriver}.
+	 */
 	public static String getName(final WebDriver driver) {
 		final var wrapped = ((WrapsDriver) driver).getWrappedDriver();
 		final var capabilities = ((RemoteWebDriver) wrapped).getCapabilities();
