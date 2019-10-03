@@ -21,7 +21,7 @@ class Statistics {
 		log.info("Page '{}' in '{}' contains {} WebElements.", pageUrl, driverName, elementCount);
 	}
 
-	public int getWebElementCount() {
+	private int getWebElementCount() {
 		final List<WebElement> allElements = driver.findElements(org.openqa.selenium.By.xpath("//*"));
 		return allElements.size();
 	}
