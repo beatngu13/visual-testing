@@ -10,7 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @RequiredArgsConstructor
 @Slf4j
-public class Statistics {
+class Statistics {
 
 	private final WebDriver driver;
 

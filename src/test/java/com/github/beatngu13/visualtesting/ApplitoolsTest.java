@@ -11,7 +11,6 @@ import com.applitools.eyes.BatchInfo;
 import com.applitools.eyes.selenium.Eyes;
 import com.github.beatngu13.visualtesting.util.DriverFactory;
 import com.github.beatngu13.visualtesting.util.PageFactory;
-import com.github.beatngu13.visualtesting.util.Statistics;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
 @ExtendWith(TimingExtension.class)
@@ -36,7 +35,6 @@ class ApplitoolsTest {
 		this.driver = driver;
 		eyes.open(driver, PageFactory.getName(url), DriverFactory.getName(driver));
 		driver.get(url);
-		new Statistics(driver).logPageStatistics();
 		eyes.checkWindow();
 		eyes.close();
 	}
