@@ -19,12 +19,10 @@ class RecheckWebTest {
 
 	WebDriver driver;
 	Recheck re;
-	Statistics stats;
 
 	@BeforeEach
 	void setUp() {
 		re = new RecheckImpl();
-		stats = new Statistics();
 	}
 
 	@ParameterizedTest
@@ -34,7 +32,7 @@ class RecheckWebTest {
 		re.startTest(TestUtil.getName(driver, url));
 		driver.get(url);
 		re.check(driver, "initial");
-		stats.extract( driver );
+		new Statistics(driver).logPageStatistics();
 		re.capTest();
 	}
 
