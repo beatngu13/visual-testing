@@ -63,7 +63,7 @@ The benchmark suite consists of offline versions of the 50 [most popular website
 
 We have executed the experiments on an Apple MacBook Pro (Retina 15", 2018) with the following specifications:
 
-* OS: macOS Mojave (10.14.4)
+* OS: macOS Mojave (10.14.6)
 * CPU: 2.2 GHz Intel Core i7-8750H
 * GPU: Radeon Pro 555X, Intel UHD Graphics 630
 * RAM: 32 GB
