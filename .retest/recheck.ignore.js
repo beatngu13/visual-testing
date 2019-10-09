@@ -1,47 +1,22 @@
-var ALLOWED_PIXEL_DIFF = 25;
+// Here you can implement ignore rules for recheck in javascript.
+// Please do not delete this file, even if it is empty.
 
-function contains(array, key) {
-	for (var i = 0; i < array.length; i++) {
-		if (key == array[i]) {
-			return true;
-		}
-	}
-	return false;
-}
+// You can implement either of these two functions:
+// function matches(element) {}
+// function matches(element, diff) {}
 
-function shouldIgnoreAttributeDifference(element, diff) {
-	if (diff.expected === null) {
-		diff.expected = "";
-	}
-	if (diff.actual === null) {
-		diff.actual = "";
-	}
-	if (ignorePixelDiff(element, diff)) {
-		return true;
-	}
-	if (ignoreColorDiff(element, diff)) {
-		return true;
-	}
-	return false;
-}
+// e.g. to ignore all behind an URL after '?':
 
-function ignorePixelDiff(element, diff) {
-	if (diff.key === "outline") {
-		return (Math.abs(diff.expected.x - diff.actual.x) <= ALLOWED_PIXEL_DIFF)
-				&& (Math.abs(diff.expected.y - diff.actual.y) <= ALLOWED_PIXEL_DIFF)
-				&& (Math.abs(diff.expected.width - diff.actual.width) <= ALLOWED_PIXEL_DIFF)
-				&& (Math.abs(diff.expected.height - diff.actual.height) <= ALLOWED_PIXEL_DIFF);
-	}
-	if (contains([ "absolute-x", "absolute-y", "absolute-width", "absolute-height",
-				   "x", "y", "width", "height" ],
-				   diff.key)) {
-		return (Math.abs(diff.expected.replace("px", "")
-				- diff.actual.replace("px", "")) <= ALLOWED_PIXEL_DIFF);
-	}
-}
+//var baseUrl = /http[s]?:\/\/[\w.:\d\-]*/;
+//
+//function matches(element, diff) {
+//	if (diff.expected != null && diff.actual != null) {
+//		cleanExpected = diff.expected.replace(baseUrl, '');
+//		cleanActual = diff.actual.replace(baseUrl, '');
+//		return cleanExpected === cleanActual;
+//	}
+//	return false;
+//}
 
-function ignoreColorDiff(element, diff) {
-	if (diff.key.indexOf("border-") !== -1) {
-		return true;
-	}
-}
+// You can find more details and example rules at: 
+// https://docs.retest.de/recheck/how-ignore-works/

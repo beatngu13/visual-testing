@@ -1,8 +1,5 @@
-attribute=align-items
-attribute=class
-attribute=opacity
-attribute=path
-attribute=src
-attribute=transform
+# Ignore all data attributes.
+attribute-regex=data-.*
 
-matcher: xpath=HTML[1]/BODY[1]/DIV[1]/DIV[3]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/H6[1], attribute: text
+# Ignore pixel diffs up to 20 pixels.
+pixel-diff=20
