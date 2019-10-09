@@ -17,18 +17,14 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
  */
 public class DriverFactory {
 
-	// Taken from https://rapidtables.com/web/dev/screen-resolution-statistics.html.
-	private static final String DESKTOP_WINDOW_SIZE = "--window-size=1920,1080";
-	private static final String NOTEBOOK_WINDOW_SIZE = "--window-size=1366,768";
-
 	/**
 	 * @return All {@code WebDriver}s to test with.
 	 */
 	public static Stream<Supplier<WebDriver>> getAll() {
 		final Supplier<WebDriver> chrome = () -> wrap(
-				new ChromeDriver(new ChromeOptions().addArguments(DESKTOP_WINDOW_SIZE)));
+				new ChromeDriver(new ChromeOptions().addArguments("--window-size=1920,1080")));
 		final Supplier<WebDriver> firefox = () -> wrap(
-				new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE)));
+				new FirefoxDriver(new FirefoxOptions().addArguments("--width=1920", "--height=1080")));
 		return Stream.of(chrome, firefox);
 	}
 
