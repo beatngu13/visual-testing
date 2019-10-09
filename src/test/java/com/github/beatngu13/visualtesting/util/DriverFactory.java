@@ -27,6 +27,14 @@ public class DriverFactory {
 		return Stream.of(chrome, firefox);
 	}
 
+	/**
+	 * @param driver The used {@code WebDriver}.
+	 * @return The unwrapped {@code WebDriver}.
+	 */
+	public static WebDriver unwrap(final WebDriver driver) {
+		return ((WrapsDriver) driver).getWrappedDriver();
+	}
+
 	private static WebDriver wrap(final WebDriver driver) {
 		final EventFiringWebDriver wrapper = new EventFiringWebDriver(driver);
 		wrapper.register(new StatisticsListener());
