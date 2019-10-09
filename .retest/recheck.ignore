@@ -15,6 +15,7 @@ attribute=opacity
 attribute-regex=aria-.*
 attribute-regex=data-.*
 attribute-regex=margin-.*
+attribute-regex=transition-.*
 
 matcher: type=meta
 
