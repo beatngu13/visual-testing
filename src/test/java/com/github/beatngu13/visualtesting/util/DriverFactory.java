@@ -18,7 +18,8 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 public class DriverFactory {
 
 	/**
-	 * @return All {@code WebDriver}s to test with.
+	 * @return All {@code WebDriver}s to test with, given as {@code Supplier}s to
+	 *         have a new instance per test.
 	 */
 	public static Stream<Supplier<WebDriver>> getAll() {
 		final Supplier<WebDriver> chrome = () -> wrap(newChromeDriver());
