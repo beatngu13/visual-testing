@@ -13,11 +13,14 @@ attribute=transform
 attribute=opacity
 
 attribute-regex=aria-.*
+attribute-regex=background-.*
 attribute-regex=data-.*
 attribute-regex=margin-.*
 attribute-regex=transition-.*
 
 matcher: type=meta
+
+matcher: type=body, attribute: class
 
 # Ignore pixel diffs up to 25 pixels.
 pixel-diff=25
