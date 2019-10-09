@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="${pom.parent.version}" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+	<data xsi:type="sutState">
+		<descriptors retestId="html" screenId="1" screen="Yahoo ist jetzt Teil von Verizon Media" title="Yahoo ist jetzt Teil von Verizon Media">
+			<identifyingAttributes>
+				<attributes>
+					<attribute key="absolute-outline" xsi:type="outlineAttribute">
+						<x>0</x>
+						<y>0</y>
+						<height>314</height>
+						<width>1920</width>
+					</attribute>
+					<attribute key="class" xsi:type="stringAttribute">ltr eu yahoo-page height100</attribute>
+					<attribute key="outline" xsi:type="outlineAttribute">
+						<x>0</x>
+						<y>0</y>
+						<height>157</height>
+						<width>960</width>
+					</attribute>
+					<attribute key="path" xsi:type="pathAttribute">html[1]</attribute>
+					<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+					<attribute key="type" xsi:type="stringAttribute">html</attribute>
+				</attributes>
+			</identifyingAttributes>
+			<attributes>
+				<attributes>
+					<entry>
+						<key>dir</key>
+						<value xsi:type="xsd:string">ltr</value>
+					</entry>
+					<entry>
+						<key>shown</key>
+						<value xsi:type="xsd:string">true</value>
+					</entry>
+					<entry>
+						<key>unicode-bidi</key>
+						<value xsi:type="xsd:string">isolate</value>
+					</entry>
+				</attributes>
+			</attributes>
+			<containedElements retestId="body">
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="absolute-outline" xsi:type="outlineAttribute">
+							<x>8</x>
+							<y>21</y>
+							<height>284</height>
+							<width>1904</width>
+						</attribute>
+						<attribute key="class" xsi:type="stringAttribute">no-touch blur-preview-tpl eu-localized home de-DE js</attribute>
+						<attribute key="outline" xsi:type="outlineAttribute">
+							<x>4</x>
+							<y>10</y>
+							<height>-14</height>
+							<width>-8</width>
+						</attribute>
+						<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]</attribute>
+						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+						<attribute key="type" xsi:type="stringAttribute">body</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>shown</key>
+							<value xsi:type="xsd:string">true</value>
+						</entry>
+					</attributes>
+				</attributes>
+				<containedElements retestId="div">
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="absolute-outline" xsi:type="outlineAttribute">
+								<x>8</x>
+								<y>21</y>
+								<height>284</height>
+								<width>1904</width>
+							</attribute>
+							<attribute key="class" xsi:type="stringAttribute">consent-semi-transparent</attribute>
+							<attribute key="outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]</attribute>
+							<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+							<attribute key="type" xsi:type="stringAttribute">div</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>shown</key>
+								<value xsi:type="xsd:string">true</value>
+							</entry>
+						</attributes>
+					</attributes>
+					<containedElements retestId="div-7a1cb">
+						<identifyingAttributes>
+							<attributes>
+								<attribute key="absolute-outline" xsi:type="outlineAttribute">
+									<x>8</x>
+									<y>21</y>
+									<height>284</height>
+									<width>1904</width>
+								</attribute>
+								<attribute key="class" xsi:type="stringAttribute">consent-round-corner</attribute>
+								<attribute key="outline" xsi:type="outlineAttribute">
+									<x>0</x>
+									<y>0</y>
+									<height>0</height>
+									<width>0</width>
+								</attribute>
+								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]</attribute>
+								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+								<attribute key="type" xsi:type="stringAttribute">div</attribute>
+							</attributes>
+						</identifyingAttributes>
+						<attributes>
+							<attributes>
+								<entry>
+									<key>shown</key>
+									<value xsi:type="xsd:string">true</value>
+								</entry>
+							</attributes>
+						</attributes>
+						<containedElements retestId="div-fd236">
+							<identifyingAttributes>
+								<attributes>
+									<attribute key="absolute-outline" xsi:type="outlineAttribute">
+										<x>8</x>
+										<y>21</y>
+										<height>284</height>
+										<width>1904</width>
+									</attribute>
+									<attribute key="class" xsi:type="stringAttribute">consent-container</attribute>
+									<attribute key="outline" xsi:type="outlineAttribute">
+										<x>0</x>
+										<y>0</y>
+										<height>0</height>
+										<width>0</width>
+									</attribute>
+									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]</attribute>
+									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+									<attribute key="type" xsi:type="stringAttribute">div</attribute>
+								</attributes>
+							</identifyingAttributes>
+							<attributes>
+								<attributes>
+									<entry>
+										<key>shown</key>
+										<value xsi:type="xsd:string">true</value>
+									</entry>
+								</attributes>
+							</attributes>
+							<containedElements retestId="yahoo_ist_teil">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>8</x>
+											<y>80</y>
+											<height>207</height>
+											<width>1904</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">consent-text</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>29</y>
+											<height>-38</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="text" xsi:type="textAttribute">Yahoo ist Teil von Verizon Media. Verizon Media und seine Partner benötigen Ihre Einwilligung, um auf Ihr Gerät zuzugreifen und Ihre Daten (einschließlich Standort) zu nutzen, um mehr über Ihre Interessen zu erfahren, personalisierte Anzeigen bereitzustellen und deren Effektivität zu messen. Verizon Media stellt außerdem personalisierte Anzeigen für Partnerprodukte bereit.</attribute>
+										<attribute key="type" xsi:type="stringAttribute">div</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+									</attributes>
+								</attributes>
+								<containedElements retestId="section">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>8</x>
+												<y>136</y>
+												<height>117</height>
+												<width>1904</width>
+											</attribute>
+											<attribute key="class" xsi:type="stringAttribute">learn-more-content hidden</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>28</y>
+												<height>-45</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">section</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+										</attributes>
+									</attributes>
+									<containedElements retestId="erfahren_sie">
+										<identifyingAttributes>
+											<attributes>
+												<attribute key="absolute-outline" xsi:type="outlineAttribute">
+													<x>8</x>
+													<y>235</y>
+													<height>18</height>
+													<width>1904</width>
+												</attribute>
+												<attribute key="outline" xsi:type="outlineAttribute">
+													<x>0</x>
+													<y>49</y>
+													<height>-49</height>
+													<width>0</width>
+												</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]</attribute>
+												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+												<attribute key="text" xsi:type="textAttribute">Erfahren Sie mehr darüber, wie</attribute>
+												<attribute key="type" xsi:type="stringAttribute">p</attribute>
+											</attributes>
+										</identifyingAttributes>
+										<attributes>
+											<attributes>
+												<entry>
+													<key>shown</key>
+													<value xsi:type="xsd:string">true</value>
+												</entry>
+											</attributes>
+										</attributes>
+										<containedElements retestId="partner_daten">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>598</x>
+														<y>235</y>
+														<height>17</height>
+														<width>247</width>
+													</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>295</x>
+														<y>0</y>
+														<height>0</height>
+														<width>-828</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]/a[2]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+													<attribute key="text" xsi:type="textAttribute">Partner Daten erfassen und verwenden</attribute>
+													<attribute key="type" xsi:type="stringAttribute">a</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>href</key>
+														<value xsi:type="xsd:string">https://consent.yahoo.com/collectConsent/partners?sessionId=3_cc-session_b23764dc-1f8a-44a3-8e9c-e310e03417ef&amp;lang=de-DE&amp;step=EU_SINGLEPAGE</value>
+													</entry>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+												</attributes>
+											</attributes>
+										</containedElements>
+										<containedElements retestId="und_wie_unsere">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>8</x>
+														<y>235</y>
+														<height>18</height>
+														<width>1904</width>
+													</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>0</x>
+														<y>49</y>
+														<height>-49</height>
+														<width>0</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]/textnode[2]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+													<attribute key="text" xsi:type="textAttribute">und wie unsere</attribute>
+													<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+													<entry>
+														<key>tab-index</key>
+													</entry>
+												</attributes>
+											</attributes>
+										</containedElements>
+										<containedElements retestId="erfahren_sie-77693">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>8</x>
+														<y>235</y>
+														<height>18</height>
+														<width>1904</width>
+													</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>0</x>
+														<y>49</y>
+														<height>-49</height>
+														<width>0</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]/textnode[1]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+													<attribute key="text" xsi:type="textAttribute">Erfahren Sie mehr darüber, wie</attribute>
+													<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+													<entry>
+														<key>tab-index</key>
+													</entry>
+												</attributes>
+											</attributes>
+										</containedElements>
+										<containedElements retestId="verizon_media">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>212</x>
+														<y>235</y>
+														<height>17</height>
+														<width>281</width>
+													</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>102</x>
+														<y>0</y>
+														<height>0</height>
+														<width>-811</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]/a[1]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+													<attribute key="text" xsi:type="textAttribute">Verizon Media Daten erfasst und verwendet</attribute>
+													<attribute key="type" xsi:type="stringAttribute">a</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>href</key>
+														<value xsi:type="xsd:string">https://consent.yahoo.com/redirect?to=https%3A%2F%2Fmydata.oath.com%2F%23sharingdata</value>
+													</entry>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+													<entry>
+														<key>target</key>
+														<value xsi:type="xsd:string">_blank</value>
+													</entry>
+												</attributes>
+											</attributes>
+										</containedElements>
+										<containedElements retestId="textnode">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>8</x>
+														<y>235</y>
+														<height>18</height>
+														<width>1904</width>
+													</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>0</x>
+														<y>49</y>
+														<height>-49</height>
+														<width>0</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[2]/textnode[3]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
+													<attribute key="text" xsi:type="textAttribute">.</attribute>
+													<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+													<entry>
+														<key>tab-index</key>
+													</entry>
+												</attributes>
+											</attributes>
+										</containedElements>
+									</containedElements>
+									<containedElements retestId="um_ihnen_insges">
+										<identifyingAttributes>
+											<attributes>
+												<attribute key="absolute-outline" xsi:type="outlineAttribute">
+													<x>8</x>
+													<y>183</y>
+													<height>36</height>
+													<width>1904</width>
+												</attribute>
+												<attribute key="outline" xsi:type="outlineAttribute">
+													<x>0</x>
+													<y>23</y>
+													<height>-40</height>
+													<width>0</width>
+												</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/p[1]</attribute>
+												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+												<attribute key="text" xsi:type="textAttribute">Um Ihnen insgesamt ein besseres Nutzererlebnis zu bieten, möchten wir relevante Anzeigen bereitstellen, die für Sie nützlicher sind. Wenn Sie z. B. nach einem bestimmten Film suchen, nutzen wir Ihre Suchdaten und Ihren Standort zur Anzeige von Kinos in Ihrer Nähe. Zudem nutzen wir diese Daten, um Ihnen Werbung für ähnliche Filme zu zeigen, die Ihnen vielleicht auch gefallen könnten. Wie bei Verizon Media zeigen Ihnen unsere Partner eventuell auch Werbung, von der sie annehmen, dass sie Ihren Interessen entspricht.</attribute>
+												<attribute key="type" xsi:type="stringAttribute">p</attribute>
+											</attributes>
+										</identifyingAttributes>
+										<attributes>
+											<attributes>
+												<entry>
+													<key>shown</key>
+													<value xsi:type="xsd:string">true</value>
+												</entry>
+											</attributes>
+										</attributes>
+									</containedElements>
+									<containedElements retestId="wie_verizon_med">
+										<identifyingAttributes>
+											<attributes>
+												<attribute key="absolute-outline" xsi:type="outlineAttribute">
+													<x>8</x>
+													<y>136</y>
+													<height>27</height>
+													<width>1904</width>
+												</attribute>
+												<attribute key="outline" xsi:type="outlineAttribute">
+													<x>0</x>
+													<y>0</y>
+													<height>-45</height>
+													<width>0</width>
+												</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/h2[1]</attribute>
+												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+												<attribute key="text" xsi:type="textAttribute">Wie Verizon Media und unsere Partner Ihnen bessere Werbung anbieten</attribute>
+												<attribute key="type" xsi:type="stringAttribute">h2</attribute>
+											</attributes>
+										</identifyingAttributes>
+										<attributes>
+											<attributes>
+												<entry>
+													<key>font-size</key>
+													<value xsi:type="xsd:string">24px</value>
+												</entry>
+												<entry>
+													<key>font-weight</key>
+													<value xsi:type="xsd:string">700</value>
+												</entry>
+												<entry>
+													<key>margin-bottom</key>
+													<value xsi:type="xsd:string">19.92px</value>
+												</entry>
+												<entry>
+													<key>margin-top</key>
+													<value xsi:type="xsd:string">19.92px</value>
+												</entry>
+												<entry>
+													<key>shown</key>
+													<value xsi:type="xsd:string">true</value>
+												</entry>
+											</attributes>
+										</attributes>
+									</containedElements>
+								</containedElements>
+								<containedElements retestId="lernen_sie_hier">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>545</x>
+												<y>98</y>
+												<height>17</height>
+												<width>191</width>
+											</attribute>
+											<attribute key="class" xsi:type="stringAttribute">expand-learn-more</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>268</x>
+												<y>9</y>
+												<height>-95</height>
+												<width>-856</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="text" xsi:type="textAttribute">Lernen Sie hier mehr darüber.</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+								<containedElements retestId="whlen_sie_ok">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>8</x>
+												<y>80</y>
+												<height>207</height>
+												<width>1904</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>29</y>
+												<height>-38</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/textnode[2]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+											<attribute key="text" xsi:type="textAttribute">Wählen Sie „OK“, um fortzufahren und Verizon Media und seinen Partnern zu erlauben, Ihre Daten zu verwenden, oder wählen Sie „Optionen verwalten“, um Ihre Auswahlmöglichkeiten anzuzeigen.</attribute>
+											<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>tab-index</key>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+								<containedElements retestId="yahoo_ist_teil-fe2c0">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>8</x>
+												<y>80</y>
+												<height>207</height>
+												<width>1904</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>29</y>
+												<height>-38</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/textnode[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="text" xsi:type="textAttribute">Yahoo ist Teil von Verizon Media. Verizon Media und seine Partner benötigen Ihre Einwilligung, um auf Ihr Gerät zuzugreifen und Ihre Daten (einschließlich Standort) zu nutzen, um mehr über Ihre Interessen zu erfahren, personalisierte Anzeigen bereitzustellen und deren Effektivität zu messen. Verizon Media stellt außerdem personalisierte Anzeigen für Partnerprodukte bereit.</attribute>
+											<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>tab-index</key>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+							</containedElements>
+							<containedElements retestId="bevor_sie_fortf">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>8</x>
+											<y>21</y>
+											<height>37</height>
+											<width>1904</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">consent-title</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>-123</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="text" xsi:type="textAttribute">Bevor Sie fortfahren...</attribute>
+										<attribute key="type" xsi:type="stringAttribute">h1</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="form">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>8</x>
+											<y>287</y>
+											<height>19</height>
+											<width>1904</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">consent-form</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>132</y>
+											<height>-132</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/form[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">form</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>action</key>
+											<value xsi:type="xsd:string">https://consent.yahoo.com/consent</value>
+										</entry>
+										<entry>
+											<key>method</key>
+											<value xsi:type="xsd:string">post</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+									</attributes>
+								</attributes>
+								<containedElements retestId="div-039be">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>8</x>
+												<y>287</y>
+												<height>19</height>
+												<width>1904</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/div[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">div</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+										</attributes>
+									</attributes>
+									<containedElements retestId="ok">
+										<identifyingAttributes>
+											<attributes>
+												<attribute key="absolute-outline" xsi:type="outlineAttribute">
+													<x>130</x>
+													<y>288</y>
+													<height>18</height>
+													<width>32</width>
+												</attribute>
+												<attribute key="class" xsi:type="stringAttribute">btn primary</attribute>
+												<attribute key="name" xsi:type="stringAttribute">agree</attribute>
+												<attribute key="outline" xsi:type="outlineAttribute">
+													<x>61</x>
+													<y>0</y>
+													<height>0</height>
+													<width>-936</width>
+												</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/div[1]/button[2]</attribute>
+												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+												<attribute key="text" xsi:type="textAttribute">OK</attribute>
+												<attribute key="type" xsi:type="stringAttribute">button</attribute>
+											</attributes>
+										</identifyingAttributes>
+										<attributes>
+											<attributes>
+												<entry>
+													<key>align-items</key>
+													<value xsi:type="xsd:string">flex-start</value>
+												</entry>
+												<entry>
+													<key>background-color</key>
+													<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+												</entry>
+												<entry>
+													<key>border-bottom-color</key>
+													<value xsi:type="xsd:string">rgb(186, 186, 186)</value>
+												</entry>
+												<entry>
+													<key>border-bottom-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-bottom-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-left-color</key>
+													<value xsi:type="xsd:string">rgb(209, 209, 209)</value>
+												</entry>
+												<entry>
+													<key>border-left-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-left-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-right-color</key>
+													<value xsi:type="xsd:string">rgb(209, 209, 209)</value>
+												</entry>
+												<entry>
+													<key>border-right-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-right-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-top-color</key>
+													<value xsi:type="xsd:string">rgb(216, 216, 216)</value>
+												</entry>
+												<entry>
+													<key>border-top-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-top-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>box-sizing</key>
+													<value xsi:type="xsd:string">border-box</value>
+												</entry>
+												<entry>
+													<key>caret-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>column-rule-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>display</key>
+													<value xsi:type="xsd:string">inline-block</value>
+												</entry>
+												<entry>
+													<key>font-family</key>
+													<value xsi:type="xsd:string">system-ui</value>
+												</entry>
+												<entry>
+													<key>font-size</key>
+													<value xsi:type="xsd:string">11px</value>
+												</entry>
+												<entry>
+													<key>min-height</key>
+													<value xsi:type="xsd:string">15px</value>
+												</entry>
+												<entry>
+													<key>outline-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>padding-bottom</key>
+													<value xsi:type="xsd:string">2px</value>
+												</entry>
+												<entry>
+													<key>padding-left</key>
+													<value xsi:type="xsd:string">7px</value>
+												</entry>
+												<entry>
+													<key>padding-right</key>
+													<value xsi:type="xsd:string">7px</value>
+												</entry>
+												<entry>
+													<key>padding-top</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>read-only</key>
+												</entry>
+												<entry>
+													<key>shown</key>
+													<value xsi:type="xsd:string">true</value>
+												</entry>
+												<entry>
+													<key>text-align</key>
+													<value xsi:type="xsd:string">center</value>
+												</entry>
+												<entry>
+													<key>text-decoration-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>type</key>
+													<value xsi:type="xsd:string">submit</value>
+												</entry>
+												<entry>
+													<key>value</key>
+													<value xsi:type="xsd:string">agree</value>
+												</entry>
+											</attributes>
+										</attributes>
+									</containedElements>
+									<containedElements retestId="optionen_verwal">
+										<identifyingAttributes>
+											<attributes>
+												<attribute key="absolute-outline" xsi:type="outlineAttribute">
+													<x>8</x>
+													<y>288</y>
+													<height>18</height>
+													<width>118</width>
+												</attribute>
+												<attribute key="class" xsi:type="stringAttribute">btn link</attribute>
+												<attribute key="name" xsi:type="stringAttribute">moreOptions</attribute>
+												<attribute key="outline" xsi:type="outlineAttribute">
+													<x>0</x>
+													<y>0</y>
+													<height>0</height>
+													<width>-893</width>
+												</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/form[1]/div[1]/button[1]</attribute>
+												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+												<attribute key="text" xsi:type="textAttribute">Optionen verwalten</attribute>
+												<attribute key="type" xsi:type="stringAttribute">button</attribute>
+											</attributes>
+										</identifyingAttributes>
+										<attributes>
+											<attributes>
+												<entry>
+													<key>align-items</key>
+													<value xsi:type="xsd:string">flex-start</value>
+												</entry>
+												<entry>
+													<key>background-color</key>
+													<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+												</entry>
+												<entry>
+													<key>border-bottom-color</key>
+													<value xsi:type="xsd:string">rgb(186, 186, 186)</value>
+												</entry>
+												<entry>
+													<key>border-bottom-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-bottom-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-left-color</key>
+													<value xsi:type="xsd:string">rgb(209, 209, 209)</value>
+												</entry>
+												<entry>
+													<key>border-left-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-left-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-right-color</key>
+													<value xsi:type="xsd:string">rgb(209, 209, 209)</value>
+												</entry>
+												<entry>
+													<key>border-right-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-right-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>border-top-color</key>
+													<value xsi:type="xsd:string">rgb(216, 216, 216)</value>
+												</entry>
+												<entry>
+													<key>border-top-style</key>
+													<value xsi:type="xsd:string">solid</value>
+												</entry>
+												<entry>
+													<key>border-top-width</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>box-sizing</key>
+													<value xsi:type="xsd:string">border-box</value>
+												</entry>
+												<entry>
+													<key>caret-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>column-rule-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>display</key>
+													<value xsi:type="xsd:string">inline-block</value>
+												</entry>
+												<entry>
+													<key>font-family</key>
+													<value xsi:type="xsd:string">system-ui</value>
+												</entry>
+												<entry>
+													<key>font-size</key>
+													<value xsi:type="xsd:string">11px</value>
+												</entry>
+												<entry>
+													<key>min-height</key>
+													<value xsi:type="xsd:string">15px</value>
+												</entry>
+												<entry>
+													<key>outline-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>padding-bottom</key>
+													<value xsi:type="xsd:string">2px</value>
+												</entry>
+												<entry>
+													<key>padding-left</key>
+													<value xsi:type="xsd:string">7px</value>
+												</entry>
+												<entry>
+													<key>padding-right</key>
+													<value xsi:type="xsd:string">7px</value>
+												</entry>
+												<entry>
+													<key>padding-top</key>
+													<value xsi:type="xsd:string">1px</value>
+												</entry>
+												<entry>
+													<key>read-only</key>
+												</entry>
+												<entry>
+													<key>shown</key>
+													<value xsi:type="xsd:string">true</value>
+												</entry>
+												<entry>
+													<key>text-align</key>
+													<value xsi:type="xsd:string">center</value>
+												</entry>
+												<entry>
+													<key>text-decoration-color</key>
+													<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
+												</entry>
+												<entry>
+													<key>type</key>
+													<value xsi:type="xsd:string">submit</value>
+												</entry>
+												<entry>
+													<key>value</key>
+													<value xsi:type="xsd:string">moreOptions</value>
+												</entry>
+											</attributes>
+										</attributes>
+									</containedElements>
+								</containedElements>
+							</containedElements>
+						</containedElements>
+					</containedElements>
+				</containedElements>
+			</containedElements>
+			<containedElements retestId="head">
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="absolute-outline" xsi:type="outlineAttribute">
+							<x>0</x>
+							<y>0</y>
+							<height>0</height>
+							<width>0</width>
+						</attribute>
+						<attribute key="outline" xsi:type="outlineAttribute">
+							<x>0</x>
+							<y>0</y>
+							<height>-157</height>
+							<width>-960</width>
+						</attribute>
+						<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]</attribute>
+						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+						<attribute key="type" xsi:type="stringAttribute">head</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>shown</key>
+							<value xsi:type="xsd:string">false</value>
+						</entry>
+					</attributes>
+				</attributes>
+				<containedElements retestId="meta">
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="absolute-outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]/meta[1]</attribute>
+							<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+							<attribute key="type" xsi:type="stringAttribute">meta</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">IE=edge,chrome=1</value>
+							</entry>
+							<entry>
+								<key>http-equiv</key>
+								<value xsi:type="xsd:string">X-UA-Compatible</value>
+							</entry>
+							<entry>
+								<key>shown</key>
+								<value xsi:type="xsd:string">false</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedElements>
+				<containedElements retestId="yahoo_ist_jetzt">
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="absolute-outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]/title[1]</attribute>
+							<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+							<attribute key="text" xsi:type="textAttribute">Yahoo ist jetzt Teil von Verizon Media</attribute>
+							<attribute key="type" xsi:type="stringAttribute">title</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>shown</key>
+								<value xsi:type="xsd:string">false</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedElements>
+				<containedElements retestId="meta-7fe95">
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="absolute-outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="name" xsi:type="stringAttribute">viewport</attribute>
+							<attribute key="outline" xsi:type="outlineAttribute">
+								<x>0</x>
+								<y>0</y>
+								<height>0</height>
+								<width>0</width>
+							</attribute>
+							<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]/meta[2]</attribute>
+							<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+							<attribute key="type" xsi:type="stringAttribute">meta</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover</value>
+							</entry>
+							<entry>
+								<key>shown</key>
+								<value xsi:type="xsd:string">false</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedElements>
+			</containedElements>
+			<screenshot>
+				<persistenceId>html_2d680d602603797ffdd552907027f8e6022cb2ba6c5b19910ef74a4bfb091794</persistenceId>
+				<type>PNG</type>
+			</screenshot>
+		</descriptors>
+	</data>
+</reTestXmlDataContainer>
