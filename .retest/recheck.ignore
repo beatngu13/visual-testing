@@ -1,5 +1,22 @@
-# Ignore all data attributes.
-attribute-regex=data-.*
+# Ignore various (mostly invisible) elements and attributes.
+attribute=absolute-outline
+attribute=alt
+attribute=ftime
+attribute=href
+attribute=id
+attribute=name
+attribute=src
+attribute=style
+attribute=tab-index
+attribute=tabindex
+attribute=transform
+attribute=opacity
 
-# Ignore pixel diffs up to 20 pixels.
-pixel-diff=20
+attribute-regex=aria-.*
+attribute-regex=data-.*
+attribute-regex=margin-.*
+
+matcher: type=meta
+
+# Ignore pixel diffs up to 25 pixels.
+pixel-diff=25
