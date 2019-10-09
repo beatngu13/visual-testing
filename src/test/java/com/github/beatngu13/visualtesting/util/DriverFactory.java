@@ -34,13 +34,15 @@ public class DriverFactory {
 
 	private static ChromeDriver newChromeDriver() {
 		final var options = new ChromeOptions() //
-				.addArguments("--window-size=1920,1080");
+				.addArguments("--window-size=1920,1080") //
+				.setHeadless(true);
 		return new ChromeDriver(options);
 	}
 
 	private static FirefoxDriver newFirefoxDriver() {
 		final var options = new FirefoxOptions() //
-				.addArguments("--width=1920", "--height=1080");
+				.addArguments("--width=1920", "--height=1080") //
+				.setHeadless(true);
 		return new FirefoxDriver(options);
 	}
 
