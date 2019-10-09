@@ -38,11 +38,11 @@ msn.com
 stackoverflow.com
 whatsapp.com
 ok.ru
+paypal.com
 pinterest.com
 quora.com
 sogou.com
 samsung.com
-accuweather.com
 ampproject.org
 bitly.com
 sm.cn
