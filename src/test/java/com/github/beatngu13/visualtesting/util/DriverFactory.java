@@ -21,10 +21,8 @@ public class DriverFactory {
 	 * @return All {@code WebDriver}s to test with.
 	 */
 	public static Stream<Supplier<WebDriver>> getAll() {
-		final Supplier<WebDriver> chrome = () -> wrap(
-				new ChromeDriver(new ChromeOptions().addArguments("--window-size=1920,1080")));
-		final Supplier<WebDriver> firefox = () -> wrap(
-				new FirefoxDriver(new FirefoxOptions().addArguments("--width=1920", "--height=1080")));
+		final Supplier<WebDriver> chrome = () -> wrap(newChromeDriver());
+		final Supplier<WebDriver> firefox = () -> wrap(newFirefoxDriver());
 		return Stream.of(chrome, firefox);
 	}
 
@@ -32,6 +30,18 @@ public class DriverFactory {
 		final EventFiringWebDriver wrapper = new EventFiringWebDriver(driver);
 		wrapper.register(new StatisticsListener());
 		return wrapper;
+	}
+
+	private static ChromeDriver newChromeDriver() {
+		final var options = new ChromeOptions() //
+				.addArguments("--window-size=1920,1080");
+		return new ChromeDriver(options);
+	}
+
+	private static FirefoxDriver newFirefoxDriver() {
+		final var options = new FirefoxOptions() //
+				.addArguments("--width=1920", "--height=1080");
+		return new FirefoxDriver(options);
 	}
 
 	/**
