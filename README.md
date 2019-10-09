@@ -20,7 +20,7 @@ The benchmark suite consists of offline versions of the 50 [most popular website
 1. sohu.com
 1. jd.com
 1. live.com
-1. instagram.com
+1. soso.com
 1. vk.com	
 1. weibo.com
 1. reddit.com
