@@ -1,0 +1,58 @@
+.fireman109-title,
+.fireman109-box-bg-in {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.fireman109-box-bg-in {
+    background-color: #FFF;
+}
+
+.fireman109-bg {
+    background-image: url('./fireman109-bg.jpg');
+    background-position: center 0;
+    background-repeat: no-repeat;
+}
+
+.fireman109-title {
+    height: 96px;
+    position: relative;
+    background-image: url('./fireman109-title.png');
+    background-position: left 35px;
+    background-repeat: no-repeat;
+}
+
+.fireman109-off {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 44px;
+    height: 14px;
+    z-index: 2;
+    background-image: url('./fireman109-off.png');
+    background-position: center 0;
+    background-repeat: no-repeat;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+
+/* 
+  解决中间区域无法完整显示国旗和天安门背景的问题 
+*/
+
+
+/* .fireman109-bg {
+    background-size: 100% auto;
+}
+
+.fireman109-title {
+    transition: height .5s;
+}
+
+@media (max-width: 1550px) {
+    .fireman109-title {
+        height: 180px;
+    }
+} */

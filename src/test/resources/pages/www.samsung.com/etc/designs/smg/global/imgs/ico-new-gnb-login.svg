@@ -1,0 +1,24 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">.st0{fill:#010101;}.st1{fill:#070404;}.st2{clip-path:url(#SVGID_2_);}</style>
+<g>
+	<circle class="st0" cx="10" cy="5.6" r="4.9"/>
+	<path class="st1" d="M10,11.2c-3.1,0-5.6-2.5-5.6-5.6S6.9,0,10,0s5.6,2.5,5.6,5.6S13.1,11.2,10,11.2z M10,1.5
+		c-2.3,0-4.2,1.9-4.2,4.2S7.7,9.8,10,9.8s4.2-1.9,4.2-4.2S12.3,1.5,10,1.5z"/>
+</g>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0.1" y="11.6" width="19.8" height="8.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+		</clipPath>
+		<g class="st2">
+			<path class="st0" d="M1,19.9c1.3-3.5,4.8-6.1,8.9-6.1c5.2,0,9.4,4,9.4,9s-4.2,9-9.4,9s-9.4-4-9.4-9C0.5,21.8,0.7,20.8,1,19.9"/>
+			<path class="st1" d="M10,32.8c-5.6,0-10.2-4.5-10.2-10c0-1.1,0.2-2.3,0.6-3.3l0,0c1.4-4,5.3-6.6,9.6-6.6c5.6,0,10.2,4.5,10.2,10
+				C20.2,28.3,15.6,32.8,10,32.8z M1.7,20.3c-0.3,0.8-0.4,1.7-0.4,2.6c0,4.5,3.9,8.1,8.7,8.1s8.7-3.6,8.7-8.1s-3.9-8.1-8.7-8.1
+				C6.2,14.8,2.9,17,1.7,20.3L1.7,20.3z"/>
+		</g>
+	</g>
+</g>
+</svg>

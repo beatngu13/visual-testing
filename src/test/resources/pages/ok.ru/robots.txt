@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cdk/*
+Disallow: *jsessionid*
+Disallow: *tkn/*
+Disallow: /mapi?*
+Disallow: /?ffsputnik=*
+Disallow: /?_erv=*
+Disallow: /?sputnik=*
+Disallow: /?cat=*
+Disallow: *st.redirect*
+Disallow: *cmd=logExternal*
+Disallow: *?fromTime=*
+Disallow: *?cmd*
+Clean-param: st.cmd&st.layer.cmd&st._forceSetHistory&st._aid */ok.ru
+Sitemap: https://ok.ru/sitemap.xml.gz

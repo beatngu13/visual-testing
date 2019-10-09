@@ -1,0 +1,2862 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="publishid" content="1192641.0.98.0"/>
+<meta name="nodeid" content="0"/>
+<meta name="nodename" content="" />
+
+<meta property="fb:pages" content="338109312883186" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<script src="http://www.xinhuanet.com/global/js/pageCore.js"></script>
+<title>新华网_让新闻离你更近</title>
+<meta name="keywords" content="新闻中心,时政,人事任免,国际,地方,香港,台湾,澳门,华人,军事,图片,财经,政权,股票,房产,汽车,体育,奥运,法治,廉政,社会,科技,互联网,教育,文娱,电视剧,电影,视频,访谈,直播,专题" />
+<meta name="description" content="中国主要重点新闻网站,依托新华社遍布全球的采编网络,记者遍布世界100多个国家和地区,地方频道分布全国31个省市自治区,每天24小时同时使用6种语言滚动发稿,权威、准确、及时播发国内外重要新闻和重大突发事件,受众覆盖200多个国家和地区,发展论坛是全球知名的中文论坛。" />
+<meta name="uctk" content="enabled" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.xinhuanet.com/desk_icon.png" />
+<script type="text/javascript">
+/* var userAgent = navigator.userAgent.toLowerCase(),
+     l = window.location;
+ var platform;
+ if (userAgent == null || userAgent == '' || (l.href.indexOf('f=pad') != -1)) {
+     platform = 'web'
+ } else {
+     if (userAgent.indexOf("mi pad") != -1 || userAgent.indexOf("xiaomi/miuibrowser") != -1 || userAgent.indexOf(
+             "ipad") != -1) {
+         platform = 'pad';
+         //location.href = "http://www.news.cn/ipad/index.htm" ;
+     } else if (userAgent.match(/iphone/i) || userAgent.match(/iphone os/i) || userAgent.match(/android/i) ||
+         userAgent.match(/windows mobile/i) || userAgent.match(/ucweb/i)) {
+         platform = 'phone'
+             //location.href = "http://www.news.cn/webmobile.htm";
+         location.href = "http://m.news.cn";
+     } else if (userAgent.indexOf('gecko') > -1 && userAgent.indexOf('khtml') == -1 && userAgent.indexOf('firefox') ==
+         -1 && userAgent.indexOf('11.0') == -1) {
+         platform = 'other mobile';
+         //location.href = "http://www.news.cn/webmobile.htm";
+         location.href = "http://m.news.cn";
+     }
+ }*/
+!function(_url){
+var ua = navigator.userAgent.toLowerCase(),
+isM = ua.indexOf("mobile")!==-1,
+l = window.location.href,
+stopPc = l.indexOf("f=pad") !== -1
+;
+if(isM && !stopPc ) window.location.href = _url || "http://m.news.cn";
+}("http://m.news.cn")
+
+</script>
+<link rel="stylesheet" href="http://www.xinhuanet.com/index20181112/homepage.css" />
+<link rel="stylesheet" href="http://www.xinhuanet.com/fireman19-109/fireman109.css" />
+<style>
+/*页面变灰*/
+/*html { -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: url("data:image/svg+xml;utf8,
+<svg xmlns="\'http://www.w3.org/2000/svg\'">
+<filter id="\'grayscale\'"><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter>
+</svg>
+#grayscale"); filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)
+}*/
+/*-- 小头条编辑自定义小图标 begin --*/
+.icon-cff9900 { position: relative; display: inline-block; vertical-align: middle; height: 16px; line-height: 16px; margin: 0 3px; background-color: #ff9900; color: #fff; font-size: 12px; }
+.icon-cff9900:before, .icon-cff9900:after { position: absolute; top: 0; z-index: 10; display: block; width: 3px; height: 100%; }
+.icon-cff9900:before { content: url("http://www.xinhuanet.com/2015/img2015/20171107icon_lhxzc_left_ff9900.png"); left: -3px; }
+.icon-cff9900:after { content: url("http://www.xinhuanet.com/2015/img2015/20171107icon_lhxzc_right_ff9900.png"); right: -3px; }
+/*-- 小头条编辑自定义小图标 end --*/
+/*修改底部备案图标位置*/
+#footerBody .icon { margin-left: 439px; }
+/*修改名族品牌广告位置*/
+.tempad20180124 { top: 391px; }
+.tempad20180124 { top: 1300px; position:absolute}
+.tempad20180124 iframe { margin-top: 0; }
+</style>
+<!--民族品牌抱框样式-->
+<!--<style>
+.fireman109-box-bg-in {z-index: 999;position: relative;}
+.mzpp { position:absolute; width:100%; height:624px; top:0;background: #fff url("http://imgs.xinhuanet.com/ad/20180115_bg_global.jpg") 50% 0 no-repeat; z-index:1; text-indent:-9999em;}
+</style>-->
+<style>
+/* 2018-03-07 跳转到两会右下角icon*/
+.tolhicon0307 { position: fixed; right: 95px; bottom: 40px; display: block; height: 170px; width: 140px; z-index: 999; background: url("http://www.newsimg.cn/politics/2018lh/00307/images/lh2018_tolh0307icon.png") 50% 50% no-repeat; animation-name: jello0; transform-origin: center; animation-duration: 2.6s; animation-fill-mode: both; animation-iteration-count: infinite; }
+@keyframes jello0 {  0% {
+transform: scale3d(0.8, 0.8, 1);
+opacity: 0.6;
+}
+50% {
+transform: scale3d(1, 1, 1);
+opacity: 0.9;
+}
+100% {
+transform: scale3d(0.8, 0.8, 1);
+opacity: 0.6;
+}
+}
+#headLine h1 a { font-size: 28px; overflow: hidden; }
+#headLine h1 { margin: 0 0 8px 0; overflow: hidden; }
+#kwScroll { width: 300px; /* width: 170px;*/  height: 22px; overflow: hidden; position: absolute; top: 8px; /*right: 135px;*/ right: 0;}
+#englishNews {
+margin-top:25px;
+}
+#englishNews .tabsTit {
+height: 33px;
+padding-left: 1px;
+position: relative;
+z-index: 1;
+border-top: 1px solid #e1e1e1;
+}
+#englishNews .tabsTit li {
+float: left;
+height: 33px;
+line-height: 33px;
+padding: 0 5px;
+font-family: \5FAE\8F6F\96C5\9ED1;
+color: #707070;
+background: #fff;
+border: none;
+position: relative;
+margin-left: -1px;
+cursor: pointer;
+}
+#englishNews .tabsTit li em {
+color: #d2d2d2;
+padding-left: 5px;
+}
+#englishNews .tabsTit .tabsT a {
+line-height: 33px;
+font-family: \5FAE\8F6F\96C5\9ED1;
+color: #11649a;
+font-size: 16px;
+}
+#englishNews .tabsTit li.on {
+height: 31px;
+font-size: 17px;
+border-top: 2px solid #11649a;
+color: #0e649a;
+top: -2px;
+}
+#englishNews .tabsTit .on a {
+font-size: 16px;
+color: #11649a;
+}
+#englishNews .tabsTit .tabR {
+float: right;
+height: 33px;
+line-height: 33px;
+padding: 0px;
+border: none;
+border-top: 1px solid #fff;
+}
+#englishNews .englishNewsCon {
+height:200px;
+}
+#englishNews .englishNewsCon img{
+float:left;
+margin-right:10px;
+display:none;
+}
+#englishNews .englishNewsCon .picTxt{
+margin-bottom:8px;
+line-height:24px;
+margin-top:8px;
+}
+#englishNews .englishNewsCon .picTxt a{
+font-weight:bold;
+color:#305798;
+font-family:Arial;
+}
+#englishNews .englishNewsCon li{
+position:relative;
+line-height:24px;
+padding-left:10px;
+}
+#englishNews .englishNewsCon li a{
+font-family:Arial;
+}
+#englishNews .englishNewsCon li:before {
+content: "";
+width: 3px;
+height: 3px;
+background: #18397c;
+position: absolute;
+left: 0;
+top: 13px;
+-webkit-border-radius: 100%;
+-moz-border-radius: 100%;
+border-radius: 100%;
+}
+.lhiframe { height: 1010px;}
+#headerBody .case .selectList{ height:100px!important;}
+/*@media screen and (max-width: 1600px) {
+.lhiframe { height: 1280px;}
+}*/
+@media screen and (max-width: 1900px) {
+#productBody { display:none;}
+}
+#headLine .part1 {
+padding-right: 240px;
+}
+#headLine .hots a {
+display: inline-block;
+height: 24px;
+line-height: 24px;
+vertical-align: middle;
+margin-right:4px;
+font-size: 16px;
+color: #305798;
+font-family:"微软雅黑";
+}
+.focusWordBlue{ height:auto;}
+#headLine .part2L .focusWordBlue{ height:auto;}
+.dataList01 li{ height:auto;}
+#headLine .part2L{ height:auto;}
+#focusItem .dataList01{ height:auto; margin-bottom:1px;}
+#headLine .part2L .ts02 {
+color: #305798;
+font-weight:normal;
+font-size:16px;
+font-family:"微软雅黑"
+}
+#headLine .part2L .ts03 {
+color: #073683 ;
+font-weight:normal;
+font-size:14px;
+}
+#navBody .secNav .cols01{ width:100%;}
+#navBody .secNav .cols01 .item{ width:auto; margin-right:30px;}
+#navBody .colsItem li a{ display:inline-block;}
+#navBody .secNav{ height:25px;}
+#navBody .secNav .colsItem{ margin:0 0 0 20px;}
+#headLine{ padding-top:25px;}
+body{ min-width:1200px;}
+</style>
+<fjtignoreurl>
+<script type="text/javascript" src="http://www.xinhuanet.com/global/lib/jq/jquery1.12.4/jquery1.12.4.js"></script>
+</fjtignoreurl>
+</head>
+<body>
+<script>
+(function(){
+    function setIframeHeight(id){
+    try{
+        var iframe = document.getElementById(id);
+        if(iframe.attachEvent){
+            iframe.attachEvent("onload", function(){
+                iframe.height =  iframe.contentWindow.document.documentElement.scrollHeight;
+ console.log(iframe.height)
+            });
+            return;
+        }else{
+            iframe.onload = function(){
+                iframe.height = iframe.contentDocument.body.scrollHeight;
+ console.log(iframe.height)
+            };
+            return;                 
+        }     
+    }catch(e){
+        throw new Error('setIframeHeight Error');
+    }
+}
+    setIframeHeight('celebrate');
+})()
+</script>
+<div id="boxBg">
+<!--民族品牌抱框-开始--> 
+<!--<a href="http://www.xinhuanet.com/tech/zt/index/mzppcbgc.htm" target="_blank" class="mzpp">民族品牌</a>--> 
+<!--民族品牌抱框-结束-->
+<div class="fireman109-box-bg-in">
+<!--<div class="lh2017banner"><a href="http://www.xinhuanet.com/politics/2017lh/index.htm" target="_blank"><img src="http://www.xinhuanet.com/lh2017/2017lhbanner.jpg"></a></div>--> 
+<!--首页包框HTML--> 
+<!--<a href="http://catalog.raysdata.com/?uri=www.indonesia.travel/zh-cn/post/five-bali-s-delicious-souvenirs-you-wouldn-t-want-to-miss-out-on" target="_blank" id="bkTop"></a> 
+<a href="http://catalog.raysdata.com/?uri=www.indonesia.travel/zh-cn/post/five-bali-s-delicious-souvenirs-you-wouldn-t-want-to-miss-out-on" target="_blank" id="bkLeft"></a> 
+<a href="http://catalog.raysdata.com/?uri=www.indonesia.travel/zh-cn/post/five-bali-s-delicious-souvenirs-you-wouldn-t-want-to-miss-out-on" target="_blank" id="bkRight"></a> 
+<a href="javascript:" id="bkCloseLeft">关闭</a> <a href="javascript:" id="bkCloseRight">关闭</a>--> 
+<!--广告ad-全屏收缩-->
+<div class="domPC" id="div_show_ad_1" style="margin:0 auto; width:1000px;">
+<script sid="813" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+</div>
+<!--广告ad-首页包框--> 
+<ins data-ycad-slot="748"></ins>
+<div style="background-color:#ffffff; width:1000px; margin:auto;">
+<!-- 顶部广告-->
+<div id="topAdv">
+<div class="textAd">
+<a href="http://paper.news.cn" target="_blank">新华社报刊网</a><a href="http://www.xhsyww.com/" target="_blank">新华社印务网</a><a href="http://www.xinhuanet.com/food/zt/yili2020/index.htm" target="_blank">伊利营养2020公益</a><a href="http://www.xinhuanet.com/culture/2019-02/21/c_1124146680.htm" target="_blank">新华文化招募合作伙伴</a><a href="http://www.xinhuanet.com/tech/2019-08/30/c_1124942835.htm" target="_blank">新华网渠道事业部招聘启事</a><a href="http://www.xinhuanet.com/energy/2019-08/21/c_1124902138.htm" target="_blank">隆基股份：领先背后的逻辑与方法论</a><a href="http://www.xinhuanet.com/energy/2019-08/28/c_1124933274.htm" target="_blank">中科电力坚守实业</a><a href="http://cic.xinhuaphoto.org/index.php?s=/List/index/cid/6.html" target="_blank">第三届中国图片大赛</a><a href="http://www.xinhuanet.com/food/2018-09/30/c_1123509069.htm" target="_blank">新华网快消事业部招聘启事</a>
+</div>
+<!--AdForward Begin:-->
+<div class="imgsAd clearfix">
+<div class="imgsAdL">
+<!--广告ad-按钮一--> 
+<script sid="749" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+</div>
+<div class="imgsAdC">
+<!--广告ad-通栏一--> 
+<script sid="136" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+</div>
+<div class="imgsAdR">
+<!--广告ad-按钮二--> 
+<script sid="750" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+</div>
+</div>
+<!--AdForward End--> 
+</div>
+<!-- 顶部工具栏-->
+<style>
+/* ani */
+@-webkit-keyframes opcaity {
+from {
+opacity: 0;
+}
+to {
+opacity: 1;
+}
+}
+@keyframes opcaity {
+from {
+opacity: 0;
+}
+to {
+opacity: 1;
+}
+}
+.sidebar-btn-open-top {
+-webkit-animation: opcaity 1.5s infinite;
+animation: opcaity 1.5s infinite;
+}
+@-webkit-keyframes opcaity2 {
+from {
+opacity: 1;
+}
+to {
+opacity: 0;
+}
+}
+@keyframes opcaity2 {
+from {
+opacity: 1;
+}
+to {
+opacity: 0;
+}
+}
+.sidebar-btn-open-bottom {
+-webkit-animation: opcaity2 0.7s infinite;
+animation: opcaity2 0.7s infinite;
+}
+.topNav{ height:44px; line-height:44px; background:#1d71b7;}
+.topNav a{ color:#fff; font-family:Arial; margin:0 11px;}
+</style>
+<div id="topBody">
+<div class="topCont clearfix">
+<ul class="topL clearfix">
+<li class="slogan"> <a><img src="http://www.xinhuanet.com/2015/img2015/slogan.png" alt="新华网，让新闻离你更近！" /></a> </li>
+<li> <a class="sidebar-btn-open-top" style="padding-left:10px; line-height:10px; padding-top:1px;color:#1978bd;" target="_blank" href="http://www.xinhuanet.ltd">公司官网</a> <span class="sidebar-btn-open-top" style="color:#1978bd; font-size:12px; padding-left:10px;">股票代码：</span> <span class="sidebar-btn-open-top" style="color:#1978bd; font-size:14px; font-weight:600; font-family:Arial;">603888</span> </li>
+<li id="langBody">
+<!--<i class="icon iconFlagCH"></i>--> 
+<!--<a class="langS" href="english/" target="_blank" title="">ENGLISH</a> <i class="icon iconDownArrow" ></i>-->
+<div class="dragList">
+<div class="listItem"> <a href="/home.htm" target="_blank" title="">中文/简体</a> </div>
+<div class="listItem"> <a href="english" target="_blank" title="">ENGLISH</a> </div>
+<div class="listItem"> <a href="http://spanish.xinhuanet.com/index.htm" target="_blank" title="">Español</a> </div>
+<div class="listItem"> <a href="http://french.news.cn/" target="_blank" title="">Français</a> </div>
+<div class="listItem"> <a href="http://big5.xinhuanet.com/gate/big5/www.news.cn/" target="_blank" title="">中文/繁体</a> </div>
+<div class="listItem"> <a href="http://russian.news.cn/" target="_blank" title="">Русский язык</a> </div>
+<div class="listItem"> <a href="http://jp.xinhuanet.com/" target="_blank" title="">日本語</a> </div>
+<div class="listItem"> <a href="http://arabic.news.cn/" target="_blank" title="">عربى</a> </div>
+<div class="listItem"> <a href="http://kr.xinhuanet.com/" target="_blank" title="">한국어</a> </div>
+<div class="listItem"> <a href="http://german.xinhuanet.com" target="_blank" title="">Deutsch</a> </div>
+<div class="listItem"> <a href="http://portuguese.xinhuanet.com/index.htm" target="_blank" title="">Português</a> </div>
+<div class="listItem"> <a href="http://mn.news.cn/" target="_blank" title="">Монгол</a> </div>
+<div class="listItem"> <a href="http://uyghur.news.cn/" target="_blank" title="">维吾尔语</a> </div>
+<div class="listItem"> <a href="http://xizang.news.cn/" target="_blank" title="">藏文</a> </div>
+<div class="listItem toMenggu"> <a href="http://mongolian.news.cn/" target="_blank" title=""></a> </div>
+</div>
+</li>
+<li>
+<!--<a target="_blank" href="http://wza.xinhuanet.com/wza/xinhuanet/yixuan/yixuan_head/index.html" title="">无障碍</a>-->&nbsp;&nbsp;&nbsp;&nbsp; 
+</li>
+<li> <a target="_blank" href="https://mail.xinhuanet.com/" title="">邮箱</a> </li>
+<li> <a target="_blank" href="wzdt2014.htm" title="">网站导航</a> </li>
+<li id="xhsearch" style="display:none">
+<a>搜索</a>
+<div class="clearfix form" id="f1">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="inputwd" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c" />
+<div id="searchSubmit" type="submit" class="submitBtn icon iconSearchBtn" name="btn" value=""></div>
+</div>
+<!--<form class="clearfix" target="_blank" id="f1" name="f1" action="http://news.chinaso.com/search" onSubmit="document.charset='utf-8';">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="inputwd" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c">
+<input type="submit" class="icon iconZgSearch ss_submit" value="中国搜索">
+ </form>--> 
+</li>
+</ul>
+</div>
+<div class="topNav"> <a href="english" target="_blank" title="">English</a><a href="http://spanish.xinhuanet.com/index.htm" target="_blank" title="">Español</a><a href="http://french.news.cn/" target="_blank" title="">Français</a><a href="http://arabic.news.cn/" target="_blank" title="">عربى</a><a href="http://russian.news.cn/" target="_blank" title="">Русский язык</a><a href="http://jp.xinhuanet.com/" target="_blank" title="">日本語</a><a href="http://kr.xinhuanet.com/" target="_blank" title="">한국어</a><a href="http://german.xinhuanet.com" target="_blank" title="">Deutsch</a><a href="http://portuguese.xinhuanet.com/index.htm" target="_blank" title="">Português</a><a href="http://mn.news.cn/" target="_blank" title="">Монгол</a><a href="http://big5.xinhuanet.com/gate/big5/www.news.cn/" target="_blank" title="">中文/繁体</a><a href="http://uyghur.news.cn/" target="_blank" title=""><img src="http://www.xinhuanet.com/images/weiwueryu.jpg" alt="" /></a><a href="http://xizang.news.cn/" target="_blank" title="">བོད་ཡིག</a><a href="http://mongolian.news.cn/" target="_blank"><img src="http://www.xinhuanet.com/images/mengwen.jpg" alt="" /></a> </div>
+</div>
+<!-- headerBody-->
+<div id="headerBody" class="clearfix">
+<div class="headerL logo"> <a href="/home.htm"> <img src="http://www.news.cn/2014/images/xh_logo.png" width="140" height="109" alt="新华网" /> </a> </div>
+<div class="headerC adv" id="adBody01">
+<!--广告ad-旗帜--> 
+<!--<img src="http://www.news.cn/2015/img2015/banner_slogan.png" >-->
+<script sid="134" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+<!--<ul class="bd">
+<li>
+    <iframe class="wloadIframeAD" frameborder="0" width="500" height="70" scrolling="no" marginwidth="0" marginheight="0" src="" data-original="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|Hp13|HpMd01_01&amp;db=xinhuanet&amp;border=0&amp;local=yes"></iframe>
+</li>
+<li><img src="http://www.news.cn/2015/img2015/banner_slogan.png" alt="" /></li>
+</ul>--> 
+</div>
+<div class="headerR" id="headerR">
+<div class="headerRT clearfix">
+<div class="reportItem" style="position: relative; width: 114px; height: 28px;">
+<div class="report01" style="position: absolute; width: 114px; left: 0px; top: 0px;"> <a target="_blank" href="http://www.12377.cn/node_548446.htm" title="网络举报App下载"> </a> </div>
+<div class="report02"> <a target="_blank" href="http://www.12377.cn/" title="中国互联网举报中心"> </a> </div>
+<div class="report03"> <a target="_blank" href="http://report.12377.cn:13225/toreportinputNormal_anis.do" title="网上有害信息举报专区"></a> </div>
+<div class="report04"> <a target="_blank" href="http://www.xinhuanet.com/jblc/c.htm" title="网上举报流程" title="网上举报流程"></a> </div>
+<div class="report05"> <a target="_blank" href="http://www.xinhuanet.com/jbzx/a.htm" title="网上举报专区" title="网上举报专区"></a> </div>
+<!--<div class="report03"> <a target="_blank" href="http://www.12377.cn/" title="网络敲诈和有偿删帖举报"> </a> </div>--> 
+</div>
+<div class="channel">
+<div id="xhNewspapers" class="comSelect xhNewspapers">
+<a class="selected" title=""> 新华报刊 </a> <span class="downBtn"> <i class="icon iconDownArrow"> </i> </span>
+<ul class="selectList clearfix">
+<li class="option"> <a href="http://mrdx.xinhuanet.com/" target="_blank"> 新华每日电讯 </a> </li>
+<li class="option"> <a href="http://jjckb.xinhuanet.com/" target="_blank"> 经济参考 </a> </li>
+<li class="option"> <a href="http://www.banyuetan.org/" target="_blank"> 半月谈 </a> </li>
+<li class="option"> <a href="http://www.cs.com.cn/" target="_blank"> 中证报 </a> </li>
+<li class="option"> <a href="http://www.cnstock.com/" target="_blank"> 上证报 </a> </li>
+<li class="option"> <a href="globe/globe.htm" target="_blank"> 环球 </a> </li>
+<li class="option"> <a href="http://ihl.cankaoxiaoxi.com/" target="_blank"> 国际先驱导报 </a> </li>
+<li class="option"> <a href="http://paper.news.cn/bkdy/zgjz.htm" target="_blank"> 中国记者 </a> </li>
+<!--<li class="option"> <a href="http://www.xdkb.net/" target="_blank"> 现代快报 </a> </li>-->
+<li class="option"> <a href="http://www.chinatopbrands.net/index.htm" target="_blank"> 中国名牌 </a> </li>
+<li class="option"> <a href="http://www.scimedia.cn/" target="_blank"> 中国传媒科技 </a> </li>
+<!--<li class="option"> <a href="http://dzb.jinbaonet.com/" target="_blank"> 现代金报 </a> </li>-->
+<li class="option"> <a href="http://lw.xinhuanet.com/" target="_blank"> 瞭望 </a> </li>
+<li class="option"> <a href="http://paper.news.cn/bkdy/lwdf.htm" target="_blank"> 瞭望东方周刊 </a> </li>
+<!--<li class="option"> <a href="http://www.jinbaonet.com/" target="_blank"> 现代金报网站 </a> </li>-->
+<li class="option"> <a href="http://www.chnphoto.cn/" target="_blank"> 中国图品在线 </a> </li>
+<li class="option"> <a href="http://www.cankaoxiaoxi.com/" target="_blank"> 参考消息 </a> </li>
+<li class="option"> <a href="http://www.xinhuapub.com" target="_blank"> 新华出版社 </a> </li>
+<li class="option"> <a href="http://www.lwinst.com/" target="_blank"> 财经国家周刊 </a> </li>
+</ul>
+</div>
+<div id="localChannels" class="comSelect">
+<a class="selected" title=""> 地方频道 </a> <span class="downBtn"> <i class="icon iconDownArrow"> </i> </span>
+<ul class="selectList clearfix">
+<li class="option"> <a href="http://www.bj.xinhuanet.com/" target="_blank"> 北京 </a> </li>
+<li class="option"> <a href="http://www.tj.xinhuanet.com/" target="_blank"> 天津 </a> </li>
+<li class="option"> <a href="http://www.he.xinhuanet.com/" target="_blank"> 河北 </a> </li>
+<li class="option"> <a href="http://www.sx.xinhuanet.com/" target="_blank"> 山西 </a> </li>
+<li class="option"> <a href="http://www.ln.xinhuanet.com/" target="_blank"> 辽宁 </a> </li>
+<li class="option"> <a href="http://www.jl.xinhuanet.com/" target="_blank"> 吉林 </a> </li>
+<li class="option"> <a href="http://www.sh.xinhuanet.com/" target="_blank"> 上海 </a> </li>
+<li class="option"> <a href="http://www.js.xinhuanet.com/" target="_blank"> 江苏 </a> </li>
+<li class="option"> <a href="http://www.zj.xinhuanet.com/" target="_blank"> 浙江 </a> </li>
+<li class="option"> <a href="http://www.ah.xinhuanet.com/" target="_blank"> 安徽 </a> </li>
+<li class="option"> <a href="http://www.fj.xinhuanet.com/" target="_blank"> 福建 </a> </li>
+<li class="option"> <a href="http://www.jx.xinhuanet.com/" target="_blank"> 江西 </a> </li>
+<li class="option"> <a href="http://www.sd.xinhuanet.com/" target="_blank"> 山东 </a> </li>
+<li class="option"> <a href="http://www.ha.xinhuanet.com/" target="_blank"> 河南 </a> </li>
+<li class="option"> <a href="http://www.hb.xinhuanet.com/" target="_blank"> 湖北 </a> </li>
+<li class="option"> <a href="http://www.hn.xinhuanet.com/" target="_blank"> 湖南 </a> </li>
+<li class="option"> <a href="http://www.gd.xinhuanet.com/" target="_blank"> 广东 </a> </li>
+<li class="option"> <a href="http://www.gx.xinhuanet.com/" target="_blank"> 广西 </a> </li>
+<li class="option"> <a href="http://www.hq.xinhuanet.com/" target="_blank"> 海南 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.cq.xinhuanet.com/"> 重庆 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.sc.xinhuanet.com/"> 四川 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.gz.xinhuanet.com/"> 贵州 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.yn.xinhuanet.com/"> 云南 </a> </li>
+<li class="option"> <a target="_blank" href="http://tibet.news.cn/"> 西藏 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.sn.xinhuanet.com/"> 陕西 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.gs.xinhuanet.com/"> 甘肃 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.qh.xinhuanet.com/"> 青海 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.nx.xinhuanet.com/"> 宁夏 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.xj.xinhuanet.com/"> 新疆 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.nmg.xinhuanet.com/"> 内蒙古 </a> </li>
+<li class="option"> <a target="_blank" href="http://www.hlj.xinhuanet.com/"> 黑龙江 </a> </li>
+<li class="option"> <a target="_blank" href="http://bt.xinhuanet.com/"> 兵团 </a> </li>
+<li class="option"> <a target="_blank" href="http://wx.xinhuanet.com/"> 无锡 </a> </li>
+<li class="option"> <a target="_blank" href="http://csj.xinhuanet.com/"> 长三角 </a> </li>
+<!--<li class="option" style="display:none;"> <a target="_blank" href="http://www.haixinews.com.cn/"> 海西网 </a> </li>-->
+<li class="option"> <a target="_blank" href="http://www.hsdnews.cn/"> 河北协同发展网 </a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="headerRB case clearfix" id="caseItem">
+<ul class="clearfix">
+<li> <a href="http://www.gov.cn/" target="_blank"> 中国政府网 </a> </li>
+<li> <a href="http://www.wenming.cn/" target="_blank"> 中国文明网 </a> </li>
+<li> <a href="http://www.emerinfo.cn/" target="_blank">中国应急信息网</a> </li>
+<li><a href="http://www.xiongan.gov.cn/" target="_blank"> 中国雄安官网 </a></li>
+</ul>
+<div class="controlBtn icon iconDownArrow">
+<ul class="selectList clearfix">
+<li class="option"><a href="http://www.piyao.org.cn/" target="_blank">中国互联网联合辟谣平台</a></li>
+<li class="option"><a href="http://www.zgjx.cn/" target="_blank"> 中国记协网 </a></li>
+<li class="option" style=" visibility:hidden"><a href="http://www.zgjx.cn/" target="_blank"> 中华新闻传媒网 </a></li>
+<li class="option"><a href="http://www.cngongji.cn/" target="_blank"> 国家公祭网 </a></li>
+<li class="option"> <a href="science" target="_blank"> 科普中国 </a> </li>
+<li class="option"> <a href="http://www.nea.gov.cn/" target="_blank"> 国家能源局网站 </a> </li>
+<li class="option"> <a href="http://www.chinaneast.gov.cn/" target="_blank"> 振兴东北网 </a> </li>
+<li class="option"> <a href="http://www.gjxfj.gov.cn/" target="_blank"> 国家信访局网站 </a> </li>
+<li class="option"> <a href="http://www.asean-china-center.org/" target="_blank"> 中国-东盟中心网站 </a> </li>
+<li class="option"> <a href="http://www.nncc626.com/" target="_blank"> 中国禁毒网 </a> </li>
+<li class="option"> <a href="http://www.nationalreading.org.cn/" target="_blank"> 全民阅读官方网站 </a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- 主导航 -->
+<div id="navBody">
+<div class="navCont clearfix">
+<ul class="colsItem cols01">
+<li class="total"> <a target="_blank" href="politics" title=""> 时政 </a> </li>
+<li class="item"> <a target="_blank" href="local/index.htm" title=""> 地方 </a> </li>
+<li class="item"> <a target="_blank" href="legal/index.htm" title=""> 法治 </a> </li>
+<li class="total"> <a target="_blank" href="politics/leaders/index.htm" title=""> 高层 </a> </li>
+<li class="item"> <a target="_blank" href="renshi/index.htm" title=""> 人事 </a> </li>
+<li class="item"> <a target="_blank" href="politics/xhll.htm" title="">理论</a> </li>
+</ul>
+<ul class="colsItem cols02">
+<li class="total"> <a target="_blank" href="world/index.htm" title=""> 国际 </a> </li>
+<li class="item"> <a target="_blank" href="mil/index.htm" title=""> 军事 </a> </li>
+<li class="item"> <a target="_blank" href="video/xhft.htm" title=""> 访谈 </a> </li>
+<li class="total"> <a target="_blank" href="gangao/index.htm" title=""> 港澳 </a> </li>
+<li class="item"> <a target="_blank" href="tw/index.htm" title=""> 台湾 </a> </li>
+<li class="item"> <a target="_blank" href="video/xinhuaradio/index.htm" title=""> 广播 </a> </li>
+</ul>
+<ul class="colsItem cols03">
+<li class="total"> <a target="_blank" href="fortune" title=""> 财经 </a> </li>
+<li class="item"> <a target="_blank" href="auto/index.htm" title=""> 汽车 </a> </li>
+<li class="item"> <a target="_blank" href="house/index.htm" title=""> 房产 </a> </li>
+<li class="total"> <a target="_blank" href="http://education.news.cn/" title=""> 教育 </a> </li>
+<li class="item"> <a target="_blank" href="tech/index.htm" title=""> 科技 </a> </li>
+<li class="item"> <a target="_blank" href="energy/index.htm" title=""> 能源 </a> </li>
+</ul>
+<ul class="colsItem cols04">
+<li class="total"> <a target="_blank" href="http://forum.home.news.cn/index.jsp" title=""> 论坛 </a> </li>
+<li class="item"> <a target="_blank" href="http://sike.news.cn/" title=""> 思客 </a> </li>
+<li class="item"> <a target="_blank" href="comments/index.htm" title=""> 网评 </a> </li>
+<li class="total"> <a target="_blank" href="photo/index.htm" title=""> 图片 </a> </li>
+<li class="item"> <a target="_blank" href="video/index.htm" title=""> 视频 </a> </li>
+<li class="item"> <a target="_blank" href="caipiao/index.htm" title=""> 彩票 </a> </li>
+</ul>
+<ul class="colsItem cols05">
+<li class="total"> <a target="_blank" href="http://ent.news.cn/" title=""> 娱乐 </a> </li>
+<li class="item"> <a target="_blank" href="money/index.htm" title=""> 金融 </a> </li>
+<li class="item"> <a target="_blank" href="sports" title=""> 体育 </a> </li>
+<li class="total"> <a target="_blank" href="food/index.htm" title=""> 食品 </a> </li>
+<li class="item">    <a target="_blank" href="enterprise/index.htm" title=""> 公司 </a> </li>
+<li class="item"> <a target="_blank" href="health" title=""> 健康 </a> </li>
+</ul>
+<ul class="colsItem cols06">
+<li class="total" style="width:60px"> <a target="_blank" href="info/index.htm" title=""> 信息化 </a> </li>
+<li class="item"> <a target="_blank" href="datanews/index.htm" title=""> 数据 </a> </li>
+<li class="item"> <a target="_blank" href="culture/" title=""> 文化 </a> </li>
+<li class="item" style=" color:#fff; width:75px;"> <a target="_blank" href="fashion/index.htm" title="">时尚</a>/<a target="_blank" href="http://book.news.cn/" title="">悦读</a> </li>
+<li class="total" style="width:60px"> <a target="_blank" href="http://uav.xinhuanet.com" title="">无人机</a> </li>
+<li class="item"> <a target="_blank" href="gongyi/index.htm" title=""> 公益 </a> </li>
+<li class="item"> <a style="" target="_blank" href="travel/" title=""> 旅游 </a> </li>
+<li class="item" style="width:60px;"> <a style="" target="_blank" href="silkroad/index.htm" title=""> 一带一路 </a> </li>
+</ul>
+<div class="secNav">
+<ul class="colsItem cols01">
+<li class="item"> <a target="_blank" href="lianzheng" title="">反腐</a> </li>
+<li class="item" style="width:68px;"> <a target="_blank" href="xhsd/index.htm" title="">新华深度</a> </li>
+<li class="item"> <a target="_blank" href="http://www.xinhuanet.com/world/hqlft2017/" title="">寰球</a> </li>
+<li class="item"> <a target="_blank" href="http://www.xinhuanet.com/asia/chinese/index.htm" title="">亚太网</a> </li>
+<li class="item"> <a target="_blank" href="http://sg.xinhuanet.com/" title="">新加坡</a> </li>
+<li class="item"> <a target="_blank" href="finance/" title=""> 证券 </a> </li>
+<li class="item"> <a target="_blank" href="finance/tzzjyfwjd/index.htm" title="">投教基地</a> </li>
+<li class="item"> <a style="color:#f00;" target="_blank" href="xhwq/index.htm" title="">网群</a> </li>
+<li class="item"> <a target="_blank" href="shuhua/index.htm" title="">书画</a> </li>
+<li class="item"> <a target="_blank" href="expo" title="">会展</a> </li>
+<li class="item"> <a target="_blank" href="http://sike.news.cn/tank" title="">智库</a> </li>
+<li class="item"> <a target="_blank" href="foto" title="">摄影</a> </li>
+<li class="item "> <a target="_blank" href="info/spsy/index.htm" title="">溯源中国</a> </li>
+<li class="item"> <a style="color:#f00" target="_blank" href="wzdt2014.htm" title="">网站地图</a> </li>
+</ul>
+</div>
+<div class="moreBtn icon iconDownArrowWhite"> </div>
+</div>
+</div>
+</div>
+<!--习大大出访区块--> 
+<!--<div style="background:url(http://www.xinhuanet.com/photo/xfbanner0616/111.jpg) 50% 0 no-repeat; height:424px;"><a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpcf1606/index.htm" target="_blank" style="display:block; width:100%; height:100%;"></a></div>--> 
+<!--习大20161011出访--> 
+<!--<div class="temp_iframe_20161011" style="width:100%;height:710px;padding-top:10px;">
+<iframe frameborder="0" scrolling="no" style="display:block;width:1000px; margin:0 auto;height:100%;" src="http://www.xinhuanet.com/iframe_xzq20180823.htm"></iframe>
+</div>--> 
+<!--<iframe frameborder="0" scrolling="no" style="display:block;width:1000px; margin:10px auto;height:700px;" src="http://www.xinhuanet.com/iframe_xcffh20181122.htm"></iframe>--> 
+<!-- 头条区 -->
+<div id="headLine">
+<style>
+.unReadNum {
+display: none!important;
+width: 29px;
+height: 29px;
+line-height: 29px;
+background: url(http://www.xinhuanet.com/2015/img2015/dotRed.png) no-repeat;
+position: absolute;
+z-index: 999;
+top: 117px;
+left: 50%;
+margin-left: -550px;
+text-align: center;
+}
+.unReadNum .num {
+width: 100%;
+font-size: 14px;
+color: #fff;
+font-family: \5FAE\8F6F\96C5\9ED1;
+display: block;
+line-height: 29px;
+text-align: center;
+}
+</style>
+<div class="unReadNum"> <span class="num">10+</span> <span class="num2" style="display:none;">11</span> </div>
+<!-- part1 --> 
+<!--默认样式-->
+<div class="part1" id="hpart1" style="display:none;">
+<div id="headArea">
+<h1>
+<span id="syhistoryid" data-fontsize=" " data-titimgsrc="" data-url="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm">              <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">习近平会见所罗门群岛总理索加瓦雷</a>    </span>
+<div id="fonts" style="display: none;">30px</div>
+<div id="colors" style="display: none;"></div>
+<div id="headType" style="display: none;"></div>
+</h1>
+<div class="hots">
+<p><a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125082749.htm" target="_blank">习近平：友好不分先后 中所建交顺应时代潮流</a> <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">共同开辟两国关系发展的美好未来</a></p>
+<a target="_blank" href="http://www.news.cn/gdtt/index.htm" class="moreNews">更多头条>></a> 
+</div>
+</div>
+<div id="skxw" class="skxw">
+<ul class="bd clearfix">
+<li> <a target="_blank" href="politics/xxjxs"><img src="http://www.news.cn/2015/img2015/xxjxs.jpg" alt="" /></a> </li>
+<li> <a target="_blank" href="politics/leaders/index.htm"><img src="http://www.news.cn/2015/img2015/ldrbdj.jpg" alt="" /></a> </li>
+</ul>
+<ul class="hd">
+</ul>
+</div>
+</div>
+<!--标题两行样式-->
+<div class="part1" id="hpart1_a" style="display:none;">
+<div id="headArea">
+<h1>
+<span id="syhistoryid" data-fontsize=" " data-titimgsrc="" data-url="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm">              <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">习近平会见所罗门群岛总理索加瓦雷</a>    </span>
+</h1>
+<div class="hots">
+<p><a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125082749.htm" target="_blank">习近平：友好不分先后 中所建交顺应时代潮流</a> <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">共同开辟两国关系发展的美好未来</a></p>
+<a target="_blank" href="http://www.news.cn/gdtt/index.htm" class="moreNews">更多头条>></a> 
+</div>
+</div>
+<div id="skxw_a" class="skxw">
+<ul class="bd clearfix">
+<li> <a target="_blank" href="politics/xxjxs"><img src="http://www.news.cn/2015/img2015/xxjxs.jpg" alt="" /></a> </li>
+<li> <a target="_blank" href="politics/leaders/index.htm"><img src="http://www.news.cn/2015/img2015/ldrbdj.jpg" alt="" /></a> </li>
+</ul>
+<ul class="hd">
+</ul>
+</div>
+</div>
+<!--标题3行，右侧专题图竖向排列-->
+<div class="part1" id="hpart1_b" style="display:none">
+<div id="headArea">
+<h1>
+<span id="syhistoryid" data-fontsize=" " data-titimgsrc="" data-url="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm">              <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">习近平会见所罗门群岛总理索加瓦雷</a>    </span>
+</h1>
+<div class="hots">
+<p><a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125082749.htm" target="_blank">习近平：友好不分先后 中所建交顺应时代潮流</a> <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">共同开辟两国关系发展的美好未来</a></p>
+<a target="_blank" href="http://www.news.cn/gdtt/index.htm" class="moreNews">更多头条>></a> 
+</div>
+</div>
+<div id="skxw_b" class="skxw">
+<p> <a target="_blank" href="politics/xxjxs"><img src="http://www.news.cn/2015/img2015/xxjxs.jpg" alt="" /></a> </p>
+<p> <a target="_blank" href="politics/leaders/index.htm"><img src="http://www.news.cn/2015/img2015/ldrbdj.jpg" alt="" /></a> </p>
+</div>
+</div>
+<!--标题通栏显示，右侧无图片-->
+<div class="part1" id="hpart1_c" style="display:none;">
+<div id="headArea">
+<h1>
+<span id="syhistoryid" data-fontsize=" " data-titimgsrc="" data-url="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm">              <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">习近平会见所罗门群岛总理索加瓦雷</a>    </span>
+</h1>
+<div class="hots">
+<p><a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125082749.htm" target="_blank">习近平：友好不分先后 中所建交顺应时代潮流</a> <a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083461.htm" target="_blank">共同开辟两国关系发展的美好未来</a></p>
+<a target="_blank" href="http://www.news.cn/gdtt/index.htm" class="moreNews">更多头条>></a> 
+</div>
+</div>
+</div>
+<script>
+var h1fs = $.trim($('#fonts').html());
+var h1cl = $.trim($('#colors').html());
+var hltype = $.trim($('#headType').html());
+var headarea1 = $("#hpart1");
+var headarea2 = $("#hpart1_a");
+var headarea3 = $("#hpart1_b");
+var headarea4 = $("#hpart1_c");
+
+//设置颜色字号
+if (h1fs.indexOf("px") >= 0) {
+	$('#headArea h1 a,#headArea_a h1 a,#headArea_b h1 a,#headArea_c h1 a').css({
+		"font-size": h1fs
+	});
+}
+if (h1cl.indexOf("red") >= 0) {
+	$('#headArea h1 a,#headArea_a h1 a,#headArea_b h1 a,#headArea_c h1 a').css({
+		"color": "#db000a"
+	});
+	$('#headLine .hots a,#headLine_a .hots a,#headLine_b .hots a,#headLine_c .hots a').css({
+		"color": "#db000a"
+	});
+}
+
+//设置显示的区块
+if(hltype==1){
+	//头条可2行或更多，右侧有专题图
+	$("#headLine .part1").hide();
+	headarea2.show();
+}else if(hltype==2){
+	//头条可3行或更多，右侧有专题图竖向排列
+	$("#headLine .part1").hide();
+	headarea3.show();
+}else if(hltype==3){
+	//头条可3行或更多，右侧有专题图竖向排列
+	$("#headLine .part1").hide();
+	headarea4.show();
+}else{
+	headarea1.show();
+}
+
+
+
+
+
+/*switch (hltype) {
+	case 1:
+		//头条可2行或更多，右侧有专题图
+		//console.log("hltypehltype"+hltype)
+		headarea1.hide();
+		headarea2.show();
+		headarea3.hide();
+		break
+	case 2:
+		//头条可2行或更多，右侧有专题图
+		headarea1.hide();
+		headarea2.hide();
+		headarea3.show();
+		break
+	default:							
+		break
+}*/
+
+
+               
+
+/* 侯 头条代码
+
+! function(window, document) {
+                   (function() {
+                       if (String.prototype.trim) return;
+                       String.prototype.trim = function trim(s) {
+                           return this.replace(/(^\s*)|(\s*$)/g, "");
+                       };
+                   })()
+                   var hpart1 = document.querySelector("#hpart1"),
+                       hpart1_class = hpart1.getAttribute("class") || "",
+                       syhistoryid = hpart1.querySelector("#syhistoryid"),
+                       syhistoryid_class = syhistoryid.getAttribute("class") || "",
+                       hots = hpart1.querySelector(".hots"),
+                       hots_class = hots.getAttribute("class") || "",
+                       moreNews = hpart1.querySelector("#headLine .hots .moreNews"),
+                       moreNews_class = moreNews.getAttribute("class") || "",
+                       tempData = parseInt(syhistoryid.getAttribute("data-fontsize").trim()),
+                       needSmallFont = isNaN(tempData) === true ? 0 : tempData,
+                       big_tit_img = document.createElement("img"),
+                       big_tit_a = document.createElement("a"),
+                       img_url = syhistoryid.getAttribute("data-titimgsrc") || "",
+                       a_url = syhistoryid.getAttribute("data-url") || "",
+                       newImg;
+                   // if(needSmallFont) syhistoryid.setAttribute("class",syhistoryidClass+" head-linea-small-font");
+                   switch (needSmallFont) {
+                       case 1:
+                           //头条文字增多，最多24px*30个汉字；
+                           //摘要文字不变，最多12px*62个汉字；
+                           syhistoryid.setAttribute("class",syhistoryid_class+" font-size-twenty-four");
+                           break
+                       case 2:
+                          // 头条不变，最多30px*24个汉字；
+                          // 摘要字体变大，最多22px*32个汉字；
+                          // 高度90px & 不显示 “更多头条”；
+                           //头条和摘要间距有变化；
+                           hpart1.setAttribute("class", hpart1_class + " ninty");
+                           hots.setAttribute("class", hots_class + " font-size-twenty-two height-fix width-auto");
+                           moreNews.setAttribute("class", moreNews_class + " none");
+                           break
+                       case 3:
+                           //头条和摘要同大；
+                           //头条，最多30px*24个汉字；
+                           //摘要，最多30px*24个汉字；字体加粗；
+                           //高度100px & 不显示 “更多头条”；
+                           //头条和摘要间距有变化；
+                           hots.setAttribute("class", hots_class + " font-size-thirty height-fix width-auto");
+                           hpart1.setAttribute("class", hpart1_class + " one-hundered-height");
+                           moreNews.setAttribute("class", moreNews_class + " none");
+                           break
+                       case 4:
+                           
+                           //摘要大于头条；
+                           //头条，最多22px*32个汉字；
+                           //摘要，最多30px*24个汉字；字体加粗；
+                           //高度100px & 不显示 “更多头条”；
+                           //头条和摘要间距有变化；
+                           
+                           hots.setAttribute("class", hots_class + " font-size-thirty height-fix width-auto");
+                           syhistoryid.setAttribute("class", syhistoryid_class + " font-size-twenty-two");
+                           hpart1.setAttribute("class", hpart1_class + " one-hundered-height");
+                           moreNews.setAttribute("class", moreNews_class + " none");
+                           break
+                       case 5:
+                           
+                           //大头条变为图片；
+                           //图片加链接；
+                           //摘要不变；
+                           
+                           syhistoryid.innerHTML = "";
+                           big_tit_a.target = "_blank";
+                           big_tit_a.href = a_url;
+                           big_tit_img.src = img_url;
+                           big_tit_a.appendChild(big_tit_img);
+                           syhistoryid.appendChild(big_tit_a);
+                           syhistoryid.setAttribute("class", syhistoryid_class + " .tittoimg");
+                           break;
+                       default:
+                           break
+                           
+                           //没有发副题,保持默认状态；
+                           //头条最多30px*24个汉字；
+                           //摘要最多12px*62个汉字；
+                           
+                   }
+               }(window, document)
+
+*/
+           
+</script> 
+<!-- part2 -->
+<div class="part2 clearfix">
+<!-- 视频关闭按钮 -->
+<div class="videoCloseBtn"></div>
+<div class="videoCloseBtnX"></div>
+<!-- 左侧头条 -->
+<div class="part2L" id="hpart2L">
+<h3 class="focusWordBlue focusWordBlueOne">
+<i></i> 
+<a href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125083569.htm" target="_blank">习近平会见巴基斯坦总理伊姆兰·汗</a>
+</h3>
+<ul class="dataList01">
+<li><i></i><a class="ts" href="http://www.xinhuanet.com/politics/leaders/2019-10/09/c_1125082742.htm" target="_blank">习近平将赴印度出席中印领导人非正式会晤并对尼泊尔进行国事访问</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/politics/70zn/index.htm" target="_blank"><span class="icon icon9"></span></a><a href="http://www.xinhuanet.com/comments/2019-10/09/c_1125081286.htm" target="_blank">读懂"国之大典"的三重深意</a> <a href="http://www.news.cn/nzzt/111/index.htm" target="_blank">新华社系列评论</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083252.htm" target="_blank">给投资者吃上定心丸！</a><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083714.htm" target="_blank">优化营商环境绝非权宜之计</a></li>
+</ul>
+<h3 class="focusWordBlue focusWordBlueTwo">
+<i></i> 
+<a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082778.htm" target="_blank">中国经贸代表团抵美,这个回合会怎样?</a>
+</h3>
+<ul class="dataList01">
+<li><i></i><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125083006.htm" target="_blank">美粗暴干涉我新疆事务祸心昭著</a> <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080573.htm" target="_blank">这套路，很熟悉</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/world/2019-10/08/c_1125080228.htm" target="_blank">外交部谈NBA事件:合作却不了解中国民意，行不通</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/gangao/2019-10/08/c_1125080054.htm" target="_blank">暴徒无法无天 特区政府决心止暴制乱</a> <a href="http://www.xinhuanet.com/gangao/2019-10/08/c_1125080334.htm" target="_blank">救救孩子！</a></li>
+</ul>
+<h3 class="focusWordBlue focusWordBlueThree">
+<i></i> 
+<a href="http://fms.news.cn/swf/2019_qmtt/10_8_2019_qm_z/index.html" target="_blank">难忘的世园记忆</a> <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083723.htm" target="_blank">"绿色盛宴"永不落幕</a>
+</h3>
+<ul class="dataList01">
+<li><i></i><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125083274.htm" target="_blank">全面就绪！世界军人运动会吹响开幕“集结号”</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/politics/2019-10/09/c_1125082639.htm" target="_blank">太阳照耀“人类童年” 直过民族，决战脱贫攻坚!</a></li>
+<li><i></i><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083357.htm" target="_blank">房贷利率正式“换锚” 个人房贷利率如何变化？</a></li>
+</ul>
+</div>
+<!-- 大图聚焦 -->
+<div class="part2R focusBox" id="focusBoxBody">
+<div class="focusTitle">全媒体播放器</div>
+<div class="playVideo">
+<div id="player_container"></div>
+</div>
+<div class="focusBoxWrap">
+<ul class="pic">
+<li class="ok"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=930c5d529d8508633f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305339.htm" target="_blank"><img src="titlepic/112508/1125082573_1570590748924_title0h.jpg" width="651" height="365" alt="习近平讲述的故事 | 好官冯梦龙" /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=11796d8532eb2fb93f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080327.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125080415_1570584271091_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083709.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125083770_1570610868743_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=dbe0f4576e6f7b573f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/video/gjxcd2j/index.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112507/1125071728_1570170195163_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=121b50603459b95d3f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305058.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125081465_1570583465578_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=e4925a468321814b3f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/video/2019-10/08/c_1210304292.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112507/1125079318_1570522333873_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://my-h5news.app.xinhuanet.com/h5/video.html?articleId=eb12d4df5d7408a838f12d3ebaf45f35&amp;" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125080992_1570581469183_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="https://player.v.news.cn/api/v1/getPlayPage?uuid=1_1a20e72966714fc295a9d816818dc691&amp;vid=a64c8709e64522433f7f6e673a93af98&amp;playType=0">视频MP4地址</a></i><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305398.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125082726_1570594536310_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1210305272.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125082563_1570590518927_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/health/2019-10/08/c_1125079934.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125082043_1570586570983_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="https://www.business.hsbc.com.cn/zh-cn/assist-now-main" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125081412_1570583201019_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/money/2019-09/26/c_1210293809.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112504/1125047734_1569552638023_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://c.gridsumdissector.com/r/?gid=gad_393_mtmmdim3&amp;u=http://stats.dmp.ghac.cn/clk?e=xzv_FxQamw4ixjtCjcmA2x4BW5fS9Okb5IZxEavc16h.Zv_q63&amp;u=__URL__;;?https://www.ghac.cn/vehicles/honda/odyssey-sporthybrid?adcode=671fc2d4c2ca4fb1885bf791839a9732" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112507/1125077696_1570498079196_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125078758.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112507/1125079103_1570520001990_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125079258.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112508/1125080998_1570581129352_title0h.jpg /></a></li>
+<li style="display:none;"><i class="iframeSrc"></i><i class="videoPlayBtn"><a href="">视频MP4地址</a></i><a href="http://www.xinhuanet.com/photo/2019-10/05/c_1125073205.htm" target="_blank"><img class="lazyload" width=651 height=365 src="" data-original=http://www.xinhuanet.com/titlepic/112507/1125073238_1570258953812_title0h.jpg /></a></li>
+</ul>
+</div>
+<span class="pageBtn icon btnPrev"></span> <span class="pageBtn icon btnNext"></span>
+<div class="txt">
+<ul>
+<li style="bottom:0px;"><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305339.htm" target="_blank">习近平讲述的故事 | 好官冯梦龙</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080327.htm" target="_blank">难忘的“世园记忆” 共同的绿色追求——写在北京世园会闭幕之际</a></li>
+<li><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083709.htm" target="_blank">太阳照耀“人类童年”——新时代直过民族脱贫攻坚纪事</a></li>
+<li><a href="http://www.xinhuanet.com/video/gjxcd2j/index.htm" target="_blank">国家相册第二季第24集《我爱天安门》</a></li>
+<li><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305058.htm" target="_blank">60万米高空看青海，是什么体验？</a></li>
+<li><a href="http://www.xinhuanet.com/video/2019-10/08/c_1210304292.htm" target="_blank">直播联合国 | 破茧之蝶</a></li>
+<li><a href="http://my-h5news.app.xinhuanet.com/h5/video.html?articleId=eb12d4df5d7408a838f12d3ebaf45f35&amp;" target="_blank">【百岁记忆·世纪回眸】柯仲光：按下“嘀嗒嘀嗒” 奏响胜利凯歌的电报员</a></li>
+<li><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305398.htm" target="_blank">有话｜音乐制作人阿鲲带你品味听起来“很好吃”的音乐</a></li>
+<li><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1210305272.htm" target="_blank">夜间经济实录：跟我们到成都街头走一走 </a></li>
+<li><a href="http://www.xinhuanet.com/health/2019-10/08/c_1125079934.htm" target="_blank">第三届健康投资创新生态大会在京召开</a></li>
+<li><a href="https://www.business.hsbc.com.cn/zh-cn/assist-now-main" target="_blank">让传唱中的洪湖 重新绽放生命力</a></li>
+<li><a href="http://www.xinhuanet.com/money/2019-09/26/c_1210293809.htm" target="_blank">70年巨变 了不起的中国 不一样的邮政</a></li>
+<li><a href="http://c.gridsumdissector.com/r/?gid=gad_393_mtmmdim3&amp;u=http://stats.dmp.ghac.cn/clk?e=xzv_FxQamw4ixjtCjcmA2x4BW5fS9Okb5IZxEavc16h.Zv_q63&amp;u=__URL__;;?https://www.ghac.cn/vehicles/honda/odyssey-sporthybrid?adcode=671fc2d4c2ca4fb1885bf791839a9732" target="_blank">广汽本田奥德赛锐·混动</a></li>
+<li><a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125078758.htm" target="_blank">“金九银十”装修热，如何打造智慧舒适家居？</a></li>
+<li><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125079258.htm" target="_blank">长江上首座双层公路大桥通车</a></li>
+<li><a href="http://www.xinhuanet.com/photo/2019-10/05/c_1125073205.htm" target="_blank">江南古村“晒秋”引客来</a></li>
+</ul>
+</div>
+<ul class="num">
+</ul>
+</div>
+</div>
+<!-- part3 -->
+<div class="part3 clearfix">
+<div class="part3L">
+<div id="adBody02" style="width: 316px; height: 80px; margin-bottom: 20px; margin-top: -42px; overflow:hidden;">
+<!--<a href="http://www.xinhuanet.com/politics/ggkf40/" target="_blank"><img src="http://www.xinhuanet.com/2018111740years/images/40years.jpg"></a> --> 
+<!--广告ad-小通栏--> 
+<!-- 临时广告 -->
+<style>
+.part3LAd{ width:315px; height:80px; overflow:hidden; position:relative; }
+.part3LAd .bd{ position:relative; height:100%; z-index:0;   }
+.part3LAd .bd li{ zoom:1; vertical-align:middle; }
+.part3LAd .bd img{ width:315px; height:80px; display:block;  }
+</style>
+<div id="part3LAd" class="part3LAd">
+<div class="bd">
+<ul>
+<li><a href="http://www.xinhuanet.com/politics/70zn/index.htm" target="_blank"><img src="titlepic/112507/1125078404_1570503539398_title0h.jpg" width="315" height="80" border="0" alt="新中国成立70周年" /></a></li>
+<li><a href="http://www.xinhuanet.com/book/zhuanti/ztjyts/index.htm" target="_blank"><img src="titlepic/112469/1124692491_1561942478654_title0h.jpg" width="315" height="80" border="0" alt="新时代 新经典" /></a></li>
+<li><a href="http://www.xinhuanet.com/politics/bwcxljsm" target="_blank"><img src="titlepic/112458/1124585883_1560153267405_title0h.jpg" width="315" height="80" border="0" alt="不忘初心 牢记使命" /></a></li>
+<li><a href="http://news.cn/fortune/lhzt/n4.htm" target="_blank"><img src="titlepic/112450/1124500822_1557969847305_title0h.jpg" width="315" height="80" border="0" alt="聚焦中国经济亮点" /></a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019syh" target="_blank"><img src="titlepic/112441/1124412119_1556439366773_title0h.png" width="315" height="80" border="0" alt="北京世园会" /></a></li>
+<li><a href="http://www.xinhuanet.com/sike/liveun/index.htm" target="_blank"><img src="titlepic/112430/1124300513_1553844743599_title0h.jpg" width="315" height="80" border="0" alt="直播联合国" /></a></li>
+<li><a href="http://news.cn/fortune/lhzt/n3.htm" target="_blank"><img src="titlepic/112439/1124398481_1555901059787_title0h.png" width="315" height="80" border="0" alt="推动高质量发展调研行" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="hudong">
+<ul class="dataList01">
+<li><a href="http://www.news.cn/comments/index.htm" target="_blank"><span class="col">[每日热评]</span></a><a href="http://www.xinhuanet.com/comments/2019-10/09/c_1125081286.htm" target="_blank">透过这扇“瞭望之窗”，读懂了什么</a></li>
+<li><a href="http://www.news.cn/comments/index.htm" target="_blank"><span class="col">[新华网评]</span></a><a href="http://www.xinhuanet.com/comments/2019-10/09/c_1125082900.htm" target="_blank">以自我革命永葆政治本色 推进伟大工程</a></li>
+<li><a href="http://www.news.cn/comments/index.htm" target="_blank"><span class="col">[每日一评]</span></a><a href="http://www.xinhuanet.com/comments/2019-10/09/c_1125080757.htm" target="_blank">政府大院假日开放停车，这个可以有</a></li>
+<li><a href="http://sike.news.cn" target="_blank"><span class="col">[思客]</span></a><a href="http://sike.news.cn/statics/sike/posts/2019/10/219550499.html" target="_blank">今年的国庆档，和往年比有什么不同？</a></li>
+</ul>
+</div>
+</div>
+<div class="part3R" id="hpart3R">
+<div class="borders" id="newAVItem">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<h3 class="name"> <a href="datanews/index.htm" target="_blank">数据新闻</a> · <a href="video/xinhuaradio" target="_blank">新华广播</a> </h3>
+<span class="nameEng">Infographics · Audio</span> 
+</div>
+<div class="right">
+<div class="dataList10 clearfix" id="hotword">
+<a class="kwTitle">热词:</a>
+<div id="kwScroll">
+<ul id="gd_content" class="newestList clearfix">
+<li><a href="http://www.xinhuanet.com/world/2019-10/08/c_1125080228.htm" target="_blank">NBA事件</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/08/c_1125080242.htm" target="_blank">医保信息业务编码标准</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080525.htm" target="_blank">商业健康险</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125078924.htm" target="_blank">杨泗港长江大桥</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080246.htm" target="_blank">农民工工资</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080172.htm" target="_blank">张贵斌</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080707.htm" target="_blank">长生生物</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080327.htm" target="_blank">北京世园会</a></li>
+<li><a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125080237.htm" target="_blank">诺贝尔物理学奖 </a></li>
+<li><a href="http://www.xinhuanet.com/legal/2019-10/08/c_1125079925.htm" target="_blank">政务处分法草案</a></li>
+</ul>
+</div>
+<!--<a href="http://www.xinhuanet.com/politics/2018-11/12/c_1123700823.htm" target="_blank" style="position:absolute; right:0; color:red; font-size:14px; font-weight:bold;">新华社招考毕业生</a>--> 
+</div>
+</div>
+</div>
+<div class="borderCont">
+<ul class="dataList11 clearfix">
+<li class="item itemL" id="infographic">
+<a target="_blank" href="http://www.xinhuanet.com/video/sjxw/2019-10/09/c_1210305161.htm"><img src="titlepic/112506/1125069972_1570584947124_title0h.jpg" width="218" height="122" alt="那些邮票上的烂漫秋色" /></a>				
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/sjxw/2019-10/09/c_1210305161.htm" target="_blank">那些邮票上的烂漫秋色</a></h4>
+</div>
+</li>
+<li class="item itemL">
+<div class="xinhuaRadioHomepage" id="xinhuaRadioHomepage">
+<a href="video/xinhuaradio/index.htm" title="听更多" target="_blank" id="audioPause">
+<div class="logo">
+<h1 class="hide">新华广播电台</h1>
+</div>
+</a>
+<div id="jquery_jplayer_1" class="jp-jplayer" style="height:0; width:0; overflow:hidden;"></div>
+<div id="jp_container_1" class="jp-audio playListBegin" role="application" aria-label="media player">
+<div class="btnBox">
+<div class="btnBoxIn clearfix">
+<button class="jp-previous btn iconPre" role="button" tabindex="0">上一曲</button>
+<button class="jp-play btn iconPlay" role="button" tabindex="0">播放/暂停</button>
+<button class="jp-next btn iconNext" role="button" tabindex="0">下一曲</button>
+</div>
+</div>
+<div class="jp-seek-bar barPlay barPlayBg">
+<div class="jp-play-bar barPlayValue"></div>
+</div>
+<div class="jp-details">
+<div class="jp-title title" aria-label="title">服务器正在拼命加载数据...</div>
+</div>
+<div class="jp-playlist hide">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div id="keyWordMain" style="display:none;">
+<span class="long">				<a href="http://www.xinhuanet.com/politics/70zn/index.htm" target="_blank">新中国成立70周年</a>				<a href="http://www.xinhuanet.com/politics/xxgcdd19djs/xsdxqxxzw.htm" target="_blank">新时代新作为新篇章</a>				<a href="http://www.xinhuanet.com/video/2019zhuanti/2019kszt/1.htm" target="_blank">60万米高空看中国</a>			</span>			<span class="short">				<a href="https://www.chinastory.cn" target="_blank">中国好故事</a>				<a href="http://www.xinhuanet.com/politics/zmfdz/index.htm" target="_blank">最美奋斗者</a>				<a href="http://www.xinhuanet.com/video/2016xbsp/szzg/index.htm" target="_blank">声在中国</a>				<a href="http://www.xinhuanet.com/politics/whwdzg/index.htm" target="_blank">我和我的祖国</a>				<a href="http://news.cn/gangao/zt/ldzt/ldzter5/index.htm" target="_blank">心连心 爱香港</a>				<a href="http://youth.xinhuanet.com" target="_blank">新青年</a>			</span>
+</div>
+<div id="keyWord" class="clearfix">
+<div class="keyStyle keyWord1">
+<div class="keyBox keyBox1"></div>
+<div class="keyBox keyBox2"></div>
+<div class="keyBox keyBox3"></div>
+<a href="javascript:" id="keyLeft" class="btnKey"></a> <a href="javascript:" id="keyRight" class="btnKey"></a> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- 传媒之声 -->
+<div class="partMedia">
+<div id="zxjk">
+<a class="title" href="http://xhgy.xinhuanet.com/" title="" target="_blank ">在线募捐<br />
+<span>Donation</span></a> 
+<ul class="mediaList">
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">乡村小脚丫月捐计划</a></p>
+</li>
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">扶贫帮困在行动</a></p>
+</li>
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">保护大熊猫栖息地</a></p>
+</li>
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">一人一书桌计划</a></p>
+</li>
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">书山加油站</a></p>
+</li>
+<li class="clearfix">
+<p><a href="http://xhgy.xinhuanet.com" target="_blank">壹基金温暖包</a></p>
+</li>
+</ul>
+<div class="btn btnPrev"><i></i></div>
+<div class="btn btnNext"><i></i></div>
+</div>
+<div id="mediaItem" class="clearfix">
+<a class="title" href="cmzs.htm" title="" target="_blank ">传媒之声<br />
+<span>Media</span></a> 
+<ul class="mediaList">
+<li class="clearfix">
+<p>[人民日报]<a href="http://www.xinhuanet.com/comments/2019-10/08/c_1125076893.htm" target="_blank">"新中国第一"为何震撼人心</a></p>
+<p>[经济日报]<a href="http://www.xinhuanet.com/comments/2019-10/08/c_1125077097.htm" target="_blank">发球要有使命感</a></p>
+</li>
+<li class="clearfix">
+<p>[海外版]<a href="http://www.xinhuanet.com/comments/2019-10/08/c_1125077123.htm" target="_blank">“5G+医疗”仍需踏实探索</a></p>
+<p>[钱江晚报]<a href="http://www.xinhuanet.com/comments/2019-10/08/c_1125077041.htm" target="_blank">"代经济",要为美好生活加分</a></p>
+</li>
+<li class="clearfix">
+<p>[北青报]<a href="http://www.xinhuanet.com/comments/2019-10/08/c_1125076963.htm" target="_blank">敬老爱老重在平时和细节</a></p>
+<p>[北京日报]<a href="http://www.xinhuanet.com/comments/2019-09/27/c_1125046450.htm" target="_blank">人人重诺才有诚信社会</a></p>
+</li>
+</ul>
+<div class="btn btnPrev"><i></i></div>
+<div class="btn btnNext"><i></i></div>
+</div>
+</div>
+</div>
+<iframe src="ad/20180112/index/1000.htm" style="width: 1000px; height: 100px; display: block; margin:10px auto 0 auto; border:0;"></iframe>
+<div class="clearfix">
+<!--广告ad-通栏二--> 
+<script sid="138" type="text/javascript" src="http://a2.xinhuanet.com/js/xadn.js"></script> 
+<!-- section02 -->
+<div id="section02">
+<div class="wrap clearfix">
+<div class="sectionL">
+<div class="borders" id="xwjxs">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="xhsd/index.htm" target="_blank">新华深度</a> </h3>
+<p><span class="nameEng">In-depth</span> </p>
+</blockquote>
+</div>
+<div class="right">
+<div class="dataList10 clearfix">
+<blockquote>
+<p><a href="whxw.htm" target="_blank">新华社新闻</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="xhtp.htm" target="_blank">新华社图片</a> </p>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="borderCont">
+<!--<div class="topBg"></div>-->
+<div class="bottomBg"></div>
+<div class="dataLoad"> <span></span> 读取数据中</div>
+<div id="xwjxsMain">
+<div class="content"></div>
+</div>
+<span class="loaded">数据加载中</span>
+<div class="loadstatus"><i class="tpLoad"></i> <a href="javascript:">点击加载更多</a> </div>
+</div>
+<div id="englishNews">
+<ul class="tabsTit clearfix">
+<li class="tabsT on" id="xhVideoT"> <a href="/english/" target="_blank">English News</a> </li>
+</ul>
+<div class="englishNewsCon clearfix">
+<!--//  655 390 150    89.3     11142656 -->
+<div class="picTxt clearfix">
+<a href="http://www.xinhuanet.com/english/2019-10/09/c_138456833.htm" target="_blank">China firmly opposes U.S. inclusion of 28 Chinese entities in "Entity List": MOC spokesperson</a> 
+</div>
+<ul>
+<li><a href="http://www.xinhuanet.com/english/2019-10/08/c_138456636.htm" target="_blank">Xinhua Headlines: China contributes to global green development</a></li>
+<li><a href="http://www.xinhuanet.com/english/2019-10/09/c_138457926.htm" target="_blank">U.S. House committee subpoenas ambassador to EU over Ukraine controversy</a></li>
+</ul> 
+</div>
+</div>
+<iframe src="index/ipdz/iframe_dz.html" width="100%" height="200" frameborder="0" scrolling="no" style="margin-top:15px;"></iframe>
+</div>
+</div>
+<div class="sectionC">
+<div class="borders" id="focusItem">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="xhjj.htm" target="_blank">新华聚焦</a> </h3>
+<p><span class="nameEng">Focus</span> </p>
+</blockquote>
+</div>
+<div class="right">
+<!--广告ad-《新华聚焦》特约冠名--> 
+<ins data-ycad-slot="158"></ins> 
+</div>
+</div>
+<div class="borderCont">
+<h3 class="focusWordBlue"><a href="http://www.news.cn/nzzt/107/index.htm" target="_blank">总书记关心的百姓身边事｜</a><a href="http://www.xinhuanet.com/politics/leaders/2019-10/08/c_1125080244.htm" target="_blank">乡村旅游气象新</a></h3>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210305384.htm" target="_blank">习近平时间丨热爱祖国是青年立身之本、成才之基</a></li>
+<li><a href="http://www.xinhuanet.com/politics/leaders/2019-10/08/c_1125080264.htm" target="_blank">李克强将于今晚出席北京世园会闭幕式并致辞</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080246.htm" target="_blank">保障农民工工资支付考核结果:3个省级政府被约谈</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/08/c_1125080411.htm" target="_blank">《我和我的祖国》欧洲引观影热潮 上座率近100%</a></li>
+<li><a href="http://www.xinhuanet.com/xhsld/2019-10/08/c_1125080371.htm" target="_blank">新华社同巴独立社合作开设新华社巴基斯坦专线</a></li>
+</ul>
+<h3 class="focusWordBlue"><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210305782.htm" target="_blank">在线旅游经营将出新规 今后"低价游"行不通了</a></h3>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/legal/2019-10/09/c_1125080552.htm" target="_blank">网络黑恶势力猖獗 全国扫黑办：加大打击力度</a></li>
+<li><a href="http://www.xinhuanet.com/renshi/2019-10/09/c_1125081434.htm" target="_blank">于立军任天津市委常委</a> <a href="http://www.xinhuanet.com/renshi/2019-10/09/c_1125080600.htm" target="_blank">杨丹任北京外国语大学校长</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/09/c_1125082170.htm" target="_blank">岸电覆盖 垃圾上岸……古老黄金水道焕发新生机</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/09/c_1125083584.htm" target="_blank">我国将建立健全养老育幼等紧缺人才培养培训体系</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083768.htm" target="_blank">世园会园区会后将发挥"生态文明教育"等四大功能</a></li>
+</ul>
+<h3 class="focusWordBlue"><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082127.htm" target="_blank">古特雷斯：联合国或于11月发生工资支付困难</a></h3>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082834.htm" target="_blank">白宫拒绝配合针对特朗普弹劾调查 府院斗争升级</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125083741.htm" target="_blank">美联储"扩表"欲稳市场信心</a> <a href="http://www.xinhuanet.com/fortune/2019-10/08/c_1125080386.htm" target="_blank">"钱荒"能解决吗？</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082557.htm" target="_blank">最新报告显示中国全球竞争力综合得分稳中有升</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082757.htm" target="_blank">IMF新总裁警告贸易争端将造成数千亿美元损失</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082744.htm" target="_blank">欧盟领导层访德磋商英国“脱欧”问题</a></li>
+</ul>
+<h3 class="focusWordBlue"><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083448.htm" target="_blank">又一批景区门票降价了，如何提升游客体验？</a></h3>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080619.htm" target="_blank">2019中国企业500强公布 中国大企业挺进世界一流</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125083679.htm" target="_blank">中国快递2018年支撑网络零售交易额近7万亿元</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080707.htm" target="_blank">A股首例重大违法强制退市！长生生物被终止上市</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081879.htm" target="_blank">5G手机卖不过2G 信号覆盖小、售价高是主因</a></li>
+<li><a href="http://www.xinhuanet.com/politics/2019-10/09/c_1125080705.htm" target="_blank">全国产业规模初步估算超10亿 汉服为啥越来越火?</a></li>
+</ul>
+<h3 class="focusWordBlue"><a href="http://sports.xinhuanet.com/c/2019-10/09/c_1125082032.htm" target="_blank">"职"等您来 北京冬奥组委启动2019年社会招聘</a></h3>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/local/2019-10/09/c_1125083593.htm" target="_blank">天津市南开区政协原主席于茂东接受审查和调查</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081535.htm" target="_blank">我国高速路充电网基本形成 电动汽车也有"远方"</a></li>
+<li><a href="http://www.xinhuanet.com/world/2019-10/09/c_1125082558.htm" target="_blank">首份《世界视力报告》发布 呼吁关注眼科保健</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081571.htm" target="_blank">三年投诉上升10倍多 医美行业如何找到自己赛道?</a></li>
+<li><a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081857.htm" target="_blank">能量棒、无糖可乐…瘦身单品的本来面目你了解吗</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sectionR">
+<!-- 新华网络电视 -->
+<div class="borders" id="cncTv">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="2015wlds/index.htm" target="_blank">新华网络电视直播</a> </h3>
+<p><span class="nameEng">Live</span> </p>
+<h3 class="name" style="margin-left:35px;"> <a target="_blank" href="http://silkroad.news.cn/">新华丝路</a> </h3>
+<p><span class="nameEng">Silk Road</span> </p>
+</blockquote>
+</div>
+<!--				<div class="right">
+<div class="dataList10 clearfix">  </div>
+</div>--> 
+</div>
+<div class="borderCont"> <img src="http://www.news.cn/2015/img2015/cnc.png" alt="新华网络电视" /> <a target="_blank" href="2015wlds/index.htm" title="" class="zhiboItem"></a> <a target="_blank" href="2015wlds/index.htm" class="chItem"></a> <a target="_blank" href="2015wlds/enindex.htm" class="enItem"></a> <a target="_blank" href="http://www.cncnews.cn/" class="cncItem"></a> </div>
+</div>
+<!-- 新华出品 -->
+<div class="borders" id="promotionItem">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="2015/xhcppub/xhsfb/index.html" target="_blank">新华推广</a> </h3>
+<p><span class="nameEng">Promotion</span> </p>
+</blockquote>
+</div>
+<div class="right">
+<div class="dataList10 clearfix">
+<blockquote>
+<p><a href="javascript:void(0)">新华信息服务</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="http://www.xinhua08.com/" target="_blank">新华08</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="http://info.xinhua.org/cn/welcome.jsp" target="_blank">数据库</a> </p>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="borderCont">
+<div id="xhProduce">
+<div id="adBody04" class="smallAdv">
+<iframe class="lazyIframe" marginheight="0" marginwidth="0" frameborder="0" width="315" height="60" scrolling="no" src="" data-original=""> </iframe>
+</div>
+<div class="produce">
+<div class="item item01">
+<a target="_blank" href="http://mt.news.cn/">5 G<br />
+入口</a>
+<div class="cover" data-w="237px">
+<i></i>
+<p class="summary">5G入口-移动化社交化分享传播平台<br />
+可信服务 多彩生活
+</p>
+</div>
+</div>
+<div class="item item02">
+<a target="_blank" href="http://www.xinhuanet.com/politics/2018-12/25/c_1123901854.htm">新华网<br />
+客户端</a>
+<div class="cover" data-h="117px">
+<i></i>
+<p class="summary">以短视频形态为主的平台型客户端和移动门户。引领品质阅读，让资讯更丰富，用AI更懂你。</p>
+</div>
+</div>
+<div class="item item03">
+<a target="_blank" href="2015/xhcppub/xhsqmbd/index.html">新华社全媒报道平台</a>
+<div class="cover" data-h="117px">
+<i></i>
+<p class="summary">新华社全媒报道平台，以全媒体形态，为您呈现当日最热、最重要的新闻。</p>
+</div>
+</div>
+<div class="item item04">
+<a target="_blank" href="2015/xhcppub/xhshwsjpt/index.htm">新华社<br />
+海外社交媒体平台</a>
+<div class="cover" data-w="157px">
+<i></i>
+<p class="summary">为了顺应世界媒体变革的需要，在新形势下更好地传播中国声音，积极回应国际社会关切。</p>
+</div>
+</div>
+<div class="item item05">
+<a target="_blank" href="http://silkroad.news.cn/">新华丝路</a> 
+<!--<div class="cover" data-w="157px"> <i></i>
+<p class="summary">思客是新华网倾力打造的思想传播与跨界智库平台，以“汇聚思想、传递观点”为宗旨，聚拢各领域专家学者、行业领袖、企业高管、资深媒体人，生产和传播有深度、有态度、有品质的原创内容。</p>
+</div>--> 
+</div>
+<!--              <div class="item item05"> <a target="_blank"  href="http://xuan.news.cn/"> 新华<br />/
+新时空 </a>
+<div class="cover" data-w="157px"> <i></i>
+  <p class="summary">新时空是一个集SNS、UGC、OUC于一体的个性化内容服务和社交网络平台。</p>
+</div>
+</div>
+<div class="item item06"> <a target="_blank" href="http://sike.news.cn/">新华<br />/
+思客</a>
+<div class="cover" data-w="236px"> <i></i>
+  <p class="summary">思客是新华网倾力打造的思想传播与跨界智库平台，以“汇聚思想、传递观点”为宗旨，聚拢各领域专家学者、行业领袖、企业高管、资深媒体人，生产和传播有深度、有态度、有品质的原创内容。</p>
+</div>
+</div>-->
+<div class="item item07">
+<a target="_blank" href="2015/xhcppub/xhsds/index.html">新华社<br />
+电视</a>
+<div class="cover" data-w="237px">
+<i></i>
+<p class="summary">新华社手机电视台是面向世界播出的新闻电视频道，24小时不间断地为手机用户报道全球重大新闻事件。</p>
+</div>
+</div>
+<div class="item item08">
+<a target="_blank" href="http://www.xinhuatone.com/xhskhd.jsp">新华社客户端</a>
+<div class="cover" data-h="117px">
+<i></i>
+<p class="summary">"新华社客户端"是新华社资讯汇聚手机端的唯一品牌。遍布180多个国家的3000多名新华社记者第一时间为你供稿，让你尽览全球新闻。</p>
+</div>
+</div>
+<div class="item item09"> <a target="_blank" href="http://ris.xinhuanet.com/ris-matrix">新华<br />
+睿思</a> 
+</div>
+</div>
+<div class="floatAdv" id="floatAdv">
+<div class="closeBtn">关闭</div>
+</div>
+</div>
+</div>
+</div>
+<!-- 中国搜索 -->
+<div id="zgSearch">
+<blockquote>
+<form class="clearfix" target="_blank" id="f1" name="f1" action="http://news.chinaso.com/search" onSubmit="document.charset='utf-8';">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="inputwd" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c" />
+<input type="submit" class="icon iconZgSearch ss_submit" value="中国搜索" />
+</form>
+</blockquote>
+</div>
+<!-- 视频/炫视/微视评 -->
+<div class="tabs" id="videoItem">
+<ul class="tabsTit clearfix">
+<li class="tabsT" id="xhVideoT"> <a href="video/index.htm" target="_blank">新华视频</a> </li>
+<!--<li class="tabsT" id="xuanVideoT"> <a href="http://www.xinhuanet.com/video/zt/jkjm/index.htm" target="_blank">健康解码<em>/</em></a> </li>
+<li class="tabsT" id="weiVideoT"> <a href="video/xhwsp/index.htm" target="_blank">微视评</a> </li>--> 
+<!--<li class="tabR">
+<div class="dataList10 clearfix"> <a href="video/xbsp/yccp/jkjm/index.htm" target="_blank">健康解码</a> 
+<span></span>
+                  <a href="video/jkjm/zt2.htm" target="_blank">一带一路</a>
+</div>
+</li>-->
+</ul>
+<ul class="tabsCont">
+<li class="tabsItem" id="xhVideoC">
+<ul class="dataList11 clearfix">
+<li class="item itemL">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080542_1570577502631_title0h.jpg />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2019-10/09/c_1210304768.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210304768.htm" target="_blank">北京世园会今天闭幕</a></h4>
+</div>
+</div>
+</li>
+<li class="item itemR">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080500_1570576967070_title0h.jpg />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2019-10/09/c_1210304675.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210304675.htm" target="_blank">创新！"整只螃蟹汉堡"</a></h4>
+</div>
+</div>
+</li>
+</ul>
+<ul class="dataList01">
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210304672.htm" target="_blank">拘捕！ 韩男子1年内拨打5千多次虚假报警电话</a></li>
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210304678.htm" target="_blank">吓人!"街头闲逛" 印度鳄鱼趁河水暴涨爬上车道</a></li>
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2019-10/09/c_1210304679.htm" target="_blank">担忧！过犹不及 韩治疗“游戏成瘾”医院激增</a></li>
+</ul>
+</li>
+<li class="tabsItem" id="xuanVideoC" style="display:none">
+<ul class="dataList11 clearfix">
+<li class="item itemL">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112370/1123704464_1542078976159_title0h.jpg />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2018-11/12/c_129989935.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2018-11/12/c_129989935.htm" target="_blank">胃疼一定得做胃镜吗?</a></h4>
+</div>
+</div>
+</li>
+<li class="item itemR">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112356/1123565457_1539658689840_title0h.png />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2018-09/13/c_129951439.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2018-09/13/c_129951439.htm" target="_blank">患过心梗需注意什么</a></h4>
+</div>
+</div>
+</li>
+</ul>
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/2019-07/22/c_1210207017.htm" target="_blank">致敬最美奋斗者</a></li>
+<li><a href="http://www.xinhuanet.com/2019-07/15/c_1210196745.htm" target="_blank">中国乡村|村里有了新变化！几十年没做到的事 他用一年多实现</a></li>
+<li><a href="http://www.xinhuanet.com/2019-07/15/c_1210196744.htm" target="_blank">中国乡村|甘肃陇南：以茶会友 过把“茶瘾”</a></li>
+</ul>
+</li>
+<li class="tabsItem" id="weiVideoC" style="display:none;">
+<ul class="dataList11 clearfix">
+<li class="item itemL">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112342/1123425039_1536821975982_title0h.jpg />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2018-09/13/c_129952819.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2018-09/13/c_129952819.htm" target="_blank">“宀”下为何有“豕”呢？</a></h4>
+</div>
+</div>
+</li>
+<li class="item itemR">
+<div class="img">
+<img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112341/1123413560_1536654262877_title0h.jpg />													<span class="playBtn"><a target="_blank" href="http://www.xinhuanet.com/video/2018-09/11/c_129951431.htm">播放按钮</a></span>													
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/video/2018-09/11/c_129951431.htm" target="_blank">从家出发……</a></h4>
+</div>
+</div>
+</li>
+</ul>
+<ul class="dataList01">
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2018-09/10/c_129950713.htm" target="_blank">【新华微视评】秋天到，当心“秋燥症”</a></li>
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2018-09/06/c_129948526.htm" target="_blank">【新华微视评】“忍”是一种态度</a></li>
+<li><span class="icon icon1"></span><a href="http://www.xinhuanet.com/video/2018-09/05/c_129947583.htm" target="_blank">【新华微视评】去非洲，重新定义“safari”</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- 新华之窗 -->
+<div class="borders" id="windowItem">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="http://203.192.6.89/xhs/" target="_blank">新华之窗</a> </h3>
+<p><span class="nameEng">Window</span> </p>
+</blockquote>
+</div>
+<div class="right">
+<div class="dataList10 clearfix">
+<blockquote>
+<p><a href="xhsld" target="_blank">新华社领导报道集</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="http://www.xinhuanet.ltd" target="_blank">新华网官网</a> </p>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="borderCont">
+<ul class="dataList01">
+<li><a href="http://www.xinhuanet.com/politics/2019-09/12/c_1124992643.htm" target="_blank">路透社社长访问新华社</a></li>
+<li><a href="http://www.xinhuanet.com/xhsld/2019-06/27/c_1124680089.htm" target="_blank">蔡名照:为"一带一路"提供便捷实用经济信息服务</a></li>
+<li><a href="http://www.xinhuanet.com/xhsld/2019-06/06/c_1124588487.htm" target="_blank">蔡名照和塔斯社社长为中俄建交70周年图片展剪彩</a></li>
+<li><a href="http://www.xinhuanet.com/photo/2018-05/26/c_1122891791.htm" target="_blank">何平在第22届圣彼得堡国际经济论坛期间提问普京</a></li>
+<li><a href="http://www.xinhuanet.com/xhsld/2018-04/24/c_1122729920.htm" target="_blank">何平会见联合国儿童基金会执行主任福尔</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="borders" id="pictureItem">
+<div class="borderTit clearfix">
+<div class="left clearfix">
+<blockquote>
+<h3 class="name"> <a href="photo/index.htm" target="_blank">炫图</a> </h3>
+<p><span class="nameEng">Picture</span> </p>
+</blockquote>
+</div>
+<div class="right">
+<!-- Chenges begin: URL & text & color & font-weight to strong / @LHR. 2018-03-07-16.18 --> 
+<!--<a href="http://www.xinhuanet.com/photo/2018-03/07/c_1122502390.htm" target="_blank" style="display: inline-block;#display:inline;#zoom:1;line-height: 20px;height: 20px;font-size: 14px;vertical-align: top;margin-top: 8px; margin-right: 270px;font-family: 微软雅黑;"><strong style="font-weight:bold; color:#f00;">新华社2017年度新闻记者证核验通过人员名单公示</strong></a>--> 
+<!-- chenges end -->
+<div class="dataList10 clearfix">
+<blockquote>
+<p><a href="photo/zxtp.htm" target="_blank">最新热图</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="photo/zhuanti/bt/index.htm" target="_blank">百态故事</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="photo/zhuanti/dmzg/index.htm" target="_blank">大美印象</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="photo/zktx.htm" target="_blank">七日图烩</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="photo/djch.htm" target="_blank">专题策划</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="foto" target="_blank">摄影</a> </p>
+</blockquote>
+<span></span>
+<blockquote>
+<p><a href="http://www.ntpic.cn/" target="_blank">新通图</a> </p>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="borderCont">
+<a class="btn prev"></a> <a class="btn next"></a>
+<div class="picScroll">
+<ul class="picList clearfix">
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083535.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125083564_1570609144470_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083535.htm" target="_blank">印度庆祝空军日</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083022.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125083123_1570604070315_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/09/c_1125083022.htm" target="_blank">纽约苍穹下</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080190.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081086_1570581605618_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080190.htm" target="_blank">寒露赏菊</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080118.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081079_1570581778729_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080118.htm" target="_blank">《乐动敦煌》再现敦煌古乐文化</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/08/c_1125079969.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081077_1570581875216_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125079969.htm" target="_blank">合肥：环城公园秋色美</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080111.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081084_1570581679507_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125080111.htm" target="_blank">冀东稻香映金秋</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/08/c_1125076635.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125077042_1570494207191_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/08/c_1125076635.htm" target="_blank">巴黎：一束郁金香</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076445.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125077044_1570494219759_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076445.htm" target="_blank">以色列发现5000年前迦南古城遗址</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/07/c_1125075958.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125078391_1570503516050_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/07/c_1125075958.htm" target="_blank">河北枣强：高粱种植助推产业脱贫</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076258.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125078383_1570503418728_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076258.htm" target="_blank">美国加州亨廷顿海滩举行特技飞行表演</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076411.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125078381_1570503351171_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076411.htm" target="_blank">三名科学家分享诺贝尔生理学或医学奖</a></h4>
+</div>
+</li>
+<li>
+<i class="img"><a target="_blank" href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076332.htm"><img class="lazy" width="235" height="132" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125077045_1570494239774_title0h.jpg /></a></i>														
+<div class="bg"></div>
+<div class="text">
+<h4><a href="http://www.xinhuanet.com/photo/2019-10/07/c_1125076332.htm" target="_blank">京张高铁北京北动车所投入使用</a></h4>
+</div>
+</li>
+</ul>
+</div>
+<ul class="hd">
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix" style="width:1000px; margin:0 auto 30px;">
+<div style="float:left">
+<!--广告ad-按钮三--> 
+<ins data-ycad-slot="751"></ins> 
+</div>
+<div style="float:left; margin-left:20px;">
+<!--广告ad-通栏三--> 
+<ins data-ycad-slot="140"></ins> 
+</div>
+<div style="float:right">
+<!--广告ad-按钮四--> 
+<ins data-ycad-slot="752"></ins> 
+</div>
+</div>
+<div id="section03">
+<div id="channel">
+<!-- 1 -->
+<div class="chaCom colB fl chaCom1" name="1" id="channel01">
+<div class="chaCom_head">
+<h2> <a href="politics" target="_blank"> 时政</a> / <a href="politics/rs.htm" target="_blank">人事</a> </h2>
+<span class="zhankaiB"> </span> <!--<span class="minlm"> <a href="talking/chinasafety" target="_blank"> 安全中国 </a> </span>--> <!--<a href="local/qianan/index.html" target="_blank"> 水城迁安 </a>--> 
+<!--<a href="rwk/" target="_blank"> 人物库 </a></span>--> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080412.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081560_1570583851253_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125080412.htm" target="_blank">北京世园会将落幕 “绿色成绩单”如何？</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125076585.htm" target="_blank">国家组织药品集中采购和使用试点在全国推开 </a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125078352.htm" target="_blank">“中国制造”将在我国第36次南极科考中大显身手 </a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/2019-10/04/c_1125070800.htm" target="_blank">京杭大运河通州城市段通航 有望京津冀通航联通</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/2019-10/04/c_1125070829.htm" target="_blank">北京市属公园新增47处售票窗口 三天迎客120余万</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 2 -->
+<div class="chaCom colB fl chaCom2" name="2" id="channel02">
+<div class="chaCom_head">
+<h2> <a href="world" target="_blank">国际</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="asia/chinese/index.htm" target="_blank"> 亚太网 </a> <span> </span> <a href="http://sg.xinhuanet.com/" target="_blank"> 新加坡 </a>  </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/world/2019-10/09/c_1210304831.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080960_1570580880741_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/world/2019-10/09/c_1210304831.htm" target="_blank">印度纪念空军成立87周年</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/world/2019-10/09/c_1125080435.htm" target="_blank">俄总统普京召集会议讨论叙利亚局势等问题</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/world/2019-10/09/c_1210304220.htm" target="_blank">美军撤离叙利亚东北部 为土军事行动消除障碍</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/world/2019-10/08/c_1125080365.htm" target="_blank">卢卡申科呼吁欧洲国家更积极推动解决乌克兰冲突</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/world/2019-10/09/c_1210304684.htm" target="_blank">弹劾特朗普调查推进 美机构着手保护检举人安全</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 3 -->
+<div class="chaCom colB fr chaCom3" name="3" id="channel03">
+<div class="chaCom_head">
+<h2> <a href="fortune" target="_blank">财经</a> </h2>
+<!--财经小ad-->
+<div class="cj_guangao">
+<!--AdForward Begin:--> 
+<!--<script type='text/javascript' src='http://embed.xinhuanet.com/main/s?user=AllyesNetwork|shouyecaijingxiaoguanming|shouyecaijingxiaoguanming&db=xinhuanet&border=0&local=yes&js=ie' charset='gbk'></script>--> 
+<!--AdForward End--> 
+</div>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="fortune/caiyan.htm" target="_blank"> 财眼 </a> <span> </span> <a href="fortune/gd.htm" target="_blank"> 财事 </a> <span> </span> <a href="fortune/dujia.htm" target="_blank"> 财评论 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210305055.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125077284_1570584066029_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210305055.htm" target="_blank">国庆黄金周30城楼市成交同比微增</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081359.htm" target="_blank">票房破50亿 主流大片激发国庆档观影热潮</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125081515.htm" target="_blank">国庆游大数据 红色主题游成新时尚</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080735.htm" target="_blank">房贷利率“换锚”落地 新老利率基本持平</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210305041.htm" target="_blank">险企校招花样百出信息科技类人才成香饽饽</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 4 -->
+<div class="chaCom colR fl chaCom4" name="4" id="channel04">
+<div class="chaCom_head">
+<h2> <a href="legal/index.htm" target="_blank" id="fazhi">法治</a> / <a href="local" target="_blank">社会</a> </h2>
+<span class="zhankaiB"> </span> 
+<span class="minlm">
+<!--<a href="legal/ffu.htm" target="_blank"> 反腐风云 </a> <span> </span>--> <a href="legal/fy.htm" target="_blank"> 法眼 </a> <span> </span> <a href="local/nxw.htm" target="_blank"> 暖心闻 </a> 
+</span>
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/local/2019-10/09/c_1125080592.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080920_1570580868172_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/local/2019-10/09/c_1125080592.htm" target="_blank">沙窝萝卜 产业富民</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/local/2019-10/09/c_1125082126.htm" target="_blank">甘肃取消68项证明事项让群众“办证少跑腿”</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/local/2019-10/09/c_1125081320.htm" target="_blank">山西柳林：黄河沿岸“枣”致富 吕梁山上说丰年</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/legal/2019-10/07/c_1125076314.htm" target="_blank">铁路公安国庆期间查获网上在逃人员636人</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/legal/2019-10/07/c_1125076180.htm" target="_blank">16年练就"鹰眼"</a>|<a href="http://www.xinhuanet.com/legal/2019-10/08/c_1125076600.htm" target="_blank">离职退休人员频繁出现在原单位</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 5 -->
+<div class="chaCom colR fl chaCom5" name="5" id="channel05">
+<div class="chaCom_head">
+<h2> <a href="datanews/index.htm" target="_blank">数据新闻</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="datanews/xxt.htm" target="_blank"> 热点读图 </a> <span> </span> <a href="datanews/pcjh.htm" target="_blank">交互数据</a> <span> </span> <a href="datanews/wyf.htm" target="_blank"> 图文交互 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/video/sjxw/2019-09/27/c_1210295316.htm"><img width="315" height="175" class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112505/1125050175_1569585522812_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/video/sjxw/2019-09/27/c_1210295316.htm" target="_blank">共享机遇，共迎挑战</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/video/sjxw/2019-09/25/c_1210292477.htm" target="_blank">北京大兴国际机场乘机攻略</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/video/sjxw/2019-09/24/c_1210290494.htm" target="_blank">“换脸”APP的风险你知道么？</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/video/sjxw/2019-09/23/c_1210289055.htm" target="_blank">如何消磨碎片化时间？</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/video/sjxw/2019-09/20/c_1210286877.htm" target="_blank">图说国家勋章和国家荣誉称号</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 6 -->
+<div class="chaCom colR fr chaCom6" name="6" id="channel06">
+<div class="chaCom_head">
+<h2> <a href="finance" target="_blank">证券</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="finance/tzzjyfwjd/index.htm" target="_blank"> 投教基地 </a> <span> </span> <a href="http://www.xinhuanet.com/fortune/baihuajinrong/" target="_blank"> 白话金融 </a> <span> </span> <a href="finance/gsqbz.htm" target="_blank"> 公司情报站</a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210304998.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081306_1570582661473_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210304998.htm" target="_blank">权重蓝筹股领涨 沪市十月迎来开门红</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210305000.htm" target="_blank">偏股型基金大手笔分红 调仓追逐业绩确定性</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1125080707.htm" target="_blank">深交所:*ST长生终止上市 将进入退市整理期</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/fortune/2019-10/09/c_1210304978.htm" target="_blank">科创板投价报告得规范 至少采用两种估值法</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/fortune/2019-10/08/c_1210303728.htm" target="_blank">11家公募基金校园“抢人” 偏爱复合型人才</a>			            </li>
+</ul>
+</div>
+</div>
+<div class="clearfix">
+<!--广告ad-通栏四--> 
+<ins data-ycad-slot="142"></ins> 
+</div>
+<!-- 7 -->
+<div class="chaCom colB fl chaCom7" name="7" id="channel7">
+<div class="chaCom_head">
+<h2> <a href="science" target="_blank">科普</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="science/kpzgxhwzq.htm" target="_blank" title=""> 科普中国 </a> <span> </span> <a href="http://scifi.news.cn/" target="_blank" title=""> 科幻 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/science/2019-10/09/c_138457253.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080805_1570579611415_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/science/2019-10/09/c_138457253.htm" target="_blank">超越木星，土星加冕太阳系“卫星之王”</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/science/2019-10/09/c_138457535.htm" target="_blank">[健康]龋齿也是一种病，可不能掉以轻心</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/science/2019-10/09/c_138455430.htm" target="_blank">蝎子、蜘蛛的老祖宗，竟然是个“大眼萌”</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/science/2019-10/09/c_138456148.htm" target="_blank">自发热火锅的原理是什么？有安全隐患吗？</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/science/2019-10/09/c_138457268.htm" target="_blank">心脏低温保存关键机理找到 有望改进器官保存</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 8 -->
+<div class="chaCom colB fl chaCom8" name="8" id="channel8">
+<div class="chaCom_head">
+<h2> <a href="info/index.htm" target="_blank">信息化</a> / <a href="http://cx.xinhuanet.com/index.htm" target="_blank">双创</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"><a href="zhcs" target="_blank"> 智慧城市 </a> <span> </span> <a href="http://www.news.cn/info/syzg/" target="_blank"> 溯源中国 </a> <span></span> <a href="http://game.news.cn/" target="_blank"> 游戏 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/info/2019-10/09/c_138457427.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081676_1570585436095_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/info/2019-10/09/c_138457427.htm" target="_blank">国庆假期网络支付快速增长 </a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://cx.xinhuanet.com/2019-10/09/c_138457419.htm" target="_blank">敢于挑战突破现行金科玉律 创新需要智慧和勇气</a>			            </li>
+<li>			                <a href="http://cx.xinhuanet.com/2019-10/09/c_138457407.htm" target="_blank">陕西：竞逐创青春赛场 青年双创为大国智造赋能</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/info/2019-10/09/c_138457494.htm" target="_blank">“抢占”家庭客厅 智慧屏将如何影响智能家居业 </a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/info/2019-10/09/c_138457453.htm" target="_blank">三大运营商推出优惠政策 5G套餐预约用户已近千万 </a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 9 -->
+<div class="chaCom colB fr chaCom9" name="9" id="channel9">
+<div class="chaCom_head">
+<h2> <a href="tech/index.htm" target="_blank">科技</a></h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="tech/hlwj.htm" target="_blank"> 互联网+ </a> <span> </span> <a href="tech/Eyt.htm" target="_blank"> E言堂 </a> <span> </span> <a href="http://education.news.cn/job.htm" target="_blank"> 职通车 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/tech/2019-10/08/c_1125080237.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081002_1570581198910_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125080237.htm" target="_blank">三名科学家分享2019年诺贝尔物理学奖</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/tech/2019-10/09/c_1125080801.htm" target="_blank">5G手机卖不过2G 信号覆盖小、售价高是主因</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/tech/2019-10/09/c_1125080655.htm" target="_blank">邮政业揽收包裹9.88亿件</a> <a href="http://www.xinhuanet.com/tech/2019-10/09/c_1125080593.htm" target="_blank">银联网络交易额超两万亿</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125076673.htm" target="_blank">由炫到实 人工智能转型还要扎根产业需求 </a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125076597.htm" target="_blank">境外移动支付再创新高</a> <a href="http://www.xinhuanet.com/tech/2019-10/08/c_1125076638.htm" target="_blank">5G技术为智慧医疗添翼</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 10 -->
+<div class="chaCom colR fl chaCom10" name="10" id="channel10">
+<div class="chaCom_head">
+<h2> <a href="http://forum.home.news.cn/index.jsp" target="_blank">论坛</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="forum/sysq/yczk/index.htm" target="_blank"> 影巢周刊 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://forum.home.news.cn/detail/142086619/1.html"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081078_1570581704827_title0h.png /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://forum.home.news.cn/detail/142086619/1.html" target="_blank">中国，你怎么这么好看！</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://forum.home.news.cn/detail/142086623/1.html" target="_blank">这个职业太抢手！国家已出手，计划培养200万人</a>			            </li>
+<li>			                <a href="http://forum.home.news.cn/detail/142086620/1.html" target="_blank">《中国机长》原型讲述真实事件中细思极恐的细节</a>			            </li>
+<li>			                <a href="http://forum.home.news.cn/detail/142086622/1.html" target="_blank">能量棒、无糖可乐…瘦身单品“真面目”你了解吗</a>			            </li>
+<li class="Pushborder">			                <a href="http://forum.home.news.cn/detail/142086621/1.html" target="_blank">开水烫餐具真的能消毒吗？答案请在这里找</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 11 -->
+<div class="chaCom colR fl chaCom11" name="11" id="channel11">
+<div class="chaCom_head">
+<h2> <a href="http://sike.news.cn/" target="_blank">思客</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://sike.news.cn/author.do?action=getNewList" target="_blank"> 大咖 </a> <span> </span> <a href="http://sike.news.cn/category.do?action=detail&amp;id=51" target="_blank"> 智库 </a> <span> </span> <a href="http://sike.news.cn/category.do?action=list" target="_blank"> 思享汇 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://sike.news.cn/statics/sike/posts/2019/10/219550468.html"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080569_1570577968725_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550468.html" target="_blank">假日经济数据背后彰显消费结构升级</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550471.html" target="_blank">冯骥才：传统村落空心化，怎么办</a>			            </li>
+<li>			                <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550475.html" target="_blank">致年轻人：这才是当代创业精神最好的注解</a>			            </li>
+<li>			                <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550077.html" target="_blank">你在"朋友圈"的人设</a> <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550356.html" target="_blank">C919中的"19"代表什么</a>			            </li>
+<li class="Pushborder">			                <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550308.html" target="_blank">家庭的意义是什么？这是我见过最好的答案</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 12 -->
+<div class="chaCom colR fr chaCom12" name="12" id="channel12">
+<div class="chaCom_head">
+<h2> <a href="mil" target="_blank">军网</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="mil/zgjt/index.htm" target="_blank"> 军图 </a> <span> </span> <a href="mil/video/index.htm" target="_blank"> 军视 </a> <span> </span> <a href="mil/jzmymy2014" target="_blank"> 军医 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1210304655.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/121030/1210304655_1570536104222_title0h.jpeg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1210304655.htm">10月8日一分钟阅尽天下军情</a>			            </p>
+</div>
+<ul>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1210304887.htm">一架美军战机在德国西南部坠毁</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1210304799.htm">俄太平洋舰队海军陆战队完成大规模军演</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1210304195.htm">美军大型电子侦察机现身俄波罗的海飞地</a>			            </li>
+<li class="Pushborder">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1210303691.htm">太原舰赴日本参加国际舰队阅舰式活动</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 广告位通栏05 -->
+<div class="clearfix"> <ins data-ycad-slot="143"></ins> </div>
+<!-- 14 -->
+<div class="chaCom colB fl chaCom13" name="13" id="channel14">
+<div class="chaCom_head">
+<h2> <a href="money/index.htm" target="_blank">金融</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="money/dj.htm" target="_blank"> 独家 </a> <span> </span> <a href="money/jrjs.htm" target="_blank"> 金融家说 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081147.htm" target="_blank"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081341_1570582922113_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081147.htm" target="_blank">个别热点城市房贷利率下限调整</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081214.htm" target="_blank">互联网保险迎来发展新“节点”</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081114.htm" target="_blank">前三季度外资净买入逾八千亿元中国债券</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081138.htm" target="_blank">一线监管频添利器 上交所构建科技监管体系</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/money/2019-10/09/c_1125081184.htm" target="_blank">创新服务模式 金融业与实体经济携手“创富”</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 13 -->
+<div class="chaCom colB fl chaCom14" name="14" id="channel13">
+<div class="chaCom_head">
+<h2> <a href="http://ent.news.cn/" target="_blank">娱乐</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://ent.news.cn/mx.htm" target="_blank"> 星闻 </a> <span> </span> <a href="http://ent.news.cn/dy.htm" target="_blank"> 影视 </a> <span> </span> <a href="http://ent.news.cn/zt.htm" target="_blank"> 娱论场 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/ent/2019-10/09/c_1125080609.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081006_1570581179628_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125080609.htm" target="_blank">50.5亿元创国庆档电影票房新纪录</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125079590.htm" target="_blank">《哪吒》代表中国内地角逐奥斯卡最佳国际电影奖</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125080940.htm" target="_blank">荧屏秋季档 主旋律、动作片、刑侦剧纷纷登场</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125079594.htm" target="_blank">《我和我的祖国》海外热映</a> <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125080608.htm" target="_blank">北美首周超155万美元</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/ent/2019-10/09/c_1125080977.htm" target="_blank">票房突破50亿元 主流大片激发国庆档观影热潮</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 15 -->
+<div class="chaCom colB fr chaCom15" name="15" id="channel15">
+<div class="chaCom_head">
+<h2> <a href="http://sports.xinhuanet.com/" target="_blank">体育</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://sports.xinhuanet.com/x_qmjs.htm" target="_blank"> 全民健身 </a> <span> </span> <a href="http://sports.xinhuanet.com/x_bxzg.htm" target="_blank"> 冰雪中国 </a> <span> </span> <a href="http://sports.xinhuanet.com/x_mls.htm" target="_blank"> 马拉松 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://sports.xinhuanet.com/c/2019-10/09/c_1125080792.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081563_1570583864308_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://sports.xinhuanet.com/c/2019-10/09/c_1125080792.htm" target="_blank">上海大师赛：“奶牛”晋级 穆雷止步</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://sports.xinhuanet.com/c/2019-10/09/c_1125080780.htm" target="_blank">“一带一路”中式台球国际公开赛在石家庄开战</a>			            </li>
+<li>			                <a href="http://sports.xinhuanet.com/c/2019-10/09/c_1125080793.htm" target="_blank">重庆国际足球锦标赛 郝伟将迎接手国奥后“首秀”</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/sports/2019-10/08/c_1125076883.htm" target="_blank">阿古特与王励勤上演“云中”乒乓对决</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/sports/2019-10/08/c_1125076884.htm" target="_blank">全场唯一零罚分 中国名将吉日嘎拉问鼎马术世界杯</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 16 -->
+<div class="chaCom colR fl chaCom16" name="16" id="channel16">
+<div class="chaCom_head">
+<h2> <a href="http://travel.news.cn" target="_blank">旅游</a> / <a href="health" target="_blank">健康</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="air" target="_blank"> 航空 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/health/2019-10/08/c_1125079934.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081350_1570582873220_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/health/2019-10/08/c_1125079934.htm" target="_blank">第三届健康投资创新生态大会在京召开</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://travel.news.cn/2019-10/09/c_1125083322.htm" target="_blank">第十八届绳金塔庙会闭幕</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/health/2019-10/09/c_1125081547.htm" target="_blank">高血压、糖尿病患者门诊用药可报销50%以上</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/health/2019-10/09/c_1125081257.htm" target="_blank">痛风就不能吃肉吗？做到四点就可以放心吃肉</a>			            </li>
+<li class="Pushborder">			                <a href="http://travel.news.cn/2019-10/09/c_1125080555.htm" target="_blank">多彩文旅活动成游客“打开湖南”新方式</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 17 -->
+<div class="chaCom colR fl chaCom17" name="17" id="channel17">
+<div class="chaCom_head">
+<h2> <a href="http://www.xinhuanet.com/gangao/index.htm" target="_blank">港澳</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://www.xinhuanet.com/gangao/gadj.htm" target="_blank"> 港澳点睛 </a></span>
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a href="http://www.xinhuanet.com/gangao/2019-10/09/c_1125080417.htm" target="_blank"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080808_1570579670320_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/gangao/2019-10/09/c_1125080417.htm" target="_blank">澳门举行"同声歌祖国"晚会为"双庆"献礼</a>			            </p>
+</div>
+<ul>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1210303991.htm">面对歹徒，这位香港阿婆行动了……</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/07/c_1125076467.htm">如纵容恶师横行将为害香港下一代</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125080234.htm">港交所8日宣布放弃向伦交所提出收购要约</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/gangao/2019-10/07/c_1125076473.htm" target="_blank">香港特区政府举行仪式悼念为保卫香港捐躯的人士</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 18 -->
+<div class="chaCom colR fr chaCom18" name="18" id="channel18">
+<div class="chaCom_head">
+<h2><a href="http://www.xinhuanet.com/tw/index.htm" target="_blank">台湾</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="tw/2015/xhkt.htm" target="_blank"> 新华看台 </a></span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/06/c_1125074516.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125074680_1570354633221_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/2019-10/06/c_1125074516.htm" target="_blank">台湾有一群“熊猫粉”</a>			            </p>
+</div>
+<ul>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125080217.htm">两岸联展天然染色艺术呈现“草木之美”</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/tw/2019-10/07/c_1125076120.htm" target="_blank">调查显示：近九成台湾中高龄上班族有"职场恐慌"</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/tw/2019-10/03/c_1125070274.htm" target="_blank">夜访金门之美</a>			            </li>
+<li class="Pushborder">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/05/c_1125073596.htm">统计显示台湾物价房租齐涨</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 广告位通栏06 -->
+<div id="adBody03" style="clear:both; display:none;">
+<!--AdForward Begin:--> 
+<!--<script type='text/javascript' src='http://embed.xinhuanet.com/main/s?user=AllyesNetwork|2015hp|HpTl06_01&db=xinhuanet&border=0&local=yes&js=ie' charset='gbk'></script> --> 
+<!--AdForward End--> 
+</div>
+<!-- 19 -->
+<div class="chaCom colB fl chaCom19" name="19" id="channel19">
+<div class="chaCom_head">
+<h2> <a href="culture" target="_blank">文化</a> / <a href="http://book.news.cn/" target="_blank">悦读</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="shuhua/index.htm" target="_blank"> 书画 </a> <span> </span> <a href="http://www.xinhuanet.com/culture/zt/2019ycrzt/index.htm" target="_blank"> 非遗 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/culture/2019-10/09/c_1125080837.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080946_1570580786095_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/culture/2019-10/09/c_1125080837.htm" target="_blank">《乐动敦煌》再现敦煌古乐文化 </a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/politics/2019-10/08/c_1125078473.htm" target="_blank">“茅奖”得主陈彦：《主角》离不开生活的舞台</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/book/2019-10/09/c_1210305077.htm" target="_blank">《一本好书》第二季回归 首期选读红色经典</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/culture/2019-10/09/c_1125080511.htm" target="_blank">浙江缙云：社会各界千余人共祭轩辕黄帝</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/culture/2019-10/09/c_1125080541.htm" target="_blank">“唱颂新中国 讴歌新时代”师生作品展 图</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 20 -->
+<div class="chaCom colB fl chaCom20" name="20" id="channel20">
+<div class="chaCom_head">
+<h2> <a href="http://education.news.cn/" target="_blank">教育</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://education.news.cn/zt/special/tsedu/index.htm" target="_blank"> 图说教育 </a> <span> </span> <a href="http://education.news.cn/gaokao/index.htm" target="_blank"> 考试 </a> <span> </span> <a href="http://education.news.cn/bschool/index.htm" target="_blank"> 商学院 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a href="http://education.news.cn/2019-10/09/c_1210304879.htm" target="_blank"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081488_1570583918599_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://education.news.cn/2019-10/09/c_1210304879.htm" target="_blank">一所小学靠什么获得“中国质量奖”</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://education.news.cn/2019-10/09/c_1210304905.htm" target="_blank">[考动力]田径队与文化课，真的不能兼顾吗？</a>			            </li>
+<li>			                <a href="http://education.news.cn/2019-10/09/c_1210304863.htm" target="_blank">北京学科类校外线上培训机构月底前须完成备案</a>			            </li>
+<li>			                <a href="http://education.news.cn/2019-10/09/c_1210304899.htm" target="_blank">北京高校毕业生就业服务季预计提供近5万个岗位</a>			            </li>
+<li class="Pushborder">			                <a href="http://education.news.cn/2019-10/09/c_1210304883.htm" target="_blank">参评国家奖学金须有中国国籍</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 21 -->
+<div class="chaCom colB fr chaCom21" name="21" id="channel21">
+<div class="chaCom_head">
+<h2> <a href="caipiao/index.htm" target="_blank">彩票</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="caipiao/cpyw.htm" target="_blank">彩票要闻</a> <span></span> <a href="caipiao/sjcp.htm" target="_blank">世界彩票</a> <span></span> <a href="caipiao/cpkp.htm" target="_blank">彩票科普</a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080900.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081175_1570582173713_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080900.htm" target="_blank">中山90后青年复制废票 喜中951万元</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080966.htm" target="_blank">借用彩票店洗手间 顺便购彩居然中913万</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080814.htm" target="_blank">体育彩票支持湖南体育行业职业技能竞赛</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080826.htm" target="_blank">浙江杭州体彩助力第五届超级小铁人大赛</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/caipiao/2019-10/09/c_1125080841.htm" target="_blank">重阳登高健身感恩敬老公益体彩温暖有光</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 22 -->
+<div class="chaCom colR fl chaCom22" name="22" id="channel22">
+<div class="chaCom_head">
+<h2> <a href="food/index.htm" target="_blank">食品</a> / <a href="energy/index.htm" target="_blank">能源</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="food/ms.htm" target="_blank">美食</a> <span></span> <a href="energy/hjbg.htm" target="_blank">环境报告</a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125081259.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081259_1570582482752_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125081259.htm">今年冬小麦力争稳定在3.3亿亩以上</a>			            </p>
+</div>
+<ul>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125081436.htm">我国食品中兽药残留限量标准增至2191项</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125081300.htm">保健食品须标注“不是药物”</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125080835.htm">中企承建本格拉铁路正式移交</a>			            </li>
+<li class="Pushborder">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/09/c_1125080828.htm">国际油价或回归区间震荡走势</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 23 -->
+<div class="chaCom colR fl chaCom23" name="23" id="channel23">
+<div class="chaCom_head">
+<h2> <a href="auto/index.htm" target="_blank">汽车</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="auto/xc.htm" target="_blank"> 新车 </a> <span> </span> <a href="auto/sj.htm" target="_blank"> 试驾 </a> <span> </span> <a href="auto/mrt.htm" target="_blank"> 名人堂 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/auto/zt/autotalking/03.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112506/1125060030_1569815528894_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/auto/zt/autotalking/03.htm" target="_blank">大众冯思翰：助力中国汽车产业稳步发展</a>			            </p>
+</div>
+<ul>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125079798.htm">大众迈腾的文化与历史</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125079788.htm">中国一汽 · 红旗扶贫梦想基金</a>			            </li>
+<li>			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125078935.htm">EXEED星途LX 12.59万元正式起售</a>			            </li>
+<li class="Pushborder">			                <a href="http://www.xinhuanet.com/auto/2019-09/30/c_1125059736.htm" target="_blank">13万-21万元 全域SUV风光ix7正式开启预售</a>			            </li>
+</ul>
+</div>
+</div>
+<!-- 24 -->
+<div class="chaCom colR fr chaCom24" name="24" id="channel24">
+<div class="chaCom_head">
+<h2> <a href="house/index.htm" target="_blank">房产</a> </h2>
+<span class="zhankaiB"> </span> <span class="minlm"> <a href="http://jiaju.news.cn/" target="_blank"> 家居 </a> <span> </span> <a href="http://chanye.news.cn/" target="_blank"> 产业园区 </a> </span> 
+</div>
+<div class="chaCom_con">
+<div class="picTitle">
+<p class="img">			                <a target="_blank" href="http://www.xinhuanet.com/house/2019-10-09/c_1125081169.htm"><img class="lazy" src="http://www.news.cn/2014/images/xh_load.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081551_1570583823118_title0h.jpg /></a>			            </p>
+<p class="bg">			            </p>
+<p class="name">			                <a href="http://www.xinhuanet.com/house/2019-10-09/c_1125081169.htm" target="_blank">一线城市房贷利率微升</a>			            </p>
+</div>
+<ul>
+<li>			                <a href="http://www.xinhuanet.com/house/2019-10-09/c_1125081265.htm" target="_blank">房贷利率"换锚"首日平稳有序 银行准备充分</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/house/2019-10-09/c_1125081256.htm" target="_blank">9月龙头房企销售增速超预期 四季度或以价换量</a>			            </li>
+<li>			                <a href="http://www.xinhuanet.com/house/2019-10-09/c_1125081072.htm" target="_blank">合肥：个人出租自有住房3年零税费</a>			            </li>
+<li class="Pushborder">			                <a target="_blank" href="http://www.xinhuanet.com/2019-10/08/c_1125077336.htm">取缔黑中介 优化租赁市场环境</a>			            </li>
+</ul>
+</div>
+</div>
+<div class="moudleBox"></div>
+</div>
+</div>
+<div id="adBody07">
+<!--AdForward Begin:-->
+<iframe class="lazyIframe" style="background:#f9f9f9;" marginheight="0" marginwidth="0" frameborder="0" width="1000" height="115" scrolling="no" src="" data-original="http://www.news.cn/ad_iframe.htm"> </iframe>
+<!--AdForward End--> 
+</div>
+<div id="foreignBody">
+<iframe class="lazyIframe" width="1000px" height="280" frameborder="0" scrolling="no" data-original="http://www.news.cn/iframe_foreign2015.htm" src=""></iframe>
+</div>
+</div>
+</div>
+<!-- copyright -->
+<div id="footerBody">
+<div class="links">
+<div class="cont">
+<div class="left">
+<blockquote>
+<p>相关链接</p>
+</blockquote>
+</div>
+<div class="right">
+<blockquote>
+<p>
+<a href="http://www.ccdi.gov.cn/" target="_blank">中央纪委</a> <a href="http://www.zgg.gov.cn/" target="_blank">紫光阁</a> <a href="http://www.idcpc.org.cn/" target="_blank">中联部</a> <a href="http://www.zytzb.org.cn/" target="_blank">统战部</a> <a href="http://www.scopsr.gov.cn/" target="_blank">中编办</a> <a href="http://www.scio.gov.cn/" target="_blank">新闻办</a> <a href="http://www.locpg.hk/index.htm" target="_blank">香港中联办</a> <a href="http://www.zlb.gov.cn/index.htm" target="_blank">澳门中联办</a> <a href="http://www.cdpf.org.cn/" target="_blank">中国残联</a> <a href="http://www.cflac.org.cn/" target="_blank">中国文联</a> <a href="http://www.chinazhigongparty.org.cn/" target="_blank">致公党</a> <a href="http://www.mj.org.cn/" target="_blank">民进</a> <a href="http://www.tibet.cn/" target="_blank">中国西藏网</a> <a href="http://www.creditchina.gov.cn/" target="_blank">信用中国</a> <a href="http://rencai.people.com.cn/" target="_blank">中国人才网</a> <a href="http://www.people.com.cn/" target="_blank">人民网</a> <a href="http://www.china.com.cn/" target="_blank">中国网</a> <a href="http://www.cntv.cn/" target="_blank">CNTV</a> <a href="http://www.chinadaily.com.cn/" target="_blank">中国日报</a> <a href="http://www.cri.cn/" target="_blank">国际在线</a> <a href="http://www.youth.cn/" target="_blank">中青网</a> <a href="http://www.ce.cn/" target="_blank">中经网</a> <a href="http://www.taiwan.cn/" target="_blank">中国台湾网</a> <a href="http://www.cnr.cn/" target="_blank">央广网</a> <a href="http://www.gmw.cn/" target="_blank">光明网</a> <a href="http://www.chinanews.com/" target="_blank">中新网</a> 
+<!--<a href="http://www.investteda.org/" target="_blank">泰达</a>--> 
+<a href="http://imgs.xinhuanet.com/icon/home/asianet.htm" target="_blank">亚洲网</a> <a href="http://www.dangjian.cn/" target="_blank">党建网</a> <a href="http://www.k618.cn/" target="_blank">未来网</a> 
+<!--<a href="http://www.gjfs.com.cn/" target="_blank">国家风尚网</a>--> 
+<a href="http://www.kaiwind.com/" target="_blank">凯风网</a> 
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="copyright">
+<p class="rows01">新华社主办 版权所有：新华网股份有限公司 Copyright © 2000-2019 XINHUANET.com All Rights Reserved.<br />
+本站所刊登的新华社及新华网各种新闻﹑信息和各种专题专栏资料，均为新华网版权所有，未经协议授权禁止下载使用。 
+</p>
+<p class="rows02"> <a href="http://203.192.6.89/xhs/" target="_blank">新华社简介</a> | <a href="http://www.xinhuanet.ltd/" target="_blank">公司官网</a> | <a href="company/contact-us.htm" target="_blank">联系我们</a> | <a href="linktous.htm" target="_blank">我要链接</a> | <a href="company/copyright.htm" target="_blank">版权声明</a> | <a href="company/legal.htm" target="_blank">法律顾问</a> | <a href="xwhggfw/index.htm" target="_blank">广告服务</a> | <a href="jsfw/index.html" target="_blank">技术服务中心</a> | <a href="https://yun.news.cn" target="_blank">新华云</a> | 违法和不良信息举报电话：（010）63070940 <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP证010042号</a> </p>
+<p class="rows03" style="padding-left:142px;">
+<img src="http://www.news.cn/2016/img2016/20160225_ghs_v1.png" style="float:left; padding-right:5px;" /> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000015" target="_blank">京公网安备：11000002000015号</a> | <a href="http://news.xinhuanet.com/photo/2012-12/27/c_124155959.htm" target="_blank">网上传播视听节目许可证(0103020)</a> | <a href="http://news.xinhuanet.com/newscenter/2008-02/22/content_7647209_1.htm" target="_blank">中国互联网视听节目服务自律公约</a> | <a href="https://ss.knet.cn/verifyseal.dll?sn=2011062700100010834&amp;ct=df&amp;pa=838025" target="_blank">可信网站认证</a> <!--| <a href="http://zhanzhang.baidu.com/starfire/xinhua" target="_blank">百度原创星火计划</a>--> 
+</p>
+<i class="icon iconGs"></i> 
+</div>
+</div>
+</div>
+<!-- 0307增加icon 跳转到两会首页 --> 
+<!--<a href="http://www.xinhuanet.com/politics/2018lh/index.htm" target="_blank" class="tolhicon0307"></a>--> 
+<!-- 主体内容结束 --> 
+<!-- 两侧垂直居中的ad 20180124 start -->
+<div class="tempad20180124">
+<iframe frameborder="0" class="tempad20180124-left" src="http://www.newsres.cn/temp/tempad201801241057/400left.htm"></iframe>
+<iframe frameborder="0" class="tempad20180124-right" src="http://www.newsres.cn/temp/tempad201801241057/400right.htm"></iframe>
+</div>
+<!-- 两侧垂直居中的ad 20180124 end -->
+<fjtignoreurl>
+<!-- firemman930 --> 
+<script src="http://www.xinhuanet.com/fireman19-109/fireman109.js"></script> 
+<script>
+/*lazyload*/
+(function(a) {
+    a.fn.lazyload = function(b) {
+        var c = {
+            threshold: 0,
+            failure_limit: 0,
+            event: "scroll",
+            effect: "show",
+            container: window,
+            skip_invisible: !0
+        };
+        b && (null !== b.failurelimit && (b.failure_limit = b.failurelimit, delete b.failurelimit), a.extend(
+            c, b));
+        var d = this;
+        return 0 == c.event.indexOf("scroll") && a(c.container).bind(c.event, function(b) {
+            var e = 0;
+            d.each(function() {
+                if (c.skip_invisible && !a(this).is(":visible")) return;
+                if (!a.abovethetop(this, c) && !a.leftofbegin(this, c))
+                    if (!a.belowthefold(this, c) && !a.rightoffold(this, c)) a(this).trigger("appear");
+                    else if (++e > c.failure_limit) return !1
+            });
+            var f = a.grep(d, function(a) {
+                return !a.loaded
+            });
+            d = a(f)
+        }), this.each(function() {
+            var b = this;
+            b.loaded = !1, a(b).one("appear", function() {
+                this.loaded || a("<img />").bind("load", function() {
+                    a(b).hide().attr("src", a(b).data("original"))[c.effect](c.effectspeed), b.loaded = !
+                        0
+                }).attr("src", a(b).data("original"))
+            }), 0 != c.event.indexOf("scroll") && a(b).bind(c.event, function(c) {
+                b.loaded || a(b).trigger("appear")
+            })
+        }), a(c.container).trigger(c.event), this
+    }, a.belowthefold = function(b, c) {
+        if (c.container === undefined || c.container === window) var d = a(window).height() + a(window).scrollTop();
+        else var d = a(c.container).offset().top + a(c.container).height();
+        return d <= a(b).offset().top - c.threshold
+    }, a.rightoffold = function(b, c) {
+        if (c.container === undefined || c.container === window) var d = a(window).width() + a(window).scrollLeft();
+        else var d = a(c.container).offset().left + a(c.container).width();
+        return d <= a(b).offset().left - c.threshold
+    }, a.abovethetop = function(b, c) {
+        if (c.container === undefined || c.container === window) var d = a(window).scrollTop();
+        else var d = a(c.container).offset().top;
+        return d >= a(b).offset().top + c.threshold + a(b).height()
+    }, a.leftofbegin = function(b, c) {
+        if (c.container === undefined || c.container === window) var d = a(window).scrollLeft();
+        else var d = a(c.container).offset().left;
+        return d >= a(b).offset().left + c.threshold + a(b).width()
+    }, a.extend(a.expr[":"], {
+        "below-the-fold": function(b) {
+            return a.belowthefold(b, {
+                threshold: 0,
+                container: window
+            })
+        },
+        "above-the-fold": function(b) {
+            return !a.belowthefold(b, {
+                threshold: 0,
+                container: window
+            })
+        },
+        "right-of-fold": function(b) {
+            return a.rightoffold(b, {
+                threshold: 0,
+                container: window
+            })
+        },
+        "left-of-fold": function(b) {
+            return !a.rightoffold(b, {
+                threshold: 0,
+                container: window
+            })
+        }
+    })
+})(jQuery)
+</script> 
+</fjtignoreurl>
+<!-- 右侧导航1 --> 
+<style>
+/*首页用*/
+#productBody {
+width: 98px;
+border: 1px solid #c5e8f8;
+border-bottom: 0;
+/* background: #f4f4f4; */
+position: fixed;
+right: 5px;
+right: 25px;
+bottom: 200px;
+/*top: 347px;*/
+margin-left: 520px;
+z-index: 9990;
+_position: absolute;
+_top: expression(eval(document.documentElement.scrollTop+100));
+}
+#productBody .list {
+position: relative;
+z-index: 1;
+}
+#productBody .list li {
+height: 34px;
+cursor: pointer;
+margin: 0;
+border-bottom: 1px solid #c5e8f8;
+/* border-top: 1px solid #fff; */
+position: relative;
+#vertical-align: top;
+}
+#productBody .list li.first {
+border-top: 1px solid #c5e8f8;
+}
+#productBody .list li.last {
+border-bottom: none;
+}
+#productBody .list li a {
+display: block;
+height: 34px;
+line-height: 34px;
+font-size: 12px;
+margin: 0 auto;
+color: #305798;
+text-align: center;
+}
+#productBody .list .titItem {
+background: #effaff;
+position: absolute;
+width: 98px;
+left: 0px;
+top: 0px;
+}
+#productBody .list li.on {
+border-bottom-color: transparent;
+}
+#productBody .list li.on a {
+background: #fff;
+}
+#productBody .floatItem {
+position: absolute;
+right: -1px;
+top: -1px;
+width: 98px;
+/*width: 260px;*/
+height: 34px;
+text-align: left;
+border: 1px solid #c5e8f8;
+background: #fff;
+z-index: -1;
+overflow: hidden;
+}
+#productBody .floatItem .wrap {
+display: inline-block !important;
+width: 160px;
+text-align: left !important;
+}
+#productBody .floatItem img {
+float: left;
+width: 52px;
+height: 34px;
+margin-right: 5px;
+}
+#productBody .floatItem .lazyload {
+display: none;
+}
+#productBody .floatItem a {
+display: block;
+line-height: 15px !important;
+text-align: left !important;
+padding-top: 2px;
+font-size: 12px;
+color: #666;
+overflow: hidden;
+}
+#productBody .list li a:hover {
+color: #0e649a;
+}
+#productBody .tools {
+position: absolute;
+right: -1px;
+bottom: -18px;
+height: 17px;
+width: 98px;
+background: #fff;
+border: 1px solid #c5e8f8;
+border-top: 0;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+#productBody .tools li {
+/* float: left;
+width: 17px;
+height: 17px; */
+cursor: pointer;
+position: absolute;
+}
+#productBody .tools li.twoCode {
+/* position: relative;
+margin: 0 9px; */
+overflow: visible;
+}
+#productBody .tools li.twoCode div {
+display: none;
+position: absolute;
+bottom: -120px;
+left: -31px;
+width: 90px;
+height: 110px;
+background: #fff url(http://www.news.cn/2015/img2015/icon_all.png) no-repeat -40px -93px;
+}
+#productBody .tools li {
+/* background: url(http://www.news.cn/2015/img2015/icon_all.png) no-repeat; */
+}
+#productBody .tools .iconGoTop {
+width: 30px;
+height: 30px;
+background: url(http://www.xinhuanet.com/20180705/img2018/tools-iconGoTop.png) center center no-repeat;
+left: 50%;
+margin-left: -15px;
+top: 3px;/* background-position: -90px -25px; */
+}
+#productBody .tools .iconTwoCode {
+width: 30px;
+height: 30px;
+background: url(http://www.xinhuanet.com/20180705/img2018/tools-iconTwoCode.png) center center no-repeat;
+left: 50%;
+margin-left: -15px;
+top: 39px;/* background-position: -108px -25px; */
+}
+#productBody .tools .iconClose {
+width: 11px;
+height: 11px;
+background: url(http://www.xinhuanet.com/20180705/img2018/tools-iconClose.png) center center no-repeat;
+right: 0;
+top: -440px;/* background-position: -125px -25px; */
+}
+#productBody .scrollAd {
+width: 100px;
+height: 91px;
+/* overflow: hidden; */
+/* border: 1px solid #c5e8f8;
+border-bottom: 0; */
+background: url(http://www.xinhuanet.com/20180705/img2018/scrollAd-bg.png) center 0 no-repeat;
+position: absolute;
+left: -1px;
+top: -180px;
+}
+#productBody .scrollAd .tempWrap {
+height: 54px;
+position: absolute;
+top: 21px;
+left: 23px;
+overflow: hidden;/* border-radius: 8px; */
+}
+#productBody .scrollAd .pic {
+height: 62px;
+}
+#productBody .scrollAd .pic li {
+display: none;
+float: left;
+width: 54px;
+height: 54px;
+}
+#productBody .scrollAd .pic img {
+width: 54px;
+height: 54px;
+display: block;
+overflow: hidden;
+}
+#productBody .scrollAd .hd {
+display: none;
+}
+#productBody .scrollAd .text {
+display: block;
+width: 100%;
+position: absolute;
+top: -11px;
+left: 0px;
+color: #fff;
+background: url(http://www.xinhuanet.com/20180705/img2018/scrollAd-tit-bg.png) center center no-repeat;
+text-align: center;
+font-size: 12px;
+height: 24px;
+line-height: 24px;
+/*text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.72);*/
+}
+#productBody .scrollAd .btn {
+width: 10px;
+height: 54px;
+position: absolute;
+bottom: 6px;
+cursor: pointer;
+}
+#productBody .scrollAd .btn i {
+display: block;
+position: absolute;
+top: 50%;
+margin-top: -14px;
+left: 3px;/* background: url(http://www.news.cn/2015/img2015/icon_all.png) no-repeat; */
+}
+#productBody .scrollAd .adPrev {
+left: 10px;
+}
+#productBody .iconLeftArrow {
+background: url(http://www.xinhuanet.com/20180705/img2018/scrollAd-arrow-left.png) no-repeat;
+background-position: center center;
+}
+#productBody .scrollAd .adNext {
+right: 10px;/* background: url(scrollAd-arrow-right.png) center center no-repeat; */
+}
+#productBody .iconRightArrow {
+background: url(http://www.xinhuanet.com/20180705/img2018/scrollAd-arrow-right.png) no-repeat;
+background-position: center center;
+}
+#productBody .iconLeftArrow {
+width: 4px;
+height: 10px;/* background-position: -51px -45px !important; */
+}
+#productBody .iconRightArrow {
+width: 4px;
+height: 10px;/* background-position: -55px -45px !important; */
+}
+#productBody .ad2 {
+width: 98px;
+height: 93px;
+overflow: hidden;
+border: 1px solid #c5e8f8;
+border-bottom: 0;
+border-top: 0;
+background: #fff;
+position: absolute;
+left: -1px;
+top: -90px;
+}
+#productBody .ad2 img {
+width: 88px;
+height: 83px;
+}
+#productBody .scrollZt {
+width: 88px;
+height: 83px;
+overflow: hidden;
+position: relative;
+margin: 0 auto;
+}
+#productBody .scrollZt li {
+width: 88px;
+height: 83px;
+position: absolute;
+top: 0px;
+left: 0px;
+}
+@media screen and (max-height: 600px) {
+#productBody {
+bottom: auto;
+top: 200px;
+}
+}
+@media screen and (min-width:0px) and (max-width: 767px) {
+#productBody {
+border: 3px solid #f90;
+}
+.domPC {
+display: none;
+}
+}
+</style>
+<script type="text/javascript" src="http://www.news.cn/2014/js/jqSuperSlide211.js"></script>
+<!-- 右侧导航 -->
+<div id="productBody" class="domPC">
+<div class="scrollAd">
+<ul class="pic clearfix">
+<li><a href="http://app.www.gov.cn/download/Chinese.html" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112038/1120386317_1485404790780_title0h.png /></a></li>
+<li><a href="###" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/111537/1115375526_1567671303616_title0h.jpg /></a></li>
+<li><a href="http://www.xinhuanet.com/politics/2018-12/25/c_1123901854.htm" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112390/1123903484_1545734883964_title0h.png /></a></li>
+<li><a href="http://www.gongwuxing.com/login/loginnew" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112267/1122673921_1523523069690_title0h.jpg /></a></li>
+<li><a href="http://www.ccdi.gov.cn/client" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/111537/1115375296_1523152964710_title0h.png /></a></li>
+<li><a href="http://paper.news.cn" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/111982/1119826953_1528445367540_title0h.jpg /></a></li>
+<li><a href="http://www.xinhua08.com" target="_blank"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112432/1124329259_1554368812998_title0h.png /></a></li>
+</ul>
+<ul class="hd">
+</ul>
+<span class="text">特别推荐</span> <span class="btn adPrev"><i class="icon iconLeftArrow"></i></span> <span class="btn adNext"><i class="icon iconRightArrow"></i></span> 
+</div>
+<div class="ad2">
+<ul class="scrollZt">
+<li><a target="_blank" href="https://www.xuexi.cn"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112399/1123999323_1547628099324_title0h.png /></a></li>
+<li><a target="_blank" href="http://www.xinhuanet.com/politics/xjpsxkj/index.html"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112381/1123812531_1544003605107_title0h.png /></a></li>
+<li><a target="_blank" href="http://www.xinhuanet.com/gongyi/zt/2019zgws/houxuanren3jidu/index.htm"><img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/111850/1118505700_1570499989630_title0h.jpg /></a></li>
+</ul> 
+</div>
+<ul class="list">
+<li class="first">
+<a class="titItem" target="_blank" href="http://www.news.cn/politics/">新华时政</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125078192_1570501496065_title0h.jpg />        <a href="http://www.xinhuanet.com/fortune/2019-10/08/c_1125076798.htm" target="_blank">工资条里看巨变 </a></div>
+</div>
+</li>
+<li>
+<a class="titItem" target="_blank" href="http://www.news.cn/world/index.htm">新华国际</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125080974_1570581000571_title0h.jpg />        <a href="http://www.xinhuanet.com/world/2019-10/09/c_1210304818.htm" target="_blank">英新方案难破“脱欧”僵局</a></div> 
+</div>
+</li>
+<li>
+<a class="titItem" target="_blank" href="http://www.news.cn/fortune/">新华财经</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112497/1124977183_1567999722524_title0h.jpg />        <a href="http://www.xinhuanet.com/fortune/2019-09/09/c_1210272711.htm" target="_blank">资金来了，力挺A股？</a></div> 
+</div>
+</li>
+<li style="display:none">
+<a class="titItem" target="_blank" href="http://forum.home.news.cn/index.jsp">发展论坛</a>
+<div class="floatItem">
+<!----> 
+</div>
+</li>
+<li>
+<a class="titItem" target="_blank" href="http://www.news.cn/video/datanews/qb.htm">数据新闻</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112473/1124739570_1568703010093_title0h.jpg />        <a href="http://www.xinhuanet.com/video/sjxw/2019-09/17/c_1210283192.htm" target="_blank">70年•大国数据系列：制造大国</a></div>
+</div>
+</li>
+<li>
+<a class="titItem" target="_blank" href="http://sike.news.cn/">新华思客</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112507/1125076596_1570578150099_title0h.jpg />        <a href="http://sike.news.cn/statics/sike/posts/2019/10/219550066.html" target="_blank">以创新引领制造业高质量发展</a></div> 
+</div>
+</li>
+<!--<li> <a class="titItem" target="_blank" href="http://www.xinhuanet.com/itown/index.htm">互联网小镇</a></li>-->
+<li> <a class="titItem" target="_blank" href="http://ris.xinhuanet.com/ris-matrix">新华睿思</a></li>
+<li>
+<a class="titItem" target="_blank" href="http://cx.xinhuanet.com/index.htm">新华双创</a>
+<div class="floatItem">
+<div class="wrap">        <img class="lazyload" src="http://www.news.cn/2015/img2015/Loading.gif" data-original=http://www.xinhuanet.com/titlepic/112508/1125081938_1570585917392_title0h.jpg />        <a href="http://cx.xinhuanet.com/2019-10/09/c_138457417.htm" target="_blank">为世界贡献更多创新力量</a></div> 
+</div>
+</li>
+</ul>
+<ul class="tools clearfix">
+<li class="goTop icon iconGoTop"></li>
+<li class="twoCode icon iconTwoCode">
+<div> </div>
+</li>
+<li class="close icon iconClose"></li>
+</ul>
+</div>
+<script>
+var _screenH = $(window).height();
+// 右侧导航栏
+var productBodyEv={
+    $_silder : $("#productBody .sliderLine"),
+    $_list : $("#productBody .list"),
+    $_listItem : $("#productBody .list li"),
+    $_twoCode : $("#productBody .twoCode"),
+    init:function(){
+		$("#productBody img").each(function(){
+			$(this).attr("src",$(this).attr("data-original"));
+		});
+/*		if(_screenH-223 <= 590){//屏幕高度-本身TOP值 < 本身高度
+            $("#productBody").css("top",(_screenH-590)/2+200);
+			$("#productBody .tools").css("bottom",'-60px');
+        }*/
+        productBodyEv.bodyEv();
+        productBodyEv.showTwoCode();
+        productBodyEv.goTop();
+        productBodyEv.closeBody();
+        productBodyEv.listItem();
+        var $_scrollAdLi = $(".scrollAd li");
+        var scrollAdLiLen = $_scrollAdLi.length;
+        var str = "";
+        if(scrollAdLiLen==1){
+            $("#productBody .scrollAd .btn").hide();
+        }
+        for(i=0;i<scrollAdLiLen;i++){
+            str+='<li></li>';
+        };
+        $(".scrollAd .hd").append(str);
+        $_scrollAdLi.show();
+        $(".scrollAd").slide({ mainCell:".pic",effect:"leftLoop", autoPlay:true,autoPage:true,interTime:3000,prevCell:".adPrev",nextCell:".adNext"});
+		
+        if($(".scrollZt").children().length>1){
+            $("#productBody .ad2").slide({ mainCell:".scrollZt",effect:"fold", autoPlay:true,autoPage:true,interTime:6000});
+        }; 
+		
+		var isTouchDevice = 'ontouchstart' in window;
+		if(isTouchDevice){
+			$("#productBody").hide();
+		}
+
+    },
+    listItem:function(){
+        productBodyEv.$_listItem.hover(
+            function(){
+                $(this).addClass("on").find(".floatItem").stop().animate({"width":260},300);
+            },
+            function(){
+                $(this).removeClass("on").find(".floatItem").stop().animate({"width":98},300);
+            }
+        )
+    },
+    showTwoCode:function(){
+        productBodyEv.$_twoCode.hover(
+            function(){
+                $(this).find("div").slideDown();
+            },
+            function(){
+                $(this).find("div").slideUp();
+            }
+        );
+    },
+    goTop:function(){
+        $("#productBody .goTop").click(function(){
+            $('html,body').animate({
+                scrollTop : '0px'
+            }, 200);
+        });
+    },
+    closeBody:function(){
+        $("#productBody .close").click(function(){
+            $("#productBody").slideUp();
+        });
+    },
+    bodyEv:function(){
+        $("#productBody").hover(
+            function(){
+                $(this).find(".lazyload").each(function(){
+                    $(this).attr("src",$(this).attr("data-original")).removeClass("lazyload");
+                })
+            },
+            function(){}
+        )
+    }
+};
+
+productBodyEv.init();
+
+/*$(function(){
+	var goUrl = "http://www.xinhuanet.com/index_1.htm";
+	$("a").each(function(index, element) {
+		var _src = $(this).attr("href");
+		if(_src=="http://www.news.cn"||_src=="http://www.xinhuanet.com"||_src=="http://www.news.cn/"||_src=="http://www.xinhuanet.com/"){
+			$(this).attr("href",goUrl)
+		}
+	});	
+})*/
+
+</script>
+<style>
+#productBody{
+bottom:250px;
+}
+</style>
+<fjtignoreurl>
+<script src="http://www.news.cn/2015/js2015/comp.min.js"></script> 
+</fjtignoreurl>
+<fjtignoreurl>
+<script src="http://www.news.cn/public/audio/js/xinhuaRadio.base.playlist.min.js"></script> 
+</fjtignoreurl>
+<fjtignoreurl>
+<script src="http://www.news.cn/public/audio/js/xinhuaRadio.homepage.min.js"></script> 
+</fjtignoreurl>
+<fjtignoreurl>
+<script src="http://www.news.cn/sytxh.js"></script> 
+</fjtignoreurl>
+<fjtignoreurl>
+<script src="http://www.news.cn/2015/js2015/video.min.js"></script> 
+</fjtignoreurl>
+<fjtignoreurl>
+<script src="http://www.news.cn/2015/js2015/rdgc_na.js"></script> 
+</fjtignoreurl>
+<!--全媒体播放器修改大图帧数-->
+<div id="ampMax" style="display:none;">13</div>
+<fjtignoreurl>
+<!--<script src="http://www.xinhuanet.com/2015/js2015/1228/index2015_v6.js">--> 
+<!--<script src="http://www.xinhuanet.com/index/index_20160930.js"></script> --> 
+<!-- <script src="http://www.xinhuanet.com/index/index_20170921.js"></script>  --> 
+<!-- <script src="http://www.xinhuanet.com/index20181112/index.js"></script>--> 
+<!--<script src="http://www.xinhuanet.com/test/index20190517.js"></script>-->
+<script src="http://www.xinhuanet.com/index/js/index20190517.js"></script> 
+</fjtignoreurl>
+<!-- 出访语言切换js--> 
+<script>
+$(function(){
+    $('#xwjxsMain').slimScroll({
+        height: '460px',
+        width: '315px'
+        //scrollTo: pos
+    });
+})
+</script> 
+<script>
+$(function() {
+    //包框广告关闭按钮
+    var foo = function() {
+        $("#bkTop,#bkLeft,#bkRight,#bkCloseLeft,#bkCloseRight").hide();
+        $("#boxBg").css({
+            "background": "none",
+            "padding-top": "0"
+        });
+        $("#topBody").css({
+            "width": "100%"
+        })
+    };
+    $("body").on("click", "#bkCloseLeft,#bkCloseRight", foo);
+    /*小头条下侧临时广告*/
+    $("#part3LAd").slide({
+mainCell: ".bd ul",
+autoPlay: true,
+delayTime: 700,
+interTime:5000,
+});
+    //大头条发bigsize
+    /*if($('#fonts').html()==="bigsize"){
+$('#headArea h1 a').css({ "font-size":"36px"});
+}*/
+  /*  if ($('#fonts').html().indexOf("bigsize") >= 0) {
+        $('#headArea h1 a').css({
+            "font-size": "36px"
+        });
+    }
+    if ($('#fonts').html().indexOf("red") >= 0) {
+        $('#headArea h1 a').css({
+            "color": "#db000a"
+        });
+        $('#headArea .hots p a').css({
+            "color": "#db000a"
+        });
+    }*/
+})
+</script> 
+<script src="http://www.xinhuanet.com/global/js/jquery.xinhuanetAD.min.js"></script> 
+<!--广告ad-对联广告--> 
+<!--<ins data-ycad-slot="156"></ins>-->
+<!--广告ad-全屏收缩--> 
+<script>
+setTimeout(
+    function() {
+        $('#div_show_ad_1').slideUp();
+    }, 3000)
+</script> 
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/config/global-cfg.js"></script> 
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/expand/332.js"></script> 
+<script type="text/javascript" src="http://tmisc.home.news.cn/da/js/fetch/st-main.js?st-cfg=config/xz-lnpd-config&amp;st-v=combine-st/combine-st" id="st-main"></script>
+<noscript>
+<img src="http://da.xuan.news.cn/0.gif?st=1&amp;at=xhwhome&amp;ni=01&amp;wt=4&amp;cb=default" border="0" />
+</noscript>
+<div style="display:none">
+<div id="fwl">010020010010001000000000011200000000000000</div>
+<script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script> 
+<script type="text/javascript">
+wd_paramtracker("_wdxid=010020010010001000000000011200000000000000")
+</script>
+<noscript>
+<img src="http://webd.home.news.cn/1.gif?z=1&amp;_wdxid=010020010010001000000000011200000000000000" border="0" />
+</noscript>
+</div>
+<!--访问量通用js设置--> 
+<!--<script type="text/javascript">
+//锁定域名
+document.domain="xinhuanet.com";
+</script>
+<script src="http://www.xinhuanet.com/video/static/videovisit.js"></script>--> 
+<!--访问量通用js设置--> 
+<script type="text/javascript" src="http://a2.xinhuanet.com/js/xadndelayed.js"></script>
+</body>
+</html>

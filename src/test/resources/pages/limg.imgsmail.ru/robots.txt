@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /
+Allow: /splash/*.css
+Allow: /splash/*.js
+Allow: /splash/*.png
+Allow: /touchsplash/*.css
+Allow: /touchsplash/*.js
+Allow: /touchsplash/*.png
+
+User-agent: Twitterbot
+Disallow: /
+Allow: /splash/v/i

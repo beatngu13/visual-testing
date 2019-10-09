@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf8" version='1'/>
+    <title>京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
+    <meta name="description"
+          content="京东JD.COM-专业的综合网上购物商城,销售家电、数码通讯、电脑、家居百货、服装服饰、母婴、图书、食品等数万个品牌优质商品.便捷、诚信的服务，为您提供愉悦的网上购物体验!"/>
+    <meta name="Keywords" content="网上购物,网上商城,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京东"/>
+    <script type="text/javascript">
+        window.point = {}
+        window.point.start = new Date().getTime()
+    </script>
+    <link rel="dns-prefetch" href="//static.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//misc.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img10.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img11.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img12.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img13.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img14.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img20.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//img30.360buyimg.com"/>
+    <link rel="dns-prefetch" href="//d.3.cn"/>
+    <link rel="dns-prefetch" href="//d.jd.com"/>
+    <link rel="icon" href="//www.jd.com/favicon.ico" mce_href="//www.jd.com/favicon.ico" type="image/x-icon"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="renderer" content="webkit"/>
+
+    <!--[if lte IE 6]>
+    <script src="//misc.360buyimg.com/mtd/pc/index/home/ie6tip.min.js"></script>
+    <![endif]-->
+    <!--[if IE 8]>
+    <script src="//misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/lib/polyfill/index.js"></script>
+    <![endif]-->
+
+    <link href="//misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/css/first-screen.chunk.css" rel="stylesheet"/>
+
+    <link href="//misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/css/index.chunk.css" rel="stylesheet"/>
+    <script type="text/javascript">
+        window.point.css = new Date().getTime()
+    </script>
+    <script type="text/javascript">
+        window.pageConfig = {};
+        // 兜底数据
+        window.backup = {};
+        //logo
+         window.pageConfig.logo = {"href":"","wide_pic":"jfs\/t1\/84561\/9\/7510\/198544\/5d522e29E21dec96f\/05d91ae40111ac4d.gif","narrow_pic":"jfs\/t1\/43294\/29\/11540\/60189\/5d522e2fEa82af1cb\/cc90bc4f57ed3dd9.gif"};
+        //直通车
+        window.pageConfig.treasure = {};
+        //背板
+        window.pageConfig.background = {};
+        // 页面配置
+        window.pageConfig.enableActMark = false;
+		window.pageConfig.clstagPrefix = 'h|keycount|';
+		window.pageConfig.O2_REPORT = 100;
+		window.pageConfig.actStart = new Date('2019/05/24 19:00:26').getTime();
+		window.pageConfig.actEnd = new Date('2019/06/20 15:24:54').getTime();
+        // 手机京东
+        window.pageConfig.shortcutMobileData=[{"title":"\u624b\u673a\u4eac\u4e1c","desc":"\u65b0\u4eba\u4e13\u4eab\u5927\u793c\u5305","img":"jfs\/t1\/67481\/15\/565\/28110\/5cec9234E71c47244\/dc4cf353fd96922e.png","url":"https:\/\/app.jd.com\/","devices":[{"type":"iphone","src":"https:\/\/itunes.apple.com\/cn\/app\/id414245413"},{"type":"android","src":"https:\/\/storage.jd.com\/jdmobile\/JDMALL-PC2.apk"},{"type":"ipad","src":"https:\/\/itunes.apple.com\/cn\/app\/jing-dong-hd\/id434374726"}]},{"title":"\u5173\u6ce8\u4eac\u4e1c\u5fae\u4fe1","desc":"\u5fae\u4fe1\u626b\u4e00\u626b\u5173\u6ce8\u4eac\u4e1c\u670d\u52a1\u53f7\u8ba2\u9605\u66f4\u591a\u4fc3\u9500\u4f18\u60e0\u798f\u5229","img":"jfs\/t1\/65354\/19\/579\/11346\/5cec9240E3d8146ad\/cf0d1777936ac532.jpg","url":"","devices":[]},{"title":"\u4eac\u4e1c\u91d1\u878d\u5ba2\u6237\u7aef","desc":"\u65b0\u4eba\u4e13\u4eab\u5927\u793c\u5305","img":"jfs\/t1\/36947\/5\/10895\/15408\/5cec924bE6c038530\/5cf21582b416c186.jpg","url":"https:\/\/m.jr.jd.com\/integrate\/download\/html\/pc.html","devices":[{"type":"iphone","src":"https:\/\/itunes.apple.com\/cn\/app\/jing-dong-jin-rong-hui-li\/id895682747?mt=8"},{"type":"android","src":"http:\/\/211.151.9.66\/downapp\/jrapp_jr188.apk"}]}];
+        //今日推荐
+        window.backup.today=[{"alt":"","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"ql9gDMkrqh4smG1gOh5yXQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","mcinfo":"03294000-09845456-3501223527-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/77103\/6\/12225\/72848\/5d9af5e5Efe0851d2\/d1669b4b55614d9d.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/77103\/6\/12225\/72848\/5d9af5e5Efe0851d2\/d1669b4b55614d9d.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"DCMN6SngT+k=","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","mcinfo":"03294000-09845456-3501223773-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/79862\/5\/11582\/85743\/5d917631E2c68bfc4\/b30cb2bb89237c8c.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/79862\/5\/11582\/85743\/5d917631E2c68bfc4\/b30cb2bb89237c8c.jpg"},{"ext_columns":{"focustype":"g"},"type":"ad","clog":"\/\/im-x.jd.com\/dsp\/np?log=qguGMEyTPFjQD2DuwQoywZTeGfkSCYvcp7DDoA0mDyqKpzOxuwSbaNDUg001Hol93KsafFEUHQOx-Js7zwJ2YAYP8BOVmvMf_-Hd1uH-G93VzHBgxsg0_928td4-WpccvDk9H7z4R2kW6DkpPY2gwjXiu7Ma2i_DsPBjMQhb0k4V2w_9sXdLCxxeKRVlSW7WTM2vazvtfeeC-m99vG_xO0HmHv_QegljSqeNps_CNQwuH-3yqUruss5Ol8scgyIf7TrDF3HT_oI-l5aBsizGjajjjjoVBWCDkGMJBpdIhTlwyUD3jWiaE0b2k5fmbJ45bW31rkuMFF22dIZgE0yZ91Sxiu0nB0o7A747W5oPGfP8yMsnMRu5zldcXrQOlCaC5pqZifJtwKOoDpumG8HY3j2jXtztwi4SX2ReawkrOfjlmGAYesaHM8dj9l6cVs6jVWOV8lThyOkLpRhk9enN7UgIJIpjzGZHVjmkMqsj-_UveO0FN_16Syp9ktwIzlMWvLwsCthnFYszC9kQywRwYcyx1fv4I_e3gShQio_e_Go&v=404&seq=1","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzNTNWRvNlFHTVRrb0dSQXZ6UDFuUW53anRyTmovaW5kZXguaHRtbA&log=qguGMEyTPFjQD2DuwQoywZTeGfkSCYvcp7DDoA0mDyqKpzOxuwSbaNDUg001Hol93KsafFEUHQOx-Js7zwJ2YAYP8BOVmvMf_-Hd1uH-G93VzHBgxsg0_928td4-WpccvDk9H7z4R2kW6DkpPY2gwjXiu7Ma2i_DsPBjMQhb0k4mn5Ohg08H-Rqvo1ILgGof1TQqQ7Xvvh_9VXCiVLeEfkeZeCH90paH-DevL_adyuLbBRTyMOsGz-dF8RguL1Sg-vXG_-OmfkoZlt9brvIODSrMJt08I4Fnpb5xxJ0bedLZkcGzsmkNi-lPcmshU9Yf86vygP5cDDnQ3bqmYjTNZXbFMxFeDT8hT-Paofm2IoncBGdTL0AouuX9Q67EASPPuBNG-uqsQ13ZL58O9emS7E24XL217VDzghF7eX147u_DIMBxl3rKcM-U6O4bVw-ETUqIuPfX7NvA5tqm265BxNS1pKmAr955H5UmMAVVAjzsm3Rs8YIqUufguog3ZQf5HW3ulAPvBILVqlEDBhQhQ2kfQV-LCO4IZT1-OtuXZ-5LBqx0LtdU9nIx3w1wCHno&v=404","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/72807\/12\/12415\/81026\/5d9d3c45Ee888dc96\/bb30e4c26c5c91c1.png"},{"alt":"","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"uald39EjWaJo4GloJul8OA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","mcinfo":"03294000-09845456-3501223491-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/76907\/11\/11699\/98475\/5d904813E2edfe844\/932520deaface36f.png","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/76907\/11\/11699\/98475\/5d904813E2edfe844\/932520deaface36f.png"},{"alt":"\u5c45\u5bb6\u6362\u5b63","ext_columns":{"desc":"\u65e5\u7528","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"8HBlYuBV7BABBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","mcinfo":"03294000-09845456-3501223490-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u5c45\u5bb6\u6362\u5b63"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61936\/18\/11741\/57523\/5d9047e0E0c3c4f9f\/9757df72a181c67a.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61936\/18\/11741\/57523\/5d9047e0E0c3c4f9f\/9757df72a181c67a.jpg"},{"alt":"\u56fe\u4e66\u76f4\u964d\u5468","ext_columns":{"desc":"5\u6298\u5c01\u9876","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"iPdHo1vFko69AORrEeaPJg==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","mcinfo":"03294000-09845456-3501223494-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u56fe\u4e66\u76f4\u964d\u5468"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/74052\/19\/11569\/83052\/5d8f16cfE407fa4cc\/a22e87dd89c3badc.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/74052\/19\/11569\/83052\/5d8f16cfE407fa4cc\/a22e87dd89c3badc.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"kNbTLnLsKugBBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","mcinfo":"03294000-09845456-3501223514-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78547\/6\/11597\/70620\/5d8d80ebEe1788bd3\/f9bc7fc69cbc2769.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78547\/6\/11597\/70620\/5d8d80ebEe1788bd3\/f9bc7fc69cbc2769.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"pC77ddI52MAuxHBnwnLpZA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","mcinfo":"03294000-09845456-3501223515-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/41588\/18\/16238\/78175\/5d8c8286E20c56a51\/f8ab8ef668bc1502.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/41588\/18\/16238\/78175\/5d8c8286E20c56a51\/f8ab8ef668bc1502.jpg"},{"alt":"Z20","ext_columns":{"desc":"","biclk":"1#34c0616904e40fe7d2facfd2e91327a56814df0a-103-619066#15976404","ap":"EErXUH9tUqyV+3PXLySUMQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","mcinfo":"03294000-09845456-3501223516-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"Z20"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61682\/4\/11368\/74001\/5d8c7c51E7c3748ba\/36c693bf87b21254.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61682\/4\/11368\/74001\/5d8c7c51E7c3748ba\/36c693bf87b21254.jpg"}];
+        //首焦兜底(新)
+        window.backup.focusbak=[{"alt":"","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"ql9gDMkrqh4smG1gOh5yXQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","mcinfo":"03294000-09845456-3501223527-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/77103\/6\/12225\/72848\/5d9af5e5Efe0851d2\/d1669b4b55614d9d.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/77103\/6\/12225\/72848\/5d9af5e5Efe0851d2\/d1669b4b55614d9d.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"DCMN6SngT+k=","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","mcinfo":"03294000-09845456-3501223773-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/79862\/5\/11582\/85743\/5d917631E2c68bfc4\/b30cb2bb89237c8c.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/79862\/5\/11582\/85743\/5d917631E2c68bfc4\/b30cb2bb89237c8c.jpg"},{"ext_columns":{"focustype":"g"},"type":"ad","clog":"\/\/im-x.jd.com\/dsp\/np?log=IG-k_4nYNP4PuVfinad9UTCh52_CrSmmdERUmZrhHR_sOY3fPLfYUjvCPmqTMveL8eXqdLnbx8bj9s4pGqg_ESsQ3vW7PEEQ_OC68bX1NcYY_ESEd-seoWtr8dXiB-ISHSgIpFlRAwES-mQXaTJyD_s5fQFEhsrUEeRBCm65wbrkqer0lmB-wtqc5S4wEj-5MsuvWgJRnw1-kl0zCWL4cUg_d69sEQgBcXji9rLn5PPvgnxlW0uLars64LwLpCtNzoWOathFJ3vlcNlFgbyi1LVmIKP0QY7sra1Mfcmi0oTaGw17lwHTqBFDvNux1C2YjKQIxZgVqMCFdSOly9kJX4U3GR2RU7FwKa79y5OWhz8DxNcsQ1c3hH_Y-42hBVzKRzIHwMq9YB9gYj4_1lmg9nZx17IjexJ0LcgT-FCxg0DZeGANCUK74_T_xrGHlevTs5t-Q7L5iHPWVP97i_93th5lZmqyCVE79z07tGmRJITWZYvuAO8oCJRQYFH39J-XOISPG8SPgautASNpVjfqgyz3_Effh-0YUZsoxvShDx8&v=404&seq=1","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9tYWxsLmpkLmNvbS9pbmRleC0xNjA3Ni5odG1s&log=IG-k_4nYNP4PuVfinad9UTCh52_CrSmmdERUmZrhHR_sOY3fPLfYUjvCPmqTMveL8eXqdLnbx8bj9s4pGqg_ESsQ3vW7PEEQ_OC68bX1NcYY_ESEd-seoWtr8dXiB-ISHSgIpFlRAwES-mQXaTJyD_s5fQFEhsrUEeRBCm65wbrmA5vlyQQSUoo9FMlyGUiopaI3J9c2IciI9abcll8GrXDjnv0zB5bgh352SDdYQzkrlweCsaW7EHXw9xWMRY5vMKZKZt4eagA2NEGFkietVzGMHj2EKMQKU-zEFWYJFtYSrBPS0I52c8DtODQUzpTu8gc4vnhsOrr6zVq7C22wtw6gsCx9Tn8db6VM86VEe_LdgCV-V_r_7cevQ7od1Wlys0Lp_2KB00lxsnnrkjLWiaT0uiDaH3H0Tgjj_tGmmXofL03wfUVSfhx4kKyRn9FmFEAxeH16CwJfRWbAYMeGarTmHLhBsqZOIli_Sofmr24UZq-4vfykSjtoJnWByuThg-yTCgTNWOU0JsrX0Y9_FE7APItZEVAzrdcn1WXiUxdK8YYtSVcD-utOuAvv3iDHWSLZA3jchpPpC-W-DkVo8g&v=404","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/45958\/32\/11643\/16563\/5d8976aaE663f5786\/bc0f91b3660c86bc.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"uald39EjWaJo4GloJul8OA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","mcinfo":"03294000-09845456-3501223491-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/76907\/11\/11699\/98475\/5d904813E2edfe844\/932520deaface36f.png","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/76907\/11\/11699\/98475\/5d904813E2edfe844\/932520deaface36f.png"},{"alt":"\u5c45\u5bb6\u6362\u5b63","ext_columns":{"desc":"\u65e5\u7528","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"8HBlYuBV7BABBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","mcinfo":"03294000-09845456-3501223490-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u5c45\u5bb6\u6362\u5b63"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61936\/18\/11741\/57523\/5d9047e0E0c3c4f9f\/9757df72a181c67a.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61936\/18\/11741\/57523\/5d9047e0E0c3c4f9f\/9757df72a181c67a.jpg"},{"alt":"\u56fe\u4e66\u76f4\u964d\u5468","ext_columns":{"desc":"5\u6298\u5c01\u9876","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"iPdHo1vFko69AORrEeaPJg==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","mcinfo":"03294000-09845456-3501223494-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u56fe\u4e66\u76f4\u964d\u5468"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/74052\/19\/11569\/83052\/5d8f16cfE407fa4cc\/a22e87dd89c3badc.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/74052\/19\/11569\/83052\/5d8f16cfE407fa4cc\/a22e87dd89c3badc.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"kNbTLnLsKugBBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","mcinfo":"03294000-09845456-3501223514-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78547\/6\/11597\/70620\/5d8d80ebEe1788bd3\/f9bc7fc69cbc2769.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78547\/6\/11597\/70620\/5d8d80ebEe1788bd3\/f9bc7fc69cbc2769.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"pC77ddI52MAuxHBnwnLpZA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","mcinfo":"03294000-09845456-3501223515-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/41588\/18\/16238\/78175\/5d8c8286E20c56a51\/f8ab8ef668bc1502.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/41588\/18\/16238\/78175\/5d8c8286E20c56a51\/f8ab8ef668bc1502.jpg"},{"alt":"Z20","ext_columns":{"desc":"","biclk":"1#865a91e5ea4607dcb57f88041cfb790682eb91d5-103-619066#15976404","ap":"EErXUH9tUqyV+3PXLySUMQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","mcinfo":"03294000-09845456-3501223516-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"Z20"},"srcB":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61682\/4\/11368\/74001\/5d8c7c51E7c3748ba\/36c693bf87b21254.jpg","type":"material","href":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61682\/4\/11368\/74001\/5d8c7c51E7c3748ba\/36c693bf87b21254.jpg"}];
+        //首焦兜底
+        window.backup.focus=[{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"h"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzI1UnNMNXZmSkg3N1oxdzc4OGtnRlRNTGtCaVMvaW5kZXguaHRtbA&log=m5UJ5i5Xfyo8DPQ0e6W8AaZRRCW1tet1pDRUhYO-PdKoPjuvOCUPXVuXxo75nJsxSVt_NszKpwL7C76vS9BV3y_j9RNQpb7-RjWoCHUGmJtGF7ATk4CUAfzKQmnBilu8STtGQ506iMBO1IqoBMJWqsn_bPEWtFuzCSk4YLtkUXz3KoY5hGpG61Tco18VhdC3sl1Nxvi_VdIdgf4SP59HGHitUgR38RDK6CEoYPvHqeSI6I80DoY95-QzI6u_lxO_fhiTAVVh-JxURU3eM_s_vtztvQvMaya8LJDLmNmDmF9SituJ7DuRH05FsqzXcTqFIp4P0HZZnr4O5yH5Nkru05hhdbtIH8eeO5OEK9sh24-ioLqbcb8AzxU8ffblG__4nDJnq9BdRb7kfqeej7BAtmEsrFoxS-Puvu2zqCHxIRy_DVFtRXuFZLqwlwFrnTDDYE6j2jVinTpOTibQigPREOk5SQ3PxHL03Mwioj2LK1kAZn0e_I6xCqZ0V2zwWGJ9zIVAaAjT7JviNN3aLTuLvQj1DrXWn9ljMbKoboEXA6U4Iad7wzGfkgVuIiuivD9E&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=m5UJ5i5Xfyo8DPQ0e6W8AaZRRCW1tet1pDRUhYO-PdKoPjuvOCUPXVuXxo75nJsxSVt_NszKpwL7C76vS9BV3y_j9RNQpb7-RjWoCHUGmJtGF7ATk4CUAfzKQmnBilu8STtGQ506iMBO1IqoBMJWqsn_bPEWtFuzCSk4YLtkUXzSPPy4W7-PaWJ1ogdarGDvIzKjSDUr00jPD2Lz7pBOWO9oPpZTSBGuyrFDOweN3keC7aWF408lTEO9jx7b8SGerJRiNbyADRjFW_sgU8oZzMBSApQpF6CYo24HiyhnttT8iYoVkoGaGFtiBih1EAOWhqvLLY9SYuMnRq2JlEEfS5VcQ1LcoOmhm4F1f7aVyIyhYATQZPF5PSt89ErK6SBwCIm849F8qe2g8zRe57O4ysoaSsffmVUW8BONUkmCzAhGhEXe9RmRZR7NkIaU-4jJtgx0OwEQF2f79yy6tHoqlD-C8MZrdpr8yd6wDDqlH9EA3a5fjC_vCJv81eWxd7f5kNjSaBrk1siq-EK9eZrcFZRnU7Hwn539AjMqJoOWk-72LBNvXUJ3D90gfDsm8xjH&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/45089\/3\/12285\/81756\/5d93121fEda673779\/7963fbb8652f6098.jpg"}],"recommend":[{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"nPhRgIW98pw=","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/SyNEMyANkXQuUmzn5dUef8CQGPA\/index.html","mcinfo":"03294000-09845456-3501223517-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":1,"href":"\/\/pro.jd.com\/mall\/active\/SyNEMyANkXQuUmzn5dUef8CQGPA\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/54292\/35\/11874\/56587\/5d8b6508E22345260\/1f4a39bf92bf508c.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"qzIrPOKMG4zXyMfebbCSEw==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/46xH2FEswob1Eibj3tJMTTfpJvA\/index.html","mcinfo":"03294000-09845456-3501223518-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":2,"href":"\/\/pro.jd.com\/mall\/active\/46xH2FEswob1Eibj3tJMTTfpJvA\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/69424\/36\/11239\/115336\/5d89d5cfEea3ae712\/add05ec07b6d8874.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"FBW69VCKp+iapqfSB8\/3Mw==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3d67XSTKmtmP9uSzNVuQaoLdHd1i\/index.html","mcinfo":"03294000-09845456-3501223519-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":3,"href":"\/\/pro.jd.com\/mall\/active\/3d67XSTKmtmP9uSzNVuQaoLdHd1i\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/51074\/39\/11556\/86414\/5d89d4efEf858770a\/9fe9ffdc92698dbb.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"g"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzM2V210Sk1USnBXM2lmM3FRcmRHNWN1WFJIZ0MvaW5kZXguaHRtbA&log=Q1v7eYsbVc8i230ZMo0PaEMxtfhhjw0tpjTmWYL2Xb4eA2u5iVvOuKsd7rK3GZnX1kIzagJSSFXfDBBOY-Qg0J7rjWheeAJTHDty6KjxCSV6eiFLr1C1p1VrNL6Pg75R21-Uas4o9prUNVHwlZEaUIwaat4oEbTw_31MeYLElbu9jk6GW8n1-5UKh6ha7wBArU-tRleK-AzKl7ciwJEdMEyOIdHmorbHTsODZHt4C5IYiwavM_GjMuiK-h4HYHgZ3_-ont-lpnhJBWsqAlHmi09_87WTMVJJtDasg5YPgIdvKWQdXsbqhi7N4EpLG7ALDDVC7V1REWl9Rju6_BGkqzQKoRYhzcyRzejl-YueWtGiebYS7X2fQFzqnT9eZhva4UMlGNFOxJ3VVLw0L8EucDVVSA7SxPXcn8IOGLrjURI6wq7iknzP4X8z-6zfZnOWPKcP5Qsra28U1R56rUi4ORf4AUoRBNFs7ZcfnMNc4zrElU4DmGFgAsJ2U_bty932SzyaU7hwVOfjkidBzlGT7PwDVjA26xS90CAWnXti5M9HxbUcpvlDytu1tmmKivpNwtm0tiDhQDHlcnb90XBoHw&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=Q1v7eYsbVc8i230ZMo0PaEMxtfhhjw0tpjTmWYL2Xb4eA2u5iVvOuKsd7rK3GZnX1kIzagJSSFXfDBBOY-Qg0J7rjWheeAJTHDty6KjxCSV6eiFLr1C1p1VrNL6Pg75R21-Uas4o9prUNVHwlZEaUIwaat4oEbTw_31MeYLElbtmQJvU8_O4uS7A_46Uh7_IehK0OKA8NlsOA9RgHtC1Ldwrr35RxVuVwKEu-yPqmZNzW6K3ANNh2z8dZRmt4jPPgiEeVypecwMhi4AtUrduUQ1poAV1e_5Dl7RMP1mL27hdUDd0kKXEnARtv1sVciomWxA_SUitc6sm6nJBKa3nuawfm_OvPOCkx2ydpfosnit03b9v1gSnJlIaMNXKryi2iSmxGRjZSlGsG5RJFUNfhuMc1tiGEDwhqwQ2n9nH9rHNIH_CmM6YGzR_lBuHWIBUR3j2-CPtP3kxffAabrB7iUcC5LM_td2fjjraJkPXzmlAYZ6WnePAmffs4vdf7S0w6ESDb-XUx0-OfoGDqfS0Ip4mpChltZIYsCDfpN5X_VMRooAkQ1WYwLZtu9sP-2-L&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/48923\/23\/12251\/71497\/5d92ae9cE5e5a5351\/12db2ba0ba884ccb.jpg"}],"recommend":[{"ext_columns":{"desc":"1:cpm","focustype":"g"},"sourceTag":"0","position":4,"href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9tYWxsLmpkLmNvbS9pbmRleC0xNjA3Ni5odG1s&log=qUxydsRXG5EWME6w0BvOtxSOVeEGE5efX0m59geOpsiBhw1G5HgS8OLlmIqMlLhcU5kwVysqUYk0qbH_A4CYJo2cOQnIejMb0JKTZwPjhp7s9f2vWg1nzkCLYeo_-cilRsiRr_Ic0myaCne0s1vUFXtWSuNqq7s-ibG2FK-pTQYw3jfLXpnAdiI4IeuzaTHEHIXOxztLBrsmZFCkErxZb7PRzKIxsu2dKEO8lMfpSMvyXF4ej-39zUYWv94-IsbrBvcW6HYdnzdGrVXTrvmBsYPCJqjdSKXayAmndodVTms_Qw6RF4Be48T_r6KfO6xDr-wgjZsn6eb09ZpZ-rbiRpRccyBeqqBXEklBhj7B58cxLeexS0Uz05DvA7WMp62pyvaM0BZoqfSK2XtlTabWNmGUWXFHbrdEvAo9NDN05ljmKzuMAQz_h8o-ah3VVEIALbEKvd7BmD7EMnxlX04azNhNxFAWSeFQ4Yws5upTk5VHPGvNM5wJhXiURGFIw_N4Ef8GyPFlhkAbmiKa3zvQ7VWGmAbc0xbVZj2x4xSLi6yNqeNFGjb2gBJMjahZkmmK4WM8Qe3cRU_1kbw-3fNt6Q&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=qUxydsRXG5EWME6w0BvOtxSOVeEGE5efX0m59geOpsiBhw1G5HgS8OLlmIqMlLhcU5kwVysqUYk0qbH_A4CYJo2cOQnIejMb0JKTZwPjhp7s9f2vWg1nzkCLYeo_-cilRsiRr_Ic0myaCne0s1vUFXtWSuNqq7s-ibG2FK-pTQaY7hQBLVHeL2XZnRe3sgrHTQnR7VHmIAvdZBbMxE2N7xbNS0bU1F9KFSJIYhAk9iBMYozvXTR_Ob8cX4OR3z6ApHkT0VvXk0h3dmYAQVvwYpgxrCtf52m8X1UQkY3AGKzXbcto2NDMtHsltzljg783N8y3nzibsJOCrl-ff5YynCus1w3Xx2o2cW-_ftJA6-Gd-C4fQo4VRPyg0-j4FQWs4oWnv9J-Z1yuEHIaxmcBY9pMWZ31FEuOVqLBGRDghVpdqDj2YRjnQWsf6NDGXc5U-FqzBXSvr47JaMjKyzocgmxZHOuVO5DEzQjQ1Pif2dGFQBJS4DbE02oGv3ehJWaLwmxVVrLKbGSDxrPx8-BIJfRFEzvIYiklaO-IV714Ufw&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/66473\/6\/11182\/14243\/5d8976aaEa6e77e00\/45d3111087aea8a3.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"ql9gDMkrqh4smG1gOh5yXQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","mcinfo":"03294000-09845456-3501223527-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":5,"href":"\/\/pro.jd.com\/mall\/active\/3mzU2E3mNwxSJFk3H5YHcmZEjSTF\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/77103\/6\/12225\/72848\/5d9af5e5Efe0851d2\/d1669b4b55614d9d.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"DCMN6SngT+k=","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","mcinfo":"03294000-09845456-3501223773-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":6,"href":"\/\/pro.jd.com\/mall\/active\/4MdLoZstGraZDhjFsxTQA5wHWKrG\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/79862\/5\/11582\/85743\/5d917631E2c68bfc4\/b30cb2bb89237c8c.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"g"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9pdGVtLmpkLmNvbS80MzI5Njg0MjQwNi5odG1s&log=gUNgCsfUZ-d1FVgvZuYbSDjddfJp2Z-GYZGYet1GIFUm8w-TuFIMaTYf2oreecWwkpt5ne1cGRCjfwsnFvW_jN9-dv3XZG5z9emOxPfjDSRchfDbkuzTvcsQ-e64jdG6AchTn6R_FTHYJvpP2Yb3uCqCQhUl9LtulTEJou_HvD_zxWwPRSnH1llGKiETai5PS6DXvxdy7V8m6OzgnErHmD-F9h6G2RSB_c0VL1xXqZt0Btphh6NqXzixfK5oPo6nH7E9qP1iTSCnGmoyLJwMWSeoV8MR0MJjCK5XJtgf_u2N79rlKW2IXCG4d2u4ECNAdZFbfxukDtzDZM8HypNEDbdZyt7PDjTHif4QOshndYnMnAfkfoslxwU22mDy2bK404JSFFT3z5HtX50U62_ssmqhj2Hkq1lqSTgeVruhOd5vZ0ppf31fNBE-A0cawq9gTKSINX78vvkCpg6Jufbh_XwXP3EHVbdeWyW2YMURmAI78K4lrSfkCUh6WCr7tcD0RU2ciwR8j05WkAYJeUDnfXyVpMZ4goVbpewsRpiDICAgo0oTRgXAoSZxiXCWwNqkBNIUSfOfey1kmV3lNeHQ9w&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=gUNgCsfUZ-d1FVgvZuYbSDjddfJp2Z-GYZGYet1GIFUm8w-TuFIMaTYf2oreecWwkpt5ne1cGRCjfwsnFvW_jN9-dv3XZG5z9emOxPfjDSRchfDbkuzTvcsQ-e64jdG6AchTn6R_FTHYJvpP2Yb3uCqCQhUl9LtulTEJou_HvD_1SADQ1fWYnm8xeFci_ysEUL6CGofgWiOPtGGZG2i6xIeqBlY5LmPYja6jvVzFsCs-GTJuFkXEhnyBTifAkcmLh0_b8-59mYH6obNFCPImNSg5yncZTFhhkPTxEvgiCpFNLOOeBF-fVqPlbjO26hHgTCMe243K3ZlNg8EPrCce7-im9w7eGq2F1F6KGBczUy31XHlGwfskNx1nLO7bD1LTxvMgaposDVHHRKXhR7T31T_08kcqL-Skz-l0AIyzS6B9ChYxfi5CjNCEJpkeHN-az8eWTJ5Oot-E2ITR_6tSunY-rtoOmeKWY_sfQUDe8mvEjyxDmJVEFhH7BHp5stL2a1AC-uBJDDx2e8Z9Bc_F3Euv2QUZ2noIYHWV0DzTJFba1LiqNOXLAcdayPHNHdmU&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/42870\/27\/12601\/145045\/5d5e357aE8fb1745e\/0d5d82a9652bad26.jpg"}],"recommend":[{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"uald39EjWaJo4GloJul8OA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","mcinfo":"03294000-09845456-3501223491-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":7,"href":"\/\/pro.jd.com\/mall\/active\/2KYi8tMN4hP8pUs5qCDqQDWz7nzk\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/76907\/11\/11699\/98475\/5d904813E2edfe844\/932520deaface36f.png"},{"alt":"\u5c45\u5bb6\u6362\u5b63","ext_columns":{"desc":"\u65e5\u7528","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"8HBlYuBV7BABBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","mcinfo":"03294000-09845456-3501223490-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u5c45\u5bb6\u6362\u5b63"},"position":8,"href":"\/\/pro.jd.com\/mall\/active\/2HPdLFz3P5DJHk4zaVJwxfE1hwEo\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61936\/18\/11741\/57523\/5d9047e0E0c3c4f9f\/9757df72a181c67a.jpg"},{"alt":"\u56fe\u4e66\u76f4\u964d\u5468","ext_columns":{"desc":"5\u6298\u5c01\u9876","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"iPdHo1vFko69AORrEeaPJg==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","mcinfo":"03294000-09845456-3501223494-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u56fe\u4e66\u76f4\u964d\u5468"},"position":9,"href":"\/\/pro.jd.com\/mall\/active\/46Vsus7SpKRgDbyAUitFHeBJnthu\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/74052\/19\/11569\/83052\/5d8f16cfE407fa4cc\/a22e87dd89c3badc.jpg"}]},{"banner":[{"href":"\/\/pro.jd.com\/mall\/active\/k1BDRF3mbGB9CXy742NXi8vcE4u\/index.html?innerAnchor=34826697326","ext_columns":{"desc":"\u51b0\u6d17\u6ee1\u5343\u51cf\u767e","link":"\/\/pro.jd.com\/mall\/active\/k1BDRF3mbGB9CXy742NXi8vcE4u\/index.html?innerAnchor=34826697326","sku":"34826697326","focustype":"t","playImpr":"1#13#300002-4-actfore___","mcinfo":"null","biclk":"1#13#acthot-B0020209-0-34826697326-acthot#0#88","text":"\u5bb6\u753510\u6708\u6298\u6263\u5b63#34826697326"},"type":"delivery","src":"\/\/imgcps.jd.com\/ling\/34826697326\/5a6255S1MTDmnIjmipjmiaPlraM\/5Yaw5rSX5ruh5Y2D5YeP55m-\/p-5bd8253082acdd181d02fa06\/f1894e4a.jpg"}],"recommend":[{"alt":"\u4e09\u67aa\u5468\u5e74\u5e86","ext_columns":{"desc":"\u4e09\u67aa\u5468\u5e74\u5e86","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"bEQnOfcdlJckus93uySCgA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3fufGzw2Ls4a43b8BkG82U7hDEAs\/index.html","mcinfo":"03294000-09845456-3501223580-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u4e09\u67aa\u5468\u5e74\u5e86"},"position":10,"href":"\/\/pro.jd.com\/mall\/active\/3fufGzw2Ls4a43b8BkG82U7hDEAs\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/80280\/34\/12315\/63958\/5d9bf5c5E0753d348\/a5c7a8d0b62e2dac.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"TglKt5pqGz1xMdJYrWgQ\/Q==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3dNRtKVCutkEnw7iv1oMrJM8dHLi\/index.html","mcinfo":"03294000-09845456-3501223579-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":11,"href":"\/\/pro.jd.com\/mall\/active\/3dNRtKVCutkEnw7iv1oMrJM8dHLi\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/63211\/26\/12345\/47964\/5d9bf576Ec4a0e967\/90fc09e060a28693.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"XL3HZxJbSU5G0dK+mBjVnA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/15dryZnraN1MMYtBH26NWh6Npm1\/index.html","mcinfo":"03294000-09845456-3501223578-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":12,"href":"\/\/pro.jd.com\/mall\/active\/15dryZnraN1MMYtBH26NWh6Npm1\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/49965\/28\/12955\/76944\/5d9c27abE5d2bd98e\/51f81b0f9118fbc9.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"g"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzJXRUpkTGpLTkhCUUx3RnNrd2pxQ3FydjZ4eU0vaW5kZXguaHRtbA&log=n4_9ZpdRB3NYe3LKBDe3PFfU6DkTK6746c2W5LiswMjy0OlxcpNHH_Ohnjb58pin3gaPF3uh3464YFu_gbDcI0qiZNKeuNY6qZESNayg9KvIso0SAeVNBVjU_RAbl9-ZG3NcYwL7Otx8nVLLfwvJpKeqHrmwm17LuarVg-nMbXagjwnXk2J5JMKQMIXjkI6lCK-vTRzfyK8wSI38rw2GyKPAZQe2qSM3XnP8ipHSLujfwToaWWjD4OTODJInQeqzyC1xek0DrXizSTsYlhP2OCYnsEramKPVn4Z2MKtjNKEzlmN930k06HQm4Lsj0snILuezJK5SPeBeFCR7gX-KtDKW4xdUC2gqcLCv4GCU7QdlN0xzWeAen_Uy3SIrQYibvjVbGjX70h3T9jJPXkkY4TwEvx6UOoS7jle3uBdlQjliLy61qBQT3UejtFSj3_NhfMLNsFQvWYGO9EG4I97aRyHYadrSQW-PliZVp16yPTt7CrF7QtSA3IfO_1I4a7hK4YltSjVL039KlABwhxpK1yEISQ_nccuC-kyL1azU8Jc&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=n4_9ZpdRB3NYe3LKBDe3PFfU6DkTK6746c2W5LiswMjy0OlxcpNHH_Ohnjb58pin3gaPF3uh3464YFu_gbDcI0qiZNKeuNY6qZESNayg9KvIso0SAeVNBVjU_RAbl9-ZG3NcYwL7Otx8nVLLfwvJpCQSxEabZQGK5-U-rlRX4Ft42RIDYtOuWhNfG7EnTWQoIhJZj-IVbegADFYW32e180yIuYMhIZFq0koRXMeG3MFY__rVa_E4W38Mh97chofVCxt5tP3b-ZON9NQhRTKNoQUguDfm2BlyHNxe6lgm712fpsQcFVE_q4VuVdhVhwtw11cOXC0i9qX_lc965PEs6JHy-0o795yox5j4-tMZ39awg9W46IHtMYxs2b2oGRUj8wq4asNomdLE6a9Ho5nP-WAyizwjqEcZQVaaj-xrV_-gPOSL_RP6tO0ZaVQ8zOCPYs1PoG8PBsI7IwkbOGubnA38UNJDWIEJKwAP2-43Magmhalb2dz-MJ26PQZYrYStCr68HfGcuVfDvMLzBoAeivYCx00koTkFIuJREDSBfWA&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/71269\/3\/12249\/37796\/5d9c0524E53260798\/0b1ad15776e3a2aa.jpg"}],"recommend":[{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"kNbTLnLsKugBBlITEyBAiQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","mcinfo":"03294000-09845456-3501223514-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":13,"href":"\/\/pro.jd.com\/mall\/active\/d7bVee1e3eXoBQGQmq35BM14NzR\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78547\/6\/11597\/70620\/5d8d80ebEe1788bd3\/f9bc7fc69cbc2769.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"pC77ddI52MAuxHBnwnLpZA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","mcinfo":"03294000-09845456-3501223515-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":14,"href":"\/\/pro.jd.com\/mall\/active\/3tbd8gRcrWZo6nQ9ruj2ksdEiQi1\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/41588\/18\/16238\/78175\/5d8c8286E20c56a51\/f8ab8ef668bc1502.jpg"},{"alt":"Z20","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"EErXUH9tUqyV+3PXLySUMQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","mcinfo":"03294000-09845456-3501223516-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"Z20"},"position":15,"href":"\/\/pro.jd.com\/mall\/active\/2DWaJYRFaQSSMeH2Evo5d4uvyrrc\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/61682\/4\/11368\/74001\/5d8c7c51E7c3748ba\/36c693bf87b21254.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"h"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzRaZllUU2ZmUktCQmNram95bzd4ZW5UaVhVVTUvaW5kZXguaHRtbA&log=9TdxH2l29kCsATA_NxghTaz9hWo_WRKAzrB-9hTJH_tfKZLdDXrVv-fqKjC9jLYXAS57U5fGPDwXfGTE1GFURUT2yGSmfgTev4s-3wDgV8hX7dXL_1MAdy_denqBSwnd-YvS2Tw79nTALRBIWkQuow9hAZ6rlVcI5YNAMa4pobZD_yIAQxY9fsPMbRSedwqIMcu4UOtk9ZfWMyvRGn0XzVOlZw9UmGvY1Kr5U20zkv0PSLl9WtT9vSRqKewJc2ldXKRh81mF43_0JvQZ5jzf2-e7B6cpfXcQ3iDL-Ie6pqB2Hn2_FAN7Zn-67ooCt4CVYEI8SkL1pUWQm_Qi4ao85I7gm4hT2yp-oHoMAroTIoxCVm3zNXwpvaeTc41PPWv9WYmWAeeg9Hh3imN8FWCGsuMHyPoTko27C4gdTbc9Gz16JZ0z7bshX7kYphLza4n-WRJ6sVCLJDAVpwMdCVCwQn4-M2NcPls56gUIsWEcScBtiUaoJjwGGRLWh3dznDk92ZmZ9MceReJW7m5McqEQGSB_N3W77ZmxIjxkRl8QYWY&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=9TdxH2l29kCsATA_NxghTaz9hWo_WRKAzrB-9hTJH_tfKZLdDXrVv-fqKjC9jLYXAS57U5fGPDwXfGTE1GFURUT2yGSmfgTev4s-3wDgV8hX7dXL_1MAdy_denqBSwnd-YvS2Tw79nTALRBIWkQuo_qPn2ar5TD72pa5D2kcyk58HFqG61feJrbjIQI74h79huSgGxWHC3C8_qb7uLYXFgB-x7_KrSvkTckN0GQOUYSSVSXCT6zz4QRdZnKbpjXKLjrLLxGQrlQUKOhubUIp3peWLOMPIapM9xa2zvldIm6XpIkXDV2LgtOYVoluXe8zRXc_sUpNsoUKzmvefTZf90J9oT8czsZ4zL4w-tVwy3aKSIlSGI5CEZilxhDxcWK98BkuEMBzRShyzmuF2S05dQ-_yoLPzuNvNcmMcjZ5iutPxTytLS2zvJY70c-FAhr-R7ng58PeGMOLO0U8GPlqfUZWyKYpyYPzvj2httErLd0cE1OyEjeKKHgRWiAk3zFDjEnPMtPLM32fAmNi79ZaKg&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/79496\/6\/10431\/63542\/5d7f200dE54edd62e\/f12a0594fb9f0e55.jpg"}],"recommend":[{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"np272shXsQh9wunNQlNOqg==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/apW6jpU7CnHHwJigXKoSqcULKH4\/index.html","mcinfo":"03294000-09845456-3501223497-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":16,"href":"\/\/pro.jd.com\/mall\/active\/apW6jpU7CnHHwJigXKoSqcULKH4\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/50486\/18\/12028\/69337\/5d8dc9e0E735a111b\/e23e24ef1d889b2c.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"ar9+8SIul6WNJXefHICPaQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/3Fv5vcMoGn61RiS3yroNnvK1uggJ\/index.html","mcinfo":"03294000-09845456-3501223496-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":17,"href":"\/\/pro.jd.com\/mall\/active\/3Fv5vcMoGn61RiS3yroNnvK1uggJ\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/78163\/24\/11396\/77822\/5d8dd6e0E951c59c7\/c8e55153c8ecb348.jpg"},{"alt":"\u9ed1\u9ca82Pro","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"EErXUH9tUqyV+3PXLySUMQ==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/28bw6fLCSoxGTKKBiQZLmUrVoSKV\/index.html","mcinfo":"03294000-09845456-3501223498-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u9ed1\u9ca82Pro"},"position":18,"href":"\/\/pro.jd.com\/mall\/active\/28bw6fLCSoxGTKKBiQZLmUrVoSKV\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/45809\/26\/11999\/56000\/5d8daef9E75c63074\/d64d4c98df4a0f35.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"h"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzJEUG44cVJRdUJtdXA3ZnhVYVpEdHpMeGY0TkwvaW5kZXguaHRtbA&log=LSOehnPgx6LvTQdQnvZCveoaBxtqhRYo5pWL8hK8QK1N5g5ZkKgQFbH5Ov9Ccw32X5kt7uhIg4sFPY5h58u4L-xSkUgNWXBpnllD_thvKMaEH6AZCs-d-yWyzSgg_sAb4UH_2AwYNrHtxz7DamUMdCBBJuDW4u1WqAtsSSGfwNxhguPP9qOzNIYYVCF7R8KLfD27prCDtwUYJBSQJmG-hKGn3QXGLfX3H3r1uMIzHqLWlZPS7odlYxy2d-qErImX5Mrt9pD6RHkmJ68Tz6whmMB1oA96J6MFOiOUmI__ipKPfTpOw687epea4ZoK05O0LNIMBqE7v-YoC_SKK4PxI6eXAmyfapkIGQKI0LpokgZWE5rI5WgcB461J1Nll5IOcTTKf64tGdDaywMW-J3AX0mUyd6Dv4NbsDYIMckzsFg15ZQv9H8LUGbQaparYJD7vHMGY4mkNkX6A5ESo72Jr8hJIBLEueU3BfwL1uHaUmw4ioUEv0TRwaI81oGpFmDzfBJef38q8cWzbEaagA9G-qEd3DBqYHLUDySYf6YZcZ8&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=LSOehnPgx6LvTQdQnvZCveoaBxtqhRYo5pWL8hK8QK1N5g5ZkKgQFbH5Ov9Ccw32X5kt7uhIg4sFPY5h58u4L-xSkUgNWXBpnllD_thvKMaEH6AZCs-d-yWyzSgg_sAb4UH_2AwYNrHtxz7DamUMdHu6cepRzKoH5PxSlsCS-tBCgtOkm92OANyK1dsB_ltw3ARoKw7q-socftBFNeOJSHvQaKzqIRKVXQA3C86VBP2Ah4qjjqGAshvht7gdu0-yo5A9CfH4iyOg16eE64vSgOP-8EEqg6kUf8q4qnM2E__2QOgQt8PmSkXrfmnmRckEXR-FDlOPlEHT_nT4fzXDKxSSr_FP2eGjM0TC4higqWwI2De4M4ZInr6HM3lBXPIY5zFZ4ddigxt2rFfd-X6Y7vHNTNBqIqChEtNTZWfjWWnDTMJmljTKMauTuR6gV1Irj0yvICIvcthIPfjwouB1ST5yjHahMTzBgRvHlOcstfge1mC8re-52ec3H1CJvyAo-AqfGWuyCsV49DpEwdrAkg&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/46512\/13\/12062\/75251\/5d904d39E183bc0d0\/720aeeabc5ac19dc.jpg"}],"recommend":[{"alt":"\u552f\u54c1\u7279\u5356","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"OTICaUwrwP\/L4qSXo8hlmA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/Vu5Xeg5iAGzUdMr672yy6mUPALQ\/index.html","mcinfo":"03294000-09845456-3501223774-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u552f\u54c1\u7279\u5356"},"position":19,"href":"\/\/pro.jd.com\/mall\/active\/Vu5Xeg5iAGzUdMr672yy6mUPALQ\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/54809\/3\/12918\/63326\/5d9c6186E46cd319b\/bcafe07f4118c79a.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"eT2uy+aVghvSFYu4G222TA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2K8Tzqh8ortRnF413n3ZNd5f3onm\/index.html","mcinfo":"03294000-09845456-3501223489-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":20,"href":"\/\/pro.jd.com\/mall\/active\/2K8Tzqh8ortRnF413n3ZNd5f3onm\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/71083\/11\/11653\/68638\/5d9054cfE9791b801\/7ee662e5b3d0971a.jpg"},{"alt":"\u534e\u7855\u5dc5\u5cf0","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"LtA\/zDKDZ9RkLIShZzgndA==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/42A1Pf6ZiHnyCGq8zpLcBG5QrYRj\/index.html","mcinfo":"03294000-09845456-3501223488-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":"\u534e\u7855\u5dc5\u5cf0"},"position":21,"href":"\/\/pro.jd.com\/mall\/active\/42A1Pf6ZiHnyCGq8zpLcBG5QrYRj\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/72499\/21\/11621\/72839\/5d9071e3Ed229bf6e\/38a84cd8d811c283.jpg"}]},{"banner":[{"ext_columns":{"desc":"1:cpm","focustype":"h"},"sourceTag":"0","href":"\/\/ccc-x.jd.com\/dsp\/nc?ext=aHR0cHM6Ly9wcm8uamQuY29tL21hbGwvYWN0aXZlLzN6aUNDV3BFMXFBNDFzQVo0eXR2b0c3UHcxN1ovaW5kZXguaHRtbA&log=iL6yxfBzbBMGOQvc4Zn4UxBG8lM3Pum42RY2ig2PvY8eU4gGumth8L1wRCjOS8HSk1-Mt1xkIYHzdDYsncVYnxYS0tNXOU_nVLHYEG2uMPu9ljjZY72p_IA2CueILTeP4lnP7XkiQEID0YAGXj33FupjHZp_y1iFN10GdTrZFd0t4WeB-mZC212vpt38TZyFdtZ6VVHF1Y0H7HWaJhTMf7ugD8fd7CTrP8E9P2nEe7m-D8ehXRRE5NRCoSAfFOyofWq8B0DU8ZXlpC2AkxdHtREJtXwWRLp9mq1Z0UEy7wbs4rinXy2mfKK8Vi264tVU2hkLBCXYFVhN1Ypng8kZTf6yQSL2Hg-s0BGW-FlbMVuV001oXQ2N8b9lwMyC0dTkxj7dgU5yMmJvTCcyyXLe1FuP2HZ2fUSuol3XZBqfvDrvporqpdeUJbvopIXBgdXSw9HC0mKJ-rWI8F4huK5d55QUjUSjXA7vucN9vyhd3UBDADw3A9tX7UF2-IKv-ymEg-ywUP1szB64njpLmZyNID5AunZ5hGaJLtkwLLPrSjhPIRKzlYG9u1YcncGgZUKp&v=404","clog":"\/\/im-x.jd.com\/dsp\/np?log=iL6yxfBzbBMGOQvc4Zn4UxBG8lM3Pum42RY2ig2PvY8eU4gGumth8L1wRCjOS8HSk1-Mt1xkIYHzdDYsncVYnxYS0tNXOU_nVLHYEG2uMPu9ljjZY72p_IA2CueILTeP4lnP7XkiQEID0YAGXj33FupjHZp_y1iFN10GdTrZFd2L4CHRtmRWP3HjYlpzAIKQro7pcOTyGX2GtouSlLLZk71dSPZGKJqF3RlnUVZhd_uzKXoQfyWL5rbao7B07VrBIvDdNKVatMTdym47-d6dWqIbhrJL5f06ytRlIkq9q1S2jHZw6O0t0u8VvFFp-QalsMH_vWSM6SfcG3LyUPwF4hmsHOb5QaQ5sVD__6wZEY-iFWH4yXKercNAXHhGVQZKYhrspaUi65a8EsBKWmaPSPC1EpkHZ79sWLOv6lh6jKpUqaxL9U6vlvY6yXL5Raqp7-K41wDfud2anVbb9XjkflbannRlf0pTLqvEYNHNKuIuSgiDV5m7uUY6_SmcxBuhEVtRg6pQwUEGUSPnn59P2MVqOVEA9b7jbAwsoKJPyw8Qh9L8XzGHBhCb63AtpUyu&v=404&seq=1","type":"ad","src":"\/\/img1.360buyimg.com\/pop\/jfs\/t1\/46826\/30\/12791\/81276\/5d9c07d9E4ef58a38\/c127e28332663619.jpg"}],"recommend":[{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"YK\/g1vxDn6JylYTvwqNo+Q==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/2JzdKUR22H4kCzHKYaQGqtN6r3tD\/index.html","mcinfo":"03294000-09845456-3501223493-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":22,"href":"\/\/pro.jd.com\/mall\/active\/2JzdKUR22H4kCzHKYaQGqtN6r3tD\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/82101\/9\/11706\/60218\/5d8f73a6E93ea40a4\/b1ee23f12ec5b479.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"RkjnXanr6muvf9hfweNlhg==","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/BNc2Sop4iwJDfBKc3WLc1L2QGuX\/index.html","mcinfo":"03294000-09845456-3501223492-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":23,"href":"\/\/pro.jd.com\/mall\/active\/BNc2Sop4iwJDfBKc3WLc1L2QGuX\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/66308\/21\/11598\/103898\/5d901166E0dc2871d\/2113f0d9816df597.jpg"},{"alt":"","ext_columns":{"desc":"","biclk":"1#dbee2d3c893504c024260dd906290480a7d53459-0-619066#15976404","ap":"yjiUstGuRIs=","focustype":"s","url":"\/\/pro.jd.com\/mall\/active\/37se2ELS4WiSbAXKC22LSKnyEN7B\/index.html","mcinfo":"03294000-09845456-3501223495-M#0-2-1--59--#1-tb-#102-15976404#pc-home","text":""},"position":24,"href":"\/\/pro.jd.com\/mall\/active\/37se2ELS4WiSbAXKC22LSKnyEN7B\/index.html","type":"ace","src":"\/\/m.360buyimg.com\/babel\/jfs\/t1\/46525\/27\/11934\/91166\/5d8ddbcaE3c96aa89\/07ebff8274c337ee.jpg"}]}];    </script>
+
+    <script type="text/javascript">
+        !function(e){pageConfig.isWide=function(){var n=e,i=document,o=i.documentElement,t=i.getElementsByTagName("body")[0],a=n.innerWidth||o.clientWidth||t.clientWidth;return a>=1370}();var n=[];pageConfig.isWide?(n.push("root61"),n.push("o2_wide")):n.push("o2_mini");var i=document.getElementsByTagName("html")[0];i.className=n.join(" ")}(window,void 0);
+    </script>
+
+    <script type="text/javascript">
+        !function (n) {
+            function o(n) {
+                for (var o = n + "=", t = document.cookie.split(";"), e = 0; e < t.length; e++) {
+                    for (var i = t[e]; " " == i.charAt(0);) i = i.substring(1, i.length);
+                    if (0 == i.indexOf(o)) return i.substring(o.length, i.length)
+                }
+                return null
+            }
+
+            var t = o("pcm"), e = n.navigator.userAgent.toLocaleLowerCase(), i = "//m.jd.com",
+                r = /iphone|android|symbianos|windows\sphone/g, c = /micromessenger|qq\/[\d.]+/i;
+            return c.test(e) ? (n.location.href = "//wqs.jd.com/?from=jdindex", !1) : r.test(e) && "1" != t ? (n.location.href = i, !1) : void 0
+        }(window);
+    </script>
+
+    <script type="text/javascript">
+        window.search = function (a) {
+            var b, c = "//search.jd.com/Search?keyword={keyword}&enc={enc}{additional}";
+            var d = search.additinal || "";
+            var e = document.getElementById(a);
+            var f = e.value;
+            if (f = f.replace(/^\s*(.*?)\s*$/, "$1"), f.length > 100 && (f = f.substring(0, 100)), "" == f) return void (window.location.href = window.location.href);
+            var g = 0;
+            "undefined" != typeof window.pageConfig && "undefined" != typeof window.pageConfig.searchType && (g = window.pageConfig.searchType);
+            var h = "&cid{level}={cid}";
+            var i = "string" == typeof search.cid ? search.cid : "";
+            var j = "string" == typeof search.cLevel ? search.cLevel : "";
+            var k = "string" == typeof search.ev_val ? search.ev_val : "";
+            switch (g) {
+                case 0:
+                    break;
+                case 1:
+                    j = "-1", d += "&book=y";
+                    break;
+                case 2:
+                    j = "-1", d += "&mvd=music";
+                    break;
+                case 3:
+                    j = "-1", d += "&mvd=movie";
+                    break;
+                case 4:
+                    j = "-1", d += "&mvd=education";
+                    break;
+                case 5:
+                    var l = "&other_filters=%3Bcid1%2CL{cid1}M{cid1}[cid2]";
+                    switch (j) {
+                        case "51":
+                            h = l.replace(/\[cid2]/, ""), h = h.replace(/\{cid1}/g, "5272");
+                            break;
+                        case "52":
+                            h = l.replace(/\{cid1}/g, "5272"), h = h.replace(/\[cid2]/, "%3Bcid2%2CL{cid}M{cid}");
+                            break;
+                        case "61":
+                            h = l.replace(/\[cid2]/, ""), h = h.replace(/\{cid1}/g, "5273");
+                            break;
+                        case "62":
+                            h = l.replace(/\{cid1}/g, "5273"), h = h.replace(/\[cid2]/, "%3Bcid2%2CL{cid}M{cid}");
+                            break;
+                        case "71":
+                            h = l.replace(/\[cid2]/, ""), h = h.replace(/\{cid1}/g, "5274");
+                            break;
+                        case "72":
+                            h = l.replace(/\{cid1}/g, "5274"), h = h.replace(/\[cid2]/, "%3Bcid2%2CL{cid}M{cid}");
+                            break;
+                        case "81":
+                            h = l.replace(/\[cid2]/, ""), h = h.replace(/\{cid1}/g, "5275");
+                            break;
+                        case "82":
+                            h = l.replace(/\{cid1}/g, "5275"), h = h.replace(/\[cid2]/, "%3Bcid2%2CL{cid}M{cid}")
+                    }
+                    c = "//search-e.jd.com/searchDigitalBook?ajaxSearch=0&enc=utf-8&key={keyword}&page=1{additional}";
+                    break;
+                case 6:
+                    j = "-1", c = "//music.jd.com/8_0_desc_0_0_1_15.html?key={keyword}";
+                    break;
+                case 7:
+                    c = "//s-e.jd.com/Search?key={keyword}&enc=utf-8";
+                    break;
+                case 8:
+                    c = "//search.jd.hk/Search?keyword={keyword}&enc=utf-8";
+                    break;
+                case 9:
+                    d += "&market=1"
+            }
+            if ("string" == typeof i && "" != i && "string" == typeof j) {
+                var m = /^(?:[1-8])?([1-3])$/;
+                j = "-1" == j ? "" : m.test(j) ? RegExp.$1 : "";
+                var n = h.replace(/\{level}/, j);
+                n = n.replace(/\{cid}/g, i), d += n
+            }
+            if ("string" == typeof k && "" != k && (d += "&ev=" + k), f = encodeURIComponent(f), b = c.replace(/\{keyword}/, f), b = b.replace(/\{enc}/, "utf-8"), b = b.replace(/\{additional}/, d), "object" == typeof $o && ("string" == typeof $o.lastKeyword && (b += "&wq=" + encodeURIComponent($o.lastKeyword)), "string" == typeof $o.pvid && (b += "&pvid=" + $o.pvid)), b.indexOf("/search.jd.com/") > 0) try {
+                JA.tracker.ngloader("search.000009", {key: f, posid: a, target: b})
+            } catch (o) {
+            }
+            ("undefined" == typeof search.isSubmitted || 0 == search.isSubmitted) && (setTimeout(function () {
+                window.location.href = b
+            }, 50), search.isSubmitted = !0)
+        };
+    </script>
+
+
+</head>
+
+<body class="index">
+<div class="mod_container">
+    <!--无障碍占位-->
+    <div id="J_accessibility"></div>
+    <!--顶通占位 -->
+    <div id="J_promotional-top">
+    </div>
+    <div id="shortcut">
+        <div class="w">
+            <ul class="fl" clstag="h|keycount|head|topbar_01">
+                <li class="dropdown" id="ttbar-mycity"></li>
+            </ul>
+
+            <ul class="fr">
+                <li class="fore1 dropdown" id="ttbar-login" clstag="h|keycount|head|topbar_02">
+                    <a target="_blank" href="javascript:login();" class="link-login">你好，请登录</a>&nbsp;&nbsp;<a
+                        href="javascript:regist();" class="link-regist style-red">免费注册</a>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore2" clstag="h|keycount|head|topbar_03">
+                    <div class="dt"><a target="_blank" href="//order.jd.com/center/list.action">我的订单</a></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore3 dropdown" id="ttbar-myjd" clstag="h|keycount|head|topbar_04">
+                    <div class="dt cw-icon"><a target="_blank" href="//home.jd.com/">我的京东</a><i class="iconfont">&#xe610;</i><i
+                            class="ci-right"><s>◇</s></i></div>
+                    <div class="dd dropdown-layer"></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore4" clstag="h|keycount|head|topbar_05">
+                    <div class="dt"><a target="_blank" href="//vip.jd.com/">京东会员</a></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore5" clstag="h|keycount|head|topbar_06">
+                    <div class="dt"><a target="_blank" href="//b.jd.com/">企业采购</a></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore8 dropdown" id="ttbar-serv" clstag="h|keycount|head|topbar_07">
+                    <div class="dt cw-icon">客户服务<i class="iconfont">&#xe610;</i><i class="ci-right"><s>◇</s></i></div>
+                    <div class="dd dropdown-layer"></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore9 dropdown" id="ttbar-navs" clstag="h|keycount|head|topbar_08">
+                    <div class="dt cw-icon">网站导航<i class="iconfont">&#xe610;</i><i class="ci-right"><s>◇</s></i></div>
+                    <div class="dd dropdown-layer"></div>
+                </li>
+                <li class="spacer"></li>
+                <li class="fore10 mobile" id="J_mobile" clstag="h|keycount|head|topbar_09">
+                    <div class="dt mobile_txt">手机京东</div>
+                    <div class="mobile_static">
+                        <div class="mobile_static_qrcode"></div>
+                    </div>
+                    <div id='J_mobile_pop' class='mod_loading mobile_pop'>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div id="header">
+        <div class="w">
+            <div id="logo" class="logo">
+                <h1 class="logo_tit">
+                    <a href="//www.jd.com" class="logo_tit_lk" clstag="h|keycount|head|logo_01">京东</a>
+                </h1>
+                <h2 class="logo_subtit">京东,多快好省</h2>
+                <div class="logo_extend" clstag="h|keycount|head|logo_02"></div>
+            </div>
+
+            <div id="search">
+                <div class="search-m">
+                    <div class="search_logo">
+                        <a href="//www.jd.com" class="search_logo_lk" clstag="h|keycount|head|logo_01" tabindex="-1">京东，多快好省</a>
+                    </div>
+
+                    <div class="form" role="serachbox">
+                        <ul id="shelper" class="search-helper" style="display: none"></ul>
+                        <input clstag="h|keycount|head|search_c" type="text"
+                               onkeydown="javascript:if(event.keyCode==13) search('key');" autocomplete="off" id="key"
+                               accesskey="s"
+                               class="text"
+                               aria-label="搜索"/>
+                        <button clstag="h|keycount|head|search_a" onclick="search('key');return false;" class="button" aria-label="搜索">
+                            <i
+                                    class="iconfont">&#xe60b;</i></button>
+                    </div>
+
+                    <div id="settleup" class="dropdown" clstag="h|keycount|head|cart_null">
+                        <div class="cw-icon">
+                            <i class="iconfont">&#xe60c;</i>
+                            <a target="_blank" href="//cart.jd.com/cart.action">我的购物车</a>
+                            <i class="ci-count" id="shopping-amount"></i>
+                        </div>
+                        <div class="dropdown-layer">
+                            <div id="J_cart_pop">
+                                <span class="loading"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="hotwords" clstag="h|keycount|head|search_d" role=""></div>
+
+            <div id="navitems" role="navigation">
+                <div class="spacer"></div>
+                                                            <ul id="navitems-group1">
+                                        <li clstag="h|keycount|head|navi_01" class="fore1">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://miaosha.jd.com/"
+                               aria-lable="秒杀">秒杀                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_02" class="fore2">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://a.jd.com/"
+                               aria-lable="优惠券">优惠券                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_03" class="fore3">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://plus.jd.com/index?flow_system=appicon&flow_entrance=appicon11&flow_channel=pc"
+                               aria-lable="PLUS会员">PLUS会员                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_04" class="fore4">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://red.jd.com/"
+                               aria-lable="品牌闪购">品牌闪购                                                            </a>
+                                            </li>
+                                            </ul>
+                        <div class="spacer"></div>
+                                                                                <ul id="navitems-group2">
+                                        <li clstag="h|keycount|head|navi_05" class="fore5">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://paimai.jd.com/"
+                               aria-lable="拍卖">拍卖                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_06" class="fore6">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://fashion.jd.com/"
+                               aria-lable="京东时尚">京东时尚                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_07" class="fore7">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://chaoshi.jd.com/"
+                               aria-lable="京东超市">京东超市                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_08" class="fore8">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://fresh.jd.com/"
+                               aria-lable="京东生鲜">京东生鲜                                                            </a>
+                                            </li>
+                                            </ul>
+                        <div class="spacer"></div>
+                                                                                <ul id="navitems-group3">
+                                        <li clstag="h|keycount|head|navi_09" class="fore9">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://www.jd.hk/"
+                               aria-lable="海囤全球">海囤全球                                                            </a>
+                                            </li>
+                                                                            <li clstag="h|keycount|head|navi_10" class="fore10">
+                                                    <a class="navitems-lk"
+                               target="_blank"
+                               href="https://jr.jd.com/"
+                               aria-lable="京东金融">京东金融                                                            </a>
+                                            </li>
+                                            </ul>
+                        <div class="spacer"></div>
+                                    
+            </div>
+
+            <div id="treasure"></div>
+        </div>
+    </div>
+    <div class="fs">
+        <div class="grid_c1 fs_inner">
+            <div class="fs_col1">
+                <div id='J_cate' class="cate J_cate" role="navigation" aria-label="左侧导航">
+                    <ul class="JS_navCtn cate_menu">
+                                                    <li class="cate_menu_item" data-index="1" clstag="h|keycount|head|category_01a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//jiadian.jd.com">家用电器</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="2" clstag="h|keycount|head|category_02a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//shouji.jd.com&#47;">手机</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//wt.jd.com">运营商</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//shuma.jd.com&#47;">数码</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="3" clstag="h|keycount|head|category_03a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//diannao.jd.com&#47;">电脑</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//bg.jd.com">办公</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="4" clstag="h|keycount|head|category_04a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;home.html">家居</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;furniture.html">家具</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//jzjc.jd.com&#47;">家装</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;kitchenware.html">厨具</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="5" clstag="h|keycount|head|category_05a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;1315-1342.html">男装</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;1315-1343.html">女装</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;children.html">童装</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;1315-1345.html">内衣</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="6" clstag="h|keycount|head|category_06a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//beauty.jd.com&#47;">美妆</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;beauty.html">个护清洁</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;pet.html">宠物</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="7" clstag="h|keycount|head|category_07a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;womensshoes.html">女鞋</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;bag.html">箱包</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;watch.html">钟表</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;jewellery.html">珠宝</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="8" clstag="h|keycount|head|category_08a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;mensshoes.html">男鞋</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//phat.jd.com&#47;10-109.html">运动</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;outdoor.html">户外</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="9" clstag="h|keycount|head|category_09a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//xinfang.jd.com&#47;">房产</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//car.jd.com&#47;">汽车</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//che.jd.com&#47;">汽车用品</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="10" clstag="h|keycount|head|category_10a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//baby.jd.com">母婴</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//toy.jd.com&#47;">玩具乐器</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="11" clstag="h|keycount|head|category_11a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//food.jd.com&#47;">食品</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//jiu.jd.com">酒类</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//fresh.jd.com">生鲜</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//china.jd.com">特产</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="12" clstag="h|keycount|head|category_12a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//art.jd.com">艺术</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;1672-2599.html">礼品鲜花</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//nong.jd.com">农资绿植</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="13" clstag="h|keycount|head|category_13a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//health.jd.com">医药保健</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//channel.jd.com&#47;9192-9196.html">计生情趣</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="14" clstag="h|keycount|head|category_14a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//book.jd.com&#47;">图书</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//mvd.jd.com&#47;">文娱</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//e.jd.com&#47;ebook.html">电子书</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="15" clstag="h|keycount|head|category_15a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//jipiao.jd.com&#47;">机票</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//hotel.jd.com&#47;">酒店</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//trip.jd.com&#47;">旅游</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//ish.jd.com&#47;">生活</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="16" clstag="h|keycount|head|category_16a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//licai.jd.com&#47;">理财</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//z.jd.com&#47;">众筹</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//baitiao.jd.com">白条</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//bao.jd.com&#47;">保险</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="17" clstag="h|keycount|head|category_17a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//anzhuang.jd.com">安装</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//jdwx.jd.com">维修</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//cleanclean.jd.com">清洗</a>
+                                                                            <span class="cate_menu_line">/</span>
+                                                                                                    <a target="_blank" class="cate_menu_lk" href="//2.paipai.com&#47;">二手</a>
+                                                                                                </li>
+                                                    <li class="cate_menu_item" data-index="18" clstag="h|keycount|head|category_18a">
+                                                                <a target="_blank" class="cate_menu_lk" href="//imall.jd.com&#47;">工业品</a>
+                                                                                                </li>
+                                            </ul>
+                    <div id="J_popCtn" class="JS_popCtn cate_pop mod_loading" style="display: none;"></div>
+                </div>
+            </div>
+
+            <div class="fs_col2">
+                <div id='J_focus' class="focus">
+                    <div class="focus__loading focus__main skeleton-wrapper">
+                        <div class="focus-slider">
+                        <div class="focus-item__core skeleton-elementDark mod_lazyload"></div>
+                        <div class="focus-item__recommend">
+                            <div class="recommend-item skeleton-elementDark"></div>
+                            <div class="recommend-item skeleton-elementDark"></div>
+                            <div class="recommend-item skeleton-elementDark"></div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="J_fs_col3" class="fs_col3">
+                <div id='J_user' class="J_user user mod_loading">
+                    <div class="user__loading user_inner">
+                    <div class="user_avatar">
+                        <div class="user_avatar_lk skeleton-element"></div>
+                    </div>
+                    <div class="user_show skeleton-element">
+                        <p></p><p></p>
+                    </div>
+                    <div class="user_profit_placeholder skeleton-element"></div>
+                </div>
+                </div>
+                <div id='J_news' class="news J_news">
+                    <div class="news__loading news2">
+                        <div class="news_hd">
+                        <div class="news_hd_placeholder skeleton-element"></div>
+                        </div>
+                        <div class="news_list"><div class="news_item skeleton-element"></div><div class="news_item skeleton-element"></div><div class="news_item skeleton-element"></div><div class="news_item skeleton-element"></div></div>
+                    </div>
+                </div>
+                <div id="J_service" class="service">
+                    <div class="service_entry">
+                        <ul class="J_tab_head service_list">
+                            <li class="service_item service_frame mod_tab_head_item">
+                                <a href="//chongzhi.jd.com/" class="service_lk"
+                                   target="_blank" clstag="h|keycount|head|shortcut_01" aria-label="话费">
+                                                                                                                                                    <i class="service_ico service_ico_huafei">
+                                        <img class="service_ico_img"
+                                             src="//m.360buyimg.com/babel/jfs/t1/30057/19/14881/720/5cbf064aE187b8361/eed6f6cbf1de3aaa.png"/>
+                                        <img class="service_ico_img_hover"
+                                             src="http://m.360buyimg.com/babel/jfs/t1/45423/33/385/778/5cd4f265E442a9342/0aff0a42cece09ee.png"/>
+                                    </i>
+                                    <span class="service_txt">话费</span>
+                                </a>
+                            </li>
+                            <li class="service_item service_frame mod_tab_head_item">
+                                <a href="//jipiao.jd.com/" class="service_lk" target="_blank"
+                                   clstag="h|keycount|head|shortcut_02" aria-label="机票">
+                                                                                                                                                    <i class="service_ico service_ico_jipiao">
+                                        <img class="service_ico_img"
+                                             src="//m.360buyimg.com/babel/jfs/t1/36478/38/5384/2901/5cbf065aEb0c60a12/afb4399323fe3b76.png"/>
+                                        <img class="service_ico_img_hover"
+                                             src="//m.360buyimg.com/babel/jfs/t1/34261/15/10242/3120/5cd4f256E10257aba/8f3f63ae04ff19af.png"/>
+                                    </i>
+                                    <span class="service_txt">机票</span>
+                                </a>
+                            </li>
+                            <li class="service_item service_frame mod_tab_head_item">
+                                <a href="//hotel.jd.com/" class="service_lk" target="_blank"
+                                   clstag="h|keycount|head|shortcut_03" aria-label="酒店">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <span class="service_corner">
+                                                        <i class="service_corner_txt">抢</i>
+                                                        <i class="service_corner_ico"></i>
+                                                    </span>
+                                                                                                                                                                                                            <i class="service_ico service_ico_jiudian">
+                                        <img class="service_ico_img"
+                                             src="//m.360buyimg.com/babel/jfs/t1/31069/34/14642/979/5cbf0665Ec7dc8223/5fee386254dd2ebc.png"/>
+                                        <img class="service_ico_img_hover"
+                                             src="//m.360buyimg.com/babel/jfs/t1/44601/19/915/1039/5cd4f1cfE2e46473c/b61f083872a7a1de.png"/>
+                                    </i>
+                                    <span class="service_txt">酒店</span>
+                                </a>
+                            </li>
+                            <li class="service_item service_frame service_frame2 mod_tab_head_item" data-row="2">
+                                <a href="//game.jd.com/" class="service_lk" target="_blank"
+                                   clstag="h|keycount|head|shortcut_04" aria-label="游戏">
+                                                                                                                                                    <i class="service_ico service_ico_youxi">
+                                        <img class="service_ico_img"
+                                             src="//m.360buyimg.com/babel/jfs/t1/32403/22/14829/3699/5cbf0674E04723693/caa83ce9b881cd24.png"/>
+                                        <img class="service_ico_img_hover"
+                                             src="//m.360buyimg.com/babel/jfs/t1/57520/8/375/4092/5cd4f1d8Ea1266047/1c590322ece537ba.png"/>
+                                    </i>
+                                    <span class="service_txt">游戏</span>
+                                </a>
+                            </li>
+                                                                                                                                                                                                                                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;jiayouka.jd.com&#47;" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_05" aria-label="加油卡">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;39418&#47;35&#47;2029&#47;3048&#47;5cbf06bbE9a6e2beb&#47;6a9b204b0a4cc3d0.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;36002&#47;35&#47;9106&#47;3311&#47;5cd4f1bdE06ff07ed&#47;9570fdd46ecd3a76.png"/>
+                                            </i>
+                                            <span class="service_txt">加油卡</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;train.jd.com&#47;" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_06" aria-label="火车票">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;31847&#47;11&#47;14820&#47;1581&#47;5cbf09bdE07a1e79c&#47;1281c9340ef15c3e.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;58891&#47;36&#47;278&#47;1745&#47;5cd4f1e0Ef4cc50a7&#47;f12276b17e5dcf3b.png"/>
+                                            </i>
+                                            <span class="service_txt">火车票</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;z.jd.com&#47;sceneIndex.html?from=jrscyn_20162" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_07" aria-label="众筹">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;33078&#47;37&#47;6694&#47;1685&#47;5cbf09d0E5cea6165&#47;693857001bfb3b17.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;50929&#47;1&#47;374&#47;1847&#47;5cd4f1eaE5daf90db&#47;cebbff76b25dc22e.png"/>
+                                            </i>
+                                            <span class="service_txt">众筹</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;licai.jd.com&#47;?from=jrscyn_20161" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_08" aria-label="理财">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;35979&#47;1&#47;3099&#47;3447&#47;5cbf09e4E90c0b4f4&#47;e632d50688935da6.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;47544&#47;23&#47;372&#47;3943&#47;5cd4f24eE92fbcf79&#47;4b49b55af25a7bdf.png"/>
+                                            </i>
+                                            <span class="service_txt">理财</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;baitiao.jd.com&#47;?from=jrscyn_20160" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_09" aria-label="白条">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;35663&#47;12&#47;5436&#47;1443&#47;5cbf0a13E614f5bb0&#47;6ab7c7eb7caa4656.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;39983&#47;24&#47;6834&#47;1596&#47;5cd4f247E8cf89f1e&#47;b8a8418d5418f471.png"/>
+                                            </i>
+                                            <span class="service_txt">白条</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;movie.jd.com&#47;index.html" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_10" aria-label="电影票">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;34018&#47;19&#47;6744&#47;3066&#47;5cbf09a9Eef05e8bd&#47;6a08fe38fa0f8143.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;41106&#47;15&#47;4551&#47;3300&#47;5cd4f1c7E507148c7&#47;90a218f053e903d2.png"/>
+                                            </i>
+                                            <span class="service_txt">电影票</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;b.jd.com&#47;" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_11" aria-label="企业购">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;74010&#47;31&#47;656&#47;1821&#47;5cedfd1dE574a6d39&#47;21ed5b49bcde9067.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;45316&#47;3&#47;388&#47;884&#47;5cd4f25eEea4c67ed&#47;671f7c186c5e9b01.png"/>
+                                            </i>
+                                            <span class="service_txt">企业购</span>
+                                        </a>
+                                    </li>
+                                                                                                                                <li class="service_item service_noframe">
+                                        <a href="https:&#47;&#47;o.jd.com&#47;market&#47;index.action" class="service_lk" target="_blank"
+                                           clstag="h|keycount|head|shortcut_12" aria-label="礼品卡">
+                                                                                        <i class="service_ico">
+                                                <!-- 常态 icon -->
+                                                <img class="service_ico_img"
+                                                        src="http:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;35852&#47;40&#47;5378&#47;815&#47;5cbf09f9E660e7e71&#47;18b5679ed16e6a91.png"/>
+                                                <!-- hover 态 icon -->
+                                                <img class="service_ico_img_hover"
+                                                        src="https:&#47;&#47;m.360buyimg.com&#47;babel&#47;jfs&#47;t1&#47;55911&#47;31&#47;402&#47;858&#47;5cd4f23eE6f536460&#47;5da079255c6dfabe.png"/>
+                                            </i>
+                                            <span class="service_txt">礼品卡</span>
+                                        </a>
+                                    </li>
+                                                                                    </ul>
+                    </div>
+                    <div class="J_tab_content service_pop" tabindex="-1" aria-hidden="true">
+                        <div class="mod_tab_content_item service_pop_item mod_loading"></div>
+                        <div class="mod_tab_content_item service_pop_item mod_loading"></div>
+                        <div class="mod_tab_content_item service_pop_item mod_loading"></div>
+                        <div class="mod_tab_content_item service_pop_item mod_loading"></div>
+                        <a class="J_service_pop_close service_pop_close iconfont" href="javascript:;" tabindex="-1"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="J_fs_act" class="fs_act"></div>
+    </div>
+    <!-- CLUB_LINK start seo  -->
+    <div style="display:none">
+                <a href="//www.jd.com/zxnews/a172d64e17755263.html">HTC手机哪款好</a>
+                <a href="//www.jd.com/nrjs/af98b9fb7f178611.html">双卡双待手机哪款好</a>
+                <a href="//www.jd.com/phb/zhishi/1afe932ec41f8476.html">8GB手机排行榜</a>
+                <a href="//www.jd.com/jxinfo/d9d0db1eb09fac50.html">联想天逸510s 台式机</a>
+                <a href="//www.jd.com/zxnews/00e438ca02b0ae2a.html">海尔滚筒式洗衣机</a>
+                <a href="//union.jd.com">网络赚钱</a>
+                <a href="//www.jd.com/hprm/12259169922114dc5ef82.html">白酒</a>
+                <a href="//www.jd.com/cppf/15901c58fb5406380f01f.html">立白洗衣液</a>
+                <a href="//www.jd.com/hotitem/167501d880f4101f9815e.html">青少年牙刷</a>
+                <a href="//www.jd.com/sptopic/1316b578fe1de22368e4.html">洗面奶</a>
+                <a href="//www.jd.com/nrjs/3246ed949ba174ea.html">唐狮拼色 连衣裙</a>
+                <a href="//www.jd.com/brand/9987019f0bd7d403e3de.html">苹果手机</a>
+                <a href="//www.jd.com/hprm/62331efefe1affa158ff.html">琵琶</a>
+                <a href="//www.jd.com/sptopic/117296ca19d46b24dfeb3.html">女士鞋</a>
+                <a href="//www.jd.com/cppf/9847333cd3d99d6886d9.html">实木沙发</a>
+                <a href="//www.jd.com/book/737280eea8ac7dfea03.html">索尼电视</a>
+                <a href="//www.jd.com/hotitem/9855fbd5a67b591890f1.html">卫浴品牌</a>
+                <a href="//www.jd.com/zuozhe/7378d855fa5f85d59a5.html">奥克斯空调</a>
+                <a href="//fresh.jd.com/shengxian/12218e48f879c700b44c1.html">百香果</a>
+                <a href="//www.jd.com/zuozhe/652182fc3f82b3ca368.html">索尼耳机</a>
+                <a href="https://yp.jd.com/73725e7a0ee3f301d88.html">倍科冰箱</a>
+                <a href="https://www.jd.com/phb/73707bfe90b321193a5.html">scandomestic三门风冷冰箱</a>
+                <a href="https://www.jd.com/phb/key_737e64edb4a289f1a28.html">奥克斯（AUX）BCD-117AD</a>
+                <a href="https://www.jd.com/jiage/7374a35609c322cb1f2.html">创维BCD-455WY</a>
+                <a href="https://www.jd.com/tupian/7372a72dcc3ec411539.html">卡萨帝（Casarte）三门风冷（无霜）冰箱</a>
+                <a href="https://www.jd.com/xinkuan/73726e431e6bd25c8cf.html">30ti</a>
+                <a href="https://www.jd.com/book/737cc31d46aab2a19c3.html">先科对开门直冷冰箱</a>
+                <a href="https://www.jd.com/zuozhe/737c7518e072a6dc7ae.html">迷你无霜</a>
+                <a href="https://www.jd.com/brand/7373a2399cc05fe9790.html">伊莱克斯EME2502TD</a>
+                <a href="https://www.jd.com/xinghao/73793d265c84d724fd6.html">海尔冰箱冷凝水多</a>
+                <a href="https://www.jd.com/cppf/7374d789dd51db5e2d4.html">西门子超静音冰箱</a>
+                <a href="https://www.jd.com/hprm/7371512fbffd6ff90ea.html">西门子x300pe</a>
+                <a href="https://www.jd.com/sptopic/73791fd4456b85ee6a8.html">奥马冰箱质量差</a>
+                <a href="https://www.jd.com/hotitem/7375ed58f1abbd8f45b.html">冰箱5度湿度太大</a>
+                <a href="https://www.jd.com/nrjs/004a6fb64a5f4ed1.html">海尔无霜冰箱型号哪款好？海尔无霜冰箱型号怎么样好用吗？</a>
+                <a href="https://www.jd.com/zxnews/5c8059dfe7d1f01e.html">康佳（KONKA） BCD-401BX4S 十字对开门 冰箱</a>
+                <a href="https://www.jd.com/phb/zhishi/d13dc62ba31396bc.html">京东冰箱小型促销排行榜，京东冰箱小型促销十大排名推荐</a>
+                <a href="https://www.jd.com/phb/zhishi/270a26f256155b87.html">除霜冰箱哪款好？除霜冰箱怎么样好用吗？</a>
+                <a href="https://www.jd.com/jxinfo/88d377bbe4bfcbc1.html">创维小冰箱排行榜，创维小冰箱十大排名推荐</a>
+                <a href="https://www.jd.com/jxinfo/e0bdc3e7b69865dc.html">三星冰箱对开门哪款好？三星冰箱对开门怎么样好用吗？</a>
+            </div>
+    <!-- CLUB_LINK end -->
+    <script type="text/javascript">
+        window.point.fs = new Date().getTime();
+    </script>
+    <!-- E ad2 -->
+
+</div>
+
+
+
+<script
+        src="//misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,mtd/pc/common/js/o2_ua.js,mtd/pc/base/1.0.0/event.js"></script>
+<script src="//wl.jd.com/wl.js"></script>
+
+<script>
+
+</script>
+<style>
+#J_logo_extend img {
+  width: 100%;
+}
+</style>
+
+<div id="app"></div>
+<script type="text/javascript">
+    window.point.dom = new Date().getTime();
+</script>
+
+</body>
+
+
+<script type="text/javascript" src="//misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/runtime.js"></script>
+
+<script type="text/javascript" src="//misc.360buyimg.com/mtd/pc/index_2019/1.0.0/static/js/index.chunk.js"></script>
+
+<script type="text/javascript">
+    window.point.js = new Date().getTime();
+</script>
+</html>
