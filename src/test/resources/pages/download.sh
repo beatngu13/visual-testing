@@ -6,6 +6,7 @@ WEB_PAGES='pages.txt'
 
 function download_web_page() {
 	web_page="$1"
+	echo "Trying to download ${web_page} ..."
 	wget --header='Accept: text/html' \
 		--header='Accept-Language: en-US' \
 		--adjust-extension \
