@@ -1,5 +1,6 @@
 package com.github.beatngu13.visualtesting.util;
 
+import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 import org.openqa.selenium.WebDriver;
@@ -23,10 +24,12 @@ public class DriverFactory {
 	/**
 	 * @return All {@code WebDriver}s to test with.
 	 */
-	public static Stream<WebDriver> getAll() {
-		final var chrome = new ChromeDriver(new ChromeOptions().addArguments(DESKTOP_WINDOW_SIZE));
-		final var firefox = new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE));
-		return Stream.of(chrome, firefox).map(DriverFactory::wrap);
+	public static Stream<Supplier<WebDriver>> getAll() {
+		final Supplier<WebDriver> chrome = () -> wrap(
+				new ChromeDriver(new ChromeOptions().addArguments(DESKTOP_WINDOW_SIZE)));
+		final Supplier<WebDriver> firefox = () -> wrap(
+				new FirefoxDriver(new FirefoxOptions().addArguments(NOTEBOOK_WINDOW_SIZE)));
+		return Stream.of(chrome, firefox);
 	}
 
 	private static WebDriver wrap(final WebDriver driver) {

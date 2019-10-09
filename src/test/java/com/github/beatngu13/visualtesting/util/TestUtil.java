@@ -19,7 +19,9 @@ public class TestUtil {
 	 *         {@code WebDriver}s with all pages.
 	 */
 	public static Stream<Arguments> getArgs() {
-		return DriverFactory.getAll().flatMap(driver -> PageFactory.getAll().map(url -> Arguments.of(driver, url)));
+		return DriverFactory.getAll() //
+				.flatMap(driverSupplier -> PageFactory.getAll() //
+						.map(url -> Arguments.of(driverSupplier.get(), url)));
 	}
 
 	/**
