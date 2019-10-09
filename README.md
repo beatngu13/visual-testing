@@ -4,58 +4,33 @@ Open-source benchmark suite for visual testing of web-based GUIs, used for the e
 
 ## Benchmark
 
-The benchmark suite consists of offline versions of the 50 [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites) (exclusive adult and duplicate content), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted on September 30, 2019):
+The benchmark suite consists of offline versions offline versions from 25 of the [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted on October 9, 2019):
 
-1. google.com
-1. youtube.com
-1. facebook.com
-1. baidu.com
-1. wikipedia.org
-1. qq.com
-1. taobao.com
-1. tmall.com
-1. yahoo.com
-1. amazon.com
-1. twitter.com
-1. sohu.com
-1. jd.com
-1. live.com
-1. soso.com
-1. vk.com	
-1. weibo.com
-1. reddit.com
-1. sina.com.cn
-1. yandex.ru
 1. 360.cn
-1. netflix.com
-1. blogspot.com
-1. twitch.tv
-1. linkedin.com
-1. mail.ru
-1. csdn.net
 1. aliexpress.com
 1. alipay.com
-1. microsoft.com
-1. ebay.com
-1. bing.com
-1. office.com
-1. imdb.com
-1. naver.com
+1. amazon.com
+1. baidu.com
+1. blogspot.com
+1. facebook.com
 1. github.com
-1. msn.com
-1. stackoverflow.com
-1. whatsapp.com
-1. ok.ru
-1. paypal.com
-1. pinterest.com
+1. google.com
+1. imdb.com
+1. jd.com
+1. netflix.com
+1. office.com
+1. qq.com
 1. quora.com
-1. sogou.com
-1. samsung.com
-1. ampproject.org
-1. bitly.com
-1. sm.cn
-1. xinhuanet.com
-1. tribunnews.com
+1. reddit.com
+1. soso.com
+1. stackoverflow.com
+1. taobao.com
+1. tmall.com
+1. twitter.com
+1. weibo.com
+1. wikipedia.org
+1. yahoo.com
+1. youtube.com
 
 **TODO: Describe usage.**
 

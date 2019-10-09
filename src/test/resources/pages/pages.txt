@@ -4,7 +4,6 @@ alipay.com
 amazon.com
 baidu.com
 blogspot.com
-ebay.com
 facebook.com
 github.com
 google.com
@@ -15,16 +14,12 @@ office.com
 qq.com
 quora.com
 reddit.com
-sohu.com
 soso.com
 stackoverflow.com
 taobao.com
 tmall.com
-twitch.tv
 twitter.com
-vk.com
 weibo.com
 wikipedia.org
 yahoo.com
-yandex.ru
 youtube.com
