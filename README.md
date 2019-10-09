@@ -46,11 +46,11 @@ The benchmark suite consists of offline versions of the 50 [most popular website
 1. stackoverflow.com
 1. whatsapp.com
 1. ok.ru
+1. paypal.com
 1. pinterest.com
 1. quora.com
 1. sogou.com
 1. samsung.com
-1. accuweather.com
 1. ampproject.org
 1. bitly.com
 1. sm.cn
