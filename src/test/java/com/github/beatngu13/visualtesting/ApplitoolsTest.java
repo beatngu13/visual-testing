@@ -37,7 +37,7 @@ class ApplitoolsTest {
 	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
 	void testTop50(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
-		eyes.open(DriverFactory.unwrap(driver), PageFactory.getName(url), DriverFactory.getName(driver));
+		eyes.open(DriverFactory.unwrap(driver), PageFactory.getName(url), TestUtil.getName(driver, url));
 		driver.get(url);
 		Thread.sleep(TestUtil.PAGE_LOAD_WAIT_IN_MILLISECONDS);
 		eyes.checkWindow();
