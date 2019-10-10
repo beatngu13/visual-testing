@@ -11,7 +11,8 @@ import org.junit.jupiter.api.extension.ExtensionContext.Store;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * Measures and logs the execution time of a test case.
+ * Measures and logs the execution time of a test case. Automatically accounts
+ * {@link TestUtil#PAGE_LOAD_WAIT_IN_MILLISECONDS}.
  */
 @Slf4j
 public class TimingExtension implements BeforeTestExecutionCallback, AfterTestExecutionCallback {
@@ -29,7 +30,7 @@ public class TimingExtension implements BeforeTestExecutionCallback, AfterTestEx
 		final Method testMethod = context.getRequiredTestMethod();
 		final String displayName = context.getDisplayName();
 		final long startTime = getStore(context).remove(START_TIME, long.class);
-		final long duration = System.currentTimeMillis() - startTime;
+		final long duration = System.currentTimeMillis() - startTime - TestUtil.PAGE_LOAD_WAIT_IN_MILLISECONDS;
 		log.info("{}#{} with parameters {} took {} ms.", testClass.getSimpleName(), testMethod.getName(), displayName,
 				duration);
 	}

@@ -33,6 +33,7 @@ class RecheckWebTest {
 		this.driver = driver;
 		re.startTest(TestUtil.getName(driver, url));
 		driver.get(url);
+		Thread.sleep(TestUtil.PAGE_LOAD_WAIT_IN_MILLISECONDS);
 		re.check(driver, "initial");
 		re.capTest();
 	}
