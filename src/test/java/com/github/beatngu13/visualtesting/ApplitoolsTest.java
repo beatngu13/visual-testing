@@ -20,7 +20,7 @@ import com.github.beatngu13.visualtesting.util.TimingExtension;
 @ExtendWith(TimingExtension.class)
 class ApplitoolsTest {
 
-	static BatchInfo batchInfo = new BatchInfo("top50");
+	static BatchInfo batchInfo = new BatchInfo("testTop25");
 
 	WebDriver driver;
 	Eyes eyes;
@@ -35,7 +35,7 @@ class ApplitoolsTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
-	void testTop50(final WebDriver driver, final String url) throws Exception {
+	void testTop25(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
 		eyes.open(DriverFactory.unwrap(driver), PageFactory.getName(url), TestUtil.getName(driver, url));
 		driver.get(url);
