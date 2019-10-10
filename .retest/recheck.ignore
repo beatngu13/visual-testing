@@ -1,6 +1,10 @@
+## General ignore settings.
+
 # Ignore various (mostly invisible) elements and attributes.
 attribute=absolute-outline
 attribute=alt
+attribute=class
+attribute=display
 attribute=ftime
 attribute=href
 attribute=id
@@ -9,6 +13,7 @@ attribute=src
 attribute=style
 attribute=tab-index
 attribute=tabindex
+attribute=top
 attribute=transform
 attribute=opacity
 
@@ -16,7 +21,11 @@ attribute-regex=aria-.*
 attribute-regex=background-.*
 attribute-regex=data-.*
 attribute-regex=margin-.*
+attribute-regex=max-.*
+attribute-regex=min-.*
 attribute-regex=transition-.*
+
+matcher: type=map
 
 matcher: type=meta
 
@@ -24,3 +33,29 @@ matcher: type=body, attribute: class
 
 # Ignore pixel diffs up to 25 pixels.
 pixel-diff=25
+
+## 360.cn
+
+# TODO
+#matcher: class=focus-slide
+#matcher: class=mall-slide
+
+# Upper carousel.
+matcher: xpath=html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]
+
+# Lower carousel.
+matcher: xpath=html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[1]
+
+## netflix.com
+
+# TODO
+#matcher: class=our-story-card-animation-container
+
+# Animations.
+matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]
+
+# 2nd animation.
+matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]
+
+# 3rd animation.
+matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]
