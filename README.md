@@ -12,24 +12,24 @@ The benchmark suite consists of offline versions offline versions from 25 of the
 1. amazon.com
 1. baidu.com
 1. blogspot.com
+1. csdn.net
 1. facebook.com
 1. github.com
 1. google.com
 1. imdb.com
 1. jd.com
+1. live.com
 1. netflix.com
-1. office.com
 1. qq.com
 1. quora.com
-1. reddit.com
+1. sina.com.cn
 1. soso.com
 1. stackoverflow.com
 1. taobao.com
 1. tmall.com
 1. twitter.com
-1. weibo.com
+1. vk.com
 1. wikipedia.org
-1. yahoo.com
 1. youtube.com
 
 **TODO: Describe usage.**
