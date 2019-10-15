@@ -13,7 +13,7 @@ public class TestUtil {
 	/**
 	 * Fixed wait time for a page to be loaded.
 	 */
-	public static final long PAGE_LOAD_WAIT_IN_MILLISECONDS = 1000L;
+	public static final long PAGE_LOAD_WAIT_IN_MILLISECONDS = 3000L;
 
 	private TestUtil() {
 	}
