@@ -10,16 +10,12 @@ google.com
 imdb.com
 jd.com
 netflix.com
-office.com
 qq.com
 quora.com
-reddit.com
 soso.com
 stackoverflow.com
 taobao.com
 tmall.com
 twitter.com
-weibo.com
 wikipedia.org
-yahoo.com
 youtube.com
