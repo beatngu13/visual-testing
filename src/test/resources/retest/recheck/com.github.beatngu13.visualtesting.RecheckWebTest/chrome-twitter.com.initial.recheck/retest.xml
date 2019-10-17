@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Twitter. It's what's happening." title="Twitter. It's what's happening.">
 			<identifyingAttributes>
@@ -5322,7 +5322,7 @@
 															</entry>
 															<entry>
 																<key>clip</key>
-																<value xsi:type="xsd:string">rect(0px, 0px, 0px, 0px)</value>
+																<value xsi:type="xsd:string">rect(0px 0px 0px 0px)</value>
 															</entry>
 															<entry>
 																<key>display</key>
@@ -5433,7 +5433,7 @@
 							</entry>
 							<entry>
 								<key>clip</key>
-								<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+								<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 							</entry>
 							<entry>
 								<key>color</key>
@@ -5516,7 +5516,7 @@
 							</entry>
 							<entry>
 								<key>clip</key>
-								<value xsi:type="xsd:string">rect(0px, 0px, 0px, 0px)</value>
+								<value xsi:type="xsd:string">rect(0px 0px 0px 0px)</value>
 							</entry>
 							<entry>
 								<key>margin-bottom</key>

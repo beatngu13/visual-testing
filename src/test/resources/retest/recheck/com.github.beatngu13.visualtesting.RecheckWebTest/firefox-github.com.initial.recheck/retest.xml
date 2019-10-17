@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="The world’s leading software development platform · GitHub" title="The world’s leading software development platform · GitHub">
 			<identifyingAttributes>
@@ -18364,10 +18364,10 @@
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">text-orange</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
-																	<x>48</x>
+																	<x>0</x>
 																	<y>44</y>
-																	<height>-46</height>
-																	<width>-137</width>
+																	<height>-45</height>
+																	<width>-140</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[8]/div[3]/div[1]/div[1]/a[1]/div[2]/p[1]/span[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -24878,9 +24878,9 @@
 																<attribute key="class" xsi:type="stringAttribute">js-email-notice</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
-																	<y>20</y>
-																	<height>-21</height>
-																	<width>-40</width>
+																	<y>19</y>
+																	<height>-20</height>
+																	<width>-13</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/p[1]/span[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -28123,10 +28123,10 @@
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">link-mktg text-blue</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>127</x>
+																		<x>65</x>
 																		<y>65</y>
-																		<height>-67</height>
-																		<width>-202</width>
+																		<height>-66</height>
+																		<width>-203</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[5]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]/p[1]/span[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34373,7 +34373,7 @@
 												<x>48</x>
 												<y>48</y>
 												<height>-96</height>
-												<width>-344</width>
+												<width>-371</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[3]/div[1]/div[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34449,7 +34449,7 @@
 													<x>0</x>
 													<y>0</y>
 													<height>-120</height>
-													<width>-838</width>
+													<width>-811</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[3]/div[1]/div[1]/svg[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

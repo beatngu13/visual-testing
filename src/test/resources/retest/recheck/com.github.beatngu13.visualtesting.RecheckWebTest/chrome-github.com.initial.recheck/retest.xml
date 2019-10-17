@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="The world’s leading software development platform · GitHub" title="The world’s leading software development platform · GitHub">
 			<identifyingAttributes>
@@ -98,7 +98,7 @@
 						</entry>
 						<entry>
 							<key>font-family</key>
-							<value xsi:type="xsd:string">-apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;</value>
+							<value xsi:type="xsd:string">-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;</value>
 						</entry>
 						<entry>
 							<key>line-height</key>
@@ -2830,7 +2830,7 @@
 								</entry>
 								<entry>
 									<key>clip</key>
-									<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+									<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 								</entry>
 								<entry>
 									<key>color</key>
@@ -10428,7 +10428,7 @@
 														<attributes>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-weight</key>
@@ -11074,7 +11074,7 @@
 														<attributes>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-weight</key>
@@ -11537,7 +11537,7 @@
 														<attributes>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-weight</key>
@@ -12089,7 +12089,7 @@
 												<attributes>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-size</key>
@@ -13095,7 +13095,7 @@
 												<attributes>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-weight</key>
@@ -13544,7 +13544,7 @@
 												<attributes>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-size</key>
@@ -13591,7 +13591,7 @@
 												<attributes>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-size</key>
@@ -13945,7 +13945,7 @@
 										<attributes>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -14028,7 +14028,7 @@
 											</entry>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -15509,7 +15509,7 @@
 											</entry>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -15964,7 +15964,7 @@
 															</entry>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-size</key>
@@ -17360,7 +17360,7 @@
 															</entry>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-size</key>
@@ -17901,7 +17901,7 @@
 															</entry>
 															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 															</entry>
 															<entry>
 																<key>font-size</key>
@@ -18332,10 +18332,10 @@
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">text-orange</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
-																	<x>48</x>
+																	<x>0</x>
 																	<y>44</y>
-																	<height>-46</height>
-																	<width>-137</width>
+																	<height>-47</height>
+																	<width>-143</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[8]/div[3]/div[1]/div[1]/a[1]/div[2]/p[1]/span[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -18656,7 +18656,7 @@
 											</entry>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -19254,7 +19254,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -20106,7 +20106,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -20704,7 +20704,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -22151,7 +22151,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -22255,7 +22255,7 @@
 										<attributes>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -22508,7 +22508,7 @@
 											</entry>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -22984,8 +22984,8 @@
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
-																<y>176</y>
-																<height>-359</height>
+																<y>161</y>
+																<height>-311</height>
 																<width>0</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/password-strength[1]</attribute>
@@ -23037,8 +23037,8 @@
 																<attribute key="class" xsi:type="stringAttribute">form-group</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
-																	<y>0</y>
-																	<height>0</height>
+																	<y>15</y>
+																	<height>-30</height>
 																	<width>0</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/password-strength[1]/dl[1]</attribute>
@@ -23299,10 +23299,10 @@
 																			</attribute>
 																			<attribute key="class" xsi:type="stringAttribute">tooltipped tooltipped-s</attribute>
 																			<attribute key="outline" xsi:type="outlineAttribute">
-																				<x>242</x>
-																				<y>19</y>
-																				<height>-21</height>
-																				<width>-315</width>
+																				<x>178</x>
+																				<y>20</y>
+																				<height>-22</height>
+																				<width>-317</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/password-strength[1]/dl[1]/dd[1]/p[1]/a[1]</attribute>
 																			<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -23509,10 +23509,10 @@
 																				<width>124</width>
 																			</attribute>
 																			<attribute key="outline" xsi:type="outlineAttribute">
-																				<x>111</x>
-																				<y>19</y>
-																				<height>-21</height>
-																				<width>-255</width>
+																				<x>54</x>
+																				<y>20</y>
+																				<height>-22</height>
+																				<width>-261</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/password-strength[1]/dl[1]/dd[1]/p[1]/span[4]</attribute>
 																			<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -23600,9 +23600,9 @@
 																			</attribute>
 																			<attribute key="outline" xsi:type="outlineAttribute">
 																				<x>0</x>
-																				<y>19</y>
-																				<height>-21</height>
-																				<width>-271</width>
+																				<y>2</y>
+																				<height>-4</height>
+																				<width>-4</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/password-strength[1]/dl[1]/dd[1]/p[1]/span[3]</attribute>
 																			<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -23723,8 +23723,8 @@
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
-																<y>88</y>
-																<height>-400</height>
+																<y>73</y>
+																<height>-352</height>
 																<width>0</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/auto-check[2]</attribute>
@@ -23764,8 +23764,8 @@
 																<attribute key="class" xsi:type="stringAttribute">form-group</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
-																	<y>0</y>
-																	<height>0</height>
+																	<y>15</y>
+																	<height>-30</height>
 																	<width>0</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/auto-check[2]/dl[1]</attribute>
@@ -24271,7 +24271,7 @@
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
-																<height>-400</height>
+																<height>-367</height>
 																<width>0</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/auto-check[1]</attribute>
@@ -24849,10 +24849,10 @@
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">js-email-notice</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
-																	<x>0</x>
-																	<y>19</y>
-																	<height>-21</height>
-																	<width>-40</width>
+																	<x>104</x>
+																	<y>20</y>
+																	<height>-22</height>
+																	<width>-106</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/form[1]/p[1]/span[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -25039,7 +25039,7 @@
 												<attributes>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-size</key>
@@ -25184,7 +25184,7 @@
 													<attributes>
 														<entry>
 															<key>border-bottom-color</key>
-															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.125)</value>
+															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.12)</value>
 														</entry>
 														<entry>
 															<key>border-bottom-style</key>
@@ -25263,7 +25263,7 @@
 													<attributes>
 														<entry>
 															<key>border-bottom-color</key>
-															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.125)</value>
+															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.12)</value>
 														</entry>
 														<entry>
 															<key>border-bottom-style</key>
@@ -25371,7 +25371,7 @@
 													</entry>
 													<entry>
 														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 													</entry>
 													<entry>
 														<key>font-size</key>
@@ -27445,7 +27445,7 @@
 										<attributes>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -28095,10 +28095,10 @@
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">link-mktg text-blue</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>126</x>
+																		<x>37</x>
 																		<y>65</y>
-																		<height>-67</height>
-																		<width>-202</width>
+																		<height>-68</height>
+																		<width>-207</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[5]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]/p[1]/span[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -28219,7 +28219,7 @@
 															<attributes>
 																<entry>
 																	<key>font-family</key>
-																	<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																	<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 																</entry>
 																<entry>
 																	<key>font-size</key>
@@ -28791,7 +28791,7 @@
 															<attributes>
 																<entry>
 																	<key>font-family</key>
-																	<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																	<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 																</entry>
 																<entry>
 																	<key>font-size</key>
@@ -29525,10 +29525,10 @@
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">link-mktg text-blue</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>123</x>
+																		<x>94</x>
 																		<y>65</y>
-																		<height>-67</height>
-																		<width>-146</width>
+																		<height>-68</height>
+																		<width>-154</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[5]/div[2]/div[1]/div[2]/a[2]/div[2]/div[1]/p[1]/span[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -29649,7 +29649,7 @@
 															<attributes>
 																<entry>
 																	<key>font-family</key>
-																	<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+																	<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 																</entry>
 																<entry>
 																	<key>font-size</key>
@@ -30256,7 +30256,7 @@
 											</entry>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -30323,7 +30323,7 @@
 										<attributes>
 											<entry>
 												<key>font-family</key>
-												<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+												<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 											</entry>
 											<entry>
 												<key>font-size</key>
@@ -31351,7 +31351,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -32237,7 +32237,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -32607,7 +32607,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -33896,7 +33896,7 @@
 														</entry>
 														<entry>
 															<key>font-family</key>
-															<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+															<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 														</entry>
 														<entry>
 															<key>font-weight</key>
@@ -34092,7 +34092,7 @@
 										</entry>
 										<entry>
 											<key>font-family</key>
-											<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+											<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 										</entry>
 										<entry>
 											<key>font-size</key>
@@ -34382,7 +34382,7 @@
 											<attributes>
 												<entry>
 													<key>font-family</key>
-													<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+													<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 												</entry>
 												<entry>
 													<key>font-size</key>
@@ -35479,7 +35479,7 @@
 												</entry>
 												<entry>
 													<key>font-family</key>
-													<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+													<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 												</entry>
 												<entry>
 													<key>font-size</key>
@@ -35542,7 +35542,7 @@
 											<attributes>
 												<entry>
 													<key>font-family</key>
-													<value xsi:type="xsd:string">Inter, -apple-system, system-ui, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+													<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
 												</entry>
 												<entry>
 													<key>font-size</key>
@@ -42027,7 +42027,7 @@
 							</entry>
 							<entry>
 								<key>clip</key>
-								<value xsi:type="xsd:string">rect(0px, 0px, 0px, 0px)</value>
+								<value xsi:type="xsd:string">rect(0px 0px 0px 0px)</value>
 							</entry>
 							<entry>
 								<key>overflow-x</key>
@@ -42086,7 +42086,7 @@
 							</entry>
 							<entry>
 								<key>clip</key>
-								<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+								<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 							</entry>
 							<entry>
 								<key>overflow-x</key>

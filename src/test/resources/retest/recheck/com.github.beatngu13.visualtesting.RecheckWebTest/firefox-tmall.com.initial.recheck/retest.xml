@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="天猫tmall.com--理想生活上天猫" title="天猫tmall.com--理想生活上天猫">
 			<identifyingAttributes>
@@ -8277,10 +8277,10 @@
 														<width>80</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>632</x>
+														<x>575</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-950</width>
+														<width>-962</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[9]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">9</attribute>
@@ -8404,10 +8404,10 @@
 															<width>80</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>632</x>
+															<x>575</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-950</width>
+															<width>-962</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[9]/textnode[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -8438,10 +8438,10 @@
 														<width>64</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>440</x>
+														<x>410</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-966</width>
+														<width>-975</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[6]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">6</attribute>
@@ -8565,10 +8565,10 @@
 															<width>64</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>440</x>
+															<x>410</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-966</width>
+															<width>-975</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[6]/textnode[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -8599,10 +8599,10 @@
 														<width>64</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>568</x>
+														<x>520</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-966</width>
+														<width>-975</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[8]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">8</attribute>
@@ -8692,10 +8692,10 @@
 															<width>64</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>568</x>
+															<x>520</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-966</width>
+															<width>-975</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[8]/textnode[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -8932,10 +8932,10 @@
 														<width>80</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>712</x>
+														<x>643</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-950</width>
+														<width>-962</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[10]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">10</attribute>
@@ -9025,10 +9025,10 @@
 															<width>80</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>712</x>
+															<x>643</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-950</width>
+															<width>-962</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[10]/textnode[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -9093,10 +9093,10 @@
 														<width>64</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>504</x>
+														<x>465</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-966</width>
+														<width>-975</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[7]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">7</attribute>
@@ -9220,10 +9220,10 @@
 															<width>64</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>504</x>
+															<x>465</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-966</width>
+															<width>-975</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[7]/textnode[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

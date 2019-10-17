@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Blogger.com - Create a unique and beautiful blog. It’s easy and free." title="Blogger.com - Create a unique and beautiful blog. It’s easy and free.">
 			<identifyingAttributes>
@@ -2978,31 +2978,31 @@
 										<attributes>
 											<entry>
 												<key>border-bottom-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>border-left-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>border-right-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>border-top-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>caret-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>column-rule-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>disabled</key>
@@ -3014,7 +3014,7 @@
 											</entry>
 											<entry>
 												<key>outline-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>padding-bottom</key>
@@ -3034,7 +3034,7 @@
 											</entry>
 											<entry>
 												<key>text-decoration-color</key>
-												<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+												<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 											</entry>
 											<entry>
 												<key>value</key>
@@ -6418,8 +6418,8 @@
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>72</x>
-											<y>409</y>
-											<height>-840</height>
+											<y>417</y>
+											<height>-107</height>
 											<width>0</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[5]/div[1]/div[2]</attribute>
@@ -6472,7 +6472,7 @@
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1610</x>
 												<y>-8</y>
-												<height>5</height>
+												<height>-81</height>
 												<width>-1229</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[5]/div[1]/div[2]/img[1]</attribute>
@@ -6643,8 +6643,8 @@
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>72</x>
-											<y>361</y>
-											<height>-816</height>
+											<y>-379</y>
+											<height>-68</height>
 											<width>0</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[5]/div[1]/div[1]</attribute>
@@ -6697,7 +6697,7 @@
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1663</x>
 												<y>19</y>
-												<height>-19</height>
+												<height>-307</height>
 												<width>-1415</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[5]/div[1]/div[1]/img[1]</attribute>
@@ -7030,8 +7030,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 smartwatch</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1600</x>
-												<y>1824</y>
-												<height>-1051</height>
+												<y>1576</y>
+												<height>-870</height>
 												<width>-1695</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[5]</attribute>
@@ -7120,8 +7120,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 actioncam</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1467</x>
-												<y>2305</y>
-												<height>-1051</height>
+												<y>1881</y>
+												<height>-680</height>
 												<width>-1505</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[6]</attribute>
@@ -7210,8 +7210,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 blog</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>457</x>
-												<y>2112</y>
-												<height>-1051</height>
+												<y>1052</y>
+												<height>-32</height>
 												<width>-857</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[7]</attribute>
@@ -7296,8 +7296,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 drone</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-190</x>
-												<y>1704</y>
-												<height>-1051</height>
+												<y>1117</y>
+												<height>-623</height>
 												<width>-1448</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[1]</attribute>
@@ -7386,8 +7386,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 phone1</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-95</x>
-												<y>2177</y>
-												<height>-1051</height>
+												<y>1769</y>
+												<height>-775</height>
 												<width>-1600</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[2]</attribute>
@@ -7476,8 +7476,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 temperature</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>210</x>
-												<y>2112</y>
-												<height>-1051</height>
+												<y>1788</y>
+												<height>-832</height>
 												<width>-1657</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[3]</attribute>
@@ -7566,8 +7566,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 remote</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1695</x>
-												<y>1728</y>
-												<height>-1051</height>
+												<y>1349</y>
+												<height>-756</height>
 												<width>-1581</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[2]/img[4]</attribute>
@@ -7706,8 +7706,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 blog</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>457</x>
-												<y>1055</y>
-												<height>-1051</height>
+												<y>59</y>
+												<height>-32</height>
 												<width>-857</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[9]</attribute>
@@ -7792,8 +7792,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 slipper</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1715</x>
-												<y>897</y>
-												<height>-1051</height>
+												<y>746</y>
+												<height>-794</height>
 												<width>-1619</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[3]</attribute>
@@ -7882,8 +7882,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 picture</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1524</x>
-												<y>1119</y>
-												<height>-1051</height>
+												<y>909</y>
+												<height>-756</height>
 												<width>-1581</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[4]</attribute>
@@ -7968,8 +7968,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 vase</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-190</x>
-												<y>1003</y>
-												<height>-1051</height>
+												<y>790</y>
+												<height>-680</height>
 												<width>-1505</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[1]</attribute>
@@ -8058,8 +8058,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 tea</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>267</x>
-												<y>692</y>
-												<height>-1051</height>
+												<y>643</y>
+												<height>-870</height>
 												<width>-1695</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[2]</attribute>
@@ -8148,8 +8148,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 letter-a</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1429</x>
-												<y>584</y>
-												<height>-1051</height>
+												<y>521</y>
+												<height>-947</height>
 												<width>-1772</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[7]</attribute>
@@ -8238,8 +8238,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 football</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>76</x>
-												<y>1201</y>
-												<height>-1051</height>
+												<y>976</y>
+												<height>-794</height>
 												<width>-1619</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[8]</attribute>
@@ -8328,8 +8328,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 letter-c</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>152</x>
-												<y>926</y>
-												<height>-1051</height>
+												<y>889</y>
+												<height>-947</height>
 												<width>-1772</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[5]</attribute>
@@ -8418,8 +8418,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 letter-b</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1562</x>
-												<y>748</y>
-												<height>-1051</height>
+												<y>696</y>
+												<height>-947</height>
 												<width>-1772</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/img[6]</attribute>
@@ -8562,8 +8562,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 pie</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1619</x>
-												<y>2293</y>
-												<height>-1051</height>
+												<y>1846</y>
+												<height>-604</height>
 												<width>-1429</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[7]</attribute>
@@ -8652,8 +8652,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 blog</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>457</x>
-												<y>2131</y>
-												<height>-1051</height>
+												<y>1112</y>
+												<height>-32</height>
 												<width>-857</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[8]</attribute>
@@ -8738,8 +8738,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 rollover</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1600</x>
-												<y>1807</y>
-												<height>-1051</height>
+												<y>1379</y>
+												<height>-623</height>
 												<width>-1448</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[5]</attribute>
@@ -8828,8 +8828,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 shape</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1467</x>
-												<y>1818</y>
-												<height>-1051</height>
+												<y>1675</y>
+												<height>-909</height>
 												<width>-1734</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[6]</attribute>
@@ -8918,8 +8918,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 eggs</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-95</x>
-												<y>2239</y>
-												<height>-1051</height>
+												<y>1868</y>
+												<height>-680</height>
 												<width>-1505</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[3]</attribute>
@@ -9008,8 +9008,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 cherries</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>286</x>
-												<y>1742</y>
-												<height>-1051</height>
+												<y>1676</y>
+												<height>-985</height>
 												<width>-1810</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[4]</attribute>
@@ -9098,8 +9098,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 spoon</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-171</x>
-												<y>1796</y>
-												<height>-1051</height>
+												<y>1425</y>
+												<height>-680</height>
 												<width>-1505</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[1]</attribute>
@@ -9188,8 +9188,8 @@
 											<attribute key="class" xsi:type="stringAttribute">theme--layer theme--layer-1 mixer</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>-95</x>
-												<y>1980</y>
-												<height>-1051</height>
+												<y>1704</y>
+												<height>-775</height>
 												<width>-1600</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[1]/div[1]/div[3]/img[2]</attribute>
@@ -10066,10 +10066,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">background--layer documents</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>2009</x>
-											<y>210</y>
-											<height>-1049</height>
-											<width>-2054</width>
+											<x>1992</x>
+											<y>249</y>
+											<height>-667</height>
+											<width>-2020</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[6]/div[1]/img[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -10084,7 +10084,7 @@
 										</entry>
 										<entry>
 											<key>bottom</key>
-											<value xsi:type="xsd:string">662.203px</value>
+											<value xsi:type="xsd:string">367.359px</value>
 										</entry>
 										<entry>
 											<key>left</key>
@@ -10156,10 +10156,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">background--layer familyphotos</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>1733</x>
-											<y>125</y>
-											<height>-1007</height>
-											<width>-1907</width>
+											<x>1696</x>
+											<y>223</y>
+											<height>-480</height>
+											<width>-1833</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[6]/div[1]/img[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -10174,7 +10174,7 @@
 										</entry>
 										<entry>
 											<key>bottom</key>
-											<value xsi:type="xsd:string">714.047px</value>
+											<value xsi:type="xsd:string">304.906px</value>
 										</entry>
 										<entry>
 											<key>left</key>
@@ -10246,10 +10246,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">background--layer playicon</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>1495</x>
-											<y>237</y>
-											<height>-267</height>
-											<width>-1899</width>
+											<x>1511</x>
+											<y>283</y>
+											<height>-579</height>
+											<width>-1932</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[6]/div[1]/img[3]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -10604,7 +10604,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>2096</x>
 											<y>130</y>
-											<height>-835</height>
+											<height>-616</height>
 											<width>-1657</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/img[4]</attribute>
@@ -10620,7 +10620,7 @@
 										</entry>
 										<entry>
 											<key>bottom</key>
-											<value xsi:type="xsd:string">705.406px</value>
+											<value xsi:type="xsd:string">486.766px</value>
 										</entry>
 										<entry>
 											<key>left</key>
@@ -10698,7 +10698,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1962</x>
 											<y>406</y>
-											<height>-311</height>
+											<height>-64</height>
 											<width>-1105</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/img[2]</attribute>
@@ -10792,7 +10792,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1943</x>
 											<y>251</y>
-											<height>-380</height>
+											<height>-445</height>
 											<width>-1486</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/img[3]</attribute>
@@ -10886,7 +10886,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>2500</x>
 											<y>346</y>
-											<height>-406</height>
+											<height>374</height>
 											<width>-667</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/img[1]</attribute>
@@ -11706,8 +11706,8 @@
 										<attribute key="class" xsi:type="stringAttribute">background--layer card</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1430</x>
-											<y>939</y>
-											<height>-835</height>
+											<y>916</y>
+											<height>-604</height>
 											<width>-1645</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[4]/div[1]/img[2]</attribute>
@@ -11803,10 +11803,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">background--layer device</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>-7</x>
-											<y>418</y>
-											<height>-835</height>
-											<width>-1836</width>
+											<x>0</x>
+											<y>432</y>
+											<height>-864</height>
+											<width>-1905</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[4]/div[1]/img[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -11894,8 +11894,8 @@
 										<attribute key="class" xsi:type="stringAttribute">background--layer cent</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1863</x>
-											<y>626</y>
-											<height>-835</height>
+											<y>619</y>
+											<height>-789</height>
 											<width>-1830</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[4]/div[1]/img[4]</attribute>
@@ -11989,7 +11989,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1728</x>
 											<y>994</y>
-											<height>-835</height>
+											<height>-584</height>
 											<width>-1625</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[4]/div[1]/img[3]</attribute>
@@ -12192,7 +12192,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1265</x>
 											<y>864</y>
-											<height>-835</height>
+											<height>-64</height>
 											<width>-1105</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[2]/div[1]/img[3]</attribute>
@@ -12281,8 +12281,8 @@
 										<attribute key="class" xsi:type="stringAttribute">background--layer tools</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>914</x>
-											<y>282</y>
-											<height>-835</height>
+											<y>-299</y>
+											<height>-254</height>
 											<width>-1295</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[2]/div[1]/img[1]</attribute>
@@ -12364,7 +12364,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>1275</x>
 											<y>864</y>
-											<height>-835</height>
+											<height>36</height>
 											<width>-1005</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[2]/div[1]/img[2]</attribute>

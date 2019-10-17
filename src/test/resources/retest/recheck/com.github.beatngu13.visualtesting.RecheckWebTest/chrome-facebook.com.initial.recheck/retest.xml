@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Facebook - Log In or Sign Up" title="Facebook - Log In or Sign Up">
 			<identifyingAttributes>
@@ -95,7 +95,7 @@
 						</entry>
 						<entry>
 							<key>font-family</key>
-							<value xsi:type="xsd:string">system-ui, -apple-system, system-ui, &quot;.SFNSText-Regular&quot;, sans-serif</value>
+							<value xsi:type="xsd:string">system-ui, -apple-system, BlinkMacSystemFont, &quot;.SFNSText-Regular&quot;, sans-serif</value>
 						</entry>
 						<entry>
 							<key>font-size</key>
@@ -714,7 +714,7 @@
 																									<x>0</x>
 																									<y>0</y>
 																									<height>0</height>
-																									<width>-231</width>
+																									<width>-202</width>
 																								</attribute>
 																								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[6]/div[2]/span[1]</attribute>
 																								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -811,14 +811,6 @@
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
 																										<entry>
-																											<key>border-bottom-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-bottom-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-bottom-style</key>
 																											<value xsi:type="xsd:string">solid</value>
 																										</entry>
@@ -839,10 +831,6 @@
 																											<value xsi:type="xsd:string">1px</value>
 																										</entry>
 																										<entry>
-																											<key>border-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-right-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
@@ -857,14 +845,6 @@
 																										<entry>
 																											<key>border-top-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>border-top-style</key>
@@ -889,6 +869,22 @@
 																										<entry>
 																											<key>min-height</key>
 																											<value xsi:type="xsd:string">15px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-bottom</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-left</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-right</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-top</key>
+																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>shown</key>
@@ -1813,14 +1809,6 @@
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
 																										<entry>
-																											<key>border-bottom-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-bottom-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-bottom-style</key>
 																											<value xsi:type="xsd:string">solid</value>
 																										</entry>
@@ -1841,10 +1829,6 @@
 																											<value xsi:type="xsd:string">1px</value>
 																										</entry>
 																										<entry>
-																											<key>border-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-right-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
@@ -1859,14 +1843,6 @@
 																										<entry>
 																											<key>border-top-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>border-top-style</key>
@@ -1891,6 +1867,22 @@
 																										<entry>
 																											<key>min-height</key>
 																											<value xsi:type="xsd:string">15px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-bottom</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-left</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-right</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-top</key>
+																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>shown</key>
@@ -9613,14 +9605,6 @@
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
 																										<entry>
-																											<key>border-bottom-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-bottom-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-bottom-style</key>
 																											<value xsi:type="xsd:string">solid</value>
 																										</entry>
@@ -9641,10 +9625,6 @@
 																											<value xsi:type="xsd:string">1px</value>
 																										</entry>
 																										<entry>
-																											<key>border-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
 																											<key>border-right-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																										</entry>
@@ -9659,14 +9639,6 @@
 																										<entry>
 																											<key>border-top-color</key>
 																											<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-left-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
-																										</entry>
-																										<entry>
-																											<key>border-top-right-radius</key>
-																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>border-top-style</key>
@@ -9691,6 +9663,22 @@
 																										<entry>
 																											<key>min-height</key>
 																											<value xsi:type="xsd:string">15px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-bottom</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-left</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-right</key>
+																											<value xsi:type="xsd:string">5px</value>
+																										</entry>
+																										<entry>
+																											<key>padding-top</key>
+																											<value xsi:type="xsd:string">5px</value>
 																										</entry>
 																										<entry>
 																											<key>shown</key>
@@ -11841,9 +11829,9 @@
 																								<attribute key="class" xsi:type="stringAttribute">_58ms mlm</attribute>
 																								<attribute key="id" xsi:type="stringAttribute">birthday-help</attribute>
 																								<attribute key="outline" xsi:type="outlineAttribute">
-																									<x>178</x>
+																									<x>207</x>
 																									<y>7</y>
-																									<height>-11</height>
+																									<height>-10</height>
 																									<width>-383</width>
 																								</attribute>
 																								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[6]/div[2]/a[1]</attribute>
@@ -14703,10 +14691,10 @@
 																								</attribute>
 																								<attribute key="id" xsi:type="stringAttribute">privacy-link</attribute>
 																								<attribute key="outline" xsi:type="outlineAttribute">
-																									<x>204</x>
+																									<x>235</x>
 																									<y>14</y>
 																									<height>-57</height>
-																									<width>-257</width>
+																									<width>-255</width>
 																								</attribute>
 																								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[9]/p[1]/a[2]</attribute>
 																								<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -14783,9 +14771,9 @@
 																								<attribute key="id" xsi:type="stringAttribute">cookie-use-link</attribute>
 																								<attribute key="outline" xsi:type="outlineAttribute">
 																									<x>0</x>
-																									<y>28</y>
-																									<height>-43</height>
-																									<width>-36</width>
+																									<y>42</y>
+																									<height>-57</height>
+																									<width>-238</width>
 																								</attribute>
 																								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[9]/p[1]/a[3]</attribute>
 																								<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -15389,14 +15377,6 @@
 																									<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																								</entry>
 																								<entry>
-																									<key>border-bottom-left-radius</key>
-																									<value xsi:type="xsd:string">5px</value>
-																								</entry>
-																								<entry>
-																									<key>border-bottom-right-radius</key>
-																									<value xsi:type="xsd:string">5px</value>
-																								</entry>
-																								<entry>
 																									<key>border-bottom-style</key>
 																									<value xsi:type="xsd:string">solid</value>
 																								</entry>
@@ -15417,10 +15397,6 @@
 																									<value xsi:type="xsd:string">1px</value>
 																								</entry>
 																								<entry>
-																									<key>border-radius</key>
-																									<value xsi:type="xsd:string">5px</value>
-																								</entry>
-																								<entry>
 																									<key>border-right-color</key>
 																									<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
 																								</entry>
@@ -15435,14 +15411,6 @@
 																								<entry>
 																									<key>border-top-color</key>
 																									<value xsi:type="xsd:string">rgb(204, 208, 213)</value>
-																								</entry>
-																								<entry>
-																									<key>border-top-left-radius</key>
-																									<value xsi:type="xsd:string">5px</value>
-																								</entry>
-																								<entry>
-																									<key>border-top-right-radius</key>
-																									<value xsi:type="xsd:string">5px</value>
 																								</entry>
 																								<entry>
 																									<key>border-top-style</key>
@@ -15471,6 +15439,22 @@
 																								<entry>
 																									<key>min-height</key>
 																									<value xsi:type="xsd:string">15px</value>
+																								</entry>
+																								<entry>
+																									<key>padding-bottom</key>
+																									<value xsi:type="xsd:string">2px</value>
+																								</entry>
+																								<entry>
+																									<key>padding-left</key>
+																									<value xsi:type="xsd:string">2px</value>
+																								</entry>
+																								<entry>
+																									<key>padding-right</key>
+																									<value xsi:type="xsd:string">2px</value>
+																								</entry>
+																								<entry>
+																									<key>padding-top</key>
+																									<value xsi:type="xsd:string">2px</value>
 																								</entry>
 																								<entry>
 																									<key>shown</key>
@@ -15507,31 +15491,31 @@
 																								<attributes>
 																									<entry>
 																										<key>border-bottom-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>border-left-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>border-right-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>border-top-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>caret-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>column-rule-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>disabled</key>
@@ -15543,19 +15527,11 @@
 																									</entry>
 																									<entry>
 																										<key>outline-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																									<entry>
 																										<key>padding-bottom</key>
 																										<value xsi:type="xsd:string">1px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-left</key>
-																										<value xsi:type="xsd:string">2px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-right</key>
-																										<value xsi:type="xsd:string">2px</value>
 																									</entry>
 																									<entry>
 																										<key>selected</key>
@@ -15567,7 +15543,7 @@
 																									</entry>
 																									<entry>
 																										<key>text-decoration-color</key>
-																										<value xsi:type="xsd:string">rgba(0, 0, 0, 0.247)</value>
+																										<value xsi:type="xsd:string">rgb(128, 128, 128)</value>
 																									</entry>
 																								</attributes>
 																							</attributes>
@@ -15618,14 +15594,6 @@
 																									<entry>
 																										<key>padding-bottom</key>
 																										<value xsi:type="xsd:string">1px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-left</key>
-																										<value xsi:type="xsd:string">2px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-right</key>
-																										<value xsi:type="xsd:string">2px</value>
 																									</entry>
 																									<entry>
 																										<key>shown</key>
@@ -15686,14 +15654,6 @@
 																										<value xsi:type="xsd:string">1px</value>
 																									</entry>
 																									<entry>
-																										<key>padding-left</key>
-																										<value xsi:type="xsd:string">2px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-right</key>
-																										<value xsi:type="xsd:string">2px</value>
-																									</entry>
-																									<entry>
 																										<key>shown</key>
 																										<value xsi:type="xsd:string">false</value>
 																									</entry>
@@ -15750,14 +15710,6 @@
 																									<entry>
 																										<key>padding-bottom</key>
 																										<value xsi:type="xsd:string">1px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-left</key>
-																										<value xsi:type="xsd:string">2px</value>
-																									</entry>
-																									<entry>
-																										<key>padding-right</key>
-																										<value xsi:type="xsd:string">2px</value>
 																									</entry>
 																									<entry>
 																										<key>shown</key>
@@ -16470,10 +16422,10 @@
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">mlm _6q _6t _mf</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>87</x>
-																		<y>1</y>
-																		<height>-4</height>
-																		<width>-107</width>
+																		<x>0</x>
+																		<y>2</y>
+																		<height>-3</height>
+																		<width>-50</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/span[2]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -17550,10 +17502,10 @@
 														<width>98</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>775</x>
+														<x>805</x>
 														<y>19</y>
 														<height>-38</height>
-														<width>-902</width>
+														<width>-900</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/div[2]/ul[1]/li[25]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">25</attribute>
@@ -18773,10 +18725,10 @@
 														<width>61</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>863</x>
+														<x>891</x>
 														<y>0</y>
 														<height>-38</height>
-														<width>-939</width>
+														<width>-937</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/div[2]/ul[1]/li[13]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">13</attribute>
@@ -19107,7 +19059,7 @@
 														</entry>
 														<entry>
 															<key>clip</key>
-															<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+															<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 														</entry>
 														<entry>
 															<key>color</key>
@@ -19306,10 +19258,10 @@
 														<width>61</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>648</x>
+														<x>674</x>
 														<y>19</y>
 														<height>-38</height>
-														<width>-939</width>
+														<width>-937</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/div[2]/ul[1]/li[23]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">23</attribute>
@@ -19644,7 +19596,7 @@
 														</entry>
 														<entry>
 															<key>clip</key>
-															<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+															<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 														</entry>
 														<entry>
 															<key>color</key>
@@ -20462,10 +20414,10 @@
 														<width>65</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>709</x>
+														<x>738</x>
 														<y>19</y>
 														<height>-38</height>
-														<width>-935</width>
+														<width>-933</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/div[2]/ul[1]/li[24]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">24</attribute>
@@ -21398,10 +21350,10 @@
 													<width>112</width>
 												</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>583</x>
+													<x>612</x>
 													<y>10</y>
 													<height>-12</height>
-													<width>-868</width>
+													<width>-863</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[11]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">11</attribute>
@@ -22354,10 +22306,10 @@
 													<width>54</width>
 												</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>528</x>
+													<x>555</x>
 													<y>10</y>
 													<height>-12</height>
-													<width>-926</width>
+													<width>-923</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[10]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">10</attribute>
@@ -22626,7 +22578,7 @@
 													<width>40</width>
 												</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>695</x>
+													<x>729</x>
 													<y>8</y>
 													<height>-8</height>
 													<width>-940</width>
@@ -23580,7 +23532,7 @@
 														<x>0</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-541</width>
+														<width>-509</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -23998,10 +23950,10 @@
 													<attribute key="class" xsi:type="stringAttribute">_6a mrm uiPopover</attribute>
 													<attribute key="id" xsi:type="stringAttribute">u_0_18</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>550</x>
+														<x>522</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-560</width>
+														<width>-532</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -24410,10 +24362,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">_6a _3bcs</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>158</x>
+														<x>174</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-307</width>
+														<width>-334</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -26625,7 +26577,7 @@
 																	</entry>
 																	<entry>
 																		<key>clip</key>
-																		<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+																		<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 																	</entry>
 																	<entry>
 																		<key>left</key>
@@ -26868,10 +26820,10 @@
 											<attribute key="class" xsi:type="stringAttribute">_5l9y</attribute>
 											<attribute key="id" xsi:type="stringAttribute">cpn-pv-link</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>717</x>
-												<y>16</y>
-												<height>-17</height>
-												<width>-899</width>
+												<x>764</x>
+												<y>17</y>
+												<height>-18</height>
+												<width>-896</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/a[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -27005,40 +26957,12 @@
 											<value xsi:type="xsd:string">no-repeat</value>
 										</entry>
 										<entry>
-											<key>border-bottom-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
-											<key>border-left-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
-											<key>border-right-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
-											<key>border-top-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
 											<key>bottom</key>
 											<value xsi:type="xsd:string">9px</value>
 										</entry>
 										<entry>
 											<key>box-sizing</key>
 											<value xsi:type="xsd:string">border-box</value>
-										</entry>
-										<entry>
-											<key>caret-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
-											<key>color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-										</entry>
-										<entry>
-											<key>column-rule-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 										</entry>
 										<entry>
 											<key>data-cookiebanner</key>
@@ -27059,10 +26983,6 @@
 										<entry>
 											<key>margin-top</key>
 											<value xsi:type="xsd:string">-7px</value>
-										</entry>
-										<entry>
-											<key>outline-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 										</entry>
 										<entry>
 											<key>overflow-x</key>
@@ -27086,10 +27006,6 @@
 										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>text-decoration-color</key>
-											<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 										</entry>
 										<entry>
 											<key>title</key>

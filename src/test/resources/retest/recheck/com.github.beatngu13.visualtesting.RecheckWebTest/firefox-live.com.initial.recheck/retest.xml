@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Outlook – free personal email and calendar from Microsoft" title="Outlook – free personal email and calendar from Microsoft">
 			<identifyingAttributes>
@@ -1517,10 +1517,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">single-app</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>2032</x>
+														<x>2022</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[3]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -1776,10 +1776,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">single-app</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>5081</x>
+														<x>5054</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[6]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">6</attribute>
@@ -2035,10 +2035,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">single-app</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>1016</x>
+														<x>1011</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[2]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -2301,7 +2301,7 @@
 														<x>0</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -2561,10 +2561,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">single-app</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>3048</x>
+														<x>3032</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[4]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -2824,10 +2824,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">single-app</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>4064</x>
+														<x>4043</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-5081</width>
+														<width>-5054</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[5]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
@@ -19737,7 +19737,7 @@
 									</entry>
 									<entry>
 										<key>font-family</key>
-										<value xsi:type="xsd:string">-apple-system</value>
+										<value xsi:type="xsd:string">sans-serif</value>
 									</entry>
 									<entry>
 										<key>font-size</key>

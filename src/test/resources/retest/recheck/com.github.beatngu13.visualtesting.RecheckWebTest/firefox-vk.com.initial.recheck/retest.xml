@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Welcome! | VK" title="Welcome! | VK">
 			<identifyingAttributes>
@@ -5485,10 +5485,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">cookies_policy_text</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>56</x>
+											<x>55</x>
 											<y>15</y>
 											<height>-22</height>
-											<width>-401</width>
+											<width>-447</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[2]/div[1]/span[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -5562,10 +5562,10 @@
 												<width>27</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>558</x>
-												<y>0</y>
-												<height>1</height>
-												<width>-562</width>
+												<x>515</x>
+												<y>-1</y>
+												<height>2</height>
+												<width>-518</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[2]/div[1]/span[2]/a[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5632,10 +5632,10 @@
 												<width>589</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>56</x>
+												<x>55</x>
 												<y>15</y>
 												<height>-22</height>
-												<width>-401</width>
+												<width>-447</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[2]/div[1]/span[2]/textnode[2]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -5665,10 +5665,10 @@
 												<width>589</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>56</x>
+												<x>55</x>
 												<y>15</y>
 												<height>-22</height>
-												<width>-401</width>
+												<width>-447</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[2]/div[1]/span[2]/textnode[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

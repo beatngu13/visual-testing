@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Stack Overflow - Where Developers Learn, Share, &amp; Build Careers" title="Stack Overflow - Where Developers Learn, Share, &amp; Build Careers">
 			<identifyingAttributes>
@@ -91,7 +91,7 @@
 						<attribute key="outline" xsi:type="outlineAttribute">
 							<x>0</x>
 							<y>0</y>
-							<height>4028</height>
+							<height>4000</height>
 							<width>0</width>
 						</attribute>
 						<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]</attribute>
@@ -266,8 +266,8 @@
 									<attribute key="class" xsi:type="stringAttribute">py128 fs-body2</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
-										<y>3725</y>
-										<height>-4119</height>
+										<y>3697</y>
+										<height>-4091</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[7]</attribute>
@@ -1911,8 +1911,8 @@
 									<attribute key="class" xsi:type="stringAttribute">py128 p-bg-purple teams-slope</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
-										<y>1787</y>
-										<height>-3705</height>
+										<y>1775</y>
+										<height>-3677</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[4]</attribute>
@@ -9860,8 +9860,8 @@
 									<attribute key="class" xsi:type="stringAttribute">py64</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
-										<y>3302</y>
-										<height>-4388</height>
+										<y>3274</y>
+										<height>-4360</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[6]</attribute>
@@ -12372,8 +12372,8 @@
 									<attribute key="id" xsi:type="stringAttribute">for-businesses</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
-										<y>1188</y>
-										<height>-4174</height>
+										<y>1176</y>
+										<height>-4146</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[3]</attribute>
@@ -13584,7 +13584,7 @@
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
 										<y>0</y>
-										<height>-4318</height>
+										<height>-4286</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[1]</attribute>
@@ -15046,8 +15046,8 @@
 									<attribute key="class" xsi:type="stringAttribute">ps-relative bg-powder-100 py128 p-slope-right</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
-										<y>4417</y>
-										<height>-4417</height>
+										<y>4389</y>
+										<height>-4389</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[8]</attribute>
@@ -15158,7 +15158,7 @@
 												<x>0</x>
 												<y>0</y>
 												<height>0</height>
-												<width>-164</width>
+												<width>-202</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/div[2]/div[8]/div[1]/div[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16061,7 +16061,7 @@
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">grid--cell ml32 lg:ml0 fs-body2 ws-nowrap fc-white bg-orange-400 py12 px24 bar-sm js-gps-track</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1132</x>
+												<x>1094</x>
 												<y>14</y>
 												<height>-27</height>
 												<width>-1132</width>
@@ -16323,8 +16323,8 @@
 							<attribute key="id" xsi:type="stringAttribute">footer</attribute>
 							<attribute key="outline" xsi:type="outlineAttribute">
 								<x>0</x>
-								<y>4861</y>
-								<height>-4861</height>
+								<y>4833</y>
+								<height>-4833</height>
 								<width>0</width>
 							</attribute>
 							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/footer[1]</attribute>
@@ -21312,7 +21312,7 @@
 							<attribute key="outline" xsi:type="outlineAttribute">
 								<x>0</x>
 								<y>0</y>
-								<height>-5058</height>
+								<height>-5030</height>
 								<width>0</width>
 							</attribute>
 							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/header[1]</attribute>
@@ -23236,7 +23236,7 @@
 							<attribute key="outline" xsi:type="outlineAttribute">
 								<x>0</x>
 								<y>1027</y>
-								<height>-5055</height>
+								<height>-5027</height>
 								<width>0</width>
 							</attribute>
 							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[3]</attribute>
@@ -23851,7 +23851,7 @@
 							<attribute key="outline" xsi:type="outlineAttribute">
 								<x>0</x>
 								<y>0</y>
-								<height>-5108</height>
+								<height>-5080</height>
 								<width>0</width>
 							</attribute>
 							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]</attribute>

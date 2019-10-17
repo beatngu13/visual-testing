@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more" title="Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more">
 			<identifyingAttributes>
@@ -20788,7 +20788,7 @@
 															</entry>
 															<entry>
 																<key>clip</key>
-																<value xsi:type="xsd:string">rect(-10px, 45px, 110px, -10px)</value>
+																<value xsi:type="xsd:string">rect(-10px 45px 110px -10px)</value>
 															</entry>
 															<entry>
 																<key>color</key>
@@ -20996,7 +20996,7 @@
 															</entry>
 															<entry>
 																<key>clip</key>
-																<value xsi:type="xsd:string">rect(-10px, 55px, 110px, 0px)</value>
+																<value xsi:type="xsd:string">rect(-10px 55px 110px 0px)</value>
 															</entry>
 															<entry>
 																<key>color</key>
@@ -79452,7 +79452,7 @@
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
 										<y>0</y>
-										<height>-870</height>
+										<height>-830</height>
 										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/a[1]</attribute>
@@ -79525,7 +79525,7 @@
 										<attribute key="outline" xsi:type="outlineAttribute">
 											<x>0</x>
 											<y>0</y>
-											<height>0</height>
+											<height>-40</height>
 											<width>0</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/a[1]/div[1]</attribute>
@@ -82179,20 +82179,8 @@
 																		<value xsi:type="xsd:string">rgb(17, 17, 17)</value>
 																	</entry>
 																	<entry>
-																		<key>border-bottom-left-radius</key>
-																		<value xsi:type="xsd:string">5px</value>
-																	</entry>
-																	<entry>
-																		<key>border-bottom-right-radius</key>
-																		<value xsi:type="xsd:string">5px</value>
-																	</entry>
-																	<entry>
 																		<key>border-left-color</key>
 																		<value xsi:type="xsd:string">rgb(17, 17, 17)</value>
-																	</entry>
-																	<entry>
-																		<key>border-radius</key>
-																		<value xsi:type="xsd:string">5px</value>
 																	</entry>
 																	<entry>
 																		<key>border-right-color</key>
@@ -82201,14 +82189,6 @@
 																	<entry>
 																		<key>border-top-color</key>
 																		<value xsi:type="xsd:string">rgb(17, 17, 17)</value>
-																	</entry>
-																	<entry>
-																		<key>border-top-left-radius</key>
-																		<value xsi:type="xsd:string">5px</value>
-																	</entry>
-																	<entry>
-																		<key>border-top-right-radius</key>
-																		<value xsi:type="xsd:string">5px</value>
 																	</entry>
 																	<entry>
 																		<key>bottom</key>
