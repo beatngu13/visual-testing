@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Netflix Germany - Watch TV Shows Online, Watch Movies Online" title="Netflix Germany - Watch TV Shows Online, Watch Movies Online">
 			<identifyingAttributes>
@@ -1759,13 +1759,13 @@
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
 																<x>34</x>
 																<y>3667</y>
-																<height>13</height>
+																<height>14</height>
 																<width>29</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>34</x>
 																<y>0</y>
-																<height>-35</height>
+																<height>-34</height>
 																<width>-34</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/svg[1]/defs[1]/symbol[19]/g[1]/path[2]</attribute>
@@ -1943,13 +1943,13 @@
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
 															<x>3</x>
 															<y>3669</y>
-															<height>42</height>
+															<height>44</height>
 															<width>36</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>3</x>
 															<y>3669</y>
-															<height>42</height>
+															<height>44</height>
 															<width>36</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/svg[1]/defs[1]/symbol[23]/path[1]</attribute>
@@ -4345,16 +4345,16 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>0</x>
+															<x>-1</x>
 															<y>3667</y>
 															<height>26</height>
-															<width>34</width>
+															<width>35</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>0</x>
+															<x>-1</x>
 															<y>3667</y>
 															<height>26</height>
-															<width>34</width>
+															<width>35</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/svg[1]/defs[1]/symbol[12]/path[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5096,14 +5096,14 @@
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
 															<x>5</x>
-															<y>3667</y>
-															<height>42</height>
+															<y>3665</y>
+															<height>44</height>
 															<width>36</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>5</x>
-															<y>3667</y>
-															<height>42</height>
+															<y>3665</y>
+															<height>44</height>
 															<width>36</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/svg[1]/defs[1]/symbol[22]/path[1]</attribute>
@@ -5226,6 +5226,14 @@
 													<entry>
 														<key>data-uia-our-story</key>
 														<value xsi:type="xsd:string">our-story-cards</value>
+													</entry>
+													<entry>
+														<key>margin-left</key>
+														<value xsi:type="xsd:string">42.5px</value>
+													</entry>
+													<entry>
+														<key>margin-right</key>
+														<value xsi:type="xsd:string">42.5px</value>
 													</entry>
 													<entry>
 														<key>max-width</key>
@@ -10726,11 +10734,11 @@
 																	</entry>
 																	<entry>
 																		<key>margin-left</key>
-																		<value xsi:type="xsd:string">575.531px</value>
+																		<value xsi:type="xsd:string">575.719px</value>
 																	</entry>
 																	<entry>
 																		<key>margin-right</key>
-																		<value xsi:type="xsd:string">575.531px</value>
+																		<value xsi:type="xsd:string">575.719px</value>
 																	</entry>
 																	<entry>
 																		<key>opacity</key>
@@ -16034,11 +16042,11 @@
 																		</entry>
 																		<entry>
 																			<key>margin-left</key>
-																			<value xsi:type="xsd:string">260.531px</value>
+																			<value xsi:type="xsd:string">260.719px</value>
 																		</entry>
 																		<entry>
 																			<key>margin-right</key>
-																			<value xsi:type="xsd:string">260.531px</value>
+																			<value xsi:type="xsd:string">260.719px</value>
 																		</entry>
 																		<entry>
 																			<key>opacity</key>
@@ -16988,14 +16996,14 @@
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
 																<x>43</x>
 																<y>0</y>
-																<height>815</height>
+																<height>809</height>
 																<width>1820</width>
 															</attribute>
 															<attribute key="class" xsi:type="stringAttribute">our-story-card-background</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>-100</y>
-																<height>86</height>
+																<height>80</height>
 																<width>0</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]</attribute>
@@ -17011,7 +17019,7 @@
 															</entry>
 															<entry>
 																<key>max-height</key>
-																<value xsi:type="xsd:string">814.5px</value>
+																<value xsi:type="xsd:string">808.5px</value>
 															</entry>
 															<entry>
 																<key>overflow-x</key>
@@ -17031,7 +17039,7 @@
 															</entry>
 															<entry>
 																<key>style</key>
-																<value xsi:type="xsd:string">max-height: 814.5px;</value>
+																<value xsi:type="xsd:string">max-height: 808.5px;</value>
 															</entry>
 															<entry>
 																<key>top</key>
@@ -17047,17 +17055,17 @@
 														<identifyingAttributes>
 															<attributes>
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																	<x>50</x>
+																	<x>57</x>
 																	<y>0</y>
-																	<height>815</height>
-																	<width>1804</width>
+																	<height>809</height>
+																	<width>1791</width>
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">bg-image</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
-																	<x>8</x>
+																	<x>14</x>
 																	<y>0</y>
 																	<height>0</height>
-																	<width>-16</width>
+																	<width>-29</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/img[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -17709,7 +17717,7 @@
 															</entry>
 															<entry>
 																<key>left</key>
-																<value xsi:type="xsd:string">1872px</value>
+																<value xsi:type="xsd:string">1871.98px</value>
 															</entry>
 															<entry>
 																<key>padding-top</key>
@@ -18134,7 +18142,7 @@
 								<height>5</height>
 								<width>5</width>
 							</attribute>
-							<attribute key="name" xsi:type="stringAttribute">if-communicator-0104255321131</attribute>
+							<attribute key="name" xsi:type="stringAttribute">if-communicator-4073910536657</attribute>
 							<attribute key="outline" xsi:type="outlineAttribute">
 								<x>-9</x>
 								<y>-9</y>
