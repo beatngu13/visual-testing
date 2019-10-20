@@ -26,7 +26,6 @@ attribute-regex=min-.*
 attribute-regex=transition-.*
 
 matcher: type=map
-
 matcher: type=meta
 
 matcher: type=body, attribute: class
@@ -39,15 +38,15 @@ pixel-diff=25
 matcher: class=focus-slide
 matcher: class=mall-slide
 
-# blogspot.com
+## blogspot.com
 
-matcher: class=hero--background
 matcher: class=background
+matcher: class=hero--background
 
 ## csdn.net
 
-matcher: id=myCarousel
 matcher: id=magzCarousel
+matcher: id=myCarousel
 matcher: id=enterpriseCarousel
 
 ## netflix.com
