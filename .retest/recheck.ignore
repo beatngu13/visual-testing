@@ -44,6 +44,12 @@ matcher: class=mall-slide
 matcher: class=hero--background
 matcher: class=background
 
+## csdn.net
+
+matcher: id=myCarousel
+matcher: id=magzCarousel
+matcher: id=enterpriseCarousel
+
 ## netflix.com
 
 matcher: class=our-story-card-animation-container
