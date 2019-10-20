@@ -19,6 +19,7 @@ attribute=tabindex
 attribute=top
 attribute=transform
 attribute=opacity
+attribute=z-index
 
 attribute-regex=aria-.*
 attribute-regex=background-.*
@@ -58,3 +59,8 @@ matcher: id=enterpriseCarousel
 
 matcher: class=our-story-card-animation-container
 matcher: id=cookie-disclosure
+
+## sina.com.cn
+
+matcher: class=loading
+matcher: id=heimaogif
