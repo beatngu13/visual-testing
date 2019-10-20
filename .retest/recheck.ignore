@@ -39,6 +39,11 @@ pixel-diff=25
 matcher: class=focus-slide
 matcher: class=mall-slide
 
+# blogspot.com
+
+matcher: class=hero--background
+matcher: class=background
+
 ## netflix.com
 
 matcher: class=our-story-card-animation-container
