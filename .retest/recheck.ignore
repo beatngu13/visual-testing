@@ -49,6 +49,7 @@ matcher: class=hero--background
 ## csdn.net
 
 matcher: class=contact-box
+matcher: class=search_bar
 matcher: id=magzCarousel
 matcher: id=myCarousel
 matcher: id=enterpriseCarousel
