@@ -36,26 +36,9 @@ pixel-diff=25
 
 ## 360.cn
 
-# TODO
-#matcher: class=focus-slide
-#matcher: class=mall-slide
-
-# Upper carousel.
-matcher: xpath=html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]
-
-# Lower carousel.
-matcher: xpath=html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[1]
+matcher: class=focus-slide
+matcher: class=mall-slide
 
 ## netflix.com
 
-# TODO
-#matcher: class=our-story-card-animation-container
-
-# Animations.
-matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]
-
-# 2nd animation.
-matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]
-
-# 3rd animation.
-matcher: xpath=html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]
+matcher: class=our-story-card-animation-container
