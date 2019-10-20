@@ -47,6 +47,7 @@ matcher: class=hero--background
 
 ## csdn.net
 
+matcher: class=img-box
 matcher: id=magzCarousel
 matcher: id=myCarousel
 matcher: id=enterpriseCarousel
@@ -54,3 +55,4 @@ matcher: id=enterpriseCarousel
 ## netflix.com
 
 matcher: class=our-story-card-animation-container
+matcher: id=cookie-disclosure
