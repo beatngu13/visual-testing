@@ -9,6 +9,7 @@ attribute=ftime
 attribute=href
 attribute=id
 attribute=left
+attribute=line-height
 attribute=name
 attribute=right
 attribute=src
@@ -47,7 +48,7 @@ matcher: class=hero--background
 
 ## csdn.net
 
-matcher: class=img-box
+matcher: class=contact-box
 matcher: id=magzCarousel
 matcher: id=myCarousel
 matcher: id=enterpriseCarousel
