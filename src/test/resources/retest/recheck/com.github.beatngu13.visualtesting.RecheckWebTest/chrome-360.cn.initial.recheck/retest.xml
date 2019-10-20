@@ -209,6 +209,14 @@
 							<attributes>
 								<attributes>
 									<entry>
+										<key>margin-left</key>
+										<value xsi:type="xsd:string">332.5px</value>
+									</entry>
+									<entry>
+										<key>margin-right</key>
+										<value xsi:type="xsd:string">332.5px</value>
+									</entry>
+									<entry>
 										<key>shown</key>
 										<value xsi:type="xsd:string">true</value>
 									</entry>
@@ -576,7 +584,7 @@
 																	<x>444</x>
 																	<y>1454</y>
 																	<height>20</height>
-																	<width>102</width>
+																	<width>73</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -1028,10 +1036,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>478</x>
+															<x>535</x>
 															<y>1418</y>
 															<height>18</height>
-															<width>148</width>
+															<width>90</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">right-angle</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
@@ -1593,13 +1601,13 @@
 																	<x>747</x>
 																	<y>1877</y>
 																	<height>20</height>
-																	<width>102</width>
+																	<width>88</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>8</y>
 																	<height>-16</height>
-																	<width>-90</width>
+																	<width>-104</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/ul[1]/li[8]/div[2]/h3[1]/a[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -2065,7 +2073,7 @@
 																	<x>444</x>
 																	<y>1595</y>
 																	<height>20</height>
-																	<width>120</width>
+																	<width>84</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -2692,7 +2700,7 @@
 																	<x>444</x>
 																	<y>1736</y>
 																	<height>20</height>
-																	<width>102</width>
+																	<width>73</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -3194,7 +3202,7 @@
 																	<x>747</x>
 																	<y>1736</y>
 																	<height>20</height>
-																	<width>102</width>
+																	<width>73</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -4248,13 +4256,13 @@
 																	<x>747</x>
 																	<y>1454</y>
 																	<height>20</height>
-																	<width>66</width>
+																	<width>52</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>8</y>
 																	<height>-16</height>
-																	<width>-126</width>
+																	<width>-140</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/ul[1]/li[2]/div[2]/h3[1]/a[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -4879,7 +4887,7 @@
 																	<x>747</x>
 																	<y>1595</y>
 																	<height>20</height>
-																	<width>120</width>
+																	<width>84</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -5382,7 +5390,7 @@
 																	<x>444</x>
 																	<y>1877</y>
 																	<height>20</height>
-																	<width>102</width>
+																	<width>73</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -5682,14 +5690,14 @@
 															<x>334</x>
 															<y>2049</y>
 															<height>28</height>
-															<width>143</width>
+															<width>122</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-462</width>
+															<width>-483</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[2]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5759,13 +5767,13 @@
 																<x>334</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>143</width>
+																<width>122</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-462</width>
+																<width>-483</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[2]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5798,7 +5806,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-114</width>
+																<width>-93</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[2]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5809,7 +5817,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-position</key>
@@ -5843,10 +5851,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>477</x>
+															<x>456</x>
 															<y>2049</y>
 															<height>28</height>
-															<width>432</width>
+															<width>328</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>122</x>
@@ -5883,10 +5891,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>432</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -5916,10 +5924,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>432</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -5949,10 +5957,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>432</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -5982,10 +5990,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>432</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -6015,10 +6023,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>865</x>
+																<x>750</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>294</x>
@@ -6093,10 +6101,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>604</x>
+																<x>557</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>52</width>
+																<width>31</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>101</x>
@@ -6171,10 +6179,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>487</x>
+																<x>466</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>87</width>
+																<width>61</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -6249,10 +6257,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>782</x>
+																<x>688</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>52</width>
+																<width>31</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>233</x>
@@ -6327,10 +6335,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>686</x>
+																<x>619</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>65</width>
+																<width>39</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>163</x>
@@ -6483,14 +6491,14 @@
 															<x>334</x>
 															<y>2092</y>
 															<height>28</height>
-															<width>143</width>
+															<width>122</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-462</width>
+															<width>-483</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[3]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -6566,7 +6574,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-114</width>
+																<width>-93</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[3]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -6577,7 +6585,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-position</key>
@@ -6613,13 +6621,13 @@
 																<x>334</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>143</width>
+																<width>122</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-462</width>
+																<width>-483</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[3]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -6644,10 +6652,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>477</x>
+															<x>456</x>
 															<y>2092</y>
 															<height>28</height>
-															<width>340</width>
+															<width>252</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>122</x>
@@ -6684,10 +6692,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>340</width>
+																<width>252</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -6717,10 +6725,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>340</width>
+																<width>252</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -6750,10 +6758,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>340</width>
+																<width>252</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -6783,10 +6791,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>595</x>
+																<x>543</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>78</width>
+																<width>47</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>87</x>
@@ -6861,10 +6869,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>487</x>
+																<x>466</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>78</width>
+																<width>47</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -6939,10 +6947,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>773</x>
+																<x>674</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>219</x>
@@ -7017,10 +7025,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>704</x>
+																<x>621</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>39</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>165</x>
@@ -7174,10 +7182,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>477</x>
+															<x>456</x>
 															<y>2006</y>
 															<height>28</height>
-															<width>393</width>
+															<width>304</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>122</x>
@@ -7214,10 +7222,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>565</x>
+																<x>534</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>52</width>
+																<width>31</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>78</x>
@@ -7292,10 +7300,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>487</x>
+																<x>466</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>48</width>
+																<width>37</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -7370,10 +7378,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>743</x>
+																<x>665</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>52</width>
+																<width>31</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>209</x>
@@ -7448,10 +7456,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>647</x>
+																<x>595</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>65</width>
+																<width>39</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>140</x>
@@ -7526,10 +7534,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>826</x>
+																<x>727</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>271</x>
@@ -7604,10 +7612,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>393</width>
+																<width>304</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -7637,10 +7645,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>393</width>
+																<width>304</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -7670,10 +7678,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>393</width>
+																<width>304</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -7703,10 +7711,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>477</x>
+																<x>456</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>393</width>
+																<width>304</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -7740,14 +7748,14 @@
 															<x>334</x>
 															<y>2006</y>
 															<height>28</height>
-															<width>143</width>
+															<width>122</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-462</width>
+															<width>-483</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[1]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -7817,13 +7825,13 @@
 																<x>334</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>143</width>
+																<width>122</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-462</width>
+																<width>-483</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[1]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -7856,7 +7864,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-114</width>
+																<width>-93</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[3]/div[2]/div[1]/dl[1]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -7867,7 +7875,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-repeat</key>
@@ -7998,7 +8006,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -8029,7 +8037,7 @@
 														<x>343</x>
 														<y>1372</y>
 														<height>20</height>
-														<width>102</width>
+														<width>73</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>10</x>
@@ -8316,10 +8324,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1130</x>
+															<x>1109</x>
 															<y>2006</y>
 															<height>28</height>
-															<width>379</width>
+															<width>306</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>144</x>
@@ -8356,10 +8364,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1130</x>
+																<x>1109</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>379</width>
+																<width>306</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>144</x>
@@ -8389,10 +8397,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1130</x>
+																<x>1109</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>379</width>
+																<width>306</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>144</x>
@@ -8422,10 +8430,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1130</x>
+																<x>1109</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>379</width>
+																<width>306</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>144</x>
@@ -8455,10 +8463,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1259</x>
+																<x>1217</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>69</width>
+																<width>48</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>108</x>
@@ -8533,10 +8541,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1140</x>
+																<x>1119</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>88</width>
+																<width>67</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -8611,10 +8619,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1465</x>
+																<x>1382</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>273</x>
@@ -8689,10 +8697,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1358</x>
+																<x>1296</x>
 																<y>2012</y>
 																<height>15</height>
-																<width>77</width>
+																<width>56</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>186</x>
@@ -8771,14 +8779,14 @@
 															<x>966</x>
 															<y>2006</y>
 															<height>28</height>
-															<width>165</width>
+															<width>144</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-441</width>
+															<width>-462</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[1]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -8854,7 +8862,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-136</width>
+																<width>-115</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[1]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -8865,7 +8873,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-position</key>
@@ -8901,13 +8909,13 @@
 																<x>966</x>
 																<y>2006</y>
 																<height>28</height>
-																<width>165</width>
+																<width>144</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-441</width>
+																<width>-462</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[1]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -9013,14 +9021,14 @@
 															<x>966</x>
 															<y>2049</y>
 															<height>28</height>
-															<width>143</width>
+															<width>122</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-463</width>
+															<width>-484</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[2]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -9090,13 +9098,13 @@
 																<x>966</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>143</width>
+																<width>122</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-463</width>
+																<width>-484</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[2]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -9129,7 +9137,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-114</width>
+																<width>-93</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[2]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -9140,7 +9148,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-position</key>
@@ -9174,10 +9182,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1109</x>
+															<x>1088</x>
 															<y>2049</y>
 															<height>28</height>
-															<width>416</width>
+															<width>328</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>122</x>
@@ -9214,10 +9222,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>416</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9247,10 +9255,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>416</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9280,10 +9288,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>416</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9313,10 +9321,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2049</y>
 																<height>28</height>
-																<width>416</width>
+																<width>328</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9346,10 +9354,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1119</x>
+																<x>1098</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>60</width>
+																<width>50</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -9424,10 +9432,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1205</x>
+																<x>1174</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>52</width>
+																<width>31</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>87</x>
@@ -9502,10 +9510,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1389</x>
+																<x>1316</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>65</width>
+																<width>39</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>228</x>
@@ -9580,10 +9588,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1284</x>
+																<x>1232</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>74</width>
+																<width>53</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>145</x>
@@ -9658,10 +9666,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1481</x>
+																<x>1382</x>
 																<y>2055</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>294</x>
@@ -9811,10 +9819,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1109</x>
+															<x>1088</x>
 															<y>2092</y>
 															<height>28</height>
-															<width>431</width>
+															<width>348</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>122</x>
@@ -9851,10 +9859,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1119</x>
+																<x>1098</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>97</width>
+																<width>71</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>10</x>
@@ -9929,10 +9937,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>431</width>
+																<width>348</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9962,10 +9970,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>431</width>
+																<width>348</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -9995,10 +10003,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1496</x>
+																<x>1402</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>34</width>
+																<width>23</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>314</x>
@@ -10073,10 +10081,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1246</x>
+																<x>1199</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>106</width>
+																<width>80</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>111</x>
@@ -10151,10 +10159,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1109</x>
+																<x>1088</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>431</width>
+																<width>348</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>122</x>
@@ -10184,10 +10192,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1383</x>
+																<x>1310</x>
 																<y>2098</y>
 																<height>15</height>
-																<width>82</width>
+																<width>62</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>222</x>
@@ -10266,14 +10274,14 @@
 															<x>966</x>
 															<y>2092</y>
 															<height>28</height>
-															<width>143</width>
+															<width>122</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">title</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-463</width>
+															<width>-484</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[3]/dt[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -10349,7 +10357,7 @@
 																<x>32</x>
 																<y>1</y>
 																<height>-1</height>
-																<width>-114</width>
+																<width>-93</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[3]/dt[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -10360,7 +10368,7 @@
 														<attributes>
 															<entry>
 																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
+																<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01bf57aaa64536550c.png&quot;)</value>
 															</entry>
 															<entry>
 																<key>background-position</key>
@@ -10396,13 +10404,13 @@
 																<x>966</x>
 																<y>2092</y>
 																<height>28</height>
-																<width>143</width>
+																<width>122</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>0</y>
 																<height>0</height>
-																<width>-463</width>
+																<width>-484</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/div[2]/dl[3]/dt[1]/textnode[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -10855,13 +10863,13 @@
 																	<x>1006</x>
 																	<y>1741</y>
 																	<height>17</height>
-																	<width>110</width>
+																	<width>85</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>7</y>
 																	<height>-15</height>
-																	<width>-123</width>
+																	<width>-148</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[4]/div[2]/ul[1]/li[1]/div[2]/h3[1]/a[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -11071,7 +11079,7 @@
 																	<x>1310</x>
 																	<y>1741</y>
 																	<height>17</height>
-																	<width>91</width>
+																	<width>65</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -11478,7 +11486,7 @@
 																	<x>1310</x>
 																	<y>1882</y>
 																	<height>17</height>
-																	<width>106</width>
+																	<width>80</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -11885,7 +11893,7 @@
 																	<x>1006</x>
 																	<y>1882</y>
 																	<height>17</height>
-																	<width>91</width>
+																	<width>65</width>
 																</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
@@ -12229,14 +12237,14 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>358</x>
+																<x>966</x>
 																<y>1412</y>
 																<height>281</height>
 																<width>2630</width>
 															</attribute>
 															<attribute key="class" xsi:type="stringAttribute">items</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
-																<x>-608</x>
+																<x>0</x>
 																<y>0</y>
 																<height>0</height>
 																<width>2024</width>
@@ -12249,10 +12257,6 @@
 													<attributes>
 														<attributes>
 															<entry>
-																<key>left</key>
-																<value xsi:type="xsd:string">-608px</value>
-															</entry>
-															<entry>
 																<key>list-style-type</key>
 																<value xsi:type="xsd:string">none</value>
 															</entry>
@@ -12262,7 +12266,7 @@
 															</entry>
 															<entry>
 																<key>right</key>
-																<value xsi:type="xsd:string">-1416px</value>
+																<value xsi:type="xsd:string">-2024px</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -12270,15 +12274,7 @@
 															</entry>
 															<entry>
 																<key>style</key>
-																<value xsi:type="xsd:string">position: absolute; left: -608px; width: 2432px; transition-property: none; transition-duration: 500ms; transition-timing-function: ease;</value>
-															</entry>
-															<entry>
-																<key>transition-duration</key>
-																<value xsi:type="xsd:string">0.5s</value>
-															</entry>
-															<entry>
-																<key>transition-property</key>
-																<value xsi:type="xsd:string">none</value>
+																<value xsi:type="xsd:string">position: absolute; left: 0px; width: 2432px;</value>
 															</entry>
 														</attributes>
 													</attributes>
@@ -12286,7 +12282,7 @@
 														<identifyingAttributes>
 															<attributes>
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																	<x>358</x>
+																	<x>966</x>
 																	<y>1412</y>
 																	<height>281</height>
 																	<width>608</width>
@@ -12323,8 +12319,8 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>358</x>
-																		<y>1544</y>
+																		<x>966</x>
+																		<y>1545</y>
 																		<height>14</height>
 																		<width>681</width>
 																	</attribute>
@@ -12355,7 +12351,7 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>358</x>
+																			<x>966</x>
 																			<y>1412</y>
 																			<height>281</height>
 																			<width>681</width>
@@ -12398,7 +12394,7 @@
 														<identifyingAttributes>
 															<attributes>
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																	<x>2182</x>
+																	<x>2790</x>
 																	<y>1412</y>
 																	<height>281</height>
 																	<width>608</width>
@@ -12435,8 +12431,8 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>2182</x>
-																		<y>1544</y>
+																		<x>2790</x>
+																		<y>1545</y>
 																		<height>14</height>
 																		<width>681</width>
 																	</attribute>
@@ -12467,7 +12463,7 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>2182</x>
+																			<x>2790</x>
 																			<y>1412</y>
 																			<height>281</height>
 																			<width>681</width>
@@ -12510,7 +12506,7 @@
 														<identifyingAttributes>
 															<attributes>
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																	<x>1574</x>
+																	<x>2182</x>
 																	<y>1412</y>
 																	<height>281</height>
 																	<width>608</width>
@@ -12547,8 +12543,8 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1574</x>
-																		<y>1544</y>
+																		<x>2182</x>
+																		<y>1545</y>
 																		<height>14</height>
 																		<width>681</width>
 																	</attribute>
@@ -12579,7 +12575,7 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>1574</x>
+																			<x>2182</x>
 																			<y>1412</y>
 																			<height>281</height>
 																			<width>681</width>
@@ -12622,7 +12618,7 @@
 														<identifyingAttributes>
 															<attributes>
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																	<x>966</x>
+																	<x>1574</x>
 																	<y>1412</y>
 																	<height>281</height>
 																	<width>608</width>
@@ -12659,8 +12655,8 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>966</x>
-																		<y>1544</y>
+																		<x>1574</x>
+																		<y>1545</y>
 																		<height>14</height>
 																		<width>681</width>
 																	</attribute>
@@ -12691,7 +12687,7 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>966</x>
+																			<x>1574</x>
 																			<y>1412</y>
 																			<height>281</height>
 																			<width>681</width>
@@ -12952,6 +12948,7 @@
 																<height>10</height>
 																<width>10</width>
 															</attribute>
+															<attribute key="class" xsi:type="stringAttribute">active</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>5</x>
 																<y>0</y>
@@ -12967,7 +12964,7 @@
 														<attributes>
 															<entry>
 																<key>background-color</key>
-																<value xsi:type="xsd:string">rgb(0, 0, 0)</value>
+																<value xsi:type="xsd:string">rgb(35, 172, 56)</value>
 															</entry>
 															<entry>
 																<key>border-bottom-left-radius</key>
@@ -13010,10 +13007,6 @@
 																<value xsi:type="xsd:string">5px</value>
 															</entry>
 															<entry>
-																<key>opacity</key>
-																<value xsi:type="xsd:string">0.2</value>
-															</entry>
-															<entry>
 																<key>shown</key>
 																<value xsi:type="xsd:string">true</value>
 															</entry>
@@ -13029,7 +13022,7 @@
 																<height>10</height>
 																<width>10</width>
 															</attribute>
-															<attribute key="class" xsi:type="stringAttribute">active</attribute>
+															<attribute key="class" xsi:type="stringAttribute"/>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>25</x>
 																<y>0</y>
@@ -13045,7 +13038,7 @@
 														<attributes>
 															<entry>
 																<key>background-color</key>
-																<value xsi:type="xsd:string">rgb(35, 172, 56)</value>
+																<value xsi:type="xsd:string">rgb(0, 0, 0)</value>
 															</entry>
 															<entry>
 																<key>border-bottom-left-radius</key>
@@ -13086,6 +13079,10 @@
 															<entry>
 																<key>margin-right</key>
 																<value xsi:type="xsd:string">5px</value>
+															</entry>
+															<entry>
+																<key>opacity</key>
+																<value xsi:type="xsd:string">0.2</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -13200,7 +13197,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -13231,7 +13228,7 @@
 														<x>975</x>
 														<y>1372</y>
 														<height>20</height>
-														<width>102</width>
+														<width>73</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>10</x>
@@ -13603,17 +13600,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1389</x>
+																		<x>1393</x>
 																		<y>1090</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[5]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -13887,16 +13884,16 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1382</x>
+																		<x>1393</x>
 																		<y>1066</y>
 																		<height>16</height>
-																		<width>56</width>
+																		<width>34</width>
 																	</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>26</x>
+																		<x>37</x>
 																		<y>4</y>
 																		<height>-8</height>
-																		<width>-52</width>
+																		<width>-74</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[5]/div[1]/p[2]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14218,16 +14215,16 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1275</x>
+																		<x>1280</x>
 																		<y>1066</y>
 																		<height>16</height>
-																		<width>51</width>
+																		<width>40</width>
 																	</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>28</x>
+																		<x>34</x>
 																		<y>4</y>
 																		<height>-8</height>
-																		<width>-57</width>
+																		<width>-68</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[4]/div[1]/p[2]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14289,17 +14286,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1280</x>
+																		<x>1284</x>
 																		<y>1090</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[4]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14597,16 +14594,16 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1491</x>
+																		<x>1502</x>
 																		<y>1066</y>
 																		<height>16</height>
-																		<width>56</width>
+																		<width>34</width>
 																	</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>26</x>
+																		<x>37</x>
 																		<y>4</y>
 																		<height>-8</height>
-																		<width>-52</width>
+																		<width>-74</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[6]/div[1]/p[2]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14664,17 +14661,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1498</x>
+																		<x>1502</x>
 																		<y>1090</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[6]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -15084,10 +15081,10 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1375</x>
+																		<x>1389</x>
 																		<y>962</y>
 																		<height>16</height>
-																		<width>70</width>
+																		<width>42</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
@@ -15272,17 +15269,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1389</x>
+																		<x>1393</x>
 																		<y>986</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[2]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -15696,17 +15693,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1273</x>
+																		<x>1284</x>
 																		<y>962</y>
 																		<height>16</height>
-																		<width>56</width>
+																		<width>34</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">_download_url_for_bd ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>26</x>
+																		<x>37</x>
 																		<y>4</y>
 																		<height>-8</height>
-																		<width>-52</width>
+																		<width>-74</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[1]/div[1]/p[2]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -15768,17 +15765,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1280</x>
+																		<x>1284</x>
 																		<y>986</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download _download_url_for_bd ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[1]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16196,17 +16193,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1493</x>
+																		<x>1498</x>
 																		<y>962</y>
 																		<height>16</height>
-																		<width>51</width>
+																		<width>40</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>28</x>
+																		<x>34</x>
 																		<y>4</y>
 																		<height>-8</height>
-																		<width>-57</width>
+																		<width>-68</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[3]/div[1]/p[2]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16272,17 +16269,17 @@
 															<identifyingAttributes>
 																<attributes>
 																	<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																		<x>1498</x>
+																		<x>1502</x>
 																		<y>986</y>
 																		<height>18</height>
-																		<width>42</width>
+																		<width>32</width>
 																	</attribute>
 																	<attribute key="class" xsi:type="stringAttribute">download ie-down</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
-																		<x>33</x>
+																		<x>38</x>
 																		<y>4</y>
 																		<height>-7</height>
-																		<width>-66</width>
+																		<width>-76</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[2]/ul[1]/li[3]/div[1]/p[3]/a[1]</attribute>
 																	<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16526,7 +16523,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -16561,7 +16558,7 @@
 															<x>1256</x>
 															<y>875</y>
 															<height>20</height>
-															<width>72</width>
+															<width>43</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>10</x>
@@ -16597,17 +16594,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1536</x>
+														<x>1548</x>
 														<y>872</y>
 														<height>28</height>
-														<width>36</width>
+														<width>25</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>291</x>
+														<x>302</x>
 														<y>0</y>
 														<height>1</height>
-														<width>-291</width>
+														<width>-302</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16659,7 +16656,7 @@
 													</entry>
 													<entry>
 														<key>left</key>
-														<value xsi:type="xsd:string">290.812px</value>
+														<value xsi:type="xsd:string">302.016px</value>
 													</entry>
 													<entry>
 														<key>line-height</key>
@@ -17086,10 +17083,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>994</x>
+																<x>1030</x>
 																<y>1091</y>
 																<height>16</height>
-																<width>182</width>
+																<width>109</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>90</x>
@@ -17423,10 +17420,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>654</x>
+																<x>699</x>
 																<y>1091</y>
 																<height>16</height>
-																<width>254</width>
+																<width>165</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>63</x>
@@ -17616,10 +17613,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>376</x>
+																<x>412</x>
 																<y>1091</y>
 																<height>16</height>
-																<width>205</width>
+																<width>133</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>79</x>
@@ -17903,7 +17900,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -17938,7 +17935,7 @@
 															<x>343</x>
 															<y>875</y>
 															<height>20</height>
-															<width>72</width>
+															<width>43</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>10</x>
@@ -17974,17 +17971,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1194</x>
+														<x>1206</x>
 														<y>872</y>
 														<height>28</height>
-														<width>36</width>
+														<width>25</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>862</x>
+														<x>873</x>
 														<y>0</y>
 														<height>1</height>
-														<width>-862</width>
+														<width>-873</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -18036,7 +18033,7 @@
 													</entry>
 													<entry>
 														<key>left</key>
-														<value xsi:type="xsd:string">861.812px</value>
+														<value xsi:type="xsd:string">873.016px</value>
 													</entry>
 													<entry>
 														<key>line-height</key>
@@ -18322,7 +18319,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -18435,7 +18432,7 @@
 																<x>987</x>
 																<y>2665</y>
 																<height>15</height>
-																<width>187</width>
+																<width>130</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -18488,7 +18485,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -18601,7 +18598,7 @@
 																<x>987</x>
 																<y>2635</y>
 																<height>15</height>
-																<width>144</width>
+																<width>107</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -18654,7 +18651,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -18701,7 +18698,7 @@
 																<x>987</x>
 																<y>2725</y>
 																<height>15</height>
-																<width>198</width>
+																<width>130</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -18820,7 +18817,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -18933,7 +18930,7 @@
 																<x>987</x>
 																<y>2695</y>
 																<height>15</height>
-																<width>140</width>
+																<width>109</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -18986,7 +18983,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -19033,7 +19030,7 @@
 																<x>987</x>
 																<y>2605</y>
 																<height>15</height>
-																<width>178</width>
+																<width>115</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -19132,17 +19129,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1182</x>
+														<x>1202</x>
 														<y>2756</y>
 														<height>18</height>
-														<width>55</width>
+														<width>36</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>224</x>
+														<x>243</x>
 														<y>339</y>
 														<height>-360</height>
-														<width>-245</width>
+														<width>-264</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[6]/div[3]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -19385,7 +19382,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-repeat</key>
@@ -19485,10 +19482,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>997</x>
+																<x>1041</x>
 																<y>2564</y>
 																<height>16</height>
-																<width>224</width>
+																<width>134</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>82</x>
@@ -19625,7 +19622,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -19800,7 +19797,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -20001,7 +19998,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -20048,7 +20045,7 @@
 																<x>1300</x>
 																<y>2605</y>
 																<height>15</height>
-																<width>377</width>
+																<width>252</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -20171,7 +20168,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -20284,7 +20281,7 @@
 																<x>1300</x>
 																<y>2695</y>
 																<height>15</height>
-																<width>563</width>
+																<width>386</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -20341,7 +20338,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -20388,7 +20385,7 @@
 																<x>1300</x>
 																<y>2635</y>
 																<height>15</height>
-																<width>516</width>
+																<width>313</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -20511,7 +20508,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -20558,7 +20555,7 @@
 																<x>1300</x>
 																<y>2725</y>
 																<height>15</height>
-																<width>371</width>
+																<width>246</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -20681,7 +20678,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -20728,7 +20725,7 @@
 																<x>1300</x>
 																<y>2665</y>
 																<height>15</height>
-																<width>402</width>
+																<width>272</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -20831,17 +20828,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1495</x>
+														<x>1515</x>
 														<y>2756</y>
 														<height>18</height>
-														<width>55</width>
+														<width>36</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>224</x>
+														<x>243</x>
 														<y>339</y>
 														<height>-360</height>
-														<width>-245</width>
+														<width>-264</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[6]/div[4]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -21088,7 +21085,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-repeat</key>
@@ -21188,10 +21185,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>1310</x>
+																<x>1354</x>
 																<y>2564</y>
 																<height>16</height>
-																<width>224</width>
+																<width>134</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>82</x>
@@ -21352,17 +21349,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>556</x>
+														<x>576</x>
 														<y>2756</y>
 														<height>18</height>
-														<width>55</width>
+														<width>36</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>224</x>
+														<x>243</x>
 														<y>339</y>
 														<height>-360</height>
-														<width>-245</width>
+														<width>-264</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[6]/div[1]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -21505,7 +21502,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -21618,7 +21615,7 @@
 																<x>361</x>
 																<y>2665</y>
 																<height>15</height>
-																<width>352</width>
+																<width>222</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -21675,7 +21672,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -21722,7 +21719,7 @@
 																<x>361</x>
 																<y>2695</y>
 																<height>15</height>
-																<width>195</width>
+																<width>117</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -21845,7 +21842,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -21958,7 +21955,7 @@
 																<x>361</x>
 																<y>2605</y>
 																<height>15</height>
-																<width>405</width>
+																<width>254</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -22015,7 +22012,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -22062,7 +22059,7 @@
 																<x>361</x>
 																<y>2635</y>
 																<height>15</height>
-																<width>236</width>
+																<width>153</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -22185,7 +22182,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -22298,7 +22295,7 @@
 																<x>361</x>
 																<y>2725</y>
 																<height>15</height>
-																<width>347</width>
+																<width>217</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -22405,7 +22402,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-repeat</key>
@@ -22505,10 +22502,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>339</x>
+																<x>386</x>
 																<y>2564</y>
 																<height>16</height>
-																<width>322</width>
+																<width>193</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>52</x>
@@ -22765,7 +22762,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -22992,7 +22989,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p3.ssl.qhimg.com/t018a7e806aca83ddcb.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-repeat</key>
@@ -23092,10 +23089,10 @@
 													<identifyingAttributes>
 														<attributes>
 															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>697</x>
+																<x>731</x>
 																<y>2564</y>
 																<height>16</height>
-																<width>196</width>
+																<width>128</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>85</x>
@@ -23330,7 +23327,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -23443,7 +23440,7 @@
 																<x>674</x>
 																<y>2695</y>
 																<height>15</height>
-																<width>308</width>
+																<width>230</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -23496,7 +23493,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -23543,7 +23540,7 @@
 																<x>674</x>
 																<y>2605</y>
 																<height>15</height>
-																<width>238</width>
+																<width>175</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -23662,7 +23659,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -23709,7 +23706,7 @@
 																<x>674</x>
 																<y>2635</y>
 																<height>15</height>
-																<width>246</width>
+																<width>158</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -23828,7 +23825,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -23875,7 +23872,7 @@
 																<x>674</x>
 																<y>2665</y>
 																<height>15</height>
-																<width>78</width>
+																<width>47</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -23994,7 +23991,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01b252866e85dd53a9.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -24041,7 +24038,7 @@
 																<x>674</x>
 																<y>2725</y>
 																<height>15</height>
-																<width>161</width>
+																<width>119</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>7</x>
@@ -24140,17 +24137,17 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>869</x>
+														<x>889</x>
 														<y>2756</y>
 														<height>18</height>
-														<width>55</width>
+														<width>36</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">more</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>224</x>
+														<x>243</x>
 														<y>339</y>
 														<height>-360</height>
-														<width>-245</width>
+														<width>-264</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[6]/div[2]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -24311,7 +24308,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -24536,17 +24533,17 @@
 																<x>350</x>
 																<y>2320</y>
 																<height>15</height>
-																<width>272</width>
+																<width>164</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-399</width>
+																<width>-440</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[5]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">TransUnion数据泄露可能影响37000名加拿大人</attribute>
+															<attribute key="text" xsi:type="textAttribute">谷歌Pixel 4面部解锁功能存在严重安全漏洞</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24554,7 +24551,7 @@
 														<attributes>
 															<entry>
 																<key>href</key>
-																<value xsi:type="xsd:string">https://www.360.cn/n/11182.html</value>
+																<value xsi:type="xsd:string">https://www.360.cn/n/11207.html</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -24612,17 +24609,17 @@
 																<x>350</x>
 																<y>2245</y>
 																<height>15</height>
-																<width>299</width>
+																<width>151</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-424</width>
+																<width>-453</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">国际刑警组织报告：勒索软件仍是网络安全最大威胁</attribute>
+															<attribute key="text" xsi:type="textAttribute">数百万的亚马逊设备受到WiFi漏洞的影响</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24630,7 +24627,7 @@
 														<attributes>
 															<entry>
 																<key>href</key>
-																<value xsi:type="xsd:string">https://www.360.cn/n/11179.html</value>
+																<value xsi:type="xsd:string">https://www.360.cn/n/11204.html</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -24688,17 +24685,17 @@
 																<x>350</x>
 																<y>2220</y>
 																<height>15</height>
-																<width>255</width>
+																<width>128</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-437</width>
+																<width>-475</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">ESET报告发现针对东欧俄语用户的间谍软件</attribute>
+															<attribute key="text" xsi:type="textAttribute">一名黑客被指控窃取30 TB的数据</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24706,7 +24703,7 @@
 														<attributes>
 															<entry>
 																<key>href</key>
-																<value xsi:type="xsd:string">https://www.360.cn/n/11178.html</value>
+																<value xsi:type="xsd:string">https://www.360.cn/n/11203.html</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -24764,17 +24761,17 @@
 																<x>350</x>
 																<y>2295</y>
 																<height>15</height>
-																<width>287</width>
+																<width>160</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-420</width>
+																<width>-444</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[4]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">人类中枢神经系统（CNS）为网络安全提供新思路</attribute>
+															<attribute key="text" xsi:type="textAttribute">5亿多UC浏览器安卓用户遭受MiTM攻击</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24782,7 +24779,7 @@
 														<attributes>
 															<entry>
 																<key>href</key>
-																<value xsi:type="xsd:string">https://www.360.cn/n/11181.html</value>
+																<value xsi:type="xsd:string">https://www.360.cn/n/11206.html</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -24840,7 +24837,7 @@
 																<x>350</x>
 																<y>2270</y>
 																<height>15</height>
-																<width>234</width>
+																<width>177</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -24850,7 +24847,7 @@
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">Mac终端利器iTerm2被曝严重的RCE漏洞</attribute>
+															<attribute key="text" xsi:type="textAttribute">欧洲机场超过半数系统感染了Monero挖矿软件</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24858,7 +24855,7 @@
 														<attributes>
 															<entry>
 																<key>href</key>
-																<value xsi:type="xsd:string">https://www.360.cn/n/11180.html</value>
+																<value xsi:type="xsd:string">https://www.360.cn/n/11205.html</value>
 															</entry>
 															<entry>
 																<key>shown</key>
@@ -24972,7 +24969,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -25003,13 +25000,13 @@
 															<x>343</x>
 															<y>2185</y>
 															<height>20</height>
-															<width>66</width>
+															<width>52</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>10</x>
 															<y>3</y>
 															<height>-7</height>
-															<width>-571</width>
+															<width>-586</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[1]/h2[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -25192,7 +25189,7 @@
 																<x>987</x>
 																<y>2220</y>
 																<height>15</height>
-																<width>247</width>
+																<width>148</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -25268,7 +25265,7 @@
 																<x>987</x>
 																<y>2270</y>
 																<height>15</height>
-																<width>438</width>
+																<width>266</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -25344,7 +25341,7 @@
 																<x>987</x>
 																<y>2295</y>
 																<height>15</height>
-																<width>286</width>
+																<width>203</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -25420,7 +25417,7 @@
 																<x>987</x>
 																<y>2245</y>
 																<height>15</height>
-																<width>182</width>
+																<width>109</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -25496,7 +25493,7 @@
 																<x>987</x>
 																<y>2320</y>
 																<height>15</height>
-																<width>221</width>
+																<width>133</width>
 															</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
@@ -25628,7 +25625,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -25659,7 +25656,7 @@
 															<x>980</x>
 															<y>2185</y>
 															<height>20</height>
-															<width>90</width>
+															<width>54</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>10</x>
@@ -26438,14 +26435,14 @@
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
 																	<x>478</x>
 																	<y>1253</y>
-																	<height>42</height>
+																	<height>21</height>
 																	<width>202</width>
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">content</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>29</y>
-																	<height>-18</height>
+																	<height>-39</height>
 																	<width>0</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/ul[1]/li[1]/a[1]/div[2]/div[1]</attribute>
@@ -26638,14 +26635,14 @@
 																<attribute key="absolute-outline" xsi:type="outlineAttribute">
 																	<x>1328</x>
 																	<y>1253</y>
-																	<height>42</height>
+																	<height>21</height>
 																	<width>202</width>
 																</attribute>
 																<attribute key="class" xsi:type="stringAttribute">content</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>29</y>
-																	<height>-18</height>
+																	<height>-39</height>
 																	<width>0</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/ul[1]/li[3]/a[1]/div[2]/div[1]</attribute>
@@ -26964,7 +26961,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p4.ssl.qhimg.com/t017c7686ec51e9a8b9.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -26995,7 +26992,7 @@
 														<x>343</x>
 														<y>1155</y>
 														<height>20</height>
-														<width>108</width>
+														<width>65</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>10</x>
@@ -27402,6 +27399,10 @@
 													<attributes>
 														<attributes>
 															<entry>
+																<key>opacity</key>
+																<value xsi:type="xsd:string">0</value>
+															</entry>
+															<entry>
 																<key>position</key>
 																<value xsi:type="xsd:string">absolute</value>
 															</entry>
@@ -27411,7 +27412,7 @@
 															</entry>
 															<entry>
 																<key>style</key>
-																<value xsi:type="xsd:string">position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 5;</value>
+																<value xsi:type="xsd:string">position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 1;</value>
 															</entry>
 															<entry>
 																<key>text-align</key>
@@ -27419,7 +27420,7 @@
 															</entry>
 															<entry>
 																<key>z-index</key>
-																<value xsi:type="xsd:string">5</value>
+																<value xsi:type="xsd:string">1</value>
 															</entry>
 														</attributes>
 													</attributes>
@@ -27530,7 +27531,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01a631880f1f865810.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01a631880f1f865810.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -27769,7 +27770,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -27816,7 +27817,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -27863,7 +27864,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28172,7 +28173,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -28365,7 +28366,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28412,7 +28413,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28770,7 +28771,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28817,7 +28818,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28864,7 +28865,7 @@
 																		<attributes>
 																			<entry>
 																				<key>background-image</key>
-																				<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
+																				<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01661001187504bbc5.png&quot;)</value>
 																			</entry>
 																			<entry>
 																				<key>background-position</key>
@@ -28961,7 +28962,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -29021,10 +29022,6 @@
 													<attributes>
 														<attributes>
 															<entry>
-																<key>opacity</key>
-																<value xsi:type="xsd:string">0</value>
-															</entry>
-															<entry>
 																<key>position</key>
 																<value xsi:type="xsd:string">absolute</value>
 															</entry>
@@ -29034,23 +29031,15 @@
 															</entry>
 															<entry>
 																<key>style</key>
-																<value xsi:type="xsd:string">position: absolute; top: 0px; left: 0px; opacity: 0; z-index: 1; transition-property: none; transition-duration: 400ms; transition-timing-function: ease;</value>
+																<value xsi:type="xsd:string">position: absolute; top: 0px; left: 0px; opacity: 1; z-index: 5;</value>
 															</entry>
 															<entry>
 																<key>text-align</key>
 																<value xsi:type="xsd:string">center</value>
 															</entry>
 															<entry>
-																<key>transition-duration</key>
-																<value xsi:type="xsd:string">0.4s</value>
-															</entry>
-															<entry>
-																<key>transition-property</key>
-																<value xsi:type="xsd:string">none</value>
-															</entry>
-															<entry>
 																<key>z-index</key>
-																<value xsi:type="xsd:string">1</value>
+																<value xsi:type="xsd:string">5</value>
 															</entry>
 														</attributes>
 													</attributes>
@@ -29183,13 +29172,13 @@
 																			<x>935</x>
 																			<y>586</y>
 																			<height>14</height>
-																			<width>168</width>
+																			<width>110</width>
 																		</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
 																			<x>0</x>
 																			<y>2</y>
 																			<height>-4</height>
-																			<width>-482</width>
+																			<width>-540</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[2]/a[1]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -29221,7 +29210,7 @@
 																		<attributes>
 																			<attribute key="absolute-outline" xsi:type="outlineAttribute">
 																				<x>935</x>
-																				<y>584</y>
+																				<y>585</y>
 																				<height>16</height>
 																				<width>16</width>
 																			</attribute>
@@ -29229,7 +29218,7 @@
 																				<x>0</x>
 																				<y>-1</y>
 																				<height>2</height>
-																				<width>-152</width>
+																				<width>-94</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[2]/a[1]/img[1]</attribute>
 																			<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -29272,13 +29261,13 @@
 																				<x>935</x>
 																				<y>586</y>
 																				<height>14</height>
-																				<width>168</width>
+																				<width>110</width>
 																			</attribute>
 																			<attribute key="outline" xsi:type="outlineAttribute">
 																				<x>0</x>
 																				<y>2</y>
 																				<height>-4</height>
-																				<width>-482</width>
+																				<width>-540</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[2]/a[1]/textnode[1]</attribute>
 																			<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -29409,16 +29398,16 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>1222</x>
+																			<x>1178</x>
 																			<y>619</y>
 																			<height>16</height>
-																			<width>126</width>
+																			<width>109</width>
 																		</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
-																			<x>330</x>
+																			<x>285</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-524</width>
+																			<width>-541</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[3]/a[3]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -29455,17 +29444,17 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>1058</x>
+																			<x>1030</x>
 																			<y>619</y>
 																			<height>16</height>
-																			<width>153</width>
+																			<width>136</width>
 																		</attribute>
 																		<attribute key="class" xsi:type="stringAttribute">ie-down</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
-																			<x>165</x>
+																			<x>137</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-497</width>
+																			<width>-514</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[3]/a[2]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -29505,14 +29494,14 @@
 																			<x>892</x>
 																			<y>619</y>
 																			<height>16</height>
-																			<width>154</width>
+																			<width>126</width>
 																		</attribute>
 																		<attribute key="class" xsi:type="stringAttribute">ie-down</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
 																			<x>0</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-496</width>
+																			<width>-524</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/p[3]/a[1]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -29691,7 +29680,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t015457f8dc133ef6a2.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t015457f8dc133ef6a2.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -29749,7 +29738,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01ed462349147517b3.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01ed462349147517b3.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -29807,7 +29796,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t013ca98e3be0f894a2.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t013ca98e3be0f894a2.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -30353,7 +30342,7 @@
 															<height>10</height>
 															<width>10</width>
 														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">active</attribute>
+														<attribute key="class" xsi:type="stringAttribute"/>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>40</x>
 															<y>0</y>
@@ -30412,6 +30401,10 @@
 															<value xsi:type="xsd:string">10px</value>
 														</entry>
 														<entry>
+															<key>opacity</key>
+															<value xsi:type="xsd:string">0.3</value>
+														</entry>
+														<entry>
 															<key>shown</key>
 															<value xsi:type="xsd:string">true</value>
 														</entry>
@@ -30427,6 +30420,7 @@
 															<height>10</height>
 															<width>10</width>
 														</attribute>
+														<attribute key="class" xsi:type="stringAttribute">active</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>10</x>
 															<y>0</y>
@@ -30483,10 +30477,6 @@
 														<entry>
 															<key>margin-right</key>
 															<value xsi:type="xsd:string">10px</value>
-														</entry>
-														<entry>
-															<key>opacity</key>
-															<value xsi:type="xsd:string">0.3</value>
 														</entry>
 														<entry>
 															<key>shown</key>
@@ -30809,14 +30799,14 @@
 																			<x>3008</x>
 																			<y>630</y>
 																			<height>16</height>
-																			<width>120</width>
+																			<width>92</width>
 																		</attribute>
 																		<attribute key="class" xsi:type="stringAttribute">antivirus-download-btn</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
 																			<x>0</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-530</width>
+																			<width>-558</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/div[1]/p[2]/a[1]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -30857,17 +30847,17 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>3139</x>
+																			<x>3111</x>
 																			<y>630</y>
 																			<height>16</height>
-																			<width>92</width>
+																			<width>75</width>
 																		</attribute>
 																		<attribute key="class" xsi:type="stringAttribute">antivirus-download-btn</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
-																			<x>131</x>
+																			<x>103</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-558</width>
+																			<width>-575</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/div[1]/p[2]/a[2]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -30908,17 +30898,17 @@
 																<identifyingAttributes>
 																	<attributes>
 																		<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																			<x>3243</x>
+																			<x>3198</x>
 																			<y>630</y>
 																			<height>16</height>
-																			<width>120</width>
+																			<width>92</width>
 																		</attribute>
 																		<attribute key="class" xsi:type="stringAttribute">antivirus-download-btn</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
-																			<x>235</x>
+																			<x>190</x>
 																			<y>2</y>
 																			<height>-5</height>
-																			<width>-530</width>
+																			<width>-558</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/div[1]/ul[1]/li[2]/div[1]/p[2]/a[3]</attribute>
 																		<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -31096,7 +31086,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p5.ssl.qhimg.com/t01becf2a605ad1c772.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-repeat</key>
@@ -31375,7 +31365,7 @@
 																	<attributes>
 																		<entry>
 																			<key>background-image</key>
-																			<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01462a68d0b2bf20e1.png&quot;)</value>
+																			<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01462a68d0b2bf20e1.png&quot;)</value>
 																		</entry>
 																		<entry>
 																			<key>background-position</key>
@@ -33002,7 +32992,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t016e32c9cef03359d2.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t016e32c9cef03359d2.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -33063,7 +33053,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -33240,7 +33230,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t016e32c9cef03359d2.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t016e32c9cef03359d2.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -33419,7 +33409,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t0169aa0d558767e4c6.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p1.ssl.qhimg.com/t0169aa0d558767e4c6.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -33465,7 +33455,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>bottom</key>
@@ -33573,7 +33563,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t019054029ca05de86a.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -33997,7 +33987,7 @@
 															<x>907</x>
 															<y>3041</y>
 															<height>16</height>
-															<width>121</width>
+															<width>82</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -34155,7 +34145,7 @@
 															<x>907</x>
 															<y>3069</y>
 															<height>16</height>
-															<width>135</width>
+															<width>91</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -34266,13 +34256,13 @@
 															<x>907</x>
 															<y>2929</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[4]/dd[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34377,7 +34367,7 @@
 															<x>907</x>
 															<y>3013</y>
 															<height>16</height>
-															<width>88</width>
+															<width>54</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -34488,13 +34478,13 @@
 															<x>907</x>
 															<y>2957</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[4]/dd[2]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34599,13 +34589,13 @@
 															<x>907</x>
 															<y>2985</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[4]/dd[3]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34764,7 +34754,7 @@
 															<x>334</x>
 															<y>3041</y>
 															<height>16</height>
-															<width>70</width>
+															<width>42</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -34875,13 +34865,13 @@
 															<x>334</x>
 															<y>2929</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[1]/dd[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -34986,13 +34976,13 @@
 															<x>334</x>
 															<y>3013</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[1]/dd[4]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -35144,13 +35134,13 @@
 															<x>334</x>
 															<y>2957</y>
 															<height>16</height>
-															<width>42</width>
+															<width>25</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-128</width>
+															<width>-145</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[1]/dd[2]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -35255,13 +35245,13 @@
 															<x>334</x>
 															<y>2985</y>
 															<height>16</height>
-															<width>42</width>
+															<width>25</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-128</width>
+															<width>-145</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[1]/dd[3]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -35420,13 +35410,13 @@
 															<x>1098</x>
 															<y>3013</y>
 															<height>16</height>
-															<width>65</width>
+															<width>49</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-105</width>
+															<width>-121</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[5]/dd[4]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -35531,7 +35521,7 @@
 															<x>1098</x>
 															<y>2985</y>
 															<height>16</height>
-															<width>107</width>
+															<width>74</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -35642,7 +35632,7 @@
 															<x>1098</x>
 															<y>2957</y>
 															<height>16</height>
-															<width>107</width>
+															<width>74</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
@@ -35753,13 +35743,13 @@
 															<x>1098</x>
 															<y>2929</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[5]/dd[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36012,13 +36002,13 @@
 															<x>716</x>
 															<y>2957</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[3]/dd[2]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36123,13 +36113,13 @@
 															<x>716</x>
 															<y>2929</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[3]/dd[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36234,13 +36224,13 @@
 															<x>716</x>
 															<y>2985</y>
 															<height>16</height>
-															<width>51</width>
+															<width>40</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-119</width>
+															<width>-130</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[3]/dd[3]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36415,13 +36405,13 @@
 															<x>495</x>
 															<y>2929</y>
 															<height>16</height>
-															<width>56</width>
+															<width>34</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
 															<y>6</y>
 															<height>-12</height>
-															<width>-114</width>
+															<width>-136</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/dl[2]/dd[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36975,17 +36965,17 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1487</x>
+													<x>1509</x>
 													<y>2895</y>
 													<height>18</height>
-													<width>86</width>
+													<width>64</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">weibo need_to_fixed</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>184</x>
+													<x>206</x>
 													<y>10</y>
 													<height>-180</height>
-													<width>-184</width>
+													<width>-206</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/a[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -36997,7 +36987,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p.ssl.qhmsg.com/t018e1bdf2122a4b64b.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p.ssl.qhmsg.com/t018e1bdf2122a4b64b.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -37049,7 +37039,7 @@
 												</entry>
 												<entry>
 													<key>left</key>
-													<value xsi:type="xsd:string">184px</value>
+													<value xsi:type="xsd:string">206.391px</value>
 												</entry>
 												<entry>
 													<key>outline-color</key>
@@ -37238,7 +37228,7 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>886</x>
+												<x>912</x>
 												<y>3186</y>
 												<height>14</height>
 												<width>27</width>
@@ -37364,10 +37354,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>859</x>
+												<x>873</x>
 												<y>3234</y>
 												<height>14</height>
-												<width>188</width>
+												<width>160</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>873</x>
@@ -37400,7 +37390,7 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>859</x>
+													<x>873</x>
 													<y>3232</y>
 													<height>20</height>
 													<width>20</width>
@@ -37437,10 +37427,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>859</x>
+													<x>873</x>
 													<y>3234</y>
 													<height>14</height>
-													<width>188</width>
+													<width>160</width>
 												</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
 													<x>873</x>
@@ -37500,10 +37490,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>1032</x>
+												<x>1044</x>
 												<y>3210</y>
 												<height>14</height>
-												<width>131</width>
+												<width>88</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1044</x>
@@ -37538,10 +37528,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>890</x>
+												<x>921</x>
 												<y>3210</y>
 												<height>14</height>
-												<width>142</width>
+												<width>123</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>921</x>
@@ -37576,10 +37566,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>1166</x>
+												<x>1135</x>
 												<y>3210</y>
 												<height>14</height>
-												<width>72</width>
+												<width>43</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1135</x>
@@ -37614,10 +37604,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>667</x>
+												<x>727</x>
 												<y>3210</y>
 												<height>14</height>
-												<width>223</width>
+												<width>194</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>727</x>
@@ -37841,10 +37831,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>703</x>
+													<x>626</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -37886,10 +37876,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>707</x>
+														<x>630</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -37907,7 +37897,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -37973,10 +37963,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>452</x>
+													<x>426</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38018,10 +38008,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>456</x>
+														<x>430</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -38039,7 +38029,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -38108,7 +38098,7 @@
 													<x>333</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38153,7 +38143,7 @@
 														<x>337</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">new-icon</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
@@ -38172,7 +38162,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -38242,10 +38232,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>571</x>
+													<x>519</x>
 													<y>117</y>
 													<height>61</height>
-													<width>133</width>
+													<width>106</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop live-video</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38287,10 +38277,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>575</x>
+														<x>523</x>
 														<y>139</y>
 														<height>17</height>
-														<width>93</width>
+														<width>66</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -38308,7 +38298,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -38376,10 +38366,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>575</x>
+															<x>523</x>
 															<y>139</y>
 															<height>17</height>
-															<width>93</width>
+															<width>66</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>4</x>
@@ -38409,10 +38399,10 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>575</x>
+															<x>523</x>
 															<y>139</y>
 															<height>17</height>
-															<width>93</width>
+															<width>66</width>
 														</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>4</x>
@@ -38442,17 +38432,17 @@
 												<identifyingAttributes>
 													<attributes>
 														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>613</x>
+															<x>549</x>
 															<y>139</y>
 															<height>17</height>
-															<width>5</width>
+															<width>4</width>
 														</attribute>
 														<attribute key="class" xsi:type="stringAttribute">item-dot</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>38</x>
+															<x>26</x>
 															<y>0</y>
 															<height>0</height>
-															<width>-87</width>
+															<width>-62</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/i[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -38483,10 +38473,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1325</x>
+													<x>1119</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop normal-last</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38528,10 +38518,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1329</x>
+														<x>1123</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -38549,7 +38539,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -38615,10 +38605,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1444</x>
+													<x>1213</x>
 													<y>117</y>
 													<height>61</height>
-													<width>87</width>
+													<width>74</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop small</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38660,10 +38650,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1448</x>
+														<x>1217</x>
 														<y>139</y>
 														<height>17</height>
-														<width>47</width>
+														<width>34</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -38681,7 +38671,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -38747,10 +38737,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1531</x>
+													<x>1287</x>
 													<y>117</y>
 													<height>61</height>
-													<width>72</width>
+													<width>59</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item bbs</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38792,10 +38782,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1535</x>
+														<x>1291</x>
 														<y>139</y>
 														<height>17</height>
-														<width>32</width>
+														<width>19</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -38867,10 +38857,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>941</x>
+													<x>812</x>
 													<y>117</y>
 													<height>61</height>
-													<width>146</width>
+													<width>120</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop mall</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -38912,10 +38902,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>945</x>
+														<x>816</x>
 														<y>139</y>
 														<height>17</height>
-														<width>106</width>
+														<width>80</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">new-icon</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
@@ -38934,7 +38924,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -39004,10 +38994,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>822</x>
+													<x>719</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -39049,10 +39039,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>826</x>
+														<x>723</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -39070,7 +39060,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -39136,10 +39126,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1206</x>
+													<x>1026</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -39181,10 +39171,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1210</x>
+														<x>1030</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">new-icon</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
@@ -39265,10 +39255,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1087</x>
+													<x>933</x>
 													<y>117</y>
 													<height>61</height>
-													<width>119</width>
+													<width>93</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">item pop indemnify</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -39310,10 +39300,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1091</x>
+														<x>937</x>
 														<y>139</y>
 														<height>17</height>
-														<width>79</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>4</x>
@@ -39331,7 +39321,7 @@
 												<attributes>
 													<entry>
 														<key>background-image</key>
-														<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
+														<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p2.ssl.qhimg.com/t01818bd8fcb21bf8c9.png&quot;)</value>
 													</entry>
 													<entry>
 														<key>background-position</key>
@@ -39636,10 +39626,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>1087</x>
+													<x>999</x>
 													<y>78</y>
 													<height>15</height>
-													<width>61</width>
+													<width>45</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">word</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -39669,10 +39659,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>1087</x>
+														<x>999</x>
 														<y>78</y>
 														<height>15</height>
-														<width>61</width>
+														<width>45</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>0</x>
@@ -39743,14 +39733,14 @@
 													<x>750</x>
 													<y>78</y>
 													<height>15</height>
-													<width>74</width>
+													<width>53</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">word</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
 													<x>0</x>
 													<y>2</y>
 													<height>-5</height>
-													<width>-401</width>
+													<width>-422</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/span[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -39776,7 +39766,7 @@
 														<x>750</x>
 														<y>78</y>
 														<height>15</height>
-														<width>74</width>
+														<width>53</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>0</x>
@@ -39844,17 +39834,17 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>835</x>
+													<x>814</x>
 													<y>78</y>
 													<height>15</height>
-													<width>52</width>
+													<width>31</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">word</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>85</x>
+													<x>65</x>
 													<y>2</y>
 													<height>-5</height>
-													<width>-423</width>
+													<width>-444</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/span[2]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -39877,10 +39867,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>835</x>
+														<x>814</x>
 														<y>78</y>
 														<height>15</height>
-														<width>52</width>
+														<width>31</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>0</x>
@@ -39948,10 +39938,10 @@
 										<identifyingAttributes>
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>898</x>
+													<x>857</x>
 													<y>78</y>
 													<height>15</height>
-													<width>177</width>
+													<width>130</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">word</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
@@ -39981,10 +39971,10 @@
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>898</x>
+														<x>857</x>
 														<y>78</y>
 														<height>15</height>
-														<width>177</width>
+														<width>130</width>
 													</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>0</x>
@@ -40160,7 +40150,7 @@
 											<attributes>
 												<entry>
 													<key>background-image</key>
-													<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t015ff40411af4adfbc.png&quot;)</value>
+													<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t015ff40411af4adfbc.png&quot;)</value>
 												</entry>
 												<entry>
 													<key>background-position</key>
@@ -40349,7 +40339,7 @@
 													<attributes>
 														<entry>
 															<key>background-image</key>
-															<value xsi:type="xsd:string">url(&quot;file:///Users/kruse/dev/workspaces/private/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t01e89e8e1518a57398.png&quot;)</value>
+															<value xsi:type="xsd:string">url(&quot;file:///home/travis/build/beatngu13/visual-testing/src/test/resources/pages/p0.ssl.qhimg.com/t01e89e8e1518a57398.png&quot;)</value>
 														</entry>
 														<entry>
 															<key>background-position</key>
@@ -40581,17 +40571,17 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>1229</x>
+												<x>1239</x>
 												<y>76</y>
 												<height>20</height>
-												<width>45</width>
+												<width>34</width>
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">search-more</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>479</x>
+												<x>490</x>
 												<y>76</y>
 												<height>-76</height>
-												<width>-479</width>
+												<width>-490</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/a[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -40871,17 +40861,17 @@
 								<identifyingAttributes>
 									<attributes>
 										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>1444</x>
+											<x>1460</x>
 											<y>0</y>
 											<height>75</height>
-											<width>112</width>
+											<width>97</width>
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">left-content</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>1112</x>
+											<x>1127</x>
 											<y>0</y>
 											<height>-21</height>
-											<width>-1128</width>
+											<width>-1143</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[4]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -40922,10 +40912,10 @@
 												<width>38</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>55</x>
+												<x>39</x>
 												<y>45</y>
 												<height>-60</height>
-												<width>-75</width>
+												<width>-59</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/a[2]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -40994,10 +40984,10 @@
 									<identifyingAttributes>
 										<attributes>
 											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>1444</x>
+												<x>1460</x>
 												<y>45</y>
 												<height>15</height>
-												<width>39</width>
+												<width>23</width>
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">chinese-version</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
@@ -41328,13 +41318,13 @@
 								<identifyingAttributes>
 									<attributes>
 										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>1896</x>
+											<x>1891</x>
 											<y>885</y>
 											<height>14</height>
 											<width>0</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>34</x>
+											<x>29</x>
 											<y>5</y>
 											<height>-29</height>
 											<width>-43</width>
@@ -41503,13 +41493,13 @@
 								<identifyingAttributes>
 									<attributes>
 										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>1896</x>
+											<x>1891</x>
 											<y>932</y>
 											<height>14</height>
 											<width>0</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>34</x>
+											<x>29</x>
 											<y>5</y>
 											<height>-29</height>
 											<width>-43</width>
