@@ -33,6 +33,7 @@ matcher: type=map
 matcher: type=meta
 
 matcher: type=body, attribute: class
+matcher: type=br, attribute: outline
 
 # Ignore pixel diffs up to 25 pixels.
 pixel-diff=25
