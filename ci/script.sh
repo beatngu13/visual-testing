@@ -12,4 +12,4 @@ export NSS_USE_SHARED_DB=ENABLED
 
 # Maven
 
-mvn verify
+mvn verify --update-snapshots 
