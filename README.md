@@ -24,7 +24,6 @@ The benchmark suite consists of offline versions offline versions from 25 of the
 1. quora.com
 1. soso.com
 1. stackoverflow.com
-1. taobao.com
 1. tmall.com
 1. twitter.com
 1. vk.com
