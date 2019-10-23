@@ -18,7 +18,6 @@ qq.com
 quora.com
 soso.com
 stackoverflow.com
-taobao.com
 tmall.com
 twitter.com
 vk.com
