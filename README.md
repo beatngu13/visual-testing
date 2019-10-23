@@ -4,7 +4,7 @@ Open-source benchmark suite for visual testing of web-based GUIs, used for the e
 
 ## Benchmark
 
-The benchmark suite consists of offline versions offline versions from 25 of the [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted on October 9, 2019):
+The benchmark suite consists of offline versions from 25 of the [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted between October 15 and 23, 2019):
 
 1. 360.cn
 1. aliexpress.com
@@ -36,23 +36,18 @@ The benchmark suite consists of offline versions offline versions from 25 of the
 
 ## Evaluation Setup
 
-We have executed the experiments on an Apple MacBook Pro (Retina 15", 2018) with the following specifications:
+We have executed the experiments on [Travis CI](https://travis-ci.com/) using the [Trusty build environment](https://docs.travis-ci.com/user/reference/trusty/) (i.e. Ubuntu 14.04.5 LTS). The software we have used is:
 
-* OS: macOS Mojave (10.14.6)
-* CPU: 2.2 GHz Intel Core i7-8750H
-* GPU: Radeon Pro 555X, Intel UHD Graphics 630
-* RAM: 32 GB
-
-The software we have used is:
-
-* Google Chrome: 77.0.3865.90 (resolution for desktop: 1080p, 1920 x 1080 px)
-* ChromeDriver: 77.0.3865.40
-* Mozilla Firefox: 69.0.1 (resolution for notebook: 720p, 1366 x 768 px)
+* Google Chrome: 78.0.3904.70-1 (resolution for desktop: 1080p, 1920 x 1080 px)
+* ChromeDriver: 65.0.3325.181-0
+* Mozilla Firefox: 70.0 (resolution for notebook: 720p, 1366 x 768 px)
 * GeckoDriver: 0.24.0
-* Java: OpenJDK HotSpot 11.0.4+11
-* Maven: 3.6.2
+* Java: OpenJDK HotSpot 11.0.2+9
+* Maven: 3.5.2
 
 Library versions etc. are declared within the `pom.xml`.
+
+Note that while it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). Therefore, we were working with the `latest`/`stable` browser versions. Consequently, reproducing the experiments might lead to different results if the environment on Travis CI changes.
 
 In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
