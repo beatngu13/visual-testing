@@ -50,7 +50,7 @@ public class DriverFactory {
 
 	private static FirefoxDriver newFirefoxDriver() {
 		final var options = new FirefoxOptions() //
-				.addArguments("--width=1920", "--height=1080") //
+				.addArguments("--width=1366", "--height=768") //
 				.setHeadless(true);
 		return new FirefoxDriver(options);
 	}
