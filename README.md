@@ -22,7 +22,6 @@ The benchmark suite consists of offline versions offline versions from 25 of the
 1. netflix.com
 1. qq.com
 1. quora.com
-1. sina.com.cn
 1. soso.com
 1. stackoverflow.com
 1. taobao.com

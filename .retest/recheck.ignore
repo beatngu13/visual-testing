@@ -60,8 +60,3 @@ matcher: id=enterpriseCarousel
 
 matcher: class=our-story-card-animation-container
 matcher: id=cookie-disclosure
-
-## sina.com.cn
-
-matcher: class=loading
-matcher: id=heimaogif

@@ -14,7 +14,6 @@ live.com
 netflix.com
 qq.com
 quora.com
-sina.com.cn
 soso.com
 stackoverflow.com
 taobao.com
