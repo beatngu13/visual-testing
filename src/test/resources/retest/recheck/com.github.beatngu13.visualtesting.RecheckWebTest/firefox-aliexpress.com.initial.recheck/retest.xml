@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="AliExpress - Online Shopping for Popular Electronics, Fashion, Home &amp; Garden, Toys &amp; Sports, Automobiles and More. - GLOBAL SHOPPING FESTIVAL_11.11_Double 11_Singles' Day" title="AliExpress - Online Shopping for Popular Electronics, Fashion, Home &amp; Garden, Toys &amp; Sports, Automobiles and More. - GLOBAL SHOPPING FESTIVAL_11.11_Double 11_Singles' Day">
 			<identifyingAttributes>
@@ -14,7 +14,7 @@
 						<x>0</x>
 						<y>0</y>
 						<height>2789</height>
-						<width>1920</width>
+						<width>1356</width>
 					</attribute>
 					<attribute key="path" xsi:type="pathAttribute">html[1]</attribute>
 					<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -38,10 +38,6 @@
 					<entry>
 						<key>line-height</key>
 						<value xsi:type="xsd:string">19.2px</value>
-					</entry>
-					<entry>
-						<key>quotes</key>
-						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
 					</entry>
 					<entry>
 						<key>shown</key>
@@ -74,7 +70,7 @@
 							<x>0</x>
 							<y>0</y>
 							<height>-2788</height>
-							<width>-1920</width>
+							<width>-1356</width>
 						</attribute>
 						<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]</attribute>
 						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -1012,10 +1008,10 @@
 									<attribute key="class" xsi:type="stringAttribute">container featured-category</attribute>
 									<attribute key="id" xsi:type="stringAttribute">redesign-featured-category</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>1461</y>
 										<height>-2146</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[10]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">10</attribute>
@@ -1203,10 +1199,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">container</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>1</y>
 											<height>-2</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[13]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -3036,10 +3032,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">container</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>40</y>
 											<height>-40</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[1]/div[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -10384,10 +10380,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">container</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>20</y>
 											<height>-30</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[14]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -12136,10 +12132,10 @@
 									<attribute key="class" xsi:type="stringAttribute">container just-for-you-entrance</attribute>
 									<attribute key="id" xsi:type="stringAttribute">redesign-just-for-you</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>1705</y>
 										<height>-2074</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[12]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">12</attribute>
@@ -12324,10 +12320,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container just-for-title</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>1661</y>
 										<height>-2302</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[11]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">11</attribute>
@@ -12425,10 +12421,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container topselection-newforyou</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>830</y>
 										<height>-2085</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[7]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">7</attribute>
@@ -13085,10 +13081,10 @@
 									<attribute key="class" xsi:type="stringAttribute">container flashdeals-entry container-radius</attribute>
 									<attribute key="id" xsi:type="stringAttribute">redesign-flash-deals</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>532</y>
 										<height>-2064</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[4]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -13625,10 +13621,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container featuredbrand-store</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>1107</y>
 										<height>-2052</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[8]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">8</attribute>
@@ -14604,10 +14600,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container featured-title</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>1401</y>
 										<height>-2286</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/div[9]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">9</attribute>
@@ -14808,7 +14804,7 @@
 										<x>0</x>
 										<y>503</y>
 										<height>-2329</height>
-										<width>-1920</width>
+										<width>-1356</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/dsi[2]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -14849,7 +14845,7 @@
 										<x>0</x>
 										<y>503</y>
 										<height>-2329</height>
-										<width>-1920</width>
+										<width>-1356</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/dsi[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14890,7 +14886,7 @@
 										<x>0</x>
 										<y>503</y>
 										<height>-2329</height>
-										<width>-1920</width>
+										<width>-1356</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[5]/dsi[3]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -14988,10 +14984,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">top-lighthouse-wrap container</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>0</y>
 										<height>-40</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -16182,10 +16178,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>30</y>
 										<height>-30</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[6]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -20327,10 +20323,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">header-wrap container</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>0</y>
 										<height>0</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -22353,10 +22349,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">container</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>360</x>
+										<x>78</x>
 										<y>8</y>
 										<height>-16</height>
-										<width>-720</width>
+										<width>-156</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -22393,10 +22389,10 @@
 											<width>1200</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>8</y>
 											<height>-16</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/textnode[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -22652,10 +22648,10 @@
 											<width>1200</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>8</y>
 											<height>-16</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/textnode[5]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
@@ -22685,10 +22681,10 @@
 											<width>1200</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>8</y>
 											<height>-16</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/textnode[3]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -22718,10 +22714,10 @@
 											<width>1200</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>8</y>
 											<height>-16</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/textnode[4]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -22751,10 +22747,10 @@
 											<width>1200</width>
 										</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>360</x>
+											<x>78</x>
 											<y>8</y>
 											<height>-16</height>
-											<width>-720</width>
+											<width>-156</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/textnode[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -22789,7 +22785,7 @@
 									<x>0</x>
 									<y>2776</y>
 									<height>-2771</height>
-									<width>-1920</width>
+									<width>-1356</width>
 								</attribute>
 								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/dsi[2]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -22830,7 +22826,7 @@
 									<x>0</x>
 									<y>-13</y>
 									<height>-2771</height>
-									<width>-1920</width>
+									<width>-1356</width>
 								</attribute>
 								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/dsi[1]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

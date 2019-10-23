@@ -16611,10 +16611,6 @@
 																			<value xsi:type="xsd:string">1px</value>
 																		</entry>
 																		<entry>
-																			<key>grid-column-gap</key>
-																			<value xsi:type="xsd:string">48px</value>
-																		</entry>
-																		<entry>
 																			<key>list-style-type</key>
 																			<value xsi:type="xsd:string">none</value>
 																		</entry>
@@ -26542,36 +26538,8 @@
 																<value xsi:type="xsd:string">rgb(0, 0, 0)</value>
 															</entry>
 															<entry>
-																<key>border-bottom-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-left-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-right-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-top-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>caret-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>column-rule-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">system-ui</value>
+																<value xsi:type="xsd:string">Arial</value>
 															</entry>
 															<entry>
 																<key>font-size</key>
@@ -26580,10 +26548,6 @@
 															<entry>
 																<key>opacity</key>
 																<value xsi:type="xsd:string">0</value>
-															</entry>
-															<entry>
-																<key>outline-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 															</entry>
 															<entry>
 																<key>position</key>
@@ -26603,10 +26567,6 @@
 															<entry>
 																<key>text-align</key>
 																<value xsi:type="xsd:string">center</value>
-															</entry>
-															<entry>
-																<key>text-decoration-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 															</entry>
 															<entry>
 																<key>transition-delay</key>
@@ -26753,36 +26713,8 @@
 																<value xsi:type="xsd:string">rgb(0, 0, 0)</value>
 															</entry>
 															<entry>
-																<key>border-bottom-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-left-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-right-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>border-top-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>caret-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
-																<key>column-rule-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-															</entry>
-															<entry>
 																<key>font-family</key>
-																<value xsi:type="xsd:string">system-ui</value>
+																<value xsi:type="xsd:string">Arial</value>
 															</entry>
 															<entry>
 																<key>font-size</key>
@@ -26795,10 +26727,6 @@
 															<entry>
 																<key>opacity</key>
 																<value xsi:type="xsd:string">0.9</value>
-															</entry>
-															<entry>
-																<key>outline-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 															</entry>
 															<entry>
 																<key>position</key>
@@ -26814,10 +26742,6 @@
 															<entry>
 																<key>text-align</key>
 																<value xsi:type="xsd:string">center</value>
-															</entry>
-															<entry>
-																<key>text-decoration-color</key>
-																<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 															</entry>
 															<entry>
 																<key>transition-delay</key>
@@ -60931,7 +60855,7 @@
 														</entry>
 														<entry>
 															<key>clip</key>
-															<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+															<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 														</entry>
 														<entry>
 															<key>color</key>
@@ -61139,7 +61063,7 @@
 														</entry>
 														<entry>
 															<key>clip</key>
-															<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+															<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 														</entry>
 														<entry>
 															<key>color</key>
@@ -61311,7 +61235,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>color</key>
@@ -61753,7 +61677,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>for</key>
@@ -61836,40 +61760,8 @@
 														<value xsi:type="xsd:string">16px 16px</value>
 													</entry>
 													<entry>
-														<key>border-bottom-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>border-left-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>border-right-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>border-top-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
 														<key>box-sizing</key>
 														<value xsi:type="xsd:string">border-box</value>
-													</entry>
-													<entry>
-														<key>caret-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>column-rule-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
-													</entry>
-													<entry>
-														<key>outline-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 													</entry>
 													<entry>
 														<key>overflow-x</key>
@@ -61889,10 +61781,6 @@
 													<entry>
 														<key>text-align</key>
 														<value xsi:type="xsd:string">center</value>
-													</entry>
-													<entry>
-														<key>text-decoration-color</key>
-														<value xsi:type="xsd:string">rgba(0, 0, 0, 0.847)</value>
 													</entry>
 													<entry>
 														<key>text-indent</key>
@@ -62115,7 +62003,7 @@
 												<attributes>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>overflow-x</key>
@@ -62381,286 +62269,6 @@
 							</entry>
 						</attributes>
 					</attributes>
-					<containedElements retestId="body">
-						<identifyingAttributes>
-							<attributes>
-								<attribute key="absolute-outline" xsi:type="outlineAttribute">
-									<x>0</x>
-									<y>0</y>
-									<height>6</height>
-									<width>0</width>
-								</attribute>
-								<attribute key="outline" xsi:type="outlineAttribute">
-									<x>0</x>
-									<y>0</y>
-									<height>0</height>
-									<width>0</width>
-								</attribute>
-								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]</attribute>
-								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-								<attribute key="type" xsi:type="stringAttribute">body</attribute>
-							</attributes>
-						</identifyingAttributes>
-						<attributes>
-							<attributes>
-								<entry>
-									<key>leftmargin</key>
-									<value xsi:type="xsd:string">0</value>
-								</entry>
-								<entry>
-									<key>marginheight</key>
-									<value xsi:type="xsd:string">0</value>
-								</entry>
-								<entry>
-									<key>marginwidth</key>
-									<value xsi:type="xsd:string">0</value>
-								</entry>
-								<entry>
-									<key>shown</key>
-									<value xsi:type="xsd:string">true</value>
-								</entry>
-								<entry>
-									<key>style</key>
-									<value xsi:type="xsd:string">background-color:transparent; width: 100%; text-align: center;</value>
-								</entry>
-								<entry>
-									<key>text-align</key>
-									<value xsi:type="xsd:string">center</value>
-								</entry>
-								<entry>
-									<key>topmargin</key>
-									<value xsi:type="xsd:string">0</value>
-								</entry>
-							</attributes>
-						</attributes>
-						<containedElements retestId="div">
-							<identifyingAttributes>
-								<attributes>
-									<attribute key="absolute-outline" xsi:type="outlineAttribute">
-										<x>0</x>
-										<y>0</y>
-										<height>6</height>
-										<width>0</width>
-									</attribute>
-									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>0</x>
-										<y>0</y>
-										<height>0</height>
-										<width>0</width>
-									</attribute>
-									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]</attribute>
-									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-									<attribute key="type" xsi:type="stringAttribute">div</attribute>
-								</attributes>
-							</identifyingAttributes>
-							<attributes>
-								<attributes>
-									<entry>
-										<key>shown</key>
-										<value xsi:type="xsd:string">true</value>
-									</entry>
-								</attributes>
-							</attributes>
-							<containedElements retestId="img">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>4</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>4</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[5]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">http://loadm.exelator.com/load/?p=204&amp;g=260&amp;buid=cb5ab8e5ef10bafa1ddace937a26efe6&amp;j=0</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-							<containedElements retestId="img-b11ab">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>5</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>5</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[6]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">6</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">https://sync.sharethis.com/lotame?uid=cb5ab8e5ef10bafa1ddace937a26efe6&amp;rurl=https%3A%2F%2Fsync.crwdcntrl.net%2Fmap%2Fc%3D9084%2Ftp%3DSARE%2Ftpid%3D</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-							<containedElements retestId="img-25bf6">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>0</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>0</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[1]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">http://cm.g.doubleclick.net/pixel?google_nid=lotame_dmp&amp;google_cm</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-							<containedElements retestId="img-44987">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>1</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>1</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[2]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">http://ml314.com/utsync.ashx?eid=50146&amp;et=0&amp;fp=cb5ab8e5ef10bafa1ddace937a26efe6</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-							<containedElements retestId="img-10d1e">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>2</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>2</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[3]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">https://idsync.rlcdn.com/382416.gif?partner_uid=cb5ab8e5ef10bafa1ddace937a26efe6&amp;gdpr=0</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-							<containedElements retestId="img-b8863">
-								<identifyingAttributes>
-									<attributes>
-										<attribute key="absolute-outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>3</y>
-											<height>1</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>0</x>
-											<y>3</y>
-											<height>-5</height>
-											<width>1</width>
-										</attribute>
-										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/iframe[1]/html[1]/body[1]/div[1]/img[4]</attribute>
-										<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
-										<attribute key="type" xsi:type="stringAttribute">img</attribute>
-									</attributes>
-								</identifyingAttributes>
-								<attributes>
-									<attributes>
-										<entry>
-											<key>shown</key>
-											<value xsi:type="xsd:string">true</value>
-										</entry>
-										<entry>
-											<key>src</key>
-											<value xsi:type="xsd:string">https://sync-tm.everesttech.net/upi/pid/bsTd8NdE?redir=https%3A%2F%2Fsync.crwdcntrl.net%2Fmap%2Fc%3D1811%2Ftp%3DTBMG%2Ftpid%3D%24%7BTM_USER_ID%7D</value>
-										</entry>
-									</attributes>
-								</attributes>
-							</containedElements>
-						</containedElements>
-					</containedElements>
 				</containedElements>
 			</containedElements>
 			<containedElements retestId="head">

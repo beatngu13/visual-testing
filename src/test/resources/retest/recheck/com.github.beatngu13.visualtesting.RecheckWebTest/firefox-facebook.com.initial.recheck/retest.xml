@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Facebook - Log In or Sign Up" title="Facebook - Log In or Sign Up">
 			<identifyingAttributes>
@@ -14,8 +14,8 @@
 					<attribute key="outline" xsi:type="outlineAttribute">
 						<x>0</x>
 						<y>0</y>
-						<height>936</height>
-						<width>1920</width>
+						<height>943</height>
+						<width>1356</width>
 					</attribute>
 					<attribute key="path" xsi:type="pathAttribute">html[1]</attribute>
 					<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -39,10 +39,6 @@
 					<entry>
 						<key>line-height</key>
 						<value xsi:type="xsd:string">19.2px</value>
-					</entry>
-					<entry>
-						<key>quotes</key>
-						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
 					</entry>
 					<entry>
 						<key>shown</key>
@@ -365,10 +361,10 @@
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">pvl</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>470</x>
+														<x>188</x>
 														<y>0</y>
 														<height>0</height>
-														<width>-940</width>
+														<width>-376</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -14752,9 +14748,9 @@
 																						<attribute key="class" xsi:type="stringAttribute">mtm _8ffv hidden_elem</attribute>
 																						<attribute key="id" xsi:type="stringAttribute">custom_gender_container</attribute>
 																						<attribute key="outline" xsi:type="outlineAttribute">
-																							<x>-1051</x>
+																							<x>-769</x>
 																							<y>-247</y>
-																							<height>-438</height>
+																							<height>-445</height>
 																							<width>-399</width>
 																						</attribute>
 																						<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/div[8]</attribute>
@@ -16880,10 +16876,10 @@
 										</attribute>
 										<attribute key="id" xsi:type="stringAttribute">pageFooter</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>470</x>
+											<x>188</x>
 											<y>0</y>
 											<height>0</height>
-											<width>-940</width>
+											<width>-376</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -22843,10 +22839,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">_608m</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>458</x>
+										<x>176</x>
 										<y>-44</y>
 										<height>44</height>
-										<width>-915</width>
+										<width>-351</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -24448,10 +24444,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">clearfix loggedout_menubar</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>470</x>
+													<x>188</x>
 													<y>0</y>
-													<height>-3</height>
-													<width>-940</width>
+													<height>-4</height>
+													<width>-376</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -26120,10 +26116,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">fbPageBannerInner</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>470</x>
+										<x>188</x>
 										<y>10</y>
 										<height>-20</height>
-										<width>-939</width>
+										<width>-375</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[2]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -26448,9 +26444,9 @@
 								</attribute>
 								<attribute key="outline" xsi:type="outlineAttribute">
 									<x>0</x>
-									<y>924</y>
-									<height>-901</height>
-									<width>-1920</width>
+									<y>931</y>
+									<height>-908</height>
+									<width>-1356</width>
 								</attribute>
 								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/span[1]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -26480,8 +26476,8 @@
 						<attribute key="outline" xsi:type="outlineAttribute">
 							<x>0</x>
 							<y>0</y>
-							<height>-936</height>
-							<width>-1920</width>
+							<height>-943</height>
+							<width>-1356</width>
 						</attribute>
 						<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]</attribute>
 						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

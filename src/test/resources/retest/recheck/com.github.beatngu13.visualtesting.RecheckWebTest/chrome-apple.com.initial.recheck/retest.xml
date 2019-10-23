@@ -9181,7 +9181,7 @@
 									</entry>
 									<entry>
 										<key>clip</key>
-										<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+										<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 									</entry>
 									<entry>
 										<key>left</key>
@@ -9640,7 +9640,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -9904,7 +9904,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -10159,7 +10159,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -10414,7 +10414,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -10669,7 +10669,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -11125,7 +11125,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -11373,7 +11373,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -11628,7 +11628,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -11883,7 +11883,7 @@
 												</entry>
 												<entry>
 													<key>clip</key>
-													<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+													<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -12718,7 +12718,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -13962,7 +13962,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -14879,7 +14879,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -15338,35 +15338,6 @@
 													</entry>
 												</attributes>
 											</attributes>
-											<containedElements retestId="br-c5de6">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1536</x>
-															<y>2296</y>
-															<height>20</height>
-															<width>0</width>
-														</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>158</x>
-															<y>-25</y>
-															<height>0</height>
-															<width>-96</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[1]/p[1]/span[2]/br[1]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-														<attribute key="type" xsi:type="stringAttribute">br</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
 											<containedElements retestId="november1">
 												<identifyingAttributes>
 													<attributes>
@@ -15683,7 +15654,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -17838,7 +17809,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -19503,7 +19474,7 @@
 													</entry>
 													<entry>
 														<key>clip</key>
-														<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+														<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 													</entry>
 													<entry>
 														<key>left</key>
@@ -21534,7 +21505,7 @@
 							</entry>
 							<entry>
 								<key>clip</key>
-								<value xsi:type="xsd:string">rect(1px, 1px, 1px, 1px)</value>
+								<value xsi:type="xsd:string">rect(1px 1px 1px 1px)</value>
 							</entry>
 							<entry>
 								<key>color</key>

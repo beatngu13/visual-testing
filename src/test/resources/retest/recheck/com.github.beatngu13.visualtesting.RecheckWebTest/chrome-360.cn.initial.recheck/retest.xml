@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="360官网 - 360安全软件 - 360智能硬件 - 360智能家居 - 360企业服务" title="360官网 - 360安全软件 - 360智能硬件 - 360智能家居 - 360企业服务">
 			<identifyingAttributes>
@@ -13022,7 +13022,7 @@
 																<height>10</height>
 																<width>10</width>
 															</attribute>
-															<attribute key="class" xsi:type="stringAttribute"/>
+															<attribute key="class" xsi:type="stringAttribute"></attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>25</x>
 																<y>0</y>
@@ -24539,11 +24539,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-440</width>
+																<width>-510</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[5]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">谷歌Pixel 4面部解锁功能存在严重安全漏洞</attribute>
+															<attribute key="text" xsi:type="textAttribute">网络攻击严重威胁铁路运营</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24615,11 +24615,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-453</width>
+																<width>-502</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">数百万的亚马逊设备受到WiFi漏洞的影响</attribute>
+															<attribute key="text" xsi:type="textAttribute">美国陆军进行网络闪电战演习</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24691,11 +24691,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-475</width>
+																<width>-419</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">一名黑客被指控窃取30 TB的数据</attribute>
+															<attribute key="text" xsi:type="textAttribute">美国《2019年网络安全披露法》加强国家网络安全</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24771,7 +24771,7 @@
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[4]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">5亿多UC浏览器安卓用户遭受MiTM攻击</attribute>
+															<attribute key="text" xsi:type="textAttribute">印度政府要求Facebook帮助解密网上用户数据​</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24843,11 +24843,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-427</width>
+																<width>-384</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">欧洲机场超过半数系统感染了Monero挖矿软件</attribute>
+															<attribute key="text" xsi:type="textAttribute">美国酒店业务管理系统Autoclerk泄漏179GB客户信息</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -30342,7 +30342,7 @@
 															<height>10</height>
 															<width>10</width>
 														</attribute>
-														<attribute key="class" xsi:type="stringAttribute"/>
+														<attribute key="class" xsi:type="stringAttribute"></attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>40</x>
 															<y>0</y>

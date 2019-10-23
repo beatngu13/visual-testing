@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Welcome! | VK" title="Welcome! | VK">
 			<identifyingAttributes>
@@ -14,7 +14,7 @@
 						<x>0</x>
 						<y>0</y>
 						<height>42</height>
-						<width>1920</width>
+						<width>1366</width>
 					</attribute>
 					<attribute key="path" xsi:type="pathAttribute">html[1]</attribute>
 					<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -38,10 +38,6 @@
 					<entry>
 						<key>line-height</key>
 						<value xsi:type="xsd:string">19.2px</value>
-					</entry>
-					<entry>
-						<key>quotes</key>
-						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
 					</entry>
 					<entry>
 						<key>shown</key>
@@ -212,10 +208,10 @@
 										</attribute>
 										<attribute key="id" xsi:type="stringAttribute">page_layout</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>465</x>
+											<x>188</x>
 											<y>0</y>
 											<height>0</height>
-											<width>-930</width>
+											<width>-376</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[1]/div[1]/div[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -303,10 +299,10 @@
 												</attribute>
 												<attribute key="id" xsi:type="stringAttribute">wrap3</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>-480</x>
+													<x>-203</x>
 													<y>0</y>
-													<height>964</height>
-													<width>960</width>
+													<height>652</height>
+													<width>406</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[1]/div[1]/div[2]/div[2]/div[2]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -348,10 +344,10 @@
 													</attribute>
 													<attribute key="id" xsi:type="stringAttribute">wrap2</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>465</x>
+														<x>183</x>
 														<y>0</y>
-														<height>0</height>
-														<width>-930</width>
+														<height>108</height>
+														<width>-376</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -439,8 +435,8 @@
 															<attribute key="id" xsi:type="stringAttribute">content</attribute>
 															<attribute key="outline" xsi:type="outlineAttribute">
 																<x>0</x>
-																<y>102</y>
-																<height>-204</height>
+																<y>0</y>
+																<height>0</height>
 																<width>0</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]</attribute>
@@ -477,7 +473,7 @@
 																<attribute key="id" xsi:type="stringAttribute">index_footer_wrap</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>-15</x>
-																	<y>779</y>
+																	<y>677</y>
 																	<height>-677</height>
 																	<width>30</width>
 																</attribute>
@@ -4571,7 +4567,7 @@
 									<attributes>
 										<entry>
 											<key>bottom</key>
-											<value xsi:type="xsd:string">964px</value>
+											<value xsi:type="xsd:string">652px</value>
 										</entry>
 										<entry>
 											<key>position</key>
@@ -4687,10 +4683,10 @@
 												<attribute key="class" xsi:type="stringAttribute">p_head1 p_head_l3</attribute>
 												<attribute key="id" xsi:type="stringAttribute">page_header</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>465</x>
+													<x>188</x>
 													<y>0</y>
 													<height>0</height>
-													<width>-930</width>
+													<width>-376</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[1]/div[1]/div[1]/div[2]/div[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5388,7 +5384,7 @@
 								<attribute key="id" xsi:type="stringAttribute">cookies_policy_wrap</attribute>
 								<attribute key="outline" xsi:type="outlineAttribute">
 									<x>0</x>
-									<y>962</y>
+									<y>650</y>
 									<height>2</height>
 									<width>0</width>
 								</attribute>
@@ -5436,10 +5432,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">cookies_policy</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>465</x>
+										<x>188</x>
 										<y>0</y>
 										<height>-7</height>
-										<width>-930</width>
+										<width>-376</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[9]/div[2]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -5818,7 +5814,7 @@
 								<x>0</x>
 								<y>-30</y>
 								<height>-22</height>
-								<width>-1920</width>
+								<width>-1366</width>
 							</attribute>
 							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[2]</attribute>
 							<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -5829,7 +5825,7 @@
 						<attributes>
 							<entry>
 								<key>bottom</key>
-								<value xsi:type="xsd:string">1016px</value>
+								<value xsi:type="xsd:string">704px</value>
 							</entry>
 							<entry>
 								<key>position</key>
@@ -5864,7 +5860,7 @@
 							<x>0</x>
 							<y>0</y>
 							<height>-42</height>
-							<width>-1920</width>
+							<width>-1366</width>
 						</attribute>
 						<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]</attribute>
 						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Ratings and Reviews for New Movies and TV Shows - IMDb" title="Ratings and Reviews for New Movies and TV Shows - IMDb">
 			<identifyingAttributes>
@@ -15,7 +15,7 @@
 						<x>0</x>
 						<y>0</y>
 						<height>4978</height>
-						<width>1910</width>
+						<width>1356</width>
 					</attribute>
 					<attribute key="path" xsi:type="pathAttribute">html[1]</attribute>
 					<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -43,10 +43,6 @@
 					<entry>
 						<key>min-width</key>
 						<value xsi:type="xsd:string">1008px</value>
-					</entry>
-					<entry>
-						<key>quotes</key>
-						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
 					</entry>
 					<entry>
 						<key>shown</key>
@@ -157,10 +153,10 @@
 								<attribute key="class" xsi:type="stringAttribute">redesign</attribute>
 								<attribute key="id" xsi:type="stringAttribute">root</attribute>
 								<attribute key="outline" xsi:type="outlineAttribute">
-									<x>456</x>
+									<x>174</x>
 									<y>0</y>
 									<height>0</height>
-									<width>-912</width>
+									<width>-348</width>
 								</attribute>
 								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[2]/div[1]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -45310,9 +45306,9 @@
 														<attribute key="class" xsi:type="stringAttribute">imdb-pro-ad-shared imdb-pro-ad-redesign sub_nav</attribute>
 														<attribute key="id" xsi:type="stringAttribute">navMenuPro</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>-1193</x>
+															<x>-918</x>
 															<y>-160</y>
-															<height>-29</height>
+															<height>-28</height>
 															<width>-77</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/div[1]</attribute>
@@ -47169,7 +47165,7 @@
 									<x>-1000000</x>
 									<y>-999999</y>
 									<height>1</height>
-									<width>-1919</width>
+									<width>-1355</width>
 								</attribute>
 								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -47180,7 +47176,7 @@
 							<attributes>
 								<entry>
 									<key>bottom</key>
-									<value xsi:type="xsd:string">1001010px</value>
+									<value xsi:type="xsd:string">1000690px</value>
 								</entry>
 								<entry>
 									<key>left</key>
@@ -47391,7 +47387,7 @@
 							<x>0</x>
 							<y>0</y>
 							<height>-4978</height>
-							<width>-1910</width>
+							<width>-1356</width>
 						</attribute>
 						<attribute key="path" xsi:type="pathAttribute">html[1]/head[1]</attribute>
 						<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
