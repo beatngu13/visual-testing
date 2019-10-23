@@ -2,7 +2,9 @@
 aliexpress.com
 alipay.com
 amazon.com
+apple.com
 baidu.com
+bbc.com
 blogspot.com
 csdn.net
 facebook.com

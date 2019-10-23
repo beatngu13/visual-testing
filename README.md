@@ -10,7 +10,9 @@ The benchmark suite consists of offline versions offline versions from 25 of the
 1. aliexpress.com
 1. alipay.com
 1. amazon.com
+1. apple.com
 1. baidu.com
+1. bbc.com
 1. blogspot.com
 1. csdn.net
 1. facebook.com
