@@ -7,7 +7,7 @@ jdk:
 
 addons:
   chrome: stable
-  firefox: latest
+  firefox: "69.0.1"
   apt:
     packages:
       - chromium-chromedriver

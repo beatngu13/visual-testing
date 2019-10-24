@@ -40,14 +40,14 @@ We have executed the experiments on [Travis CI](https://travis-ci.com/) using th
 
 * Google Chrome: 78.0.3904.70-1 (resolution for desktop: 1080p, 1920 x 1080 px)
 * ChromeDriver: 65.0.3325.181-0
-* Mozilla Firefox: 70.0 (resolution for notebook: 720p, 1366 x 768 px)
+* Mozilla Firefox: 69.0.1 (resolution for notebook: 720p, 1366 x 768 px)
 * GeckoDriver: 0.24.0
 * Java: OpenJDK HotSpot 11.0.2+9
 * Maven: 3.5.2
 
 Library versions etc. are declared within the `pom.xml`.
 
-Note that while it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). Therefore, we were working with the `latest`/`stable` browser versions. Consequently, reproducing the experiments might lead to different results if the environment on Travis CI changes.
+Note that while it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). Therefore, we were working with a fixed Firefox version, but the latest (stable) Chrome at that time. This also means that reproducing the experiments might lead to different results if the Travis CI environment changes.
 
 In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
