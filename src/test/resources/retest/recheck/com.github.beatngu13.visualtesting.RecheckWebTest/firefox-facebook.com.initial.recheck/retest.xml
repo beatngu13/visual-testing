@@ -41,6 +41,10 @@
 						<value xsi:type="xsd:string">19.2px</value>
 					</entry>
 					<entry>
+						<key>quotes</key>
+						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
+					</entry>
+					<entry>
 						<key>shown</key>
 						<value xsi:type="xsd:string">true</value>
 					</entry>

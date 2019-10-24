@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="腾讯首页" title="腾讯首页">
 			<identifyingAttributes>
@@ -13487,7 +13487,7 @@
 													<height>0</height>
 													<width>0</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
 												<attribute key="type" xsi:type="stringAttribute">li</attribute>
 											</attributes>
@@ -13523,7 +13523,7 @@
 														<height>-75</height>
 														<width>0</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]/a[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="type" xsi:type="stringAttribute">a</attribute>
 												</attributes>
@@ -13595,7 +13595,7 @@
 															<height>75</height>
 															<width>0</width>
 														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]/a[1]/img[1]</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]/img[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 														<attribute key="type" xsi:type="stringAttribute">img</attribute>
 													</attributes>
@@ -13676,6 +13676,81 @@
 											<height>0</height>
 											<width>0</width>
 										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width:920px;height:75px;</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="div-94c82">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>160</y>
+											<height>75</height>
+											<width>920</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width1</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 										<attribute key="type" xsi:type="stringAttribute">div</attribute>
@@ -13696,15 +13771,120 @@
 											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
 										</entry>
 										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>position</key>
+											<value xsi:type="xsd:string">relative</value>
+										</entry>
+										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
 										</entry>
 										<entry>
 											<key>style</key>
-											<value xsi:type="xsd:string">width:920px;height:75px;</value>
+											<value xsi:type="xsd:string">width: 920px; height: 75px; overflow: hidden; display: block; position: relative;</value>
 										</entry>
 									</attributes>
 								</attributes>
+								<containedElements retestId="a-ded96">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>253</x>
+												<y>160</y>
+												<height>75</height>
+												<width>920</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/920x75_0.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">920px 75px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">http://users.qq.com</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:920px;height:75px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/920x75_0.png);background-size:920px 75px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/920x75_0.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
 							</containedElements>
 						</containedElements>
 					</containedElements>
@@ -50899,11 +51079,11 @@
 								<attribute key="class" xsi:type="stringAttribute">layout qq-gg gg-4</attribute>
 								<attribute key="outline" xsi:type="outlineAttribute">
 									<x>253</x>
-									<y>6038</y>
-									<height>-6300</height>
+									<y>4813</y>
+									<height>-6312</height>
 									<width>-505</width>
 								</attribute>
-								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]</attribute>
+								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]</attribute>
 								<attribute key="suffix" xsi:type="suffixAttribute">18</attribute>
 								<attribute key="type" xsi:type="stringAttribute">div</attribute>
 							</attributes>
@@ -50962,27 +51142,47 @@
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
 										<y>0</y>
-										<height>-32</height>
+										<height>0</height>
 										<width>0</width>
 									</attribute>
-									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]/div[1]</attribute>
+									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]/a[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-									<attribute key="type" xsi:type="stringAttribute">div</attribute>
+									<attribute key="type" xsi:type="stringAttribute">a</attribute>
 								</attributes>
 							</identifyingAttributes>
 							<attributes>
 								<attributes>
 									<entry>
-										<key>adconfig_charset</key>
-										<value xsi:type="xsd:string">gbk</value>
+										<key>border-bottom-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
 									</entry>
 									<entry>
-										<key>adconfig_lview</key>
-										<value xsi:type="xsd:string">l.qq.com</value>
+										<key>border-left-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
 									</entry>
 									<entry>
-										<key>adconfig_lview_template</key>
-										<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
+										<key>border-right-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
+									<entry>
+										<key>border-top-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
+									<entry>
+										<key>caret-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
+									<entry>
+										<key>color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
+									<entry>
+										<key>column-rule-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
+									<entry>
+										<key>outline-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
 									</entry>
 									<entry>
 										<key>shown</key>
@@ -50992,8 +51192,202 @@
 										<key>style</key>
 										<value xsi:type="xsd:string">width:1400px;height:90px;</value>
 									</entry>
+									<entry>
+										<key>target</key>
+										<value xsi:type="xsd:string">_blank</value>
+									</entry>
+									<entry>
+										<key>text-decoration-color</key>
+										<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+									</entry>
 								</attributes>
 							</attributes>
+						</containedElements>
+						<containedElements retestId="div-c9166">
+							<identifyingAttributes>
+								<attributes>
+									<attribute key="absolute-outline" xsi:type="outlineAttribute">
+										<x>253</x>
+										<y>4813</y>
+										<height>90</height>
+										<width>920</width>
+									</attribute>
+									<attribute key="class" xsi:type="stringAttribute">col-1 fl</attribute>
+									<attribute key="outline" xsi:type="outlineAttribute">
+										<x>0</x>
+										<y>0</y>
+										<height>-20</height>
+										<width>-480</width>
+									</attribute>
+									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]</attribute>
+									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+									<attribute key="type" xsi:type="stringAttribute">div</attribute>
+								</attributes>
+							</identifyingAttributes>
+							<attributes>
+								<attributes>
+									<entry>
+										<key>float</key>
+										<value xsi:type="xsd:string">left</value>
+									</entry>
+									<entry>
+										<key>shown</key>
+										<value xsi:type="xsd:string">true</value>
+									</entry>
+								</attributes>
+							</attributes>
+							<containedElements retestId="div-83ccd">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>4813</y>
+											<height>90</height>
+											<width>920</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width3</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">div</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>adconfig_charset</key>
+											<value xsi:type="xsd:string">gbk</value>
+										</entry>
+										<entry>
+											<key>adconfig_lview</key>
+											<value xsi:type="xsd:string">l.qq.com</value>
+										</entry>
+										<entry>
+											<key>adconfig_lview_template</key>
+											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
+										</entry>
+										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>position</key>
+											<value xsi:type="xsd:string">relative</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width: 920px; height: 90px; overflow: hidden; display: block; position: relative;</value>
+										</entry>
+									</attributes>
+								</attributes>
+								<containedElements retestId="a-054f4">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>253</x>
+												<y>4813</y>
+												<height>90</height>
+												<width>920</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/920x90_3.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">920px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">https://news.qq.com/mobile/index.htm</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:920px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/920x90_3.png);background-size:920px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/920x90_3.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+							</containedElements>
 						</containedElements>
 					</containedElements>
 					<containedElements retestId="div-e7900">
@@ -83288,8 +83682,8 @@
 									<attribute key="outline" xsi:type="outlineAttribute">
 										<x>0</x>
 										<y>0</y>
-										<height>-20</height>
-										<width>-480</width>
+										<height>-32</height>
+										<width>0</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -83299,8 +83693,24 @@
 							<attributes>
 								<attributes>
 									<entry>
-										<key>float</key>
-										<value xsi:type="xsd:string">left</value>
+										<key>adconfig_charset</key>
+										<value xsi:type="xsd:string">gbk</value>
+									</entry>
+									<entry>
+										<key>adconfig_lview</key>
+										<value xsi:type="xsd:string">l.qq.com</value>
+									</entry>
+									<entry>
+										<key>adconfig_lview_template</key>
+										<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
+									</entry>
+									<entry>
+										<key>btoid</key>
+										<value xsi:type="xsd:string">0</value>
+									</entry>
+									<entry>
+										<key>oid</key>
+										<value xsi:type="xsd:string">89</value>
 									</entry>
 									<entry>
 										<key>shown</key>
@@ -83309,6 +83719,81 @@
 								</attributes>
 							</attributes>
 							<containedElements retestId="div-8a4b4">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>4813</y>
+											<height>90</height>
+											<width>920</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width3</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width:920px;height:90px;</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="div-83ccd">
 								<identifyingAttributes>
 									<attributes>
 										<attribute key="absolute-outline" xsi:type="outlineAttribute">
@@ -83345,15 +83830,120 @@
 											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
 										</entry>
 										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>position</key>
+											<value xsi:type="xsd:string">relative</value>
+										</entry>
+										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
 										</entry>
 										<entry>
 											<key>style</key>
-											<value xsi:type="xsd:string">width:920px;height:90px;</value>
+											<value xsi:type="xsd:string">width: 920px; height: 90px; overflow: hidden; display: block; position: relative;</value>
 										</entry>
 									</attributes>
 								</attributes>
+								<containedElements retestId="a-054f4">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>253</x>
+												<y>4813</y>
+												<height>90</height>
+												<width>920</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/920x90_3.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">920px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">https://news.qq.com/mobile/index.htm</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:920px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/920x90_3.png);background-size:920px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/920x90_3.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
 							</containedElements>
 						</containedElements>
 						<containedElements retestId="div-89b12">
@@ -83406,6 +83996,81 @@
 											<height>0</height>
 											<width>0</width>
 										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[2]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width:440px;height:90px;</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="div-06224">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>1213</x>
+											<y>4813</y>
+											<height>90</height>
+											<width>440</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_button2</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[2]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 										<attribute key="type" xsi:type="stringAttribute">div</attribute>
@@ -83426,15 +84091,310 @@
 											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
 										</entry>
 										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>overflow-x</key>
+											<value xsi:type="xsd:string">hidden</value>
+										</entry>
+										<entry>
+											<key>overflow-y</key>
+											<value xsi:type="xsd:string">hidden</value>
+										</entry>
+										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
 										</entry>
 										<entry>
 											<key>style</key>
-											<value xsi:type="xsd:string">width:440px;height:90px;</value>
+											<value xsi:type="xsd:string">width: 440px; height: 90px; overflow: hidden; display: block; position: relative;</value>
 										</entry>
 									</attributes>
 								</attributes>
+								<containedElements retestId="a-2bd2f">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>1213</x>
+												<y>4813</y>
+												<height>90</height>
+												<width>440</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[2]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/440x90_0.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">440px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">http://users.qq.com</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:440px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/440x90_0.png);background-size:440px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/440x90_0.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+							</containedElements>
+						</containedElements>
+						<containedElements retestId="div-c9166">
+							<identifyingAttributes>
+								<attributes>
+									<attribute key="absolute-outline" xsi:type="outlineAttribute">
+										<x>253</x>
+										<y>4813</y>
+										<height>90</height>
+										<width>920</width>
+									</attribute>
+									<attribute key="class" xsi:type="stringAttribute">col-1 fl</attribute>
+									<attribute key="outline" xsi:type="outlineAttribute">
+										<x>0</x>
+										<y>0</y>
+										<height>-20</height>
+										<width>-480</width>
+									</attribute>
+									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]</attribute>
+									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+									<attribute key="type" xsi:type="stringAttribute">div</attribute>
+								</attributes>
+							</identifyingAttributes>
+							<attributes>
+								<attributes>
+									<entry>
+										<key>float</key>
+										<value xsi:type="xsd:string">left</value>
+									</entry>
+									<entry>
+										<key>shown</key>
+										<value xsi:type="xsd:string">true</value>
+									</entry>
+								</attributes>
+							</attributes>
+							<containedElements retestId="div-83ccd">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>4813</y>
+											<height>90</height>
+											<width>920</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width3</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">div</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>adconfig_charset</key>
+											<value xsi:type="xsd:string">gbk</value>
+										</entry>
+										<entry>
+											<key>adconfig_lview</key>
+											<value xsi:type="xsd:string">l.qq.com</value>
+										</entry>
+										<entry>
+											<key>adconfig_lview_template</key>
+											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
+										</entry>
+										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>position</key>
+											<value xsi:type="xsd:string">relative</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width: 920px; height: 90px; overflow: hidden; display: block; position: relative;</value>
+										</entry>
+									</attributes>
+								</attributes>
+								<containedElements retestId="a-054f4">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>253</x>
+												<y>4813</y>
+												<height>90</height>
+												<width>920</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[14]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/920x90_3.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">920px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">https://news.qq.com/mobile/index.htm</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:920px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/920x90_3.png);background-size:920px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/920x90_3.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
 							</containedElements>
 						</containedElements>
 					</containedElements>
@@ -88513,6 +89473,81 @@
 											<height>0</height>
 											<width>0</width>
 										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[2]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width:440px;height:90px;</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="div-3dc1c">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>1213</x>
+											<y>1633</y>
+											<height>90</height>
+											<width>440</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_button1</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[2]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 										<attribute key="type" xsi:type="stringAttribute">div</attribute>
@@ -88533,15 +89568,124 @@
 											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
 										</entry>
 										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>overflow-x</key>
+											<value xsi:type="xsd:string">hidden</value>
+										</entry>
+										<entry>
+											<key>overflow-y</key>
+											<value xsi:type="xsd:string">hidden</value>
+										</entry>
+										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
 										</entry>
 										<entry>
 											<key>style</key>
-											<value xsi:type="xsd:string">width:440px;height:90px;</value>
+											<value xsi:type="xsd:string">width: 440px; height: 90px; overflow: hidden; display: block; position: relative;</value>
 										</entry>
 									</attributes>
 								</attributes>
+								<containedElements retestId="a-1f454">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>1213</x>
+												<y>1633</y>
+												<height>90</height>
+												<width>440</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[2]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/440x90_2.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">440px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">http://time.qq.com/?pgv_ref=ad</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:440px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/440x90_2.png);background-size:440px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/440x90_2.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
 							</containedElements>
 						</containedElements>
 						<containedElements retestId="div-861c5">
@@ -88594,6 +89738,81 @@
 											<height>0</height>
 											<width>0</width>
 										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">width:920px;height:90px;</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+									</attributes>
+								</attributes>
+							</containedElements>
+							<containedElements retestId="div-f2935">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>1633</y>
+											<height>90</height>
+											<width>920</width>
+										</attribute>
+										<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+										<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width2</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 										<attribute key="type" xsi:type="stringAttribute">div</attribute>
@@ -88614,12 +89833,327 @@
 											<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
 										</entry>
 										<entry>
+											<key>btoid</key>
+											<value xsi:type="xsd:string">0</value>
+										</entry>
+										<entry>
+											<key>display</key>
+											<value xsi:type="xsd:string">auto</value>
+										</entry>
+										<entry>
+											<key>oid</key>
+											<value xsi:type="xsd:string">89</value>
+										</entry>
+										<entry>
+											<key>position</key>
+											<value xsi:type="xsd:string">relative</value>
+										</entry>
+										<entry>
 											<key>shown</key>
 											<value xsi:type="xsd:string">true</value>
 										</entry>
 										<entry>
 											<key>style</key>
-											<value xsi:type="xsd:string">width:920px;height:90px;</value>
+											<value xsi:type="xsd:string">width: 920px; height: 90px; overflow: hidden; display: block; position: relative;</value>
+										</entry>
+									</attributes>
+								</attributes>
+								<containedElements retestId="a-8eadd">
+									<identifyingAttributes>
+										<attributes>
+											<attribute key="absolute-outline" xsi:type="outlineAttribute">
+												<x>253</x>
+												<y>1633</y>
+												<height>90</height>
+												<width>920</width>
+											</attribute>
+											<attribute key="outline" xsi:type="outlineAttribute">
+												<x>0</x>
+												<y>0</y>
+												<height>0</height>
+												<width>0</width>
+											</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[7]/div[1]/div[1]/a[1]</attribute>
+											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+											<attribute key="type" xsi:type="stringAttribute">a</attribute>
+										</attributes>
+									</identifyingAttributes>
+									<attributes>
+										<attributes>
+											<entry>
+												<key>background-image</key>
+												<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/920x90_1.png&quot;)</value>
+											</entry>
+											<entry>
+												<key>background-position</key>
+												<value xsi:type="xsd:string">50% 50%</value>
+											</entry>
+											<entry>
+												<key>background-size</key>
+												<value xsi:type="xsd:string">920px 90px</value>
+											</entry>
+											<entry>
+												<key>border-bottom-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-left-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-right-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>border-top-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>caret-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>column-rule-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>href</key>
+												<value xsi:type="xsd:string">http://users.qq.com</value>
+											</entry>
+											<entry>
+												<key>outline-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+											<entry>
+												<key>shown</key>
+												<value xsi:type="xsd:string">true</value>
+											</entry>
+											<entry>
+												<key>style</key>
+												<value xsi:type="xsd:string">display:block;cursor:pointer;width:920px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/920x90_1.png);background-size:920px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/920x90_1.png',sizingMethod='scale');</value>
+											</entry>
+											<entry>
+												<key>target</key>
+												<value xsi:type="xsd:string">_blank</value>
+											</entry>
+											<entry>
+												<key>text-decoration-color</key>
+												<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+											</entry>
+										</attributes>
+									</attributes>
+								</containedElements>
+							</containedElements>
+						</containedElements>
+					</containedElements>
+					<containedElements retestId="div-93ef3">
+						<identifyingAttributes>
+							<attributes>
+								<attribute key="absolute-outline" xsi:type="outlineAttribute">
+									<x>253</x>
+									<y>6038</y>
+									<height>122</height>
+									<width>1400</width>
+								</attribute>
+								<attribute key="class" xsi:type="stringAttribute">layout qq-gg gg-4</attribute>
+								<attribute key="outline" xsi:type="outlineAttribute">
+									<x>253</x>
+									<y>6038</y>
+									<height>-6300</height>
+									<width>-505</width>
+								</attribute>
+								<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]</attribute>
+								<attribute key="suffix" xsi:type="suffixAttribute">18</attribute>
+								<attribute key="type" xsi:type="stringAttribute">div</attribute>
+							</attributes>
+						</identifyingAttributes>
+						<attributes>
+							<attributes>
+								<entry>
+									<key>font-size</key>
+									<value xsi:type="xsd:string">0px</value>
+								</entry>
+								<entry>
+									<key>margin-left</key>
+									<value xsi:type="xsd:string">252.5px</value>
+								</entry>
+								<entry>
+									<key>margin-right</key>
+									<value xsi:type="xsd:string">252.5px</value>
+								</entry>
+								<entry>
+									<key>overflow-x</key>
+									<value xsi:type="xsd:string">hidden</value>
+								</entry>
+								<entry>
+									<key>overflow-y</key>
+									<value xsi:type="xsd:string">hidden</value>
+								</entry>
+								<entry>
+									<key>padding-bottom</key>
+									<value xsi:type="xsd:string">32px</value>
+								</entry>
+								<entry>
+									<key>position</key>
+									<value xsi:type="xsd:string">relative</value>
+								</entry>
+								<entry>
+									<key>shown</key>
+									<value xsi:type="xsd:string">true</value>
+								</entry>
+								<entry>
+									<key>text-align</key>
+									<value xsi:type="xsd:string">center</value>
+								</entry>
+							</attributes>
+						</attributes>
+						<containedElements retestId="div-9febb">
+							<identifyingAttributes>
+								<attributes>
+									<attribute key="absolute-outline" xsi:type="outlineAttribute">
+										<x>253</x>
+										<y>6038</y>
+										<height>90</height>
+										<width>1400</width>
+									</attribute>
+									<attribute key="class" xsi:type="stringAttribute">l_qq_com</attribute>
+									<attribute key="id" xsi:type="stringAttribute">NEW_QQCOM_N_Width4</attribute>
+									<attribute key="outline" xsi:type="outlineAttribute">
+										<x>0</x>
+										<y>0</y>
+										<height>-32</height>
+										<width>0</width>
+									</attribute>
+									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]/div[1]</attribute>
+									<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+									<attribute key="type" xsi:type="stringAttribute">div</attribute>
+								</attributes>
+							</identifyingAttributes>
+							<attributes>
+								<attributes>
+									<entry>
+										<key>adconfig_charset</key>
+										<value xsi:type="xsd:string">gbk</value>
+									</entry>
+									<entry>
+										<key>adconfig_lview</key>
+										<value xsi:type="xsd:string">l.qq.com</value>
+									</entry>
+									<entry>
+										<key>adconfig_lview_template</key>
+										<value xsi:type="xsd:string">//l.qq.com/lview?c=www&amp;loc={loc}</value>
+									</entry>
+									<entry>
+										<key>btoid</key>
+										<value xsi:type="xsd:string">0</value>
+									</entry>
+									<entry>
+										<key>display</key>
+										<value xsi:type="xsd:string">auto</value>
+									</entry>
+									<entry>
+										<key>oid</key>
+										<value xsi:type="xsd:string">89</value>
+									</entry>
+									<entry>
+										<key>shown</key>
+										<value xsi:type="xsd:string">true</value>
+									</entry>
+									<entry>
+										<key>style</key>
+										<value xsi:type="xsd:string">width: 1400px; height: 90px; overflow: hidden; display: block; position: relative;</value>
+									</entry>
+								</attributes>
+							</attributes>
+							<containedElements retestId="a-64119">
+								<identifyingAttributes>
+									<attributes>
+										<attribute key="absolute-outline" xsi:type="outlineAttribute">
+											<x>253</x>
+											<y>6038</y>
+											<height>90</height>
+											<width>1400</width>
+										</attribute>
+										<attribute key="outline" xsi:type="outlineAttribute">
+											<x>0</x>
+											<y>0</y>
+											<height>0</height>
+											<width>0</width>
+										</attribute>
+										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[18]/div[1]/a[1]</attribute>
+										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+										<attribute key="type" xsi:type="stringAttribute">a</attribute>
+									</attributes>
+								</identifyingAttributes>
+								<attributes>
+									<attributes>
+										<entry>
+											<key>background-image</key>
+											<value xsi:type="xsd:string">url(&quot;file://ra.gtimg.com/web/default_fodders/qq/1400x90_1.png&quot;)</value>
+										</entry>
+										<entry>
+											<key>background-position</key>
+											<value xsi:type="xsd:string">50% 50%</value>
+										</entry>
+										<entry>
+											<key>background-size</key>
+											<value xsi:type="xsd:string">1400px 90px</value>
+										</entry>
+										<entry>
+											<key>border-bottom-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-left-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-right-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>border-top-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>caret-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>column-rule-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>href</key>
+											<value xsi:type="xsd:string">http://users.qq.com</value>
+										</entry>
+										<entry>
+											<key>outline-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
+										</entry>
+										<entry>
+											<key>shown</key>
+											<value xsi:type="xsd:string">true</value>
+										</entry>
+										<entry>
+											<key>style</key>
+											<value xsi:type="xsd:string">display:block;cursor:pointer;width:1400px;height:90px;background-image:url(//ra.gtimg.com/web/default_fodders/qq/1400x90_1.png);background-size:1400px 90px;background-position:50% 50%;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//ra.gtimg.com/web/default_fodders/qq/1400x90_1.png',sizingMethod='scale');</value>
+										</entry>
+										<entry>
+											<key>target</key>
+											<value xsi:type="xsd:string">_blank</value>
+										</entry>
+										<entry>
+											<key>text-decoration-color</key>
+											<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
 										</entry>
 									</attributes>
 								</attributes>

@@ -76,6 +76,10 @@
 						<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
 					</entry>
 					<entry>
+						<key>quotes</key>
+						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
+					</entry>
+					<entry>
 						<key>shown</key>
 						<value xsi:type="xsd:string">true</value>
 					</entry>
@@ -4126,6 +4130,34 @@
 																						<value xsi:type="xsd:string">rgb(220, 220, 220)</value>
 																					</entry>
 																					<entry>
+																						<key>border-bottom-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>border-left-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>border-right-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>border-top-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>caret-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
+																						<key>column-rule-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
 																						<key>data-country</key>
 																						<value xsi:type="xsd:string">DE</value>
 																					</entry>
@@ -4142,6 +4174,10 @@
 																						<value xsi:type="xsd:string">16px</value>
 																					</entry>
 																					<entry>
+																						<key>outline-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+																					</entry>
+																					<entry>
 																						<key>padding-left</key>
 																						<value xsi:type="xsd:string">3px</value>
 																					</entry>
@@ -4156,6 +4192,10 @@
 																					<entry>
 																						<key>text-align</key>
 																						<value xsi:type="xsd:string">left</value>
+																					</entry>
+																					<entry>
+																						<key>text-decoration-color</key>
+																						<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
 																					</entry>
 																					<entry>
 																						<key>value</key>

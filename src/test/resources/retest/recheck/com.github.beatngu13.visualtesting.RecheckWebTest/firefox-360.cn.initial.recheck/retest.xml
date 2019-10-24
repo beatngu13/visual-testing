@@ -41,6 +41,10 @@
 						<value xsi:type="xsd:string">19px</value>
 					</entry>
 					<entry>
+						<key>quotes</key>
+						<value xsi:type="xsd:string">“&quot; &quot;”&quot; &quot;‘&quot; &quot;’</value>
+					</entry>
+					<entry>
 						<key>shown</key>
 						<value xsi:type="xsd:string">true</value>
 					</entry>
@@ -24498,11 +24502,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-447</width>
+																<width>-361</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[5]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">网络攻击严重威胁铁路运营</attribute>
+															<attribute key="text" xsi:type="textAttribute">“傲游”浏览器存在漏洞，个人信息可被访问</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24574,11 +24578,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-300</width>
+																<width>-334</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[3]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">美国酒店业务管理系统Autoclerk泄漏179GB客户信息</attribute>
+															<attribute key="text" xsi:type="textAttribute">日本连锁酒店HIS Group房间内机器人可被黑入</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24650,11 +24654,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-315</width>
+																<width>-478</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[1]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">美国《2019年网络安全披露法》加强国家网络安全</attribute>
+															<attribute key="text" xsi:type="textAttribute">谷歌称实现“量子霸权”</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24730,7 +24734,7 @@
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[4]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">印度政府要求Facebook帮助解密网上用户数据​</attribute>
+															<attribute key="text" xsi:type="textAttribute">Norsk Hydro遭网络攻击后可获360万美元赔偿</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
@@ -24802,11 +24806,11 @@
 																<x>0</x>
 																<y>5</y>
 																<height>-10</height>
-																<width>-434</width>
+																<width>-336</width>
 															</attribute>
 															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[2]/div[5]/div[1]/div[2]/ul[1]/li[2]/a[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="text" xsi:type="textAttribute">美国陆军进行网络闪电战演习</attribute>
+															<attribute key="text" xsi:type="textAttribute">SpaceX卫星群为美国军机提供加密互联网服务</attribute>
 															<attribute key="type" xsi:type="stringAttribute">a</attribute>
 														</attributes>
 													</identifyingAttributes>
