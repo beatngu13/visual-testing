@@ -21,10 +21,10 @@ class Statistics {
 	 * Logs statistics for the current page URL.
 	 */
 	public void logPageStatistics() {
-		final var pageName = PageFactory.getName(driver.getCurrentUrl());
+		final var pageUrl = driver.getCurrentUrl();
 		final var driverName = DriverFactory.getName(driver);
 		final var elementCount = getWebElementCount();
-		log.info("Page '{}' in '{}' contains {} WebElements.", pageName, driverName, elementCount);
+		log.info("Page '{}' in '{}' contains {} WebElements.", pageUrl, driverName, elementCount);
 	}
 
 	private int getWebElementCount() {
