@@ -43,6 +43,10 @@ pixel-diff=25
 matcher: class=focus-slide
 matcher: class=mall-slide
 
+## bbc.com
+
+matcher: xpath=html[1]/body[1]/div[7]/div[1]/section[2]/h2[1]/textnode[1]
+
 ## blogspot.com
 
 matcher: class=background
