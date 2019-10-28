@@ -10,7 +10,23 @@ addons:
   firefox: "69.0.1"
   apt:
     packages:
+      # ChromeDriver
       - chromium-chromedriver
+      # Japanese
+      - language-pack-ja
+      - japan*
+      # Chinese
+      - language-pack-zh*
+      - chinese*
+      # Korean
+      - language-pack-ko
+      - korean*
+      # Fonts
+      - fonts-arphic-ukai
+      - fonts-arphic-uming
+      - fonts-ipafont-mincho
+      - fonts-ipafont-gothic
+      - fonts-unfonts-core
 
 cache:
   directories:
