@@ -12,6 +12,7 @@ attribute=left
 attribute=line-height
 attribute=name
 attribute=right
+attribute=role
 attribute=src
 attribute=style
 attribute=tab-index
