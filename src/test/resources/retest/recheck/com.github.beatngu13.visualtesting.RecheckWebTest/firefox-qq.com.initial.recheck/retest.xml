@@ -13715,7 +13715,7 @@
 													<height>0</height>
 													<width>0</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
 												<attribute key="type" xsi:type="stringAttribute">li</attribute>
 											</attributes>
@@ -13751,7 +13751,7 @@
 														<height>-75</height>
 														<width>0</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]/a[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="type" xsi:type="stringAttribute">a</attribute>
 												</attributes>
@@ -13823,7 +13823,7 @@
 															<height>75</height>
 															<width>0</width>
 														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]/a[1]/img[1]</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[3]/a[1]/img[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 														<attribute key="type" xsi:type="stringAttribute">img</attribute>
 													</attributes>
