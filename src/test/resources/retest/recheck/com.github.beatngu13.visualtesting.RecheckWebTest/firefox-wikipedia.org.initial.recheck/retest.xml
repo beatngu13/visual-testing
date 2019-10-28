@@ -31439,10 +31439,10 @@
 												<width>60</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>987</x>
+												<x>453</x>
 												<y>2</y>
-												<height>-29</height>
-												<width>-989</width>
+												<height>-5</height>
+												<width>-461</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[5]/div[1]/div[6]/ul[1]/li[10]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">10</attribute>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="支付宝 知托付！" title="支付宝 知托付！">
 			<identifyingAttributes>
@@ -1666,10 +1666,10 @@
 												<width>48</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1087</x>
+												<x>1169</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1872</width>
+												<width>-1853</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[19]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">19</attribute>
@@ -1753,10 +1753,10 @@
 												<width>36</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>715</x>
+												<x>643</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1879</width>
+												<width>-1865</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[3]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -1927,7 +1927,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>704</x>
+												<x>632</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -1977,7 +1977,7 @@
 												<width>117</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1134</x>
+												<x>1235</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1783</width>
@@ -2064,10 +2064,10 @@
 												<width>72</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>793</x>
+												<x>750</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1858</width>
+												<width>-1829</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[7]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">7</attribute>
@@ -2151,7 +2151,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1077</x>
+												<x>1159</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -2251,10 +2251,10 @@
 												<width>36</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>754</x>
+												<x>697</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1879</width>
+												<width>-1865</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[5]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
@@ -2425,7 +2425,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>744</x>
+												<x>686</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -2475,10 +2475,10 @@
 												<width>48</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1041</x>
+												<x>1103</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1872</width>
+												<width>-1853</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[17]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">17</attribute>
@@ -2562,7 +2562,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1030</x>
+												<x>1093</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -2612,7 +2612,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1124</x>
+												<x>1224</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -2749,10 +2749,10 @@
 												<width>48</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>994</x>
+												<x>1037</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1872</width>
+												<width>-1853</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[15]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">15</attribute>
@@ -2836,7 +2836,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>783</x>
+												<x>740</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -2886,10 +2886,10 @@
 												<width>72</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>654</x>
+												<x>553</x>
 												<y>2</y>
 												<height>-4</height>
-												<width>-1858</width>
+												<width>-1829</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/ul[1]/li[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -2973,7 +2973,7 @@
 												<width>5</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>984</x>
+												<x>1027</x>
 												<y>2</y>
 												<height>-4</height>
 												<width>-1898</width>
@@ -3750,10 +3750,10 @@
 										</attribute>
 										<attribute key="class" xsi:type="stringAttribute">entry</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>1436</x>
+											<x>1379</x>
 											<y>0</y>
 											<height>0</height>
-											<width>-1436</width>
+											<width>-1379</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[2]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -3885,10 +3885,10 @@
 												<width>48</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>66</x>
+												<x>104</x>
 												<y>8</y>
 												<height>-16</height>
-												<width>-71</width>
+												<width>-109</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/a[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>

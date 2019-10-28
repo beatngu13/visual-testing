@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="Wikipedia" title="Wikipedia">
 			<identifyingAttributes>
@@ -30071,7 +30071,7 @@
 												<width>174</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>568</x>
+												<x>535</x>
 												<y>3</y>
 												<height>-7</height>
 												<width>-1334</width>
@@ -30194,10 +30194,10 @@
 												<width>65</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>741</x>
+												<x>708</x>
 												<y>3</y>
 												<height>-7</height>
-												<width>-1463</width>
+												<width>-1441</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[5]/div[1]/div[6]/ul[1]/li[5]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
@@ -30317,7 +30317,7 @@
 												<width>114</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>211</x>
+												<x>178</x>
 												<y>3</y>
 												<height>-7</height>
 												<width>-1394</width>
@@ -30440,7 +30440,7 @@
 												<width>131</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>326</x>
+												<x>292</x>
 												<y>3</y>
 												<height>-7</height>
 												<width>-1378</width>
@@ -30563,7 +30563,7 @@
 												<width>112</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>455</x>
+												<x>422</x>
 												<y>3</y>
 												<height>-7</height>
 												<width>-1395</width>
@@ -30809,7 +30809,7 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1184</x>
+												<x>1217</x>
 												<y>3</y>
 												<height>-7</height>
 												<width>-1395</width>
@@ -31625,7 +31625,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>23</y>
+												<y>69</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -32150,7 +32150,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>115</y>
+												<y>161</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -32474,7 +32474,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>46</y>
+												<y>92</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -32593,7 +32593,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1392</x>
-												<y>69</y>
+												<y>115</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -32757,7 +32757,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>0</y>
+												<y>46</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -33241,7 +33241,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>69</y>
+												<y>115</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -33487,7 +33487,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>92</y>
+												<y>138</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -34089,8 +34089,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1139</x>
-												<y>184</y>
+												<x>1265</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -34209,7 +34209,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>161</y>
+												<y>207</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -34327,8 +34327,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1139</x>
-												<y>207</y>
+												<x>1265</x>
+												<y>23</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -35768,7 +35768,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>138</y>
+												<y>184</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -36125,7 +36125,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1392</x>
-												<y>46</y>
+												<y>92</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -36481,8 +36481,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>633</x>
-												<y>207</y>
+												<x>759</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -37241,7 +37241,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>23</y>
+												<y>69</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -37726,7 +37726,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>138</y>
+												<y>184</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -37844,8 +37844,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>886</x>
-												<y>207</y>
+												<x>1012</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -38325,8 +38325,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1265</x>
-												<y>184</y>
+												<x>1392</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -38445,7 +38445,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1265</x>
-												<y>161</y>
+												<y>207</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -38806,7 +38806,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>0</y>
+												<y>46</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -41447,8 +41447,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>380</x>
-												<y>207</y>
+												<x>506</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -42158,8 +42158,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>506</x>
-												<y>207</y>
+												<x>633</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -42758,7 +42758,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1392</x>
-												<y>0</y>
+												<y>46</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -42995,8 +42995,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>759</x>
-												<y>207</y>
+												<x>886</x>
+												<y>0</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -43114,8 +43114,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1012</x>
-												<y>184</y>
+												<x>1139</x>
+												<y>0</y>
 												<height>-184</height>
 												<width>-1391</width>
 											</attribute>
@@ -43238,7 +43238,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>92</y>
+												<y>138</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -44075,7 +44075,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>46</y>
+												<y>92</y>
 												<height>-184</height>
 												<width>-1391</width>
 											</attribute>
@@ -44194,7 +44194,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1392</x>
-												<y>23</y>
+												<y>69</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -44313,7 +44313,7 @@
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
 												<x>1139</x>
-												<y>115</y>
+												<y>161</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>
@@ -44431,8 +44431,8 @@
 												<width>113</width>
 											</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>1265</x>
-												<y>207</y>
+												<x>1392</x>
+												<y>23</y>
 												<height>-207</height>
 												<width>-1391</width>
 											</attribute>

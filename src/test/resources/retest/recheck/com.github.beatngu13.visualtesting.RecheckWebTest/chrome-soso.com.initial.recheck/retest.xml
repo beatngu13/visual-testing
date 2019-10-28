@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.5.0-VT" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="搜搜更懂你" title="搜搜更懂你">
 			<identifyingAttributes>
@@ -775,10 +775,10 @@
 									</attribute>
 									<attribute key="class" xsi:type="stringAttribute">ba</attribute>
 									<attribute key="outline" xsi:type="outlineAttribute">
-										<x>990</x>
+										<x>983</x>
 										<y>5</y>
 										<height>-10</height>
-										<width>-1768</width>
+										<width>-1740</width>
 									</attribute>
 									<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[2]/p[1]/a[2]</attribute>
 									<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
