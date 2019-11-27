@@ -36,6 +36,8 @@ The benchmark suite consists of offline versions from 25 of the [most popular we
 
 ## Evaluation Setup
 
+**TODO: Update setup.**
+
 We have executed the experiments on [Travis CI](https://travis-ci.com/) using the [Trusty build environment](https://docs.travis-ci.com/user/reference/trusty/) (i.e. Ubuntu 14.04.5 LTS). The software we have used is:
 
 * Google Chrome: 78.0.3904.70-1 (resolution for desktop: 1080p, 1920 x 1080 px)
@@ -52,6 +54,8 @@ Note that while it possible to [declare a specific Firefox version](https://docs
 In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
 ## Reproduce Experiments
+
+**TODO: Stock recheck/recheck-web?**
 
 First, follow the [Applitools Selenium/Java tutorial](https://applitools.com/tutorials/selenium-java.html) to set up your environment. In addition, make sure to install [Firefox](https://mozilla.org/en/firefox/) and [GeckoDriver](https://firefox-source-docs.mozilla.org/testing/geckodriver/).
 
