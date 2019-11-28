@@ -24,7 +24,7 @@ public class DriverFactory {
 	public static Stream<Supplier<WebDriver>> getAll() {
 		final Supplier<WebDriver> chrome = () -> wrap(newChromeDriver());
 		final Supplier<WebDriver> firefox = () -> wrap(newFirefoxDriver());
-		return Stream.of(firefox);
+		return Stream.of(chrome, firefox);
 	}
 
 	/**
