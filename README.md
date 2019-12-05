@@ -49,7 +49,10 @@ We have executed the experiments on [Travis CI](https://travis-ci.com/) using th
 
 Library versions etc. are declared within the `pom.xml`.
 
-Note that while it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). Therefore, we were working with a fixed Firefox version, but the latest (stable) Chrome at that time. This also means that reproducing the experiments might lead to different results if the Travis CI environment changes.
+Please note:
+
+* While it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). Therefore, we were working with a fixed Firefox version, but the latest (stable) Chrome at that time. This also means that reproducing the experiments might lead to different results if the Travis CI environment changes.
+* Per default, we do _not_ execute the actual evaluation on Travis CI. In order to do so, you can activate the corresponding Maven profile via `--activate-profiles eval`. If you want to do this permanently, adapt `ci/script.sh` accordingly.  
 
 In the case of Applitools, we used the default "Strict" compare mode, which is said to only report perceptible differences.
 
