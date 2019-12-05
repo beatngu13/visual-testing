@@ -89,7 +89,7 @@
 			<build>
 				<plugins>
 					<plugin>
-						<artifactId>maven-failsafe-plugin</artifactId>
+						<artifactId>maven-surefire-plugin</artifactId>
 						<configuration>
 							<skipTests>true</skipTests>
 						</configuration>
@@ -102,7 +102,7 @@
 			<build>
 				<plugins>
 					<plugin>
-						<artifactId>maven-failsafe-plugin</artifactId>
+						<artifactId>maven-surefire-plugin</artifactId>
 						<configuration>
 							<skipTests>false</skipTests>
 						</configuration>
