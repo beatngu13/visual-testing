@@ -1,3 +1,0 @@
-# v.5.0.3
-# HTTPS  allow all access static.bbci.co.uk 
-
