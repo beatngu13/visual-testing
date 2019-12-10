@@ -44,6 +44,11 @@ pixel-diff=25
 matcher: class=focus-slide
 matcher: class=mall-slide
 
+## amazon.com
+
+matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[6]
+matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[8]
+
 ## bbc.com
 
 matcher: xpath=html[1]/body[1]/div[7]/div[1]/section[2]/h2[1]/textnode[1]
