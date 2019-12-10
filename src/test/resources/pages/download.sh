@@ -15,6 +15,7 @@ function download_web_page() {
 		--page-requisites \
 		--span-hosts \
 		--user-agent="$USER_AGENT" \
+		--restrict-file-names=windows \
 		"$web_page"
 }
 
