@@ -15,11 +15,11 @@ jd.com
 live.com
 netflix.com
 qq.com
-quora.com
 soso.com
 stackoverflow.com
 tmall.com
 twitter.com
 vk.com
 wikipedia.org
+yahoo.com
 youtube.com
