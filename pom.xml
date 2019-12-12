@@ -72,9 +72,6 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>2.22.2</version>
 				<configuration>
-					<systemPropertyVariables>
-						<de.retest.recheck.rehub.reportUploadEnabled>true</de.retest.recheck.rehub.reportUploadEnabled>
-					</systemPropertyVariables>
 					<argLine>-disableassertions</argLine>
 				</configuration>
 			</plugin>
