@@ -46,8 +46,12 @@ matcher: class=mall-slide
 
 ## amazon.com
 
-matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[6]
-matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[8]
+matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[9]
+matcher: xpath=html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[4]/div[7]
+
+## apple.com
+
+matcher: xpath=html[1]/body[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[2]
 
 ## bbc.com
 
@@ -65,10 +69,15 @@ matcher: class=search_bar
 matcher: id=magzCarousel
 matcher: id=myCarousel
 matcher: id=enterpriseCarousel
+matcher: id=toolber-keyword
 
 ## jd.com
 
 matcher: class=sliderBannerWrapper
+
+## live.com
+
+matcher: xpath=html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1], attribute: outline
 
 ## netflix.com
 
@@ -79,3 +88,7 @@ matcher: id=cookie-disclosure
 
 matcher: id=gg-focus1
 matcher: xpath=html[1]/body[1]/div[1]/div[18]
+
+## yahoo.com
+
+matcher: xpath=html[1]/body[1]/div[3]/div[1]/aside[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/ul[1]

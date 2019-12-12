@@ -75,6 +75,7 @@
 					<systemPropertyVariables>
 						<de.retest.recheck.rehub.reportUploadEnabled>true</de.retest.recheck.rehub.reportUploadEnabled>
 					</systemPropertyVariables>
+					<argLine>-disableassertions</argLine>
 				</configuration>
 			</plugin>
 		</plugins>
