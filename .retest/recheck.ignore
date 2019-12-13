@@ -71,6 +71,10 @@ matcher: id=myCarousel
 matcher: id=enterpriseCarousel
 matcher: id=toolber-keyword
 
+## imdb.com
+
+matcher: xpath=html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[1]
+
 ## jd.com
 
 matcher: class=sliderBannerWrapper
@@ -87,6 +91,10 @@ matcher: id=cookie-disclosure
 ## qq.com
 
 matcher: id=gg-focus1
+matcher: id=NEW_QQCOM_N_Width1
+matcher: id=NEW_QQCOM_N_Width2
+matcher: id=NEW_QQCOM_N_button1
+matcher: id=NEW_QQCOM_N_button2
 matcher: xpath=html[1]/body[1]/div[1]/div[18]
 
 ## yahoo.com
