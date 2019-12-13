@@ -58956,10 +58956,10 @@
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">ipc-inline-list _10Rnkk5T8FqAnnUgOXcDME</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>66</x>
+												<x>95</x>
 												<y>48</y>
 												<height>-48</height>
-												<width>-133</width>
+												<width>-190</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -59009,10 +59009,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ipc-inline-list__item zgFV3U-XECrqVQnyDbx2B</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>138</x>
+													<x>131</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-764</width>
+													<width>-718</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[2]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
@@ -59274,7 +59274,7 @@
 													<x>8</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-778</width>
+													<width>-727</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -59380,10 +59380,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ipc-inline-list__item zgFV3U-XECrqVQnyDbx2B</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>281</x>
+													<x>264</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-825</width>
+													<width>-766</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
@@ -59642,10 +59642,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ipc-inline-list__item</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>693</x>
+													<x>652</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-701</width>
+													<width>-660</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[6]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">6</attribute>
@@ -59904,10 +59904,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ipc-inline-list__item</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>364</x>
+													<x>348</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-727</width>
+													<width>-683</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[4]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
@@ -60013,10 +60013,10 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ipc-inline-list__item</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>545</x>
+													<x>514</x>
 													<y>0</y>
 													<height>-8</height>
-													<width>-759</width>
+													<width>-712</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]/li[5]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
