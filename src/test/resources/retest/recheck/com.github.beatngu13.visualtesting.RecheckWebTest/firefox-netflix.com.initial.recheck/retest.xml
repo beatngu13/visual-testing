@@ -542,8 +542,8 @@
 																	<attribute key="class" xsi:type="stringAttribute">our-story-cta-container</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
 																		<x>0</x>
-																		<y>112</y>
-																		<height>-112</height>
+																		<y>84</y>
+																		<height>-84</height>
 																		<width>0</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]</attribute>
@@ -1211,9 +1211,9 @@
 																			<width>42</width>
 																		</attribute>
 																		<attribute key="outline" xsi:type="outlineAttribute">
-																			<x>428</x>
-																			<y>32</y>
-																			<height>-64</height>
+																			<x>330</x>
+																			<y>34</y>
+																			<height>-34</height>
 																			<width>-708</width>
 																		</attribute>
 																		<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/nobr[1]</attribute>
@@ -1258,7 +1258,7 @@
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>0</x>
 																	<y>142</y>
-																	<height>-388</height>
+																	<height>-360</height>
 																	<width>0</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]</attribute>
@@ -2066,7 +2066,7 @@
 																	<x>0</x>
 																	<y>0</y>
 																	<height>0</height>
-																	<width>435</width>
+																	<width>386</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/img[1]</attribute>
 																<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -6206,8 +6206,8 @@
 																<attribute key="class" xsi:type="stringAttribute">our-story-card-text</attribute>
 																<attribute key="outline" xsi:type="outlineAttribute">
 																	<x>505</x>
-																	<y>0</y>
-																	<height>0</height>
+																	<y>21</y>
+																	<height>-42</height>
 																	<width>-505</width>
 																</attribute>
 																<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]</attribute>
@@ -6247,8 +6247,8 @@
 																	<attribute key="class" xsi:type="stringAttribute">our-story-cta-container</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
 																		<x>48</x>
-																		<y>265</y>
-																		<height>-264</height>
+																		<y>214</y>
+																		<height>-213</height>
 																		<width>-48</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]</attribute>
@@ -6750,8 +6750,8 @@
 																	<attribute key="class" xsi:type="stringAttribute">our-story-card-subtitle</attribute>
 																	<attribute key="outline" xsi:type="outlineAttribute">
 																		<x>48</x>
-																		<y>185</y>
-																		<height>-268</height>
+																		<y>130</y>
+																		<height>-213</height>
 																		<width>-48</width>
 																	</attribute>
 																	<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/h2[1]</attribute>
@@ -6844,8 +6844,8 @@
 														<attribute key="id" xsi:type="stringAttribute">faq</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
-															<y>2214</y>
-															<height>-2591</height>
+															<y>2185</y>
+															<height>-2570</height>
 															<width>0</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]</attribute>
@@ -8384,7 +8384,7 @@
 																			<attribute key="outline" xsi:type="outlineAttribute">
 																				<x>0</x>
 																				<y>0</y>
-																				<height>190</height>
+																				<height>164</height>
 																				<width>0</width>
 																			</attribute>
 																			<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/ul[1]/li[2]/div[1]/span[1]</attribute>
@@ -10112,8 +10112,8 @@
 														<attribute key="class" xsi:type="stringAttribute">our-story-card animation-card watchOnDevice</attribute>
 														<attribute key="outline" xsi:type="outlineAttribute">
 															<x>0</x>
-															<y>1671</y>
-															<height>-2929</height>
+															<y>1641</y>
+															<height>-2918</height>
 															<width>0</width>
 														</attribute>
 														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[4]</attribute>
