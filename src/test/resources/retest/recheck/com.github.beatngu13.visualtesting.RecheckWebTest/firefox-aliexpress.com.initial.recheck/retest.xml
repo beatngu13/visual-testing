@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.7.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="1.6.0" dataType="de.retest.recheck.ui.descriptors.SutState" dataTypeVersion="4">
 	<data xsi:type="sutState">
 		<descriptors retestId="html" screenId="1" screen="AliExpress - Online Shopping for Popular Electronics, Fashion, Home &amp; Garden, Toys &amp; Sports, Automobiles and More." title="AliExpress - Online Shopping for Popular Electronics, Fashion, Home &amp; Garden, Toys &amp; Sports, Automobiles and More.">
 			<identifyingAttributes>
@@ -15158,10 +15158,10 @@
 										<attribute key="class" xsi:type="stringAttribute">nav-global</attribute>
 										<attribute key="id" xsi:type="stringAttribute">nav-global</attribute>
 										<attribute key="outline" xsi:type="outlineAttribute">
-											<x>485</x>
+											<x>714</x>
 											<y>0</y>
 											<height>39</height>
-											<width>-485</width>
+											<width>-714</width>
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -15206,7 +15206,7 @@
 												<x>0</x>
 												<y>0</y>
 												<height>0</height>
-												<width>-602</width>
+												<width>0</width>
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
@@ -15216,20 +15216,12 @@
 									<attributes>
 										<attributes>
 											<entry>
-												<key>float</key>
-												<value xsi:type="xsd:string">left</value>
-											</entry>
-											<entry>
 												<key>padding-left</key>
 												<value xsi:type="xsd:string">4px</value>
 											</entry>
 											<entry>
 												<key>padding-right</key>
 												<value xsi:type="xsd:string">4px</value>
-											</entry>
-											<entry>
-												<key>position</key>
-												<value xsi:type="xsd:string">relative</value>
 											</entry>
 											<entry>
 												<key>shown</key>
@@ -15248,216 +15240,29 @@
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">ng-item ng-sub ng-seller global-seller-menu</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>4</x>
+													<x>236</x>
 													<y>0</y>
 													<height>0</height>
-													<width>-8</width>
+													<width>-441</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
 										</identifyingAttributes>
 										<attributes>
 											<attributes>
+												<entry>
+													<key>float</key>
+													<value xsi:type="xsd:string">left</value>
+												</entry>
 												<entry>
 													<key>line-height</key>
 													<value xsi:type="xsd:string">39px</value>
 												</entry>
 												<entry>
-													<key>shown</key>
-													<value xsi:type="xsd:string">true</value>
-												</entry>
-											</attributes>
-										</attributes>
-										<containedElements retestId="span-13">
-											<identifyingAttributes>
-												<attributes>
-													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>567</x>
-														<y>0</y>
-														<height>39</height>
-														<width>106</width>
-													</attribute>
-													<attribute key="class" xsi:type="stringAttribute">ng-sub-title</attribute>
-													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>0</x>
-														<y>0</y>
-														<height>0</height>
-														<width>0</width>
-													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]</attribute>
-													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-													<attribute key="type" xsi:type="stringAttribute">span</attribute>
-												</attributes>
-											</identifyingAttributes>
-											<attributes>
-												<attributes>
-													<entry>
-														<key>border-bottom-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-left-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-right-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-top-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>caret-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>column-rule-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>outline-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>padding-left</key>
-														<value xsi:type="xsd:string">10px</value>
-													</entry>
-													<entry>
-														<key>padding-right</key>
-														<value xsi:type="xsd:string">24px</value>
-													</entry>
-													<entry>
-														<key>shown</key>
-														<value xsi:type="xsd:string">true</value>
-													</entry>
-													<entry>
-														<key>text-decoration-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-												</attributes>
-											</attributes>
-											<containedElements retestId="seller_center">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>577</x>
-															<y>11</y>
-															<height>17</height>
-															<width>72</width>
-														</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>10</x>
-															<y>11</y>
-															<height>-22</height>
-															<width>-34</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-														<attribute key="text" xsi:type="textAttribute">Seller Center</attribute>
-														<attribute key="type" xsi:type="stringAttribute">a</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>href</key>
-															<value xsi:type="xsd:string">javascript:;</value>
-														</entry>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
-										</containedElements>
-									</containedElements>
-								</containedElements>
-								<containedElements retestId="div-65">
-									<identifyingAttributes>
-										<attributes>
-											<attribute key="absolute-outline" xsi:type="outlineAttribute">
-												<x>912</x>
-												<y>0</y>
-												<height>39</height>
-												<width>161</width>
-											</attribute>
-											<attribute key="class" xsi:type="stringAttribute">ng-item-wrap ng-item ng-switcher</attribute>
-											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>350</x>
-												<y>0</y>
-												<height>0</height>
-												<width>-554</width>
-											</attribute>
-											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]</attribute>
-											<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
-											<attribute key="type" xsi:type="stringAttribute">div</attribute>
-										</attributes>
-									</identifyingAttributes>
-									<attributes>
-										<attributes>
-											<entry>
-												<key>data-role</key>
-												<value xsi:type="xsd:string">region-pannel</value>
-											</entry>
-											<entry>
-												<key>float</key>
-												<value xsi:type="xsd:string">left</value>
-											</entry>
-											<entry>
-												<key>line-height</key>
-												<value xsi:type="xsd:string">39px</value>
-											</entry>
-											<entry>
-												<key>position</key>
-												<value xsi:type="xsd:string">relative</value>
-											</entry>
-											<entry>
-												<key>shown</key>
-												<value xsi:type="xsd:string">true</value>
-											</entry>
-										</attributes>
-									</attributes>
-									<containedElements retestId="div-66">
-										<identifyingAttributes>
-											<attributes>
-												<attribute key="absolute-outline" xsi:type="outlineAttribute">
-													<x>912</x>
-													<y>0</y>
-													<height>39</height>
-													<width>161</width>
-												</attribute>
-												<attribute key="outline" xsi:type="outlineAttribute">
-													<x>0</x>
-													<y>0</y>
-													<height>0</height>
-													<width>0</width>
-												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]</attribute>
-												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-												<attribute key="type" xsi:type="stringAttribute">div</attribute>
-											</attributes>
-										</identifyingAttributes>
-										<attributes>
-											<attributes>
-												<entry>
-													<key>data-role</key>
-													<value xsi:type="xsd:string">region-pannel</value>
-												</entry>
-												<entry>
-													<key>padding-left</key>
-													<value xsi:type="xsd:string">4px</value>
-												</entry>
-												<entry>
-													<key>padding-right</key>
-													<value xsi:type="xsd:string">4px</value>
+													<key>position</key>
+													<value xsi:type="xsd:string">relative</value>
 												</entry>
 												<entry>
 													<key>shown</key>
@@ -15465,333 +15270,6 @@
 												</entry>
 											</attributes>
 										</attributes>
-										<containedElements retestId="switcherinfo">
-											<identifyingAttributes>
-												<attributes>
-													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>916</x>
-														<y>0</y>
-														<height>39</height>
-														<width>153</width>
-													</attribute>
-													<attribute key="class" xsi:type="stringAttribute">switcher-info notranslate</attribute>
-													<attribute key="id" xsi:type="stringAttribute">switcher-info</attribute>
-													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>4</x>
-														<y>0</y>
-														<height>0</height>
-														<width>-8</width>
-													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]</attribute>
-													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-													<attribute key="type" xsi:type="stringAttribute">a</attribute>
-												</attributes>
-											</identifyingAttributes>
-											<attributes>
-												<attributes>
-													<entry>
-														<key>border-bottom-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-left-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-right-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>border-top-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>caret-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>column-rule-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>data-role</key>
-														<value xsi:type="xsd:string">menu</value>
-													</entry>
-													<entry>
-														<key>href</key>
-														<value xsi:type="xsd:string">javascript:void(0)</value>
-													</entry>
-													<entry>
-														<key>outline-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-													<entry>
-														<key>padding-left</key>
-														<value xsi:type="xsd:string">10px</value>
-													</entry>
-													<entry>
-														<key>padding-right</key>
-														<value xsi:type="xsd:string">24px</value>
-													</entry>
-													<entry>
-														<key>position</key>
-														<value xsi:type="xsd:string">relative</value>
-													</entry>
-													<entry>
-														<key>rel</key>
-														<value xsi:type="xsd:string">nofollow</value>
-													</entry>
-													<entry>
-														<key>shown</key>
-														<value xsi:type="xsd:string">true</value>
-													</entry>
-													<entry>
-														<key>text-decoration-color</key>
-														<value xsi:type="xsd:string">rgb(51, 51, 51)</value>
-													</entry>
-												</attributes>
-											</attributes>
-											<containedElements retestId="span-14">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>926</x>
-															<y>11</y>
-															<height>17</height>
-															<width>31</width>
-														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">ship-to</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>10</x>
-															<y>11</y>
-															<height>-22</height>
-															<width>-122</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[1]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-														<attribute key="type" xsi:type="stringAttribute">span</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>padding-right</key>
-															<value xsi:type="xsd:string">25px</value>
-														</entry>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-												<containedElements retestId="i-9">
-													<identifyingAttributes>
-														<attributes>
-															<attribute key="absolute-outline" xsi:type="outlineAttribute">
-																<x>929</x>
-																<y>12</y>
-																<height>16</height>
-																<width>25</width>
-															</attribute>
-															<attribute key="class" xsi:type="stringAttribute">css_flag css_us</attribute>
-															<attribute key="outline" xsi:type="outlineAttribute">
-																<x>3</x>
-																<y>1</y>
-																<height>-1</height>
-																<width>-6</width>
-															</attribute>
-															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[1]/i[1]</attribute>
-															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-															<attribute key="type" xsi:type="stringAttribute">i</attribute>
-														</attributes>
-													</identifyingAttributes>
-													<attributes>
-														<attributes>
-															<entry>
-																<key>background-image</key>
-																<value xsi:type="xsd:string">url(&quot;file:///home/allion/visual-testing/src/test/resources/pages/ae01.alicdn.com/kf/H9f160b429e0548c29e7f24631e8276e58.png&quot;)</value>
-															</entry>
-															<entry>
-																<key>background-position</key>
-																<value xsi:type="xsd:string">0px -8279px</value>
-															</entry>
-															<entry>
-																<key>background-repeat</key>
-																<value xsi:type="xsd:string">no-repeat</value>
-															</entry>
-															<entry>
-																<key>display</key>
-																<value xsi:type="xsd:string">inline-block</value>
-															</entry>
-															<entry>
-																<key>line-height</key>
-																<value xsi:type="xsd:string">15px</value>
-															</entry>
-															<entry>
-																<key>margin-left</key>
-																<value xsi:type="xsd:string">3px</value>
-															</entry>
-															<entry>
-																<key>margin-right</key>
-																<value xsi:type="xsd:string">-25px</value>
-															</entry>
-															<entry>
-																<key>margin-top</key>
-																<value xsi:type="xsd:string">-2px</value>
-															</entry>
-															<entry>
-																<key>padding-left</key>
-																<value xsi:type="xsd:string">25px</value>
-															</entry>
-															<entry>
-																<key>shown</key>
-																<value xsi:type="xsd:string">true</value>
-															</entry>
-															<entry>
-																<key>vertical-align</key>
-																<value xsi:type="xsd:string">middle</value>
-															</entry>
-														</attributes>
-													</attributes>
-												</containedElements>
-											</containedElements>
-											<containedElements retestId="usd">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1015</x>
-															<y>0</y>
-															<height>39</height>
-															<width>30</width>
-														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">currency</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>99</x>
-															<y>0</y>
-															<height>0</height>
-															<width>-123</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[5]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
-														<attribute key="text" xsi:type="textAttribute">USD</attribute>
-														<attribute key="type" xsi:type="stringAttribute">span</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>display</key>
-															<value xsi:type="xsd:string">inline-block</value>
-														</entry>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-														<entry>
-															<key>text-align</key>
-															<value xsi:type="xsd:string">center</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
-											<containedElements retestId="span-15">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>1008</x>
-															<y>11</y>
-															<height>17</height>
-															<width>4</width>
-														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">split</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>92</x>
-															<y>11</y>
-															<height>-22</height>
-															<width>-149</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[4]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
-														<attribute key="text" xsi:type="textAttribute">/</attribute>
-														<attribute key="type" xsi:type="stringAttribute">span</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
-											<containedElements retestId="english">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>965</x>
-															<y>11</y>
-															<height>17</height>
-															<width>40</width>
-														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">language_txt</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>49</x>
-															<y>11</y>
-															<height>-22</height>
-															<width>-113</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[3]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
-														<attribute key="text" xsi:type="textAttribute">English</attribute>
-														<attribute key="type" xsi:type="stringAttribute">span</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
-											<containedElements retestId="span-16">
-												<identifyingAttributes>
-													<attributes>
-														<attribute key="absolute-outline" xsi:type="outlineAttribute">
-															<x>957</x>
-															<y>11</y>
-															<height>17</height>
-															<width>4</width>
-														</attribute>
-														<attribute key="class" xsi:type="stringAttribute">split</attribute>
-														<attribute key="outline" xsi:type="outlineAttribute">
-															<x>41</x>
-															<y>11</y>
-															<height>-22</height>
-															<width>-149</width>
-														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[1]/a[1]/span[2]</attribute>
-														<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
-														<attribute key="text" xsi:type="textAttribute">/</attribute>
-														<attribute key="type" xsi:type="stringAttribute">span</attribute>
-													</attributes>
-												</identifyingAttributes>
-												<attributes>
-													<attributes>
-														<entry>
-															<key>shown</key>
-															<value xsi:type="xsd:string">true</value>
-														</entry>
-													</attributes>
-												</attributes>
-											</containedElements>
-										</containedElements>
 									</containedElements>
 								</containedElements>
 								<containedElements retestId="div-67">
@@ -15805,12 +15283,12 @@
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">ng-item-wrap ng-help-wrap</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>114</x>
+												<x>0</x>
 												<y>0</y>
 												<height>0</height>
-												<width>-480</width>
+												<width>-250</width>
 											</attribute>
-											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
 											<attribute key="type" xsi:type="stringAttribute">div</attribute>
 										</attributes>
@@ -15855,7 +15333,7 @@
 													<height>0</height>
 													<width>-126</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
@@ -15895,7 +15373,7 @@
 														<height>-22</height>
 														<width>-16</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/a[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="text" xsi:type="textAttribute">Buyer Protection</attribute>
 													<attribute key="type" xsi:type="stringAttribute">a</attribute>
@@ -15971,7 +15449,7 @@
 													<height>0</height>
 													<width>-178</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
@@ -16011,7 +15489,7 @@
 														<height>-21</height>
 														<width>-16</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[3]/a[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="text" xsi:type="textAttribute">App</attribute>
 													<attribute key="type" xsi:type="stringAttribute">a</attribute>
@@ -16103,7 +15581,7 @@
 													<height>0</height>
 													<width>-176</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
@@ -16136,7 +15614,7 @@
 														<height>0</height>
 														<width>0</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/span[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/span[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="text" xsi:type="textAttribute">Help</attribute>
 													<attribute key="type" xsi:type="stringAttribute">span</attribute>
@@ -16208,12 +15686,12 @@
 											</attribute>
 											<attribute key="class" xsi:type="stringAttribute">ng-item-wrap ng-personal-info</attribute>
 											<attribute key="outline" xsi:type="outlineAttribute">
-												<x>511</x>
+												<x>281</x>
 												<y>0</y>
 												<height>0</height>
-												<width>-511</width>
+												<width>-281</width>
 											</attribute>
-											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]</attribute>
+											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">5</attribute>
 											<attribute key="type" xsi:type="stringAttribute">div</attribute>
 										</attributes>
@@ -16259,7 +15737,7 @@
 													<height>0</height>
 													<width>-94</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
@@ -16296,7 +15774,7 @@
 														<height>0</height>
 														<width>0</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="type" xsi:type="stringAttribute">span</attribute>
 												</attributes>
@@ -16336,7 +15814,7 @@
 															<height>-22</height>
 															<width>-16</width>
 														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]/a[1]</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]/a[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 														<attribute key="type" xsi:type="stringAttribute">a</attribute>
 													</attributes>
@@ -16413,7 +15891,7 @@
 																<height>-1</height>
 																<width>-79</width>
 															</attribute>
-															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]/a[1]/i[1]</attribute>
+															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]/a[1]/i[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 															<attribute key="type" xsi:type="stringAttribute">i</attribute>
 														</attributes>
@@ -16463,7 +15941,7 @@
 																<height>0</height>
 																<width>-36</width>
 															</attribute>
-															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[3]/span[1]/a[1]/span[1]</attribute>
+															<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[3]/span[1]/a[1]/span[1]</attribute>
 															<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 															<attribute key="text" xsi:type="textAttribute">Account</attribute>
 															<attribute key="type" xsi:type="stringAttribute">span</attribute>
@@ -16505,7 +15983,7 @@
 													<height>0</height>
 													<width>-119</width>
 												</attribute>
-												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]</attribute>
+												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]</attribute>
 												<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
 												<attribute key="type" xsi:type="stringAttribute">div</attribute>
 											</attributes>
@@ -16545,7 +16023,7 @@
 														<height>-22</height>
 														<width>-16</width>
 													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]/a[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 													<attribute key="type" xsi:type="stringAttribute">a</attribute>
 												</attributes>
@@ -16618,7 +16096,7 @@
 															<height>0</height>
 															<width>-20</width>
 														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]/span[1]</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]/a[1]/span[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 														<attribute key="text" xsi:type="textAttribute">Wish List</attribute>
 														<attribute key="type" xsi:type="stringAttribute">span</attribute>
@@ -16653,7 +16131,7 @@
 															<height>-1</height>
 															<width>-54</width>
 														</attribute>
-														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[5]/div[2]/a[1]/i[1]</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[1]/div[1]/div[4]/div[2]/a[1]/i[1]</attribute>
 														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
 														<attribute key="type" xsi:type="stringAttribute">i</attribute>
 													</attributes>
@@ -23484,39 +22962,6 @@
 							</attributes>
 						</attributes>
 					</containedElements>
-				</containedElements>
-				<containedElements retestId="div-94">
-					<identifyingAttributes>
-						<attributes>
-							<attribute key="absolute-outline" xsi:type="outlineAttribute">
-								<x>0</x>
-								<y>2804</y>
-								<height>0</height>
-								<width>1356</width>
-							</attribute>
-							<attribute key="outline" xsi:type="outlineAttribute">
-								<x>0</x>
-								<y>2804</y>
-								<height>-2804</height>
-								<width>0</width>
-							</attribute>
-							<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[2]</attribute>
-							<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
-							<attribute key="type" xsi:type="stringAttribute">div</attribute>
-						</attributes>
-					</identifyingAttributes>
-					<attributes>
-						<attributes>
-							<entry>
-								<key>data-widget-cid</key>
-								<value xsi:type="xsd:string">widget-11</value>
-							</entry>
-							<entry>
-								<key>shown</key>
-								<value xsi:type="xsd:string">true</value>
-							</entry>
-						</attributes>
-					</attributes>
 				</containedElements>
 			</containedElements>
 			<screenshot>
