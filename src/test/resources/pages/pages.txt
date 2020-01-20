@@ -1,5 +1,4 @@
 360.cn
-aliexpress.com
 alipay.com
 amazon.com
 apple.com
@@ -7,10 +6,8 @@ baidu.com
 bbc.com
 blogspot.com
 csdn.net
-facebook.com
 github.com
 google.com
-imdb.com
 jd.com
 live.com
 netflix.com
