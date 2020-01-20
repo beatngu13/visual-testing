@@ -82,6 +82,11 @@ matcher: retestid=path-70, attribute=d
 matcher: retestid=path-89, attribute=fill
 matcher: retestid=path-89, attribute=d
 
+## facebook.com
+
+matcher: retestid=div-15
+matcher: retestid=u_0_m
+
 ## jd.com
 
 matcher: class=sliderBannerWrapper
