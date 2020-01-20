@@ -33,11 +33,11 @@ attribute-regex=transition-.*
 matcher: type=map
 matcher: type=meta
 
-matcher: type=body, attribute: class
-matcher: type=br, attribute: outline
+matcher: type=body, attribute=class
+matcher: type=br, attribute=outline
 
 # Ignore pixel diffs up to 25 pixels.
-pixel-diff=25
+pixel-diff=25px
 
 ## 360.cn
 
@@ -76,32 +76,22 @@ matcher: id=myCarousel
 matcher: id=enterpriseCarousel
 matcher: id=toolber-keyword
 
-## imdb.com
-
-matcher: xpath=html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[1]
-matcher: xpath=html[1]/body[1]/div[4]/footer[1]/div[2]/div[2]/ul[2]
-matcher: xpath=html[1]/body[1]/div[3]/div[1]/div[2]/div[3]/div[1]/div[2]/div[11]/span[1]/div[1]/div[1]/div[1]/iframe[1]
-
 ## jd.com
 
 matcher: class=sliderBannerWrapper
 
 ## live.com
 
-matcher: xpath=html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1], attribute: outline
+matcher: xpath=html[1]/body[1]/main[1]/section[3]/div[1]/div[1]/div[1]/div[1], attribute=outline
 
 ## netflix.com
 
 matcher: class=our-story-card-animation-container
 matcher: id=cookie-disclosure
 
-## qq.com
+## twitter.com
 
-matcher: id=gg-focus1
-matcher: xpath=html[1]/body[1]/div[1]/div[4]/div[1]
-matcher: xpath=html[1]/body[1]/div[1]/div[14]/div[2]
-matcher: xpath=html[1]/body[1]/div[1]/div[7]
-matcher: xpath=html[1]/body[1]/div[1]/div[18]
+matcher: retestid=sreventlog
 
 ## yahoo.com
 
