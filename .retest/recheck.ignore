@@ -75,6 +75,12 @@ matcher: id=magzCarousel
 matcher: id=myCarousel
 matcher: id=enterpriseCarousel
 matcher: id=toolber-keyword
+matcher: retestid=feedbokezhuanjia, attribute=path
+matcher: retestid=gitchat, attribute=path
+matcher: retestid=path-70, attribute=fill
+matcher: retestid=path-70, attribute=d
+matcher: retestid=path-89, attribute=fill
+matcher: retestid=path-89, attribute=d
 
 ## jd.com
 

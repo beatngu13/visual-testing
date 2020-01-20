@@ -6,11 +6,11 @@ baidu.com
 bbc.com
 blogspot.com
 csdn.net
+facebook.com
 github.com
 google.com
 jd.com
 live.com
-netflix.com
 soso.com
 stackoverflow.com
 twitter.com
