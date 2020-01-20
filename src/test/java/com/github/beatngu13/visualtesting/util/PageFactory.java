@@ -29,6 +29,18 @@ public class PageFactory {
 		}
 	}
 
+	/**
+	 * @return Applitools demo URL.
+	 */
+	public static String getApplitoolsDemo() {
+		try {
+			// Switch to 'actual.html' for differences.
+			return Paths.get("src/test/resources/applitools-demo-page/expected.html").toUri().toURL().toString();
+		} catch (final MalformedURLException e) {
+			throw new RuntimeException(e);
+		}
+	}
+
 	private static String getUrlString(final String relativePath) {
 		try {
 			return Paths.get(BASE_PATH, relativePath, INDEX_FILENAME).toUri().toURL().toString();
