@@ -57,22 +57,11 @@ Disallow: /settings/deactivated
 
 #Microsoft Search Engine Robot
 User-Agent: msnbot
-Allow: /?_escaped_fragment_
+Disallow: /
 
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/not_my_account
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
+#Bing Search Engine Robot
+User-Agent: bingbot
+Disallow: /
 
 # Every bot that might possibly read and respect this file.
 User-agent: *

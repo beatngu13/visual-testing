@@ -14,10 +14,8 @@ imdb.com
 jd.com
 live.com
 netflix.com
-qq.com
 soso.com
 stackoverflow.com
-tmall.com
 twitter.com
 vk.com
 wikipedia.org

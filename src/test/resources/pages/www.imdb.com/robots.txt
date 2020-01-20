@@ -25,3 +25,4 @@ Disallow: /title/tt*/mediaviewer/rm*/tr
 Disallow: /name/nm*/mediaviewer/rm*/tr
 Disallow: /gallery/rg*/mediaviewer/rm*/tr
 Disallow: /tr/
+Disallow: /title/tt*/watchoptions

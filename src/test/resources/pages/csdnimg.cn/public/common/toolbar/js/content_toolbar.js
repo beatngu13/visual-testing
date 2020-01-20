@@ -201,6 +201,63 @@ function is_bloger() {
         logo_title = '1024';
     }
 
+    // 获取时间戳
+    function getTimestamp (date) {
+      return Math.round(new Date(date).getTime() / 1000);
+    }
+
+    // 判断当前日期是否处在节日范围(春节、博客之星）
+    // 春节（【小年前一天】2020/01/16 14:00:00 - 【正月十五后一天】2020/02/09 10:30:00）
+    // 博客之星（上线日期-2020/02/29 00:00:00）
+    function isFestivalRange (day) {
+      var start_time,
+          end_time,
+          now_time = Math.floor(Date.now() / 1000), // 当前时间戳
+          ChineseNewYear_start_time = getTimestamp('2020/01/16 14:00:00'),
+          ChineseNewYear_end_time = getTimestamp('2020/02/09 10:30:00'),
+          blogStar_start_time = getTimestamp('2020/01/08 00:00:00'),
+          blogStar_end_time = getTimestamp('2020/02/29 00:00:00');
+      if (day === 'ChineseNewYear') {
+        start_time = ChineseNewYear_start_time;
+        end_time = ChineseNewYear_end_time;
+      } else if (day === 'blogStar') {
+        start_time = blogStar_start_time;
+        end_time = blogStar_end_time;
+      }
+      return now_time > start_time && now_time < end_time;
+    }
+
+    // 设置节日logo
+    function setFestiveLogo () {
+      var logo_tpl,
+          logo_title,
+          prefix = 'https://csdnimg.cn/cdn/content-toolbar/',
+          csdnlogo_ChineseNewYear = prefix + 'csdnlogo_ChineseNewYear.gif';
+      if (isFestivalRange('ChineseNewYear')) {
+        logo_tpl = '<img src="' + csdnlogo_ChineseNewYear + '">';
+        logo_title = '欢度新春';
+        return { logo_tpl: logo_tpl, logo_title: logo_title };
+      }
+    }
+
+    // toolbar是否有festival类
+    function isFestivalClass () {
+      return $('#csdn-toolbar').hasClass('festival');
+    }
+
+    // 设置春节class
+    function setChineseNewYearClass () {
+      if (isFestivalRange('ChineseNewYear')) {
+        $('#csdn-toolbar').addClass('festival');
+      }
+    }
+
+    var logo_obj = setFestiveLogo(); // 设置节日logo
+    if (logo_obj) {
+      logo_tpl = logo_obj.logo_tpl;
+      logo_title = logo_obj.logo_title;
+    }
+
     //输入框随机抽取关键词
     var searchWordArr = ['Python进阶之路', 'Python工程师'],
         searchWordN = Math.floor(Math.random() * 2),
@@ -234,15 +291,6 @@ function is_bloger() {
             <li data-report-click=\'{"mod":"popu_336","dest":"https://huiyi.csdn.net/","extend1":"活动"}\'><a href="//huiyi.csdn.net/" title="活动">活动</a></li>\
             <li data-report-click=\'{"mod":"popu_336","dest":"https://spec.csdn.net/","extend1":"专题"}\'><a href="https://spec.csdn.net/" title="专题">专题</a></li>\
             <li data-report-click=\'{"mod":"popu_336","dest":"https://job.csdn.net","extend1":"招聘"}\'><a href="http://job.csdn.net" title="招聘">招聘</a></li>\
-            <li data-report-click=\'{"mod":"popu_336","dest":"https://www.iteye.com","extend1":"ITeye"}\'><a href="http://www.iteye.com" title="ITeye" target="_blank" >ITeye</a></li>\
-            <li data-report-click=\'{"mod":"popu_336","dest":"https://gitbook.cn/?ref=csdn","extend1":"GitChat"}\' class="app-control app-gitchat"><a href="https://gitbook.cn/?ref=csdn" title="GitChat">GitChat</a>\
-              <div class="appControl">\
-                <span>\
-                  <img src="https://csdnimg.cn/public/common/toolbar/images/csdn-gitchat.png" />\
-                  <em>GitChat</em>\
-                </span>\
-              </div>\
-            </li>\
             <li data-report-click=\'{"mod":"popu_336","dest":"https://www.csdn.net/apps/download?code=pc_1555579859","extend1":"APP"}\' class="app-control app-app"><a class="link-title" href="https://www.csdn.net/apps/download" data-report-query="code=pc_1555579859" title="APP">APP</a>\
               <div class="appControl">\
               <span>\
@@ -251,21 +299,23 @@ function is_bloger() {
               </span>\
               </div>\
             </li>\
-            <li data-report-click=\'{"mod":"popu_336","dest":"https://mall.csdn.net/vip","extend1":"VIP会员"}\' class="vip-caise"><a href="https://mall.csdn.net/vip" title="VIP会员">VIP会员</a><span class="vip-totast">续费8折</span></li>\
-                <div class="search_bar onlySearch searchUser" data-report-click=\'{"mod":"popu_369","dest":"https://so.csdn.net/so/"}\' data-report-view=\'{"mod":"popu_369","dest":"https://so.csdn.net/so/"}\'>\
+            <li data-report-click=\'{"mod":"popu_336","dest":"https://mall.csdn.net/vip","extend1":"VIP会员"}\' class="vip-caise"><a href="https://mall.csdn.net/vip" title="VIP会员">VIP会员</a><span class="vip-totast">续费8折</span></li>'
+            + blogStar() +
+                '<div class="search_bar onlySearch searchUser" data-report-click=\'{"mod":"popu_369","dest":"https://so.csdn.net/so/"}\' data-report-view=\'{"mod":"popu_369","dest":"https://so.csdn.net/so/"}\'>\
                     <input type="text" class="input_search" name="" autocomplete="off" value='+ searchWord + ' id="toolber-keyword" placeholder=' + input_placeholder + '>\
                     <a href="//so.csdn.net/so/" target="_blank" class="btn-nobg-noborder btn-search">\
                     <img src="//csdnimg.cn/cdn/content-toolbar/csdn-sou.png?v=20190924.1">\
-                    </a>\
-                </div>\
+                    </a>'
+                    + buildDropDownMenu('search_bar') +
+                '</div>\
           </ul>\
           <div class="pull-right onlyUser searchUser login-wrap '+ loginMark + '">\
             <ul class="btns">\
               <li class="write-bolg-btn" data-report-click=\'{"mod":"popu_370","dest":"https://mp.csdn.net/postedit"}\' data-report-view=\'{"mod":"popu_370","dest":"https://mp.csdn.net/postedit"}\'><a class="" href="//mp.csdn.net/postedit" target="_blank" id="blogClick">\
-              <img src="//csdnimg.cn/cdn/content-toolbar/csdn-write.png">\
+              <i class="csdn-write"></i>\
               <span>写博客</span></a>\
               <li class="gitChat upload msgBox" id="msgBox">\
-              <a class="" href="//i.csdn.net/#/msg/index"><img src="https://csdnimg.cn/public/common/toolbar/images/messageIcon.png" alt="" class="message"><div class="toolbar-circle" id="msg-circle"></div></a>\
+              <a class="" id="remind" href="#"><i class="message"></i><div class="toolbar-circle" id="msg-circle"></div></a>\
                 <div class="msgList" id="msgList">\
                   <dd><a href="#" id="msgList-notice">公告<em class="notice"></em></a></dd>\
                   <div id="msgList-other">\
@@ -295,14 +345,14 @@ function is_bloger() {
                   <div data-report-click=\'{"mod":"popu_789","dest":"https://blog.csdn.net/'+ currUser.userName + '","extend1":"我的博客"}\'><i class="pull_icon pull_icon5"></i><a href="https://blog.csdn.net/'+ currUser.userName + '" target="_blank">我的博客</a></div>\
                   <div data-report-click=\'{"mod":"popu_789","dest":"https://mp.csdn.net/","extend1":"管理博客"}\'><i class="pull_icon pull_icon6"></i><a href="https://mp.csdn.net/" target="_blank">管理博客</a></div>\
                   <div data-report-click=\'{"mod":"popu_789","dest":"https://edu.csdn.net/mycollege","extend1":"我的学院"}\'><i class="pull_icon pull_icon12"></i><a href="https://edu.csdn.net/mycollege" target="_blank">我的学院</a></div>\
-                  <div data-report-click=\'{"mod":"popu_789","dest":"https://download.csdn.net/my/downloads","extend1":"我的下载"}\'><i class="pull_icon pull_icon13"></i><a href="https://download.csdn.net/my/downloads" target="_blank">我的下载</a></div>\
+                  <div data-report-click=\'{"mod":"popu_789","dest":"https://download.csdn.net/my/downloads","extend1":"我的下载"}\'><i class="pull_icon pull_icon13"></i><a href="https://download.csdn.net/my/downloads" target="_blank">我的下载</a></div><div><i class="pull_icon pull_icon14"></i><a href="https://huiyi.csdn.net/activity/myorder" target="_blank">我的活动</a></div>\
                   </div>\
                   <div class="bord">\
                   <div data-report-click=\'{"mod":"popu_789","dest":"https://my.csdn.net/my/score","extend1":"我的C币"}\'><i class="pull_icon pull_icon8"></i><a href="https://my.csdn.net/my/score" target="_blank">我的C币</a></div>\
                   <div data-report-click=\'{"mod":"popu_789","dest":"https://order.csdn.net/myorder","extend1":"订单中心"}\'><i class="pull_icon pull_icon9"></i><a href="https://order.csdn.net/myorder" target="_blank">订单中心</a></div>\
                   </div>\
                   <div class="bord">\
-                  <div data-report-click=\'{"mod":"popu_789","dest":"https://blog.csdn.net/home/help.html","extend1":"帮助"}\'><i class="pull_icon pull_icon10"></i><a href="https://blog.csdn.net/home/help.html" target="_blank">帮助</a></div>\
+                  <div data-report-click=\'{"mod":"popu_789","dest":"https://blog.csdn.net/blogdevteam/article/details/103478461","extend1":"帮助"}\'><i class="pull_icon pull_icon10"></i><a href="https://blog.csdn.net/blogdevteam/article/details/103478461" target="_blank">帮助</a></div>\
                   <div><i class="pull_icon pull_icon11"></i><a href="javascript:void(0);" class="logout">退出</a></div>\
                   </div>\
                 </div>\
@@ -326,6 +376,8 @@ function is_bloger() {
     if ((window.location.host.indexOf('bbs.csdn.net') > -1 && window.location.pathname.indexOf('home') > -1) || (window.location.host.indexOf('bbs.csdn.net') > -1 && window.location.pathname.indexOf('forums') > -1)) {
         $('.csdn-toolbar').addClass('csdn-toolbarbbshome')
     }
+
+    setChineseNewYearClass(); // 设置春节class
 
     // 消息新接口
     function getNews(announcementCount) {
@@ -427,6 +479,12 @@ function is_bloger() {
     function setHrefValue (announcementUrl) {
         var msgListNotice = $('#msgList-notice')
         msgListNotice.attr('href', announcementUrl)
+        // 登陆跳转到评论页面 没登录跳转到公告
+        if (hasLogin) {
+          $('#remind').attr('href', 'https://i.csdn.net/#/msg/index');
+        } else {
+          $('#remind').attr('href', announcementUrl);
+        }
     }
     // 获取公告读取情况
     function getReadAnnouncement () {
@@ -483,6 +541,27 @@ function is_bloger() {
                 })
             // }
         // }
+    }
+    // 构建下拉菜单
+    function buildDropDownMenu (el) {
+      return '\
+        <div id="' + el  + '__drop-down-menu" class="drop-down-menu">\
+          <dl class="hot-search">\
+            <dt class="hot-search-menu">\
+              <span>热门搜索</span>\
+            </dt>\
+          </dl>\
+          <dl class="search-history" class="clearfix">\
+            <dt class="search-history-menu">\
+              <span class="search-history-title">搜索记录</span>\
+              <span class="clear">清空</span>\
+            </dt>\
+          </dl>\
+        </div>';
+    }
+    // 动态创建博客之星标签（生效范围：上线日期-2020-02-29 00:00:00）
+    function blogStar () {
+      return isFestivalRange('blogStar') ? '<li><a href="https://bss.csdn.net/m/topic/blog_star2019" title="博客之星">博客之星</a></li>' : '';
     }
     /*
        全站新添修改
@@ -717,7 +796,11 @@ function is_bloger() {
                 if ($dom.is(":animated")) {
                     $dom.stop(true, true).fadeIn(200);
                 }
-                $(this).find('.link-title').css('color', '#222429')
+                if (isFestivalClass()) {
+                  $(this).find('.link-title').css('color', '');
+                } else {
+                  $(this).find('.link-title').css('color', '#222429');
+                }
                 $dom.stop(true, true).fadeIn(200);
             },
             hideMore: function () {
@@ -832,8 +915,8 @@ function is_bloger() {
         }
         var searchBtn = $(".btn-search"),
             searchInpt = $(".input_search"),
-            _this = this;
-
+            _this = this,
+            dropDownMenu = $('#search_bar__drop-down-menu');
         //高亮当前导航
         var myNav = document.getElementById("nav-left-menu").getElementsByTagName("a");
         var currenturl = document.location.href;
@@ -856,7 +939,7 @@ function is_bloger() {
             var aurl = myNav[i].getAttribute("href");
             aurl = aurl.substr(aurl.indexOf('/'));
             if(currenturl.indexOf("apps/download")>-1){
-                myNav[14].className = "active";
+                myNav[10].className = "active";
             }
             if (currenturl.indexOf(aurl) != -1 && aurl != '//mall.csdn.net') {
                 // 包含vip
@@ -879,6 +962,7 @@ function is_bloger() {
             if (currenturl.indexOf('//edu.csdn.net') != -1) {
                 eduSearch($(this), $(this).prev("input").val())
             }
+            updataSearchHistory(searchInpt.val(), dropDownMenu);
             goFn($(this), $(this).prev("input").val());
             e.preventDefault();
         });
@@ -886,6 +970,7 @@ function is_bloger() {
         searchInpt.keyup(function (event) {
             var evCode = event.keyCode;
             if (evCode == 13) {
+                updataSearchHistory(searchInpt.val(), dropDownMenu);
                 var searchTxt = encodeURIComponent($(this).val()),
                     url = "//so.csdn.net/so/search/s.do?q=" + searchTxt + "&t=" + getT() + get_user_name();
                 window.open(url)
@@ -894,11 +979,160 @@ function is_bloger() {
         $('#toolber-keyword')[0].addEventListener('focus', function () {
             $('#toolber-keyword')[0].setAttribute('placeholder', searchWord)
             $('#toolber-keyword')[0].removeAttribute('value')
+            getDropDownMenuData(dropDownMenu);
+            if (searchInpt.val() === '') { // 输入框值为空时展示自己的下拉菜单
+              dropDownMenu.show();
+              buriedPoint({ mod: 'popu_369' });
+            }
         });
         $('#toolber-keyword')[0].addEventListener('blur', function () {
             $('#toolber-keyword')[0].setAttribute('placeholder', searchWord)
             $('#toolber-keyword')[0].setAttribute('value', searchWord)
         });
+
+        // 监听搜索框input事件 为空时显示自己的下拉菜单 不为空时显示百度的
+        searchInpt.on('input', function () {
+          if ($(this).val() !== '') {
+            dropDownMenu.hide();
+          } else {
+            getDropDownMenuData(dropDownMenu);
+            dropDownMenu.show();
+            buriedPoint({ mod: 'popu_369' });
+          }
+        });
+
+        // 获取下拉菜单数据（热门+搜索记录）
+        function getDropDownMenuData (el) {
+          getSearchHistoryData(el);
+          getHotSearchData(el);
+        }
+
+        // 获取热门搜索数据
+        function getHotSearchData (el) {
+          $.ajax({
+            url: 'https://redisdatarecall.csdn.net/recommend/soHotWord',
+            type: 'get',
+            data: {},
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (res) {
+              if (res.status) {
+                el.find('.hot-search-menu').nextAll().remove();
+                var data = res.data,
+                    html = '',
+                    className = '';
+                for (var i = 0; i < data.length; i++) {
+                  className = data[i].hot ? ' class="hot"' : '';
+                  html += '<dd' + className + '>' + data[i].word + '</dd>';
+                }
+                el.find('.hot-search').append(html);
+              }
+            },
+            error: function (err) {}
+          });
+        }
+
+        // 更新搜索记录
+        function updataSearchHistory (val, el) {
+          addSearchHistory(val);
+          getSearchHistoryData(el);
+        }
+
+        // 获取搜索记录
+        function getSearchHistoryData (el) {
+          el.find('.search-history-menu').nextAll().remove();
+					var html = '',
+							searchHistoryArray = getSearchHistoryArray('searchHistoryArray'),
+              len = searchHistoryArray.length > 5 ? 5 : searchHistoryArray.length;
+          if (len === 0) {
+            el.find('.search-history').hide();
+            return;
+          }
+          for (var i = 0; i < len; i++) {
+            html += '<dd>' + searchHistoryArray[i] + '</dd>';
+          }
+          el.find('.search-history').append(html);
+          el.find('.search-history').show();
+        }
+
+        // 新增搜索记录 存到cookie里
+        // 先查找有没有 如果有的话放到数组最前面 超过5个删除最后一个
+        function addSearchHistory (val) {
+					val = filterHtmlTags(val);
+					var searchHistoryArray = getSearchHistoryArray('searchHistoryArray'),
+          		searchIndex = $.inArray(val, searchHistoryArray);
+          if (searchIndex > -1) {
+            searchHistoryArray.splice(searchIndex, 1);
+          }
+          if ($.trim(val) !== '') {
+            searchHistoryArray.unshift(val);
+          }
+          if (searchHistoryArray.length > 5) {
+            searchHistoryArray.pop();
+          }
+					updataSearchHistoryArray('searchHistoryArray', searchHistoryArray);
+        }
+
+        // 过滤html标签
+        function filterHtmlTags (str) {
+					return str.replace(/</g,'&lt;').replace(/>/g,'&gt;');
+        }
+
+        // 清空搜索记录 searchHistory设置为空数组
+        function clearSearchHistory () {
+					updataSearchHistoryArray('searchHistoryArray', []);
+				}
+
+				// 更新搜索记录 重新设置cookie
+				function updataSearchHistoryArray (cookieName, searchHistoryArray) {
+					setCookie(cookieName, encodeURIComponent(JSON.stringify(searchHistoryArray)));
+				}
+				
+				// 从cookie里获取搜索记录
+				function getSearchHistoryArray (cookieName) {
+					var searchHistoryArray = getCookie(cookieName);
+					return searchHistoryArray ? JSON.parse(decodeURIComponent(searchHistoryArray)) : [];
+				}
+
+				// 埋点（toolbar下拉菜单显示时、点击下拉菜单某一条时触发）
+				function buriedPoint (trackdata) {
+					try {
+						csdn && csdn.report && csdn.report.reportClick(trackdata);
+					} catch (error) {
+						console.log(error);
+					}
+				}
+
+        // 点击清空按钮
+        dropDownMenu.find('.clear').on('click', function () {
+          clearSearchHistory();
+          dropDownMenu.find('.search-history').hide();
+          dropDownMenu.find('.search-history-menu').nextAll().remove();
+        });
+
+        // 点击热门搜索/搜索记录 跳转
+        $(document).on('click', '#search_bar__drop-down-menu dl dd', function (e) {
+          var target = $(e.target),
+              parentClassName = target.parent().attr('class');
+          $('#toolber-keyword').val(target.text());
+          searchBtn.click();
+          dropDownMenu.hide();
+          if (parentClassName === 'hot-search') {
+            buriedPoint({ mod: 'popu_845' });
+          }
+          if (parentClassName === 'search-history') {
+            buriedPoint({ mod: 'popu_846' });
+          }
+        });
+
+        // 点击空白区域 隐藏下拉菜单
+        $(document).on('click', function (e) {
+          var target = $(e.target);
+          if (target.closest('.search_bar').length === 0) {
+            dropDownMenu.hide();
+          }
+        });
+
         // 绑定删除方法
         $(document).on('click', '.toolbar_delete_bar', function () {
             $('.input_search').val(' ')
@@ -1024,18 +1258,20 @@ function is_bloger() {
             document.getElementsByTagName("head")[0].appendChild(script);
         }
 
-        loadScript("//csdnimg.cn/search/baidu_opensug-1.0.0.js", function () {
+        loadScript("//csdnimg.cn/search/baidu_opensug-1.0.1.js", function () {
             BaiduSuggestion.bind("toolber-keyword", {
                 "XOffset": "0",
                 "YOffset": "-5",
                 "fontSize": "14px",		//文字大小
-                "width": 226,
+                "width": 260,
                 "line-height": "35px",
                 "padding": "0 10px",
                 'color': "#666C7A",
                 "borderColor": "#fff", 	//提示框的边框颜色
                 "bgcolorHI": "#F0F1F2",		//提示框高亮选择的颜色
                 "sugSubmit": false		//在选择提示词条是是否提交表单
+            }, function () {
+              searchBtn.click();
             });
         });
     })
@@ -1072,6 +1308,7 @@ function  configuration_tool_parameterv(option){//tollbar暴露给外部调用�
     var need_little_suspend = option.need_little_suspend || false;
     var little_tool_id = option.little_tool_id || '';
     var little_need_insert_type = option.little_need_insert_type || '';
+    var need_change_function = option.need_change_function || ''
     var $suspend_dom = $("#csdn-toolbar");
     var dom_str = ''
     var $insert_dom = ''
@@ -1105,6 +1342,9 @@ function  configuration_tool_parameterv(option){//tollbar暴露给外部调用�
                     $('#csdn_tool_otherPlace').append($('.onlyUser'));
                 }
             }
+            if(typeof need_change_function === 'function'){
+                need_change_function('fixed');
+            }
         }else {
             $suspend_dom.css({"position":"relative","z-index":""});
             if(need_little_suspend){
@@ -1121,6 +1361,9 @@ function  configuration_tool_parameterv(option){//tollbar暴露给外部调用�
                     $('#nav-left-menu').append($('.onlySearch'));
                     $('#csdn_container_tool').append($('.onlyUser'));
                 }
+            }
+            if(typeof need_change_function === 'function'){
+                need_change_function('noFixed');
             }
         }
     },80)

@@ -125,6 +125,7 @@ Disallow: /slp/s$
 Disallow: /-/
 Disallow: /gp/video/search
 Allow: /-/es/
+Disallow: /hz/help/contact/*/message/$
 
 User-agent: Googlebot
 Disallow: /creatorhub/*
@@ -257,6 +258,7 @@ Disallow: /hz/leaderboard/top-reviewers/
 Disallow: /slp/*/b$
 Disallow: /-/
 Disallow: /gp/video/search
+Disallow: /hz/help/contact/*/message/$
 Allow: /-/es/
 
 User-agent: EtaoSpider

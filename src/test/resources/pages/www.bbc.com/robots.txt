@@ -1,4 +1,4 @@
-# v.5.0.3
+# v.5.0.4
 # HTTPS  www.bbc.com
 
 
@@ -6,7 +6,6 @@ User-agent: *
 Sitemap: https://www.bbc.com/sitemaps/https-index-com-archive.xml
 Sitemap: https://www.bbc.com/sitemaps/https-index-com-news.xml
 
-Disallow: /graphql
 Disallow: /cbbc/search/
 Disallow: /cbbc/search$
 Disallow: /cbbc/search?
