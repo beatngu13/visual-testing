@@ -1,8 +1,9 @@
 package com.github.beatngu13.visualtesting;
 
+import java.util.function.Supplier;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -16,13 +17,12 @@ import com.github.beatngu13.visualtesting.util.TestUtil;
 import com.github.beatngu13.visualtesting.util.TimingExtension;
 
 /**
- * Tests with Applitools.
+ * Single test with Applitools.
  */
-@Disabled
 @ExtendWith(TimingExtension.class)
 class ApplitoolsTest {
 
-	static BatchInfo batchInfo = new BatchInfo("testTop25");
+	static BatchInfo batchInfo = new BatchInfo("applitools-demo");
 
 	WebDriver driver;
 	Eyes eyes;
@@ -32,15 +32,14 @@ class ApplitoolsTest {
 		eyes = new Eyes();
 		eyes.setApiKey(System.getenv("APPLITOOLS_API_KEY"));
 		eyes.setBatch(batchInfo);
-		eyes.setForceFullPageScreenshot(true);
 	}
 
 	@ParameterizedTest
-	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
-	void testTop25(final WebDriver driver, final String url) throws Exception {
-		this.driver = driver;
-		eyes.open(DriverFactory.unwrap(driver), PageFactory.getName(url), TestUtil.getName(driver, url));
-		driver.get(url);
+	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
+	void test(final Supplier<WebDriver> driverSupplier) throws Exception {
+		this.driver = driverSupplier.get();
+		eyes.open(DriverFactory.unwrap(driver), "applitools-demo", "test");
+		driver.get(PageFactory.getApplitoolsDemo());
 		Thread.sleep(TestUtil.PAGE_LOAD_WAIT_IN_MILLISECONDS);
 		eyes.checkWindow();
 		eyes.close();
