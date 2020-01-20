@@ -4,6 +4,8 @@
 
 	<property name="defaultPattern"
 		value="%d{HH:mm:ss.SSS} [%thread] %-5level %logger{0} - %msg%n" />
+		
+	<timestamp key="timestamp" datePattern="yyyy-MM-dd'_'HH-mm-ss.SSS"/>
 
 	<appender name="STDOUT"
 		class="ch.qos.logback.core.ConsoleAppender">
@@ -13,7 +15,7 @@
 	</appender>
 
 	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
-		<file>${user.dir}/log.txt</file>
+		<file>${user.dir}/log/log-${timestamp}.txt</file>
 		<append>false</append>
 		<encoder>
 			<pattern>${defaultPattern}</pattern>
