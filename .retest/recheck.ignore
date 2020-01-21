@@ -93,6 +93,11 @@ matcher: retestid=path-95, attribute=fill
 matcher: retestid=path-95, attribute=d
 matcher: retestid=path-76, attribute=fill
 
+## ebay.com
+
+matcher: retestid=ul-2, attribute=outline
+matcher: retestid=carousel_showing-1, attribute=text
+
 ## facebook.com
 
 matcher: retestid=div-15
