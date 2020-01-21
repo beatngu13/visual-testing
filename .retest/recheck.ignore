@@ -43,6 +43,17 @@ pixel-diff=25px
 
 matcher: class=focus-slide
 matcher: class=mall-slide
+matcher: retestid=a-90, attribute=outline
+matcher: retestid=a-90, attribute=text
+matcher: retestid=a-90, attribute=position
+matcher: retestid=li-50
+matcher: retestid=li-47
+matcher: retestid=li-50
+matcher: retestid=li-51
+matcher: retestid=li-48
+matcher: retestid=li-49
+matcher: retestid=li-48
+matcher: retestid=li-51
 
 ## amazon.com
 
@@ -77,10 +88,10 @@ matcher: id=enterpriseCarousel
 matcher: id=toolber-keyword
 matcher: retestid=feedbokezhuanjia, attribute=path
 matcher: retestid=gitchat, attribute=path
-matcher: retestid=path-70, attribute=fill
-matcher: retestid=path-70, attribute=d
-matcher: retestid=path-89, attribute=fill
-matcher: retestid=path-89, attribute=d
+matcher: retestid=path-76, attribute=d
+matcher: retestid=path-95, attribute=fill
+matcher: retestid=path-95, attribute=d
+matcher: retestid=path-76, attribute=fill
 
 ## facebook.com
 
