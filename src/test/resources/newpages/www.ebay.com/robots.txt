@@ -1,0 +1,112 @@
+## BEGIN FILE ###
+#
+# allow-all
+# DR
+#
+# The use of robots or other automated means to access the eBay site
+# without the express permission of eBay is strictly prohibited.
+# Notwithstanding the foregoing, eBay may permit automated access to
+# access certain eBay pages but soley for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at <https://www.robotstxt.org/orig.html> is strictly
+# prohibited.
+#
+# v5 - The Bot Strikes Back
+
+### DIRECTIVES ###
+
+User-agent: *
+Disallow: /*?maspect
+Disallow: /*rt%3Dnc
+Disallow: /*rt=nc
+Disallow: /b/*?*_nkw
+Disallow: /b/*?*|
+Disallow: /b/*%EF
+Disallow: /b/*LH_
+Disallow: /b/*modules=SEARCH_REFINEMENTS_MODEL_V2
+Disallow: /b/*_sop=
+Disallow: /brw/
+Disallow: /clp/
+Disallow: /clt/store/
+Disallow: /csc/
+Disallow: /cta/
+Disallow: /ctg/
+Disallow: /ctm/
+Disallow: /dsc/
+Disallow: /e/*?
+Disallow: /edc/
+Disallow: /feed/
+Disallow: /fdbk/
+Disallow: /gsr/
+Disallow: /gwc/
+Disallow: /hcp/
+Disallow: /heute/
+Disallow: /ico/
+Disallow: /itc/
+Disallow: /itm/addToCart
+Disallow: /itm/*_nkw
+Disallow: /itm/*?fits
+Disallow: /itm/*&fits
+Disallow: /lit/
+Disallow: /lst/ng/
+Disallow: /lvx/
+Disallow: /mbf/
+Disallow: /mla/
+Disallow: /mlt/
+Disallow: /myb/
+Disallow: /myebay/
+Disallow: /mys/
+Disallow: /prp/
+Disallow: /rcm/
+Disallow: /sl/*bn_*?
+Disallow: /sl/node
+Disallow: /sl/*wnstart
+Disallow: /sme/
+Disallow: /soc/
+Disallow: /talk/
+Disallow: /tickets/
+Disallow: /today/
+Disallow: /trylater/
+Disallow: /urw/write-review/
+Disallow: /usr/*/all-follows
+Disallow: /usr/*/followers
+Disallow: /vsp/
+Disallow: /ws/
+Allow: /sch/ebayadvsearch
+Allow: /sch/allcategories/
+Allow: /sch/*_ul
+Allow: /sch/*_fosrp
+Allow: /sch/*_trksid
+Allow: /sch/i.html?_nkw=
+Disallow: /sch/i.html?*_nkw=*&
+Disallow: /sch/
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: AdsBot-AdIdxBot
+Disallow:
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
+
+# BROWSE1 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE1-0-index.xml
+
+# BROWSE2 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE2-0-index.xml
+
+# BROWSE3 Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE3-0-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
+
+# CLP Sitemaps
+Sitemap: https://www.ebay.com/lst/CLP-0-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
+
+### END FILE ###
