@@ -1688,11 +1688,11 @@
 												</entry>
 												<entry>
 													<key>data-hydro-click</key>
-													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E7F4:3E2D:180B83:24CA3E:5E2582AA&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
+													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;CA10:20E06:DDEC03:1493888:5E2710CB&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
 												</entry>
 												<entry>
 													<key>data-hydro-click-hmac</key>
-													<value xsi:type="xsd:string">20e0380b76d978b8a141ad3e741dc32ae72059bdcb80a92ec29c16ef3ed2f65d</value>
+													<value xsi:type="xsd:string">d5d81ffbbdfacf005fdd123e20691250e9ed719563f3437e44a560607fa2e1bf</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -2126,7 +2126,7 @@
 																	</entry>
 																	<entry>
 																		<key>data-jump-to-suggestions-path</key>
-																		<value xsi:type="xsd:string">/_graphql/GetSuggestedNavigationDestinations#csrf-token=F6lrfYJTBz+P0qD0GVXg8NSOHy1jH7WUuKSX4AcxrmSEdeYBxBrx+Oe59kO5NcezVV41NMrTfQVky9QL/+sx7w==</value>
+																		<value xsi:type="xsd:string">/_graphql/GetSuggestedNavigationDestinations#csrf-token=im3DbaRO4sFU2cnZoPgkRl7zx50IfMWoSQRWRE2DzJHEdNKLEKv3GEZu0VWFfODzTujRFF+fddUG70Xy6VjNXA==</value>
 																	</entry>
 																	<entry>
 																		<key>data-scoped-placeholder</key>
@@ -2294,11 +2294,11 @@
 												</entry>
 												<entry>
 													<key>data-hydro-click</key>
-													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E7F4:3E2D:180B83:24CA3E:5E2582AA&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
+													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;CA10:20E06:DDEC03:1493888:5E2710CB&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
 												</entry>
 												<entry>
 													<key>data-hydro-click-hmac</key>
-													<value xsi:type="xsd:string">20e0380b76d978b8a141ad3e741dc32ae72059bdcb80a92ec29c16ef3ed2f65d</value>
+													<value xsi:type="xsd:string">d5d81ffbbdfacf005fdd123e20691250e9ed719563f3437e44a560607fa2e1bf</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -10485,7 +10485,7 @@
 														</entry>
 														<entry>
 															<key>data-ga-click</key>
-															<value xsi:type="xsd:string">Home Enterprise prompt, click, text:Contact Sales;experiment:homepage_hero_messaging;group:message_b</value>
+															<value xsi:type="xsd:string">Home Enterprise prompt, click, text:Contact Sales;experiment:homepage_hero_messaging;group:message_a</value>
 														</entry>
 														<entry>
 															<key>display</key>
@@ -11383,7 +11383,7 @@
 														</entry>
 														<entry>
 															<key>data-ga-click</key>
-															<value xsi:type="xsd:string">Home Enterprise prompt, click, text:Start a free trial;experiment:homepage_hero_messaging;group:message_b</value>
+															<value xsi:type="xsd:string">Home Enterprise prompt, click, text:Start a free trial;experiment:homepage_hero_messaging;group:message_a</value>
 														</entry>
 														<entry>
 															<key>display</key>
@@ -22300,7 +22300,7 @@
 													</entry>
 													<entry>
 														<key>data-ga-load</key>
-														<value xsi:type="xsd:string">Signup, Load, location:home hero; experiment:homepage_hero_messaging; groupmessage_b</value>
+														<value xsi:type="xsd:string">Signup, Load, location:home hero; experiment:homepage_hero_messaging; groupmessage_a</value>
 													</entry>
 													<entry>
 														<key>outline-color</key>
@@ -23615,7 +23615,7 @@
 															</entry>
 															<entry>
 																<key>data-ga-click</key>
-																<value xsi:type="xsd:string">Signup, Attempt, location:home hero;experiment:homepage_hero_messaging;group:message_b</value>
+																<value xsi:type="xsd:string">Signup, Attempt, location:home hero;experiment:homepage_hero_messaging;group:message_a</value>
 															</entry>
 															<entry>
 																<key>display</key>
@@ -24401,15 +24401,15 @@
 											<attributes>
 												<attribute key="absolute-outline" xsi:type="outlineAttribute">
 													<x>439</x>
-													<y>221</y>
-													<height>352</height>
+													<y>255</y>
+													<height>284</height>
 													<width>553</width>
 												</attribute>
 												<attribute key="class" xsi:type="stringAttribute">col-md-7 text-center text-md-left</attribute>
 												<attribute key="outline" xsi:type="outlineAttribute">
 													<x>0</x>
-													<y>85</y>
-													<height>-169</height>
+													<y>119</y>
+													<height>-237</height>
 													<width>-475</width>
 												</attribute>
 												<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]</attribute>
@@ -24437,25 +24437,441 @@
 												</entry>
 											</attributes>
 										</attributes>
-										<containedElements retestId="create_the_futu">
+										<containedElements retestId="collaborate_with">
 											<identifyingAttributes>
 												<attributes>
 													<attribute key="absolute-outline" xsi:type="outlineAttribute">
 														<x>463</x>
-														<y>221</y>
-														<height>192</height>
+														<y>335</y>
+														<height>180</height>
+														<width>505</width>
+													</attribute>
+													<attribute key="class" xsi:type="stringAttribute">lead-mktg mb-4</attribute>
+													<attribute key="outline" xsi:type="outlineAttribute">
+														<x>24</x>
+														<y>80</y>
+														<height>-104</height>
+														<width>-48</width>
+													</attribute>
+													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]</attribute>
+													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+													<attribute key="text" xsi:type="textAttribute">Collaborate with over 40 million developers across 195 countries to create the future, together. Work with the most innovative teams and tools—from</attribute>
+													<attribute key="type" xsi:type="stringAttribute">p</attribute>
+												</attributes>
+											</identifyingAttributes>
+											<attributes>
+												<attributes>
+													<entry>
+														<key>font-family</key>
+														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
+													</entry>
+													<entry>
+														<key>font-size</key>
+														<value xsi:type="xsd:string">20px</value>
+													</entry>
+													<entry>
+														<key>line-height</key>
+														<value xsi:type="xsd:string">30px</value>
+													</entry>
+													<entry>
+														<key>margin-bottom</key>
+														<value xsi:type="xsd:string">24px</value>
+													</entry>
+													<entry>
+														<key>shown</key>
+														<value xsi:type="xsd:string">true</value>
+													</entry>
+												</attributes>
+											</attributes>
+											<containedElements retestId="all_from_the">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>335</y>
+															<height>180</height>
+															<width>505</width>
+														</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>24</x>
+															<y>80</y>
+															<height>-104</height>
+															<width>-48</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/textnode[4]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">4</attribute>
+														<attribute key="text" xsi:type="textAttribute">—all from the comfort of your favorite workflow.</attribute>
+														<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>tab-index</key>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="collaborate_with-1">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>335</y>
+															<height>180</height>
+															<width>505</width>
+														</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>24</x>
+															<y>80</y>
+															<height>-104</height>
+															<width>-48</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/textnode[1]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+														<attribute key="text" xsi:type="textAttribute">Collaborate with over 40 million developers across 195 countries to create the future, together. Work with the most innovative teams and tools—from</attribute>
+														<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>tab-index</key>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="to">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>335</y>
+															<height>180</height>
+															<width>505</width>
+														</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>24</x>
+															<y>80</y>
+															<height>-104</height>
+															<width>-48</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/textnode[2]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+														<attribute key="text" xsi:type="textAttribute">to</attribute>
+														<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>tab-index</key>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="to-1">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>335</y>
+															<height>180</height>
+															<width>505</width>
+														</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>24</x>
+															<y>80</y>
+															<height>-104</height>
+															<width>-48</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/textnode[3]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
+														<attribute key="text" xsi:type="textAttribute">to</attribute>
+														<attribute key="type" xsi:type="stringAttribute">textnode</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>tab-index</key>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="cicd">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>611</x>
+															<y>428</y>
+															<height>25</height>
+															<width>55</width>
+														</attribute>
+														<attribute key="class" xsi:type="stringAttribute">text-white jumbotron-link</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>148</x>
+															<y>93</y>
+															<height>-155</height>
+															<width>-450</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/a[2]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">2</attribute>
+														<attribute key="text" xsi:type="textAttribute">CI/CD</attribute>
+														<attribute key="type" xsi:type="stringAttribute">a</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>border-bottom-color</key>
+															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.125)</value>
+														</entry>
+														<entry>
+															<key>border-bottom-style</key>
+															<value xsi:type="xsd:string">solid</value>
+														</entry>
+														<entry>
+															<key>border-bottom-width</key>
+															<value xsi:type="xsd:string">1px</value>
+														</entry>
+														<entry>
+															<key>border-left-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-right-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-top-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>caret-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>column-rule-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>href</key>
+															<value xsi:type="xsd:string">http://github.com/features#code-review</value>
+														</entry>
+														<entry>
+															<key>outline-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>text-decoration-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="automated_secur">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>428</y>
+															<height>55</height>
+															<width>421</width>
+														</attribute>
+														<attribute key="class" xsi:type="stringAttribute">text-white jumbotron-link</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>0</x>
+															<y>93</y>
+															<height>-125</height>
+															<width>-84</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/a[3]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">3</attribute>
+														<attribute key="text" xsi:type="textAttribute">automated security scanning</attribute>
+														<attribute key="type" xsi:type="stringAttribute">a</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>border-bottom-color</key>
+															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.125)</value>
+														</entry>
+														<entry>
+															<key>border-bottom-style</key>
+															<value xsi:type="xsd:string">solid</value>
+														</entry>
+														<entry>
+															<key>border-bottom-width</key>
+															<value xsi:type="xsd:string">1px</value>
+														</entry>
+														<entry>
+															<key>border-left-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-right-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-top-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>caret-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>column-rule-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>href</key>
+															<value xsi:type="xsd:string">http://github.com/features/security#security-alert</value>
+														</entry>
+														<entry>
+															<key>outline-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>text-decoration-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+											<containedElements retestId="code_review">
+												<identifyingAttributes>
+													<attributes>
+														<attribute key="absolute-outline" xsi:type="outlineAttribute">
+															<x>463</x>
+															<y>428</y>
+															<height>25</height>
+															<width>116</width>
+														</attribute>
+														<attribute key="class" xsi:type="stringAttribute">text-white jumbotron-link</attribute>
+														<attribute key="outline" xsi:type="outlineAttribute">
+															<x>0</x>
+															<y>93</y>
+															<height>-155</height>
+															<width>-389</width>
+														</attribute>
+														<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]</attribute>
+														<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
+														<attribute key="text" xsi:type="textAttribute">code review</attribute>
+														<attribute key="type" xsi:type="stringAttribute">a</attribute>
+													</attributes>
+												</identifyingAttributes>
+												<attributes>
+													<attributes>
+														<entry>
+															<key>border-bottom-color</key>
+															<value xsi:type="xsd:string">rgba(255, 255, 255, 0.125)</value>
+														</entry>
+														<entry>
+															<key>border-bottom-style</key>
+															<value xsi:type="xsd:string">solid</value>
+														</entry>
+														<entry>
+															<key>border-bottom-width</key>
+															<value xsi:type="xsd:string">1px</value>
+														</entry>
+														<entry>
+															<key>border-left-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-right-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>border-top-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>caret-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>column-rule-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>href</key>
+															<value xsi:type="xsd:string">http://github.com/features#code-review</value>
+														</entry>
+														<entry>
+															<key>outline-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+														<entry>
+															<key>shown</key>
+															<value xsi:type="xsd:string">true</value>
+														</entry>
+														<entry>
+															<key>text-decoration-color</key>
+															<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
+														</entry>
+													</attributes>
+												</attributes>
+											</containedElements>
+										</containedElements>
+										<containedElements retestId="welcome_home-2">
+											<identifyingAttributes>
+												<attributes>
+													<attribute key="absolute-outline" xsi:type="outlineAttribute">
+														<x>463</x>
+														<y>255</y>
+														<height>64</height>
 														<width>505</width>
 													</attribute>
 													<attribute key="class" xsi:type="stringAttribute">h000-mktg text-white lh-condensed-ultra mb-3</attribute>
 													<attribute key="outline" xsi:type="outlineAttribute">
 														<x>24</x>
 														<y>0</y>
-														<height>-160</height>
+														<height>-220</height>
 														<width>-48</width>
 													</attribute>
 													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]</attribute>
 													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-													<attribute key="text" xsi:type="textAttribute">Create the future of software</attribute>
+													<attribute key="text" xsi:type="textAttribute">Welcome home</attribute>
 													<attribute key="type" xsi:type="stringAttribute">h1</attribute>
 												</attributes>
 											</identifyingAttributes>
@@ -24520,53 +24936,6 @@
 													<entry>
 														<key>text-decoration-color</key>
 														<value xsi:type="xsd:string">rgb(255, 255, 255)</value>
-													</entry>
-												</attributes>
-											</attributes>
-										</containedElements>
-										<containedElements retestId="github_is_the">
-											<identifyingAttributes>
-												<attributes>
-													<attribute key="absolute-outline" xsi:type="outlineAttribute">
-														<x>463</x>
-														<y>429</y>
-														<height>120</height>
-														<width>505</width>
-													</attribute>
-													<attribute key="class" xsi:type="stringAttribute">lead-mktg mb-4</attribute>
-													<attribute key="outline" xsi:type="outlineAttribute">
-														<x>24</x>
-														<y>208</y>
-														<height>-232</height>
-														<width>-48</width>
-													</attribute>
-													<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[4]/main[1]/div[1]/div[1]/div[1]/div[1]/p[1]</attribute>
-													<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-													<attribute key="text" xsi:type="textAttribute">GitHub is the world’s most secure, most scalable, and most loved developer platform. Join millions of developers and businesses building the software that powers the world.</attribute>
-													<attribute key="type" xsi:type="stringAttribute">p</attribute>
-												</attributes>
-											</identifyingAttributes>
-											<attributes>
-												<attributes>
-													<entry>
-														<key>font-family</key>
-														<value xsi:type="xsd:string">Inter, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;</value>
-													</entry>
-													<entry>
-														<key>font-size</key>
-														<value xsi:type="xsd:string">20px</value>
-													</entry>
-													<entry>
-														<key>line-height</key>
-														<value xsi:type="xsd:string">30px</value>
-													</entry>
-													<entry>
-														<key>margin-bottom</key>
-														<value xsi:type="xsd:string">24px</value>
-													</entry>
-													<entry>
-														<key>shown</key>
-														<value xsi:type="xsd:string">true</value>
 													</entry>
 												</attributes>
 											</attributes>
@@ -29215,11 +29584,11 @@
 												</entry>
 												<entry>
 													<key>data-hydro-click</key>
-													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;sign up your team&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E7F4:3E2D:180B83:24CA3E:5E2582AA&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
+													<value xsi:type="xsd:string">{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;sign up your team&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;CA10:20E06:DDEC03:1493888:5E2710CB&quot;,&quot;originating_url&quot;:&quot;https://github.com/&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}</value>
 												</entry>
 												<entry>
 													<key>data-hydro-click-hmac</key>
-													<value xsi:type="xsd:string">6126f302d82acb25b42785e716508d6b147cc9e801f714b383b243dc236f6391</value>
+													<value xsi:type="xsd:string">054265abec29b328b318e20d199b2cbe24890858331c2d2029de55a2f81657d6</value>
 												</entry>
 												<entry>
 													<key>display</key>
@@ -41320,7 +41689,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">E7F4:3E2D:180B83:24CA3E:5E2582AA</value>
+								<value xsi:type="xsd:string">CA10:20E06:DDEC03:1493888:5E2710CB</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -41423,7 +41792,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">416782461.1579525327</value>
+								<value xsi:type="xsd:string">876863559.1579618680</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -41457,7 +41826,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">6560778449930519211</value>
+								<value xsi:type="xsd:string">3266757272288039115</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -42375,7 +42744,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">YTMwN2UyMGUwZTdkYmNmNzkyZTg2MzdmYjBlNjU1NWU5Mjc0ZWNlZGVmYjQyMTAzMmM5NGNhZDhkZWQ5OTYyOHx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjE3Mi45Ni4xNyIsInJlcXVlc3RfaWQiOiJFN0Y0OjNFMkQ6MTgwQjgzOjI0Q0EzRTo1RTI1ODJBQSIsInRpbWVzdGFtcCI6MTU3OTUxNjU4NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==</value>
+								<value xsi:type="xsd:string">YTM0MzkwOWRmNmY1M2MzMmRhODFkZjdhOTMyMTc2Mzc1MzMyZjUxMmMzNWE4NTExOGFlZGIxOGU3ZmNiYTM4ZHx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjE3Mi45Ni4xNyIsInJlcXVlc3RfaWQiOiJDQTEwOjIwRTA2OkRERUMwMzoxNDkzODg4OjVFMjcxMENCIiwidGltZXN0YW1wIjoxNTc5NjE4NTA3LCJob3N0IjoiZ2l0aHViLmNvbSJ9</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -42517,7 +42886,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">79e41d84cfc35669694e35ac80182b9dc6f467f2</value>
+								<value xsi:type="xsd:string">9284dd85aa35cf56c76df3836c8080c257150727</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -42587,7 +42956,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">29181b40be1ea183eb9b8a97221f83c4</value>
+								<value xsi:type="xsd:string">3e6caba9e57a955595f9423c618f9f37</value>
 							</entry>
 							<entry>
 								<key>http-equiv</key>
@@ -42730,7 +43099,7 @@
 						<attributes>
 							<entry>
 								<key>content</key>
-								<value xsi:type="xsd:string">E7F4:3E2D:180B83:24CA3E:5E2582AA</value>
+								<value xsi:type="xsd:string">CA10:20E06:DDEC03:1493888:5E2710CB</value>
 							</entry>
 							<entry>
 								<key>shown</key>
@@ -43187,7 +43556,7 @@
 			</entry>
 			<entry>
 				<key>vcs.commit</key>
-				<value>aafd30d1082ec7a76e6d68914fd787e87a8fbcfa</value>
+				<value>20f781ad73b6e4d75ec488448ecf73dbeb733f6c</value>
 			</entry>
 			<entry>
 				<key>window.height</key>
@@ -43211,7 +43580,7 @@
 			</entry>
 			<entry>
 				<key>time.time</key>
-				<value>13:02:11.946696</value>
+				<value>14:58:04.789614</value>
 			</entry>
 			<entry>
 				<key>time.zone</key>
@@ -43227,7 +43596,7 @@
 			</entry>
 			<entry>
 				<key>time.date</key>
-				<value>2020-01-20</value>
+				<value>2020-01-21</value>
 			</entry>
 			<entry>
 				<key>vcs.name</key>

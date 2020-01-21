@@ -10,7 +10,7 @@
 						<height>1312</height>
 						<width>1905</width>
 					</attribute>
-					<attribute key="class" xsi:type="stringAttribute">wf-proximanova-n7-active wf-proximanova-n4-active wf-proximanova-i7-active wf-proximanova-i4-active wf-active</attribute>
+					<attribute key="class" xsi:type="stringAttribute">wf-proximanova-n7-active wf-proximanova-i7-active wf-proximanova-n4-active wf-proximanova-i4-active wf-active</attribute>
 					<attribute key="outline" xsi:type="outlineAttribute">
 						<x>0</x>
 						<y>0</y>
@@ -8123,7 +8123,7 @@
 			</entry>
 			<entry>
 				<key>vcs.commit</key>
-				<value>aafd30d1082ec7a76e6d68914fd787e87a8fbcfa</value>
+				<value>20f781ad73b6e4d75ec488448ecf73dbeb733f6c</value>
 			</entry>
 			<entry>
 				<key>window.height</key>
@@ -8147,7 +8147,7 @@
 			</entry>
 			<entry>
 				<key>time.time</key>
-				<value>13:02:35.144325</value>
+				<value>14:58:18.064032</value>
 			</entry>
 			<entry>
 				<key>time.zone</key>
@@ -8163,7 +8163,7 @@
 			</entry>
 			<entry>
 				<key>time.date</key>
-				<value>2020-01-20</value>
+				<value>2020-01-21</value>
 			</entry>
 			<entry>
 				<key>vcs.name</key>

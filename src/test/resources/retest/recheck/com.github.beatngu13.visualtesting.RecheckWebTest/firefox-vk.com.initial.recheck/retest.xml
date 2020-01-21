@@ -78,7 +78,7 @@
 						</entry>
 						<entry>
 							<key>font-family</key>
-							<value xsi:type="xsd:string">-apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, Noto Sans Armenian, Noto Sans Bengali, Noto Sans Cherokee, Noto Sans Devanagari, Noto Sans Ethiopic, Noto Sans Georgian, Noto Sans Hebrew, Noto Sans Kannada, Noto Sans Khmer, Noto Sans Lao, Noto Sans Osmanya, Noto Sans Tamil, Noto Sans Telugu, Noto Sans Thai, sans-serif</value>
+							<value xsi:type="xsd:string">-apple-system, BlinkMacSystemFont, Roboto, Open Sans, Helvetica Neue, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif</value>
 						</entry>
 						<entry>
 							<key>font-size</key>
@@ -8093,7 +8093,7 @@
 			</entry>
 			<entry>
 				<key>vcs.commit</key>
-				<value>aafd30d1082ec7a76e6d68914fd787e87a8fbcfa</value>
+				<value>20f781ad73b6e4d75ec488448ecf73dbeb733f6c</value>
 			</entry>
 			<entry>
 				<key>window.height</key>
@@ -8117,7 +8117,7 @@
 			</entry>
 			<entry>
 				<key>time.time</key>
-				<value>13:08:59.609076</value>
+				<value>15:04:10.910902</value>
 			</entry>
 			<entry>
 				<key>time.zone</key>
@@ -8133,7 +8133,7 @@
 			</entry>
 			<entry>
 				<key>time.date</key>
-				<value>2020-01-20</value>
+				<value>2020-01-21</value>
 			</entry>
 			<entry>
 				<key>vcs.name</key>

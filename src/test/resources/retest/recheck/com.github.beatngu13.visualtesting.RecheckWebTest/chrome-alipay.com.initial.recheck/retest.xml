@@ -1455,10 +1455,6 @@
 												<value xsi:type="xsd:string">cover</value>
 											</entry>
 											<entry>
-												<key>opacity</key>
-												<value xsi:type="xsd:string">0.924255</value>
-											</entry>
-											<entry>
 												<key>overflow-x</key>
 												<value xsi:type="xsd:string">hidden</value>
 											</entry>
@@ -1472,7 +1468,7 @@
 											</entry>
 											<entry>
 												<key>style</key>
-												<value xsi:type="xsd:string">background-image: url(&quot;../img.alicdn.com/tps/TB1pfG4IFXXXXc6XXXXXXXXXXXX.jpg&quot;); display: block; opacity: 0.924255;</value>
+												<value xsi:type="xsd:string">background-image: url(&quot;../img.alicdn.com/tps/TB1pfG4IFXXXXc6XXXXXXXXXXXX.jpg&quot;); display: block;</value>
 											</entry>
 										</attributes>
 									</attributes>
@@ -3679,7 +3675,7 @@
 									</entry>
 								</attributes>
 							</attributes>
-							<containedElements retestId="homeproxy405024">
+							<containedElements retestId="homeproxy405021">
 								<identifyingAttributes>
 									<attributes>
 										<attribute key="absolute-outline" xsi:type="outlineAttribute">
@@ -3696,7 +3692,7 @@
 										</attribute>
 										<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/div[1]/div[3]/div[4]/p[1]</attribute>
 										<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-										<attribute key="text" xsi:type="textAttribute">homeproxy-40-5024</attribute>
+										<attribute key="text" xsi:type="textAttribute">homeproxy-40-5021</attribute>
 										<attribute key="type" xsi:type="stringAttribute">p</attribute>
 									</attributes>
 								</identifyingAttributes>
@@ -4369,7 +4365,7 @@
 			</entry>
 			<entry>
 				<key>vcs.commit</key>
-				<value>aafd30d1082ec7a76e6d68914fd787e87a8fbcfa</value>
+				<value>20f781ad73b6e4d75ec488448ecf73dbeb733f6c</value>
 			</entry>
 			<entry>
 				<key>window.height</key>
@@ -4393,7 +4389,7 @@
 			</entry>
 			<entry>
 				<key>time.time</key>
-				<value>13:01:14.633906</value>
+				<value>14:57:05.022464</value>
 			</entry>
 			<entry>
 				<key>time.zone</key>
@@ -4409,7 +4405,7 @@
 			</entry>
 			<entry>
 				<key>time.date</key>
-				<value>2020-01-20</value>
+				<value>2020-01-21</value>
 			</entry>
 			<entry>
 				<key>vcs.name</key>

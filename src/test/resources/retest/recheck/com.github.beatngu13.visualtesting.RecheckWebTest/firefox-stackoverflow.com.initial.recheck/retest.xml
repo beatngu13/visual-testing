@@ -21401,7 +21401,7 @@
 											</attribute>
 											<attribute key="path" xsi:type="pathAttribute">html[1]/body[1]/footer[1]/div[1]/div[2]/p[1]/span[1]</attribute>
 											<attribute key="suffix" xsi:type="suffixAttribute">1</attribute>
-											<attribute key="text" xsi:type="textAttribute">rev 2020.1.17.35809</attribute>
+											<attribute key="text" xsi:type="textAttribute">rev 2020.1.20.35817</attribute>
 											<attribute key="type" xsi:type="stringAttribute">span</attribute>
 										</attributes>
 									</identifyingAttributes>
@@ -24855,7 +24855,7 @@
 			</entry>
 			<entry>
 				<key>vcs.commit</key>
-				<value>aafd30d1082ec7a76e6d68914fd787e87a8fbcfa</value>
+				<value>20f781ad73b6e4d75ec488448ecf73dbeb733f6c</value>
 			</entry>
 			<entry>
 				<key>window.height</key>
@@ -24879,7 +24879,7 @@
 			</entry>
 			<entry>
 				<key>time.time</key>
-				<value>13:08:30.782889</value>
+				<value>15:03:46.605568</value>
 			</entry>
 			<entry>
 				<key>time.zone</key>
@@ -24895,7 +24895,7 @@
 			</entry>
 			<entry>
 				<key>time.date</key>
-				<value>2020-01-20</value>
+				<value>2020-01-21</value>
 			</entry>
 			<entry>
 				<key>vcs.name</key>
