@@ -38,7 +38,7 @@ class ApplitoolsTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
-	void test(final Supplier<WebDriver> driverSupplier) throws Exception {
+	void testApplitoolsDemo(final Supplier<WebDriver> driverSupplier) throws Exception {
 		this.driver = driverSupplier.get();
 		eyes.open(DriverFactory.unwrap(driver), "applitools-demo", "test");
 		driver.get(PageFactory.getApplitoolsDemo());
