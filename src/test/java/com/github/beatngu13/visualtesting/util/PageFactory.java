@@ -13,9 +13,22 @@ import java.util.stream.Stream;
  */
 public class PageFactory {
 
+	/**
+	 * Determines the state of the pages to be used, i.e., expected or actual.
+	 */
+	public static final String PAGES_STATE_PROPERTY = "de.retest.visualtesting.pagesState";
+
 	private static final String BASE_PATH = "src/test/resources/pages/";
 	private static final String PAGES_FILENAME = "pages.txt";
-	private static final String INDEX_FILENAME = "index.html";
+	private static final String INDEX_FILENAME = getPagesState() + "-index.html";
+
+	private static String getPagesState() {
+		final String pagesState = System.getProperty(PAGES_STATE_PROPERTY, "expected");
+		if (pagesState.matches("expected|actual")) {
+			return pagesState;
+		}
+		throw new IllegalStateException("'" + PAGES_STATE_PROPERTY + "' only supports 'expected' or 'actual'.");
+	}
 
 	/**
 	 * @return All URLs to test with.
@@ -34,8 +47,7 @@ public class PageFactory {
 	 */
 	public static String getApplitoolsDemo() {
 		try {
-			// Switch to 'actual.html' for differences.
-			return Paths.get("src/test/resources/applitools-demo-page/expected.html").toUri().toURL().toString();
+			return Paths.get("src/test/resources/applitools-demo-page/", INDEX_FILENAME).toUri().toURL().toString();
 		} catch (final MalformedURLException e) {
 			throw new RuntimeException(e);
 		}
