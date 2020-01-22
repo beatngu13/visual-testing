@@ -29,6 +29,7 @@ attribute-regex=margin-.*
 attribute-regex=max-.*
 attribute-regex=min-.*
 attribute-regex=transition-.*
+attribute-regex=border-.*-color
 
 matcher: type=map
 matcher: type=meta
