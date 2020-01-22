@@ -4,6 +4,7 @@ import java.util.function.Supplier;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -42,6 +43,7 @@ class RecheckWebTest {
 		re.capTest();
 	}
 
+	@Disabled("Please execute manually.")
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.DriverFactory#getAll")
 	void testApplitoolsDemo(final Supplier<WebDriver> driverSupplier) throws Exception {
