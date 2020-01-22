@@ -4,27 +4,27 @@ Open-source benchmark suite for visual testing of web-based GUIs, used for the e
 
 ## Benchmark
 
-The benchmark suite consists of offline versions from 20 of the [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted on January 20, 2020):
+The benchmark suite consists of offline versions from 20 of the [most popular websites](https://en.wikipedia.org/wiki/List_of_most_popular_websites), including a script to update the downloaded versions. Each page was modified to simulate real-world scenarios that can be used to evaluate visual testing tools. The currently available pages are (extracted on January 21, 2020):
 
 1. 360.cn
 1. alipay.com
-1. amazon.com
 1. apple.com
 1. baidu.com
 1. bbc.com
 1. blogspot.com
 1. csdn.net
+1. ebay.com
 1. facebook.com
 1. github.com
 1. google.com
 1. jd.com
 1. live.com
+1. linkedin.com
 1. soso.com
 1. stackoverflow.com
 1. twitter.com
 1. vk.com
 1. wikipedia.org
-1. yahoo.com
 1. youtube.com
 
 **TODO: Describe usage.**
