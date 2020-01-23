@@ -20,7 +20,7 @@ public class PageFactory {
 
 	private static final String BASE_PATH = "src/test/resources/pages/";
 	private static final String PAGES_FILENAME = "pages.txt";
-	private static final String INDEX_FILENAME = getPagesState() + "-index.html";
+	private static final String INDEX_FILENAME = "index.html-" + getPagesState();
 
 	private static String getPagesState() {
 		final String pagesState = System.getProperty(PAGES_STATE_PROPERTY, "expected");
