@@ -132,9 +132,9 @@ data-fouc-class-names="swift-loading"
 
   <div class="LoginForm-input LoginForm-password">
     <input type="password" class="text-input" name="session[password]" placeholder="Password" autocomplete="current-password">
-                <div class="LoginForm-staticForgot">
+                <section class="LoginForm-staticForgot">
               <a class="forgot" href="http://twitter.com/account/begin_password_reset" rel="noopener">Forgot password?</a>
-            </div>
+            </section>
 
   </div>
 
@@ -161,11 +161,8 @@ data-fouc-class-names="swift-loading"
           <div class="StaticLoggedOutHomePage-noSignupForm">
             <h2 class="StaticLoggedOutHomePage-signupSubtitle">Join Twitter today.</h2>
             <div class="StaticLoggedOutHomePage-buttons">
-              <a class="js-nav EdgeButton EdgeButton--medium EdgeButton--primary StaticLoggedOutHomePage-buttonSignup" href="https://twitter.com/signup">
+              <a class="js-nav EdgeButton EdgeButton--medium EdgeButton--primary StaticLoggedOutHomePage-buttonSignup" href="https://twitter.com/signup" style="transform: scale(1.2);">
                 Sign up
-              </a>
-              <a class="js-nav EdgeButton EdgeButton--medium EdgeButton--secondary StaticLoggedOutHomePage-buttonLogin" href="http://twitter.com/login">
-                Log in
               </a>
             </div>
           </div>
@@ -186,18 +183,20 @@ data-fouc-class-names="swift-loading"
     </g>
 </svg>
       <div class="StaticLoggedOutHomePage-communicationContent">
-          <div class="StaticLoggedOutHomePage-communicationItem">
-            <span class="Icon Icon--search"></span> Follow your interests.
+          <div class="StaticLoggedOutHomePage-communicationItem" style="color: red;">
+            <span class="Icon Icon--search"></span> Unfollow your interests.
           </div>
-          <div class="StaticLoggedOutHomePage-communicationItem">
+          <div class="StaticLoggedOutHomePage-communicationItem" style="font-style: italic;">
             <span class="Icon Icon--people"></span> Hear what people are talking about.
           </div>
-          <div class="StaticLoggedOutHomePage-communicationItem">
+          <div class="StaticLoggedOutHomePage-communicationItem" style="transform: translate(50px);">
             <span class="Icon Icon--reply"></span> Join the conversation.
           </div>
       </div>
     </div>
   </div>
+
+  <div>inserted element</div>
 
       <div id="banners" class="js-banners">
             <div class="Banner Banner--aboveNav eu-cookie-notice">
