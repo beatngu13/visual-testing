@@ -13,6 +13,17 @@
 		<java.version>11</java.version>
 	</properties>
 
+	<repositories>
+		<repository>
+			<id>central</id>
+			<url>https://repo.maven.apache.org/maven2/</url>
+		</repository>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io/</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
@@ -43,9 +54,10 @@
 		</dependency>
 
 		<dependency>
-			<groupId>de.retest</groupId>
+			<groupId>com.github.beatngu13</groupId>
 			<artifactId>recheck-web</artifactId>
-			<version>1.8.0</version>
+			<!-- see https://github.com/beatngu13/recheck-web/ on branch visual-testing -->
+			<version>visual-testing-SNAPSHOT</version>
 			<scope>test</scope>
 			<exclusions>
 				<!-- causes exception in Applitools -->
