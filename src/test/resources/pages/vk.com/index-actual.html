@@ -166,9 +166,10 @@ var abp;
     <div class="labeled"><input type="password" name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" /></div>
     <input type="submit" class="submit" />
   </form>
-  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Log in</button>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button" style="transform: scale(1.2);">Log in</button>
   <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="display: none" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Sign up</button>
   <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">Don&#39;t remember me</div><a id="quick_forgot" class="quick_forgot" href="http://vk.com/restore" target="_top">Forgot your password?</a></div>
+  <div>inserted element</div>
 </div>
       </div>
     </div>
@@ -202,7 +203,7 @@ var abp;
     <div id="ij_msg"></div>
     <input type="text" class="big_text" id="ij_first_name" value="" placeholder="Your first name" />
     <input type="text" class="big_text" id="ij_last_name" value="" placeholder="Your last name" />
-    <div class="ij_label">Birthday<span class="hint_icon" data-title="&lt;b&gt;By providing your birthday&lt;/b&gt;, your friends will be able to find you more easily and help us select interesting content to recommend to you.&lt;br&gt;You can edit your profile to manage who can view your birthday." onmouseover="showHint(this);"></span></div>
+    <section class="ij_label">Birthday<span class="hint_icon" data-title="&lt;b&gt;By providing your birthday&lt;/b&gt;, your friends will be able to find you more easily and help us select interesting content to recommend to you.&lt;br&gt;You can edit your profile to manage who can view your birthday." onmouseover="showHint(this);"></span></section>
     <div id="ij_birthdate_row" class="ij_birthdate_row clear_fix">
       <div class="ij_bday"><input type="text" class="big_text" id="ij_bday" /></div>
       <div class="ij_bmonth"><input type="text" class="big_text" id="ij_bmonth" /></div>
@@ -211,7 +212,6 @@ var abp;
     <div id="ij_sex_row" class="clear_fix">
       <div class="ij_label">Your gender</div>
       <div class="radiobtn" onclick="radiobtn(this, 1, 'ij_sex');">Female</div>
-      <div class="radiobtn" onclick="radiobtn(this, 2, 'ij_sex');">Male</div>
     </div>
     <button class="flat_button button_wide button_big_text ij_button" id="ij_submit" onclick="Index.submitJoinStart()">Continue registration</button>
     <div id="index_fbcontinuewithsign" class="FacebookLogin FacebookLogin--index FacebookLogin--noNative">
@@ -229,8 +229,8 @@ var abp;
 </div>
 <div class="LoginMobilePromo clear_fix">
   <div class="login_mobile_apps">
-    <div class="login_mobile_header">VK for mobile devices</div>
-    <div class="login_mobile_info">Install our official mobile app and stay in touch with your friends anytime and anywhere.</div>
+    <div class="login_mobile_header" style="color: red;">VK for immobile devices</div>
+    <div class="login_mobile_info" style="font-style: italic; transform: translate(50px);">Install our official mobile app and stay in touch with your friends anytime and anywhere.</div>
     
 
     <div class="LoginMobilePromo__devices">
