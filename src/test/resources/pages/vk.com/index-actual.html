@@ -166,10 +166,9 @@ var abp;
     <div class="labeled"><input type="password" name="pass" class="dark" id="quick_pass" onkeyup="toggle('quick_expire', !!this.value);toggle('quick_forgot', !this.value)" /></div>
     <input type="submit" class="submit" />
   </form>
-  <button class="quick_login_button flat_button button_wide" id="quick_login_button" style="transform: scale(1.2);">Log in</button>
+  <button class="quick_login_button flat_button button_wide" id="quick_login_button">Log in</button>
   <button class="quick_reg_button flat_button button_wide" id="quick_reg_button" style="display: none" onclick="top.showBox('join.php', {act: 'box', from: nav.strLoc})">Sign up</button>
   <div class="clear forgot"><div class="checkbox" id="quick_expire" onclick="checkbox(this);ge('quick_expire_input').value=isChecked(this)?1:'';">Don&#39;t remember me</div><a id="quick_forgot" class="quick_forgot" href="http://vk.com/restore" target="_top">Forgot your password?</a></div>
-  <div>inserted element</div>
 </div>
       </div>
     </div>
@@ -213,7 +212,7 @@ var abp;
       <div class="ij_label">Your gender</div>
       <div class="radiobtn" onclick="radiobtn(this, 1, 'ij_sex');">Female</div>
     </div>
-    <button class="flat_button button_wide button_big_text ij_button" id="ij_submit" onclick="Index.submitJoinStart()">Continue registration</button>
+    <button class="flat_button button_wide button_big_text ij_button" id="ij_submit" onclick="Index.submitJoinStart()" style="transform: scale(1.2);">Continue registration</button>
     <div id="index_fbcontinuewithsign" class="FacebookLogin FacebookLogin--index FacebookLogin--noNative">
       <div class="FacebookLogin__button fb-login-button"
         onclick="return Index.fbJoin();"
@@ -241,6 +240,8 @@ var abp;
         <span class="LoginMobilePromoDevice__button flat_button secondary button_light">VK for iPhone</span>
       </a>
     </div>
+
+    <span>inserted element</span>
 
     <a href="http://vk.com/products" class="login_all_products_button">All products</a>
   </div>
