@@ -34,7 +34,7 @@ class RecheckWebTest {
 
 	@ParameterizedTest
 	@MethodSource("com.github.beatngu13.visualtesting.util.TestUtil#getArgs")
-	void testTop25(final WebDriver driver, final String url) throws Exception {
+	void testTop20(final WebDriver driver, final String url) throws Exception {
 		this.driver = driver;
 		re.startTest(TestUtil.getName(driver, url));
 		driver.get(url);
