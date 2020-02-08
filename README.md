@@ -43,10 +43,10 @@ If you want to use our GUI, please go to https://retest.de/review/ and contact u
 
 For Applitools, you have to create an account at https://applitools.com/ and set the environment variable `APPLITOOLS_API_KEY` to your personal API key.
 
-Then, clone this repo and run the tests:
+Then, clone this repo and run the evaluation:
 
 ```
-mvn test
+mvn test --activate-profiles eval
 ```
 
 Please note:
@@ -54,7 +54,7 @@ Please note:
 * While it possible to [declare a specific Firefox version](https://docs.travis-ci.com/user/firefox#selecting-a-firefox-version/) on Travis CI, one cannot [select a Chrome version](https://docs.travis-ci.com/user/chrome/). This means that reproducing the experiments might lead to different results if the Travis CI environment changes.
 * Also if you are executing the experiments locally, the results may vary from the ones in the paper due platform, browser or other environment differences.
 * While we downloaded the aforementioned web pages to minimize external influences, some pages still obtain assets via the Internet. This might also be a reason for different results.
-* Per default, we do _not_ execute the actual evaluation on Travis CI. In order to do so, you can activate the corresponding Maven profile via `--activate-profiles eval`. If you want to do this permanently, adapt `ci/script.sh` accordingly.  
+* We do _not_ execute the actual evaluation on Travis CI per default. In order to do so, you can activate the corresponding Maven profile via `--activate-profiles eval`. You have to adapt `ci/script.sh` accordingly if you want to do this permanently.  
 
 ## Empirical Results & Discussion
 
