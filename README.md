@@ -58,4 +58,4 @@ Please note:
 
 ## Empirical Results & Discussion
 
-Please refer to our paper for an overview of the results and discussion. Further details such as screenshots and test reports can be found in the `eval` folder.
+Please refer to our paper ["Visual Testing of GUIs by Abstraction"](https://arxiv.org/abs/2007.10419) for an overview of the results and discussion. Further details such as screenshots and test reports can be found in the `eval` folder.
